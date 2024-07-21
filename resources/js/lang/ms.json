@@ -1,0 +1,2282 @@
+{
+  "ok": "Okey",
+  "cancel": "Batal",
+  "error_alert_title": "Aduh...",
+  "error_alert_text": "Sesuatu telah berlaku! Sila cuba lagi.",
+  "token_expired_alert_title": "Sesi Tamat!",
+  "token_expired_alert_text": "Sila log masuk semula untuk meneruskan.",
+  "login": "Log masuk",
+  "register": "Daftar",
+  "page_not_found": "Laman tidak dijumpai",
+  "go_home": "Balik rumah",
+  "logout": "Log keluar",
+  "email": "E-mel",
+  "remember_me": "Ingat Saya",
+  "password": "Kata laluan",
+  "forgot_password": "Lupa Kata Laluan Anda?",
+  "confirm_password": "Sahkan Kata Laluan",
+  "Name": "Nama",
+  "toggle_navigation": "Togol navigasi",
+  "home": "Rumah",
+  "you_are_logged_in": "Anda telah log masuk!",
+  "reset_password": "Menetapkan semula kata laluan",
+  "send_password_reset_link": "Hantar Pautan",
+  "settings": "tetapan",
+  "profile": "Profil",
+  "your_info": "Maklumat Anda",
+  "info_updated": "Maklumat anda telah dikemas kini!",
+  "update": "Kemas kini",
+  "your_password": "Kata laluan Awak",
+  "password_updated": "Kata laluan anda telah dikemas kini!",
+  "new_password": "Kata laluan baharu",
+  "login_with": "Log masuk dengan",
+  "register_with": "Daftar dengan",
+  "verify_email": "Mengesahkan E-mel",
+  "send_verification_link": "Hantar Pautan Pengesahan",
+  "resend_verification_link": "Hantar semula Pautan Pengesahan?",
+  "failed_to_verify_email": "Gagal mengesahkan e-mel.",
+  "verify_email_address": "Kami menghantar e-mel kepada anda dengan pautan pengesahan.",
+  "reset_email_text": "Sila masukkan e-mel anda untuk mendapatkan pautan tetapan semula kata laluan!",
+  "sorry": "Maaf",
+  "no_data_found": "Tiada data dijumpai",
+  "login_txt": "Sila log masuk untuk meneruskan sesi anda!",
+  "email_placeholder": "Masukkan alamat emel anda",
+  "password_placeholder": "Masukkan kata laluan anda",
+  "developed_by": "Dibangunkan Oleh",
+  "per_page": "Setiap muka surat",
+  "available": "Tersedia",
+  "download": "Muat turun",
+  "demo_file": "Fail CSV Demo",
+  "common": {
+    "to": "Kepada",
+    "from": "daripada",
+    "s_no": "#",
+    "more_info": "Maklumat lanjut",
+    "name": "Nama",
+    "name_placeholder": "Masukkan nama",
+    "password": "Kata laluan",
+    "password_placeholder": "Masukkan kata laluan anda",
+    "code": "Kod",
+    "code_placeholder": "Masukkan kod",
+    "product_name": "Nama Produk",
+    "product_name_placeholder": "Pilih produk",
+    "sub_category_code": "Kod Sub Kategori",
+    "sub_category": "Sub Kategori",
+    "sub_category_name": "Nama Sub Kategori",
+    "category": "kategori",
+    "category_name": "Nama kategori",
+    "category_name_placeholder": "Pilih kategori",
+    "account": "Akaun",
+    "account_placeholder": "Pilih akaun",
+    "available_balance": "Baki yang ada",
+    "amount": "Jumlah",
+    "amount_placeholder": "Masukkan jumlah",
+    "cheque_no": "Semak No",
+    "cheque_placeholder": "Masukkan nombor cek",
+    "voucher_no": "Baucar No",
+    "voucher_placeholder": "Masukkan nombor baucar",
+    "receipt_no": "No. Resit",
+    "receipt_no_placeholder": "Masukkan no resit",
+    "date": "Tarikh",
+    "note": "Catatan",
+    "created_by": "Dicipta oleh",
+    "choose_file": "Pilih fail",
+    "image_alt": "Imej yang dilampirkan",
+    "note_placeholder": "Tulis nota anda di sini!",
+    "status": "Status",
+    "action": "Tindakan",
+    "active": "Aktif",
+    "in_active": "Tidak aktif",
+    "expired": "Tamat tempoh",
+    "email": "E-mel",
+    "email_placeholder": "Masukkan alamat emel anda",
+    "phone": "telefon",
+    "address": "Alamat",
+    "address_placeholder": "Masukkan alamat",
+    "modal_header": "Pratonton Imej Dilampirkan",
+    "modal_body": "Badan lalai",
+    "export_table": "Jadual Eksport",
+    "print_table": "Cetak Jadual",
+    "delete_title": "Adakah anda pasti?",
+    "delete_confirm_text": "Adakah anda pasti?",
+    "deleted": "Dipadamkan!",
+    "delete_success": "Berjaya dipadamkan.",
+    "failed": "gagal!",
+    "delete_failed": "Ada sesuatu yang tidak kena.",
+    "error_msg": "Opps...ada yang tak kena 😔",
+    "image_error": "Sila pilih lakaran kecil yang sah dengan saiz kurang daripada 2 MB",
+    "close": "tutup",
+    "search": "Cari...",
+    "create": "Buat",
+    "view": "Lihat",
+    "edit": "Sunting",
+    "delete": "Padam",
+    "image": "Imej",
+    "preview": "Pratonton",
+    "no_preview": "Tiada Pratonton",
+    "save": "Jimat",
+    "save_changes": "Simpan perubahan",
+    "back": "belakang",
+    "print": "Cetak",
+    "reset": "Tetapkan semula",
+    "supplier": "Pembekal",
+    "supplier_placeholder": "Pilih pembekal",
+    "products": "Produk",
+    "select_products": "Pilih Produk",
+    "select_products_placeholder": "Cari produk",
+    "reference": "Rujukan",
+    "reference_placeholder": "Masukkan rujukan",
+    "quantity": "Kuantiti",
+    "purchase_price": "Harga pembelian",
+    "unit_price": "Harga seunit",
+    "unit_cost": "Kos unit",
+    "unit_tax": "Cukai Unit",
+    "tax": "Cukai",
+    "subtotal": "jumlah kecil",
+    "return_subtotal": "Kembalikan Subjumlah",
+    "new_subtotal": "Subjumlah Baharu",
+    "return_amount": "Jumlah Pulangan",
+    "return_cost": "Kos Pemulangan Produk",
+    "total": "Jumlah",
+    "net_total": "Jumlah Bersih",
+    "due": "Kerana",
+    "transport": "Pengangkutan",
+    "add_payment": "Tambah Pembayaran?",
+    "add_payment_placeholder": "Pilih satu pilihan",
+    "yes": "ya",
+    "no": "Tidak",
+    "paid": "Dibayar",
+    "total_paid": "Jumlah bayaran",
+    "paid_amount": "Jumlah bayaran",
+    "paid_amount_placeholder": "Masukkan jumlah",
+    "total_due": "Jumlah Terhutang",
+    "account_receivable": "Akaun Belum Terima",
+    "account_payable": "Akaun Pemiutang",
+    "total_price": "Harga keseluruhan",
+    "return_price": "Harga Pulangan",
+    "price": "harga",
+    "total_return": "Jumlah Pulangan",
+    "discount": "Diskaun",
+    "discount_placeholder": "Masukkan diskaun",
+    "supplier_details": "Butiran Pembekal",
+    "client_details": "Butiran Pelanggan",
+    "supplier_id": "ID Pembekal",
+    "client_id": "ID Pelanggan",
+    "client_name": "nama pelanggan",
+    "supplier_name": "Nama Pembekal",
+    "company_name": "nama syarikat",
+    "company_name_placeholder": "Masukkan nama syarikat",
+    "contact_number": "Nombor telefon",
+    "contact_number_placeholder": "Masukkan nombor kenalan",
+    "payment_history": "sejarah pembayaran",
+    "payment_date": "Tarikh pembayaran",
+    "empty_payment": "Tiada pembayaran tersedia lagi!",
+    "empty_payment_msg": "Anda belum/belum menambah sebarang bayaran untuk pembelian ini. Selepas menambah pembayaran, anda akan melihat senarai di sini.",
+    "purchases": "Pembelian",
+    "purchases_placeholder": "Pilih pembelian",
+    "total_tax": "Jumlah Cukai",
+    "invoice_tax": "Cukai Invois",
+    "transport_cost": "Kos pengangkutan",
+    "transport_cost_placeholder": "Masukkan kos pengangkutan",
+    "total_discount": "Jumlah diskaun",
+    "discount_type": "Jenis Diskaun",
+    "fixed": "tetap",
+    "percentage": "Peratusan",
+    "client": "Pelanggan",
+    "client_placeholder": "Pilih pelanggan",
+    "payment_terms": "Terma pembayaran",
+    "payment_terms_placeholder": "Masukkan syarat pembayaran",
+    "po_reference": "Rujukan PO",
+    "po_reference_placeholder": "Masukkan rujukan PO",
+    "invoice_qty": "Kuantiti Invois",
+    "current_qty": "Kuantiti Semasa",
+    "return_qty": "Kembalikan Kuantiti",
+    "invoices": "Invois",
+    "invoices_placeholder": "Pilih invois",
+    "return_reason": "Sebab Pulangan",
+    "return_reason_placeholder": "Masukkan sebab",
+    "invoice_due": "Invois Tertunggak",
+    "non_invoice_due": "Bukan Invois Dua",
+    "invoice_date": "Tarikh invois",
+    "invoice_no": "No. Invois",
+    "invoice_return_no": "Penyata Invois No",
+    "return_no": "Kembali No",
+    "return_products": "Kembalikan Produk",
+    "insufficient_stock": "Stok Tidak Mencukupi",
+    "invoice_products": "Produk Invois",
+    "created_at": "Dicipta Pada",
+    "reason": "Sebab",
+    "type": "taip",
+    "credit": "Kredit",
+    "debit": "Debit",
+    "payment_type": "Jenis pembayaran",
+    "invoice_total": "Jumlah Invois",
+    "invoice_details": "Butiran Invois",
+    "payment_details": "Butiran pembayaran",
+    "ref_no": "Ruj. Tidak",
+    "reference_no": "No rujukan",
+    "payable": "Boleh dibayar",
+    "interest": "minat",
+    "installment": "ansuran",
+    "error": "Ralat!",
+    "per": "Per",
+    "day": "Hari",
+    "month": "bulan",
+    "year": "tahun",
+    "daily": "Setiap hari",
+    "monthly": "Bulanan",
+    "yearly": "setiap tahun",
+    "employee": "Pekerja",
+    "employee_placeholder": "Pilih pekerja",
+    "designation": "Jawatan",
+    "designation_placeholder": "Masukkan jawatan",
+    "emp_name": "Nama Emp",
+    "emp_id": "ID Emp",
+    "employee_details": "Butiran Pekerja",
+    "department": "Jabatan",
+    "department_placeholder": "Jabatan",
+    "balance": "Seimbang",
+    "salary": "Gaji",
+    "salary_placeholder": "Masukkan gaji",
+    "profile_picture": "Gambar profil",
+    "role": "Peranan",
+    "role_placeholder": "Pilih peranan",
+    "unit": "Unit",
+    "unit_placeholder": "Pilih unit",
+    "brand": "Jenama",
+    "brand_placeholder": "Pilih jenama",
+    "item_code": "Kod barang",
+    "item_code_placeholder": "Masukkan kod item",
+    "item_model": "Model Item",
+    "item_model_placeholder": "Masukkan model",
+    "item_name": "Nama barang",
+    "item_name_placeholder": "Masukkan nama",
+    "rendering_fails": "Rendering gagal.",
+    "product": "produk",
+    "transactions": "Transaksi",
+    "empty_table": "Maaf 😔 tiada data ditemui",
+    "stock_alert_msg": "Stok kurang daripada kuantiti makluman!",
+    "stock_notification": "Makluman Kuantiti Produk",
+    "stock_notification_empty": "Tiada pemberitahuan tersedia",
+    "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+    "add_balance": "Tambah Baki",
+    "remove_balance": "Keluarkan Baki",
+    "qty": "Kuantiti",
+    "item": "item",
+    "sold_by": "Dijual oleh"
+  },
+  "topbar": {
+    "new_invoice": "Invois Baharu",
+    "new_expense": "Perbelanjaan Baru",
+    "new_purchase": "Pembelian Baru",
+    "new_quotation": "Sebut Harga Baru",
+    "profile": "Profil",
+    "setup": "Persediaan",
+    "logout": "Log keluar"
+  },
+  "sidebar": {
+    "dashboard": "Papan pemuka",
+    "activities": "AKTIVITI",
+    "expenses": "Perbelanjaan",
+    "categories": "Kategori",
+    "sub_categories": "Sub Kategori",
+    "expenses_list": "Senarai Perbelanjaan",
+    "purchases": "Pembelian",
+    "purchases_list": "Senarai Pembelian",
+    "returns_list": "Senarai Pemulangan",
+    "sales": "Jualan",
+    "quotations_list": "Senarai Sebutharga",
+    "invoices_list": "Senarai Invois",
+    "accounting": "PERAKAUNAN",
+    "cashbook": "Buku tunai",
+    "accounts": "Akaun",
+    "balance_adjustments": "Pelarasan Baki",
+    "balance_transfers": "Pemindahan Baki",
+    "transaction_history": "sejarah transaksi",
+    "payments": "Pembayaran",
+    "suppliers": "Pembekal",
+    "non_purchase": "Bukan Pembelian",
+    "purchase": "Belian",
+    "clients": "Pelanggan",
+    "non_invoice": "Bukan Invois",
+    "invoice": "Invois",
+    "loan_management": "Pengurusan Pinjaman",
+    "authorities": "pihak berkuasa",
+    "loans": "Pinjaman",
+    "asset_management": "Pengurusan aset",
+    "types": "Jenis",
+    "assets": "Aset",
+    "payroll": "Gaji",
+    "people": "ORANG",
+    "employees_list": "Senarai Pekerja",
+    "employees": "Pekerja",
+    "departments": "Jabatan",
+    "increments": "Kenaikan",
+    "product": "PRODUK",
+    "products": "Produk",
+    "products_list": "Senarai Produk",
+    "barcode": "Kod bar",
+    "inventory_uppercase": "INVENTORI",
+    "inventory": "Inventori",
+    "view_inventory": "Lihat Inventori",
+    "inventory_adjustment": "Pelarasan Inventori",
+    "reports": "LAPORAN",
+    "balance_sheet": "Penyata imbangan",
+    "summary_report": "Ringkasan laporan",
+    "profit_loss_report": "Laporan Untung/Rugi",
+    "expense_report": "Laporan perbelanjaan",
+    "product_report": "Laporan Perkara",
+    "inventory_report": "Laporan Inventori",
+    "account": "AKAUN",
+    "account_sm": "Akaun",
+    "setup": "Persediaan",
+    "database_backup": "Sandaran Pangkalan Data",
+    "profile": "Profil",
+    "logout": "Log keluar"
+  },
+  "dashboard": {
+    "stock_alert": "Makluman Stok",
+    "recent_activities": "Aktiviti Terkini",
+    "page_title": "Papan pemuka",
+    "breadcrumbs_current": "Papan pemuka",
+    "breadcrumbs_active": "Papan pemuka",
+    "bar_chart_title": "Jualan vs Pembelian",
+    "bar_chart_tooltip": "Jualan & pembelian bulanan selepas ditolak kos pemulangan produk.",
+    "pie_chart_title": "Produk Terlaris",
+    "line_chart_title": "Bayaran Dihantar vs Bayaran Diterima",
+    "line_chart_tooltip": "Bayaran Dihantar = Bayaran Pembekal + Bayaran Pinjaman<br/> Bayaran Diterima = Bayaran Pelanggan + Pinjaman Diterima",
+    "top_clients_title": "5 Pelanggan Terbaik",
+    "summary": "Ringkasan",
+    "summary_option_1": "Hari ini",
+    "summary_option_2": "7 Hari Terakhir",
+    "summary_option_3": "Bulan ini",
+    "summary_option_4": "Tahun ini",
+    "summery_items": {
+      "purchase": "Belian",
+      "purchase_return": "Pulangan Belian",
+      "sales": "Jualan",
+      "sales_return": "Pulangan Jualan",
+      "payment_recevied": "Pembayaran Pelanggan",
+      "payment_sent": "Bayaran Pembekal",
+      "expense": "Perbelanjaan",
+      "balance_transfers": "Pemindahan Baki"
+    }
+  },
+  "expenses": {
+    "categories": {
+      "index": {
+        "page_title": "Kategori Perbelanjaan",
+        "breadcrumbs_current": "Kategori Perbelanjaan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Perbelanjaan",
+        "breadcrumbs_active": "Kategori",
+        "delete_warning": "Semua subkategori untuk kategori ini akan dipadamkan!"
+      },
+      "create": {
+        "page_title": "Buat Kategori Perbelanjaan",
+        "form_title": "Buat kategori perbelanjaan",
+        "breadcrumbs_current": "Buat Kategori Perbelanjaan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Kategori",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Kategori berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Kategori Perbelanjaan",
+        "form_title": "Edit kategori",
+        "breadcrumbs_current": "Edit Kategori Perbelanjaan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Kategori",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Kategori berjaya dikemas kini 👍"
+      }
+    },
+    "sub_categories": {
+      "index": {
+        "page_title": "Sub Kategori Perbelanjaan",
+        "breadcrumbs_current": "Sub Kategori Perbelanjaan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Perbelanjaan",
+        "breadcrumbs_active": "Sub Kategori",
+        "delete_warning": "Semua perbelanjaan untuk kategori ini akan dipadamkan!"
+      },
+      "create": {
+        "page_title": "Cipta Sub Kategori Perbelanjaan",
+        "form_title": "Buat sub kategori perbelanjaan",
+        "breadcrumbs_current": "Cipta Sub Kategori Perbelanjaan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Sub Kategori",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Sub kategori berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Sub Kategori Perbelanjaan",
+        "form_title": "Edit sub kategori perbelanjaan",
+        "breadcrumbs_current": "Edit Sub Kategori Perbelanjaan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Sub Kategori",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Sub kategori berjaya dikemas kini 👍"
+      }
+    },
+    "list": {
+      "common": {
+        "expense_reason": "Sebab Perbelanjaan",
+        "expense_reason_placeholder": "Masukkan sebab"
+      },
+      "index": {
+        "page_title": "Perbelanjaan",
+        "breadcrumbs_current": "Perbelanjaan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Perbelanjaan",
+        "breadcrumbs_active": "",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!"
+      },
+      "create": {
+        "page_title": "Buat Perbelanjaan",
+        "form_title": "Buat perbelanjaan",
+        "breadcrumbs_current": "Buat Perbelanjaan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Perbelanjaan",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Perbelanjaan ditambah dengan jayanya 👍"
+      },
+      "edit": {
+        "page_title": "Edit perbelanjaan",
+        "form_title": "Edit perbelanjaan",
+        "breadcrumbs_current": "Edit perbelanjaan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Perbelanjaan",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Perbelanjaan berjaya dikemas kini 👍"
+      },
+      "view": {
+        "page_title": "Butiran Perbelanjaan",
+        "breadcrumbs_current": "Butiran Perbelanjaan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Perbelanjaan",
+        "breadcrumbs_active": "Butiran",
+        "expense_details": "Butiran Perbelanjaan"
+      }
+    }
+  },
+  "purchases": {
+    "list": {
+      "common": {
+        "po_reference": "Rujukan PO",
+        "po_reference_placeholder": "Masukkan rujukan PO",
+        "payment_terms": "Terma pembayaran",
+        "payment_terms_placeholder": "Masukkan syarat pembayaran",
+        "purchase_tax": "Cukai Belian",
+        "purchase_total": "Jumlah Belian",
+        "purchase_subtotal": "Jumlah Kecil Belian",
+        "purchase_tax_placeholder": "Pilih jenis cukai",
+        "total_tax": "Jumlah Cukai",
+        "discount": "Diskaun",
+        "discount_placeholder": "Masukkan diskaun",
+        "transport_cost": "Kos pengangkutan",
+        "transport_cost_placeholder": "Masukkan kos pengangkutan",
+        "purchase_date": "Tarikh Pembelian",
+        "po_date": "Tarikh PO",
+        "purchased_qty": "Kuantiti Dibeli",
+        "returned_qty": "Kuantiti Dipulangkan",
+        "current_qty": "Kuantiti Semasa",
+        "purchase_no": "Belian No",
+        "return_no": "Kembali No",
+        "purchase_no_placeholder": "Masukkan no pembelian",
+        "purchase_products": "Beli Produk",
+        "purchase_due": "Pembelian Perlu Dibayar"
+      },
+      "index": {
+        "page_title": "Pembelian",
+        "breadcrumbs_current": "Pembelian",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pembelian",
+        "breadcrumbs_active": "Pembelian",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!"
+      },
+      "create": {
+        "page_title": "Buat Pembelian",
+        "form_title": "Buat pembelian",
+        "breadcrumbs_current": "Buat Pembelian",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pembelian",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Pembelian berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Pembelian",
+        "form_title": "Edit pembelian",
+        "breadcrumbs_current": "Edit Pembelian",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pembelian",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Pembelian berjaya dikemas kini 👍"
+      },
+      "view": {
+        "page_title": "Butiran Pembelian",
+        "breadcrumbs_current": "Butiran Pembelian",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pembelian",
+        "breadcrumbs_active": "Butiran"
+      }
+    },
+    "returns": {
+      "common": {
+        "return_reason": "Sebab Pulang",
+        "return_reason_placeholder": "Masukkan sebab",
+        "return_date": "Tarikh Kembali",
+        "purchase_return_no": "Pulangan Belian No",
+        "return_products": "Kembalikan Produk"
+      },
+      "index": {
+        "page_title": "Pulangan Belian",
+        "breadcrumbs_current": "Pulangan Belian",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pembelian",
+        "breadcrumbs_active": "Pulangan Belian",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!"
+      },
+      "create": {
+        "page_title": "Buat Pulangan Belian",
+        "form_title": "Buat pulangan pembelian",
+        "breadcrumbs_current": "Buat Pulangan Belian",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pulangan Belian",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Pulangan pembelian berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Pulangan Belian",
+        "form_title": "Edit pulangan pembelian",
+        "breadcrumbs_current": "Edit Pulangan Belian",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pulangan Belian",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Pulangan pembelian berjaya dikemas kini 👍"
+      },
+      "view": {
+        "page_title": "Butiran Pulangan Belian",
+        "breadcrumbs_current": "Butiran Pulangan Belian",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pulangan Belian",
+        "breadcrumbs_active": "Butiran"
+      }
+    }
+  },
+  "sales": {
+    "common": {
+      "quotation_no": "Sebutharga No",
+      "quotation_date": "Tarikh Sebutharga",
+      "delivery_place": "Tempat penghantaran",
+      "delivery_place_placeholder": "Masukkan tempat penghantaran",
+      "quotation_tax": "Cukai Sebutharga",
+      "quotation_tax_placeholder": "Pilih jenis cukai",
+      "return_date": "Tarikh Kembali",
+      "new_due": "Baru Dibayar",
+      "client_advance": "Pendahuluan Pelanggan",
+      "invoice_total": "Jumlah Invois",
+      "before_return": "Sebelum Kembali",
+      "invoice_return": "Pemulangan Invois",
+      "invoice_tax": "Cukai Invois",
+      "invoice_tax_placeholder": "Pilih jenis cukai"
+    },
+    "quotations": {
+      "index": {
+        "page_title": "Sebutharga",
+        "create_invoice": "Buat Invois",
+        "breadcrumbs_current": "Sebutharga",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Sebutharga",
+        "breadcrumbs_active": "",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+        "delete_failed": "Maaf anda tidak boleh memadamkan petikan ini!"
+      },
+      "create": {
+        "page_title": "Buat Sebutharga",
+        "form_title": "Buat sebut harga",
+        "breadcrumbs_current": "Buat Sebutharga",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Sebutharga",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Sebutharga berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Sebutharga",
+        "form_title": "Edit petikan",
+        "breadcrumbs_current": "Edit Sebutharga",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Sebutharga",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Sebutharga berjaya dikemas kini 👍"
+      },
+      "view": {
+        "page_title": "Butiran Sebutharga",
+        "breadcrumbs_current": "Butiran Sebutharga",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Sebutharga",
+        "breadcrumbs_active": "Butiran",
+        "expense_details": "Butiran Perbelanjaan"
+      },
+      "invoice": {
+        "page_title": "Sebutharga Kepada Invois",
+        "form_title": "Buat sebut harga untuk invois",
+        "breadcrumbs_current": "Sebutharga Kepada Invois",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Sebutharga",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Invois berjaya dibuat 👍"
+      }
+    },
+    "invoices": {
+      "index": {
+        "page_title": "Invois",
+        "breadcrumbs_current": "Invois",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Jualan",
+        "breadcrumbs_active": "Invois",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+        "delete_failed": "Maaf anda tidak boleh memadamkan invois ini!"
+      },
+      "create": {
+        "page_title": "Buat Invois",
+        "form_title": "Buat Invois",
+        "breadcrumbs_current": "Buat Invois",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Invois",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Invois berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Invois",
+        "form_title": "Edit invois",
+        "breadcrumbs_current": "Edit Invois",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Invois",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Invois berjaya dikemas kini 👍"
+      },
+      "view": {
+        "page_title": "Butiran Invois",
+        "breadcrumbs_current": "Butiran Invois",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Invois",
+        "breadcrumbs_active": "Butiran",
+        "invoice_details": "Butiran Invois"
+      }
+    },
+    "returns": {
+      "index": {
+        "page_title": "Pemulangan Invois",
+        "breadcrumbs_current": "Pemulangan Invois",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Invois",
+        "breadcrumbs_active": "Pemulangan Invois",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+        "delete_failed": "Ada sesuatu yang tidak kena."
+      },
+      "create": {
+        "page_title": "Buat Penyata Invois",
+        "form_title": "Buat pulangan invois",
+        "breadcrumbs_current": "Buat Penyata Invois",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pemulangan Invois",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Pemulangan invois berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Pulangan Invois",
+        "form_title": "Edit pulangan invois",
+        "breadcrumbs_current": "Edit Pulangan Invois",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pemulangan Invois",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Pemulangan invois berjaya dikemas kini 👍"
+      },
+      "view": {
+        "page_title": "Butiran Pemulangan Invois",
+        "breadcrumbs_current": "Butiran Pemulangan Invois",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pulangan Invois",
+        "breadcrumbs_active": "Butiran",
+        "invoice_details": "Butiran Invois"
+      }
+    }
+  },
+  "cashbook": {
+    "common": {
+      "account_number": "Nombor akaun",
+      "account_number_placeholder": "Masukkan nombor akaun",
+      "branch_name": "Nama cawangan",
+      "branch_name_placeholder": "Masukkan nama cawangan",
+      "bank_name": "Nama bank",
+      "bank_name_placeholder": "Masukkan nama bank",
+      "transactions": "Transaksi",
+      "account_details": "Butiran Akaun",
+      "total_transactions": "Jumlah Transaksi",
+      "debit_amount": "Jumlah Debit",
+      "credit_amount": "Jumlah kredit",
+      "from_account": "Daripada Akaun",
+      "to_account": "Ke akaun",
+      "transfer_reason": "Sebab Pemindahan"
+    },
+    "accounts": {
+      "index": {
+        "page_title": "Akaun",
+        "breadcrumbs_current": "Akaun",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Buku tunai",
+        "breadcrumbs_third": "Akaun",
+        "breadcrumbs_active": "Akaun",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+        "delete_failed": "Maaf anda tidak boleh mengalih keluar akaun ini!"
+      },
+      "create": {
+        "page_title": "Buat akaun",
+        "form_title": "Buat akaun",
+        "breadcrumbs_current": "Buat akaun",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Buku tunai",
+        "breadcrumbs_third": "Akaun",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Akaun berjaya ditambahkan 👍"
+      },
+      "edit": {
+        "page_title": "Edit Akaun",
+        "form_title": "Edit akaun",
+        "breadcrumbs_current": "Edit Akaun",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Buku tunai",
+        "breadcrumbs_third": "Akaun",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Akaun berjaya dikemas kini 👍"
+      },
+      "view": {
+        "page_title": "Transaksi Akaun",
+        "breadcrumbs_current": "Transaksi Akaun",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Akaun",
+        "breadcrumbs_active": "Transaksi",
+        "empty_transaction": "Tiada transaksi tersedia lagi!",
+        "empty_transaction_msg": "Anda belum membuat sebarang transaksi menggunakan akaun ini. Selepas melakukan transaksi anda akan melihat senarai di sini."
+      }
+    },
+    "balances": {
+      "index": {
+        "page_title": "Pelarasan Baki",
+        "add_balance": "Buat",
+        "breadcrumbs_current": "Pelarasan Baki",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Buku tunai",
+        "breadcrumbs_active": "Pelarasan",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+        "delete_failed": "Maaf anda tidak boleh memadamkan transaksi ini"
+      },
+      "create": {
+        "page_title": "Buat Pelarasan",
+        "form_title": "Buat pelarasan",
+        "breadcrumbs_current": "Buat Pelarasan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Buku tunai",
+        "breadcrumbs_third": "Pelarasan",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Pelarasan berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Baki",
+        "form_title": "Edit baki",
+        "breadcrumbs_current": "Edit Baki",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Buku tunai",
+        "breadcrumbs_third": "Baki",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Baki berjaya dikemas kini 👍"
+      }
+    },
+    "transfers": {
+      "index": {
+        "page_title": "Pemindahan Baki",
+        "add_transfer": "Tambah Pemindahan",
+        "breadcrumbs_current": "Pemindahan Baki",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Buku tunai",
+        "breadcrumbs_active": "Pemindahan Baki",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+        "delete_failed": "Maaf anda tidak boleh memadamkan pemindahan ini!"
+      },
+      "create": {
+        "page_title": "Buat Pemindahan",
+        "form_title": "Buat pemindahan baki",
+        "breadcrumbs_current": "Buat Pemindahan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Buku tunai",
+        "breadcrumbs_third": "Pemindahan Baki",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Pemindahan baki berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Pindahan Baki",
+        "form_title": "Edit pemindahan baki",
+        "breadcrumbs_current": "Edit Pindahan Baki",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Buku tunai",
+        "breadcrumbs_third": "Pemindahan Baki",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Pemindahan berjaya dikemas kini 👍"
+      },
+      "view": {
+        "page_title": "Butiran Pindahan Baki",
+        "breadcrumbs_current": "Butiran Pemindahan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Buku tunai",
+        "breadcrumbs_third": "Pemindahan Baki",
+        "breadcrumbs_active": "Butiran"
+      }
+    },
+    "transactions": {
+      "index": {
+        "page_title": "sejarah transaksi",
+        "breadcrumbs_current": "sejarah transaksi",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Buku tunai",
+        "breadcrumbs_active": "Sejarah"
+      }
+    }
+  },
+  "payments": {
+    "common": {
+      "due_paid": "Dibayar Tertunggak",
+      "due_added": "Due Added",
+      "current_due": "Tertunggak Semasa",
+      "non_invoice_paid": "Tidak Dibayar Invois",
+      "non_invoice_total": "Jumlah Bukan Invois",
+      "add_due": "Tambah Perlu",
+      "add_payment": "Tambah Bayaran",
+      "total_payment": "Jumlah bayaran",
+      "total_advance": "Jumlah Pendahuluan(Pulangan Invois)",
+      "available_advance": "Tersedia Pendahuluan (Pulangan Belian)",
+      "select_invoice": "Pilih Invois",
+      "select_purchase": "Pilih Beli",
+      "select_purchase_placeholder": "Cari nombor pembelian",
+      "select_invoice_placeholder": "Cari nombor invois",
+      "invoice_subtotal": "Jumlah Kecil Invois",
+      "non_purchase_total": "Jumlah Bukan Belian",
+      "non_purchase_due": "Tidak Perlu Dibayar",
+      "non_purchase_paid": "Tidak Dibayar Pembelian",
+      "purchase_details": "Butiran Pembelian"
+    },
+    "clients": {
+      "invoice": {
+        "index": {
+          "page_title": "Pembayaran Invois",
+          "breadcrumbs_current": "Pembayaran Invois",
+          "breadcrumbs_first": "Papan pemuka",
+          "breadcrumbs_second": "Pembayaran",
+          "breadcrumbs_active": "Pembayaran Invois",
+          "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+          "delete_failed": "Maaf anda tidak boleh memadamkan pembayaran ini!"
+        },
+        "create": {
+          "page_title": "Buat Pembayaran Invois Pelanggan",
+          "form_title": "Buat pembayaran invois",
+          "breadcrumbs_current": "Buat Pembayaran",
+          "breadcrumbs_first": "Papan pemuka",
+          "breadcrumbs_second": "Pembayaran",
+          "breadcrumbs_third": "Pembayaran Invois",
+          "breadcrumbs_active": "Buat",
+          "success_msg": "Pembayaran invois berjaya ditambah 👍"
+        },
+        "edit": {
+          "page_title": "Edit Pembayaran Invois Pelanggan",
+          "form_title": "Edit pembayaran invois",
+          "breadcrumbs_current": "Edit Pembayaran",
+          "breadcrumbs_first": "Papan pemuka",
+          "breadcrumbs_second": "Pembayaran",
+          "breadcrumbs_third": "Pembayaran Invois",
+          "breadcrumbs_active": "Sunting",
+          "success_msg": "Pembayaran invois berjaya dikemas kini 👍"
+        },
+        "view": {
+          "page_title": "Butiran Pembayaran Invois",
+          "breadcrumbs_current": "Butiran Pembayaran Invois",
+          "breadcrumbs_first": "Papan pemuka",
+          "breadcrumbs_second": "Pembayaran",
+          "breadcrumbs_third": "Pembayaran Invois",
+          "breadcrumbs_active": "Butiran"
+        }
+      },
+      "non_invoice": {
+        "index": {
+          "page_title": "Pembayaran Bukan Invois Pelanggan",
+          "breadcrumbs_current": "Pembayaran Bukan Invois",
+          "breadcrumbs_first": "Papan pemuka",
+          "breadcrumbs_second": "Pembayaran",
+          "breadcrumbs_active": "Pembayaran Bukan Invois",
+          "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+          "delete_failed": "Maaf anda tidak boleh memadamkan pembayaran ini!"
+        },
+        "create": {
+          "page_title": "Buat Bayaran Bukan Invois",
+          "form_title": "Buat pembayaran bukan invois",
+          "breadcrumbs_current": "Buat Pembayaran",
+          "breadcrumbs_first": "Papan pemuka",
+          "breadcrumbs_second": "Pembayaran",
+          "breadcrumbs_third": "Bayaran Bukan Invois",
+          "breadcrumbs_active": "Buat",
+          "success_msg": "Pembayaran berjaya ditambah 👍"
+        },
+        "edit": {
+          "page_title": "Edit Pulangan Invois",
+          "form_title": "Edit pembayaran bukan invois",
+          "breadcrumbs_current": "Edit Pembayaran",
+          "breadcrumbs_first": "Papan pemuka",
+          "breadcrumbs_second": "Pembayaran",
+          "breadcrumbs_third": "Bayaran Bukan Invois",
+          "breadcrumbs_active": "Sunting",
+          "success_msg": "Pembayaran berjaya dikemas kini 👍"
+        }
+      }
+    },
+    "suppliers": {
+      "purchase": {
+        "index": {
+          "page_title": "Bayaran Belian",
+          "breadcrumbs_current": "Bayaran Belian",
+          "breadcrumbs_first": "Papan pemuka",
+          "breadcrumbs_second": "Pembayaran",
+          "breadcrumbs_active": "Bayaran Belian",
+          "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+          "delete_failed": "Ada sesuatu yang tidak kena."
+        },
+        "create": {
+          "page_title": "Buat Bayaran Belian Pembekal",
+          "form_title": "Buat pembayaran pembelian",
+          "breadcrumbs_current": "Buat Pembayaran",
+          "breadcrumbs_first": "Papan pemuka",
+          "breadcrumbs_second": "Pembayaran",
+          "breadcrumbs_third": "Bayaran Belian",
+          "breadcrumbs_active": "Buat",
+          "success_msg": "Bayaran pembekal berjaya ditambah 👍"
+        },
+        "edit": {
+          "page_title": "Edit Bayaran Belian Pembekal",
+          "form_title": "Edit pembayaran pembelian",
+          "breadcrumbs_current": "Edit Pembayaran",
+          "breadcrumbs_first": "Papan pemuka",
+          "breadcrumbs_second": "Pembayaran",
+          "breadcrumbs_third": "Bayaran Belian",
+          "breadcrumbs_active": "Sunting",
+          "success_msg": "Pembayaran berjaya dikemas kini 👍"
+        },
+        "view": {
+          "page_title": "Butiran Pembayaran Pembelian Pembekal",
+          "breadcrumbs_current": "Butiran Pembayaran Belian",
+          "breadcrumbs_first": "Papan pemuka",
+          "breadcrumbs_second": "Pembayaran",
+          "breadcrumbs_third": "Bayaran Belian",
+          "breadcrumbs_active": "Butiran"
+        }
+      },
+      "non_purchase": {
+        "index": {
+          "page_title": "Bayaran Tanpa Beli Pembekal",
+          "breadcrumbs_current": "Bayaran Bukan Belian",
+          "breadcrumbs_first": "Papan pemuka",
+          "breadcrumbs_second": "Pembayaran",
+          "breadcrumbs_active": "Bayaran Bukan Belian",
+          "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+          "delete_failed": "Maaf anda tidak boleh memadamkan pembayaran ini!"
+        },
+        "create": {
+          "page_title": "Buat Bayaran Bukan Beli",
+          "form_title": "Buat pembayaran bukan belian",
+          "breadcrumbs_current": "Buat Pembayaran",
+          "breadcrumbs_first": "Papan pemuka",
+          "breadcrumbs_second": "Pembayaran",
+          "breadcrumbs_third": "Bayaran Bukan Belian",
+          "breadcrumbs_active": "Buat",
+          "success_msg": "Pembayaran berjaya ditambah 👍"
+        },
+        "edit": {
+          "page_title": "Edit Bayaran Bukan Beli",
+          "form_title": "Edit pembayaran bukan pembelian",
+          "breadcrumbs_current": "Edit Pembayaran",
+          "breadcrumbs_first": "Papan pemuka",
+          "breadcrumbs_second": "Pembayaran",
+          "breadcrumbs_third": "Bayaran Bukan Belian",
+          "breadcrumbs_active": "Sunting",
+          "success_msg": "Pembayaran berjaya dikemas kini 👍"
+        }
+      }
+    }
+  },
+  "loans": {
+    "common": {
+      "authority": "Kuasa",
+      "loan": "Pinjaman",
+      "loan_placeholder": "Pilih pinjaman",
+      "loan_authority": "Pihak Berkuasa Pinjaman",
+      "authority_placeholder": "Pilih pihak berkuasa",
+      "cc_limit": "Had CC",
+      "cc_placeholder": "Masukkan had pinjaman cc",
+      "cash_credit_limit": "Had Pinjaman Kredit Tunai (CC).",
+      "cash_credit_loan": "Pinjaman Kredit Tunai(CC).",
+      "interetest_paid": "Faedah Dibayar",
+      "total_payable": "Jumlah Kena Bayar",
+      "total_loan": "Jumlah Pinjaman",
+      "cc_term": "CC + Penggal",
+      "cc_taken": "Pinjaman CC Diambil",
+      "available_cc": "Pinjaman CC Tersedia",
+      "all_loans": "Semua Pinjaman",
+      "empty_loan": "Tiada pinjaman tersedia lagi!",
+      "empty_loan_msg": "Anda belum menambah sebarang pinjaman untuk pihak berkuasa ini. Selepas menambah pinjaman anda akan melihat senarai di sini.",
+      "authority_details": "Butiran Pihak Berkuasa",
+      "payable_amount": "Amaun Yang Dibayar",
+      "duration": "Tempoh",
+      "duration_placeholder": "Masukkan tempoh",
+      "interest_rate_placeholder": "Masukkan kadar faedah dalam peratusan",
+      "available_amount": "Jumlah Tersedia",
+      "term_loan": "Pinjaman Bertempoh",
+      "loan_type": "Jenis Pinjaman",
+      "loan_reason": "Sebab Pinjaman",
+      "loan_date": "Tarikh Pinjaman",
+      "Loan_account": "Akaun Pinjaman",
+      "Loan_payments": "Bayaran Pinjaman",
+      "empty_payment_msg": "Anda belum menambah sebarang bayaran untuk pinjaman ini. Selepas menambah pembayaran, anda akan melihat senarai di sini.",
+      "loan_amount": "Jumlah Pinjaman",
+      "loan_ref": "Pinjaman Ruj.",
+      "payment_ref": "Ruj Pembayaran",
+      "amount_paid": "Amaun yang dibayar"
+    },
+    "authorities": {
+      "index": {
+        "page_title": "Pihak Berkuasa Pinjaman",
+        "breadcrumbs_current": "Pihak Berkuasa Pinjaman",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pengurusan Pinjaman",
+        "breadcrumbs_active": "pihak berkuasa",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+        "delete_failed": "Maaf anda tidak boleh memadamkan kuasa ini."
+      },
+      "create": {
+        "page_title": "Wujudkan Kuasa Pinjaman",
+        "form_title": "Buat pihak berkuasa pinjaman",
+        "breadcrumbs_current": "Wujudkan Kuasa Pinjaman",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pihak Berkuasa Pinjaman",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Kuasa pinjaman berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Pihak Berkuasa Pinjaman",
+        "form_title": "Edit kuasa pinjaman",
+        "breadcrumbs_current": "Edit Autoriti",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pihak Berkuasa Pinjaman",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Pihak berkuasa pinjaman berjaya dikemas kini 👍"
+      },
+      "view": {
+        "page_title": "Lihat Pihak Berkuasa Pinjaman",
+        "breadcrumbs_current": "Butiran Pihak Berkuasa",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pihak Berkuasa Pinjaman",
+        "breadcrumbs_active": "Butiran"
+      }
+    },
+    "payments": {
+      "index": {
+        "page_title": "Bayaran Pinjaman",
+        "breadcrumbs_current": "Bayaran Pinjaman",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pengurusan Pinjaman",
+        "breadcrumbs_active": "Bayaran Pinjaman",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+        "delete_failed": "Ada sesuatu yang tidak kena."
+      },
+      "create": {
+        "page_title": "Buat Bayaran Pinjaman",
+        "form_title": "Buat pembayaran pinjaman",
+        "breadcrumbs_current": "Buat Bayaran Pinjaman",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Bayaran Pinjaman",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Bayaran pinjaman berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Bayaran Pinjaman",
+        "form_title": "Edit pembayaran pinjaman",
+        "breadcrumbs_current": "Edit Bayaran Pinjaman",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Bayaran Pinjaman",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Pembayaran berjaya dikemas kini 👍"
+      },
+      "view": {
+        "page_title": "Butiran Pembayaran Pinjaman",
+        "breadcrumbs_current": "Butiran Bayaran Pinjaman",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Bayaran Pinjaman",
+        "breadcrumbs_active": "Butiran"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "Pinjaman",
+        "breadcrumbs_current": "Pinjaman",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pengurusan Pinjaman",
+        "breadcrumbs_active": "Pinjaman",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+        "delete_failed": "Maaf anda tidak boleh memadamkan pinjaman ini."
+      },
+      "create": {
+        "page_title": "Buat Pinjaman",
+        "form_title": "Buat pinjaman",
+        "breadcrumbs_current": "Buat Pinjaman",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pinjaman",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Pinjaman berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Pinjaman",
+        "form_title": "Edit pinjaman",
+        "breadcrumbs_current": "Edit Pinjaman",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pinjaman",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Loan berjaya dikemaskini 👍"
+      },
+      "view": {
+        "page_title": "Butiran Pinjaman",
+        "breadcrumbs_current": "Butiran Pinjaman",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pinjaman",
+        "breadcrumbs_active": "Butiran"
+      }
+    }
+  },
+  "assets": {
+    "common": {
+      "asset_name": "Nama Aset",
+      "asset_name_placeholder": "Masukkan nama aset",
+      "asset_type": "Jenis Aset",
+      "asset_type_placeholder": "Pilih jenis aset",
+      "asset_cost": "Kos Aset",
+      "asset_cost_placeholder": "Masukkan kos aset",
+      "current_value": "Nilai semasa",
+      "depreciation": "Susut nilai",
+      "depreciation_type": "Jenis Susut Nilai",
+      "salvage_value": "Nilai Penyelamat",
+      "salvage_value_placeholder": "Nilai Penyelamat",
+      "useful_life": "Kehidupan Berguna",
+      "remaining_life": "Tinggal Kehidupan",
+      "useful_life_placeholder": "Masukkan kehidupan berguna",
+      "added_date": "Tarikh Ditambah",
+      "expired_date": "Tarikh luput"
+    },
+    "types": {
+      "index": {
+        "page_title": "Jenis Aset",
+        "breadcrumbs_current": "Jenis Aset",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pengurusan aset",
+        "breadcrumbs_active": "Jenis Aset",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+        "delete_failed": "Ada sesuatu yang tidak kena."
+      },
+      "create": {
+        "page_title": "Cipta Jenis Aset",
+        "form_title": "Buat jenis aset",
+        "breadcrumbs_current": "Cipta Jenis Aset",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Jenis Aset",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Jenis aset berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Jenis Aset",
+        "form_title": "Edit jenis aset",
+        "breadcrumbs_current": "Edit Jenis Aset",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Jenis Aset",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Jenis Aset berjaya dikemas kini 👍"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "Aset",
+        "breadcrumbs_current": "Aset",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pengurusan aset",
+        "breadcrumbs_active": "Aset",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+        "delete_failed": "Ada sesuatu yang tidak kena."
+      },
+      "create": {
+        "page_title": "Cipta Aset",
+        "form_title": "Buat aset",
+        "breadcrumbs_current": "Cipta Aset",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Aset",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Aset berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Aset",
+        "form_title": "Edit aset",
+        "breadcrumbs_current": "Edit Aset",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Aset",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Aset berjaya dikemas kini 👍"
+      },
+      "view": {
+        "page_title": "Butiran Aset",
+        "breadcrumbs_current": "Butiran Aset",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Aset",
+        "breadcrumbs_active": "Butiran"
+      }
+    }
+  },
+  "payroll": {
+    "common": {
+      "salary_date": "Tarikh Gaji",
+      "total_salary": "Jumlah Gaji",
+      "advance": "terlebih dahulu",
+      "advance_placeholder": "Masukkan jumlah advacne",
+      "others": "Lain-lain",
+      "others_placeholder": "Masukkan jumlah yang lain",
+      "travel_allowance": "Elaun Perjalanan(TA)",
+      "travel_allowance_placeholder": "Masukkan elaun perjalanan",
+      "festival_bonus": "Bonus Perayaan",
+      "festival_bonus_placeholder": "Masukkan bonus perayaan",
+      "commission": "Suruhanjaya",
+      "commission_placeholder": "Masukkan komisen",
+      "bonus": "Bonus",
+      "bonus_placeholder": "Masukkan bonus",
+      "food_bill": "Bil Makanan",
+      "food_bill_placeholder": "Masukkan bil makanan",
+      "mobile_bill": "Bil Mudah Alih",
+      "mobile_bill_placeholder": "Masukkan bil mudah alih",
+      "deduction_reason": "Sebab Potongan",
+      "deduction_reason_placeholder": "Masukkan sebab potongan",
+      "deduction_amount": "Jumlah Potongan",
+      "deduction_amount_placeholder": "Masukkan jumlah potongan",
+      "present_salary": "Gaji Sekarang",
+      "salary_month": "Bulan Gaji",
+      "salary_month_placeholder": "Pilih bulan gaji"
+    },
+    "index": {
+      "page_title": "Gaji Pekerja",
+      "breadcrumbs_current": "Gaji Pekerja",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Gaji",
+      "breadcrumbs_active": "Gaji",
+      "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+      "delete_failed": "Ada sesuatu yang tidak kena."
+    },
+    "create": {
+      "page_title": "Buat Gaji",
+      "form_title": "Buat senarai gaji pekerja",
+      "breadcrumbs_current": "Buat Gaji",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Gaji",
+      "breadcrumbs_active": "Buat",
+      "success_msg": "Penyata gaji berjaya ditambah 👍"
+    },
+    "edit": {
+      "page_title": "Edit Gaji",
+      "form_title": "Edit senarai gaji",
+      "breadcrumbs_current": "Edit Gaji",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Gaji",
+      "breadcrumbs_active": "Sunting",
+      "success_msg": "Penyata gaji berjaya dikemas kini 👍"
+    },
+    "view": {
+      "page_title": "Butiran Gaji",
+      "breadcrumbs_current": "Butiran Gaji",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Gaji",
+      "breadcrumbs_active": "Butiran"
+    }
+  },
+  "clients": {
+    "common": {
+      "non_invoice_transactions": "Transaksi Bukan Invois"
+    },
+    "index": {
+      "page_title": "Pelanggan",
+      "breadcrumbs_current": "Pelanggan",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Pelanggan",
+      "breadcrumbs_active": "Pelanggan",
+      "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+      "delete_failed": "Maaf anda tidak boleh memadamkan pelanggan ini."
+    },
+    "create": {
+      "page_title": "Buat Klien",
+      "form_title": "Buat pelanggan",
+      "breadcrumbs_current": "Buat Klien",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Pelanggan",
+      "breadcrumbs_active": "Buat",
+      "success_msg": "Pelanggan berjaya menambah 👍"
+    },
+    "edit": {
+      "page_title": "Edit Klien",
+      "form_title": "Edit klien",
+      "breadcrumbs_current": "Edit klien",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Pelanggan",
+      "breadcrumbs_active": "Sunting",
+      "success_msg": "Pelanggan berjaya dikemas kini 👍"
+    },
+    "view": {
+      "page_title": "Butiran Pelanggan",
+      "breadcrumbs_current": "Butiran Pelanggan",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Pelanggan",
+      "breadcrumbs_active": "Butiran"
+    }
+  },
+  "suppliers": {
+    "common": {
+      "non_purchase_transactions": "Transaksi Bukan Belian"
+    },
+    "index": {
+      "page_title": "Pembekal",
+      "breadcrumbs_current": "Pembekal",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Pembekal",
+      "breadcrumbs_active": "Pembekal",
+      "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+      "delete_failed": "Maaf anda tidak boleh memadamkan pembekal ini."
+    },
+    "create": {
+      "page_title": "Buat Pembekal",
+      "form_title": "Buat pembekal",
+      "breadcrumbs_current": "Buat Pembekal",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Pembekal",
+      "breadcrumbs_active": "Buat",
+      "success_msg": "Pembekal ditambah dengan jayanya 👍"
+    },
+    "edit": {
+      "page_title": "Edit Pembekal",
+      "form_title": "Edit pembekal",
+      "breadcrumbs_current": "Edit Pembekal",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Pembekal",
+      "breadcrumbs_active": "Sunting",
+      "success_msg": "Pembekal berjaya dikemas kini 👍"
+    },
+    "view": {
+      "page_title": "Butiran Pembekal",
+      "breadcrumbs_current": "Butiran Pembekal",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Pembekal",
+      "breadcrumbs_active": "Butiran"
+    }
+  },
+  "employees": {
+    "common": {
+      "increment_date": "Tarikh Kenaikan",
+      "increment_amount": "Jumlah Kenaikan",
+      "increment_amount_placeholder": "Masukkan jumlah kenaikan",
+      "increment_reason": "Sebab Kenaikan",
+      "increment_reason_placeholder": "Masukkan sebab",
+      "basic_salary": "Gaji pokok",
+      "current_salary": "Gaji terkini",
+      "incremented_salary": "Kenaikan Gaji",
+      "birth_date": "Tarikh lahir",
+      "join_date": "Tarikh menyertai",
+      "employee_name": "Nama Pekerja",
+      "employee_name_placeholder": "Masukkan nama pekerja",
+      "gender": "Jantina",
+      "gender_placeholder": "Pilih jantina",
+      "male": "jantan",
+      "female": "perempuan",
+      "transgender": "Transgender",
+      "other": "Lain-lain",
+      "blood_group": "Kumpulan darah",
+      "blood_group_placeholder": "Pilih kumpulan darah",
+      "religion": "agama",
+      "religion_placeholder": "Pilih agama",
+      "islam": "Islam",
+      "hinduism": "agama Hindu",
+      "buddhists": "penganut agama Buddha",
+      "christians": "Kristian",
+      "animists": "Ahli animisme",
+      "appointment_date": "Tarikh Lantikan",
+      "allow_login": "Benarkan Log Masuk Pekerja",
+      "increment_history": "Sejarah Kenaikan"
+    },
+    "departments": {
+      "index": {
+        "page_title": "Jabatan",
+        "breadcrumbs_current": "Jabatan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pekerja",
+        "breadcrumbs_active": "Jabatan",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+        "delete_failed": "Ada sesuatu yang tidak kena."
+      },
+      "create": {
+        "page_title": "Buat Jabatan",
+        "form_title": "Buat jabatan",
+        "breadcrumbs_current": "Buat Jabatan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Jabatan",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Jabatan berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Jabatan",
+        "form_title": "Edit jabatan",
+        "breadcrumbs_current": "Edit Jabatan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Jabatan",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Jabatan berjaya dikemas kini 👍"
+      }
+    },
+    "increments": {
+      "index": {
+        "page_title": "Kenaikan Gaji Pekerja",
+        "breadcrumbs_current": "Kenaikan Gaji",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pekerja",
+        "breadcrumbs_active": "Kenaikan",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+        "delete_failed": "Ada sesuatu yang tidak kena."
+      },
+      "create": {
+        "page_title": "Buat Kenaikan Gaji",
+        "form_title": "Buat kenaikan gaji",
+        "breadcrumbs_current": "Buat Kenaikan Gaji",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Kenaikan",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Kenaikan berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Kenaikan Gaji",
+        "form_title": "Edit kenaikan gaji",
+        "breadcrumbs_current": "Edit Kenaikan Gaji",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Kenaikan",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Kenaikan berjaya dikemas kini 👍"
+      },
+      "view": {
+        "page_title": "Butiran Kenaikan",
+        "breadcrumbs_current": "Butiran Kenaikan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Kenaikan",
+        "breadcrumbs_active": "Butiran"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "Pekerja",
+        "breadcrumbs_current": "Pekerja",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_active": "Pekerja",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+        "delete_failed": "Ada sesuatu yang tidak kena."
+      },
+      "create": {
+        "page_title": "Buat Pekerja",
+        "form_title": "Buat pekerja",
+        "breadcrumbs_current": "Buat Pekerja",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pekerja",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Pekerja tambah berjaya 👍"
+      },
+      "edit": {
+        "page_title": "Edit Pekerja",
+        "form_title": "Edit pekerja",
+        "breadcrumbs_current": "Edit Pekerja",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pekerja",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Pekerja berjaya dikemas kini 👍"
+      },
+      "view": {
+        "page_title": "Butiran Pekerja",
+        "breadcrumbs_current": "Butiran Pekerja",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pekerja",
+        "breadcrumbs_active": "Butiran"
+      }
+    }
+  },
+  "products": {
+    "categories": {
+      "index": {
+        "page_title": "Kategori produk",
+        "breadcrumbs_current": "Kategori produk",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Produk",
+        "breadcrumbs_active": "Kategori",
+        "delete_warning": "Semua subkategori untuk kategori ini akan dipadamkan!"
+      },
+      "create": {
+        "page_title": "Buat Kategori Produk",
+        "form_title": "Buat kategori produk",
+        "breadcrumbs_current": "Buat Kategori",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Produk",
+        "breadcrumbs_third": "Kategori",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Kategori berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Kategori Produk",
+        "form_title": "Edit kategori produk",
+        "breadcrumbs_current": "Edit Kategori Produk",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Produk",
+        "breadcrumbs_third": "Kategori",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Kategori berjaya dikemas kini 👍"
+      }
+    },
+    "sub_categories": {
+      "index": {
+        "page_title": "Sub Kategori Produk",
+        "breadcrumbs_current": "Sub Kategori Produk",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Produk",
+        "breadcrumbs_active": "Sub Kategori",
+        "delete_warning": "Semua produk untuk kategori ini akan dipadamkan!"
+      },
+      "create": {
+        "page_title": "Buat Sub Kategori Produk",
+        "form_title": "Buat sub kategori produk",
+        "breadcrumbs_current": "Cipta Sub Kategori",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Produk",
+        "breadcrumbs_third": "Sub Kategori",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Sub kategori berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Sub Kategori Produk",
+        "form_title": "Edit sub kategori produk",
+        "breadcrumbs_current": "Edit Sub Kategori Produk",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Produk",
+        "breadcrumbs_third": "Sub Kategori",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Sub kategori berjaya dikemas kini 👍"
+      }
+    },
+    "list": {
+      "common": {
+        "alert_quantity": "Kuantiti Makluman",
+        "alert_quantity_placeholder": "Masukkan kuantiti amaran",
+        "selling_price": "Harga jualan",
+        "selling_price_placeholder": "Masukkan harga jualan",
+        "regular_price": "Harga biasa",
+        "regular_price_placeholder": "Masukkan harga biasa",
+        "tax_type": "Jenis Cukai",
+        "exclusive": "Eksklusif",
+        "inclusive": "Inklusif",
+        "product_tax": "Cukai Produk",
+        "tax_placeholder": "Pilih cukai",
+        "barcode_symbology": "Simbol Kod Bar",
+        "tax_amount": "Jumlah cukai",
+        "avg_purchase_price": "Purata Harga pembelian",
+        "avg_selling_price": "Purata Harga jualan",
+        "stock": "Stok",
+        "inventory_value": "Nilai Inventori",
+        "generate_barcode": "Hasilkan Kod Bar"
+      },
+      "index": {
+        "page_title": "Produk",
+        "breadcrumbs_current": "Produk",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Produk",
+        "breadcrumbs_active": "Produk",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!"
+      },
+      "create": {
+        "page_title": "Cipta Produk",
+        "form_title": "Buat produk",
+        "breadcrumbs_current": "Cipta Produk",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Produk",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Produk berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Produk",
+        "form_title": "Edit produk",
+        "breadcrumbs_current": "Edit Produk",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Produk",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Produk berjaya dikemas kini 👍"
+      },
+      "view": {
+        "page_title": "Maklumat produk",
+        "breadcrumbs_current": "Maklumat produk",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Produk",
+        "breadcrumbs_active": "Butiran",
+        "expense_details": "Maklumat produk"
+      },
+      "barcode": {
+        "page_title": "Cetak Kod Bar",
+        "generate_barcode": "Hasilkan Kod Bar",
+        "print_barcode": "Cetak Kod Bar",
+        "paper_size": "Saiz kertas",
+        "print_qty": "Kuantiti Cetak",
+        "breadcrumbs_current": "Cetak Kod Bar",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Produk",
+        "breadcrumbs_active": "Sunting",
+        "page_option_0": "40 setiap helaian (a4) (1.799 * 1.003)",
+        "page_option_1": "30 setiap helaian (2.625 * 1)",
+        "page_option_2": "24 setiap helaian (a4) (2.48 * 1.334)",
+        "page_option_3": "20 setiap helaian (4 * 1)",
+        "page_option_4": "18 setiap helaian (a4) (2.5 * 1.835)",
+        "page_option_5": "14 setiap helaian (4 * 1.33)",
+        "page_option_6": "12 setiap helaian (a4) (2.5 * 2.834)",
+        "page_option_7": "10 setiap helaian (4 * 2)"
+      }
+    }
+  },
+  "inventory": {
+    "common": {
+      "inventory_history": "Sejarah Inventori",
+      "adjustment_no": "Pelarasan No",
+      "adjustment_date": "Tarikh Pelarasan",
+      "adjustment_type": "Jenis Pelarasan",
+      "increment": "Kenaikan",
+      "decrement": "Penurunan",
+      "adjustment_reason": "Sebab Pelarasan",
+      "adjusted_products": "Produk Terlaras"
+    },
+    "index": {
+      "page_title": "Inventori",
+      "breadcrumbs_current": "Inventori",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Produk",
+      "breadcrumbs_active": "Inventori"
+    },
+    "history": {
+      "page_title": "Sejarah Inventori",
+      "breadcrumbs_current": "Sejarah Inventori",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Inventori",
+      "breadcrumbs_active": "Sejarah"
+    },
+    "adjustments": {
+      "index": {
+        "page_title": "Pelarasan Inventori",
+        "breadcrumbs_current": "Pelarasan Inventori",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Inventori",
+        "breadcrumbs_active": "Pelarasan",
+        "delete_warning": "Anda tidak akan dapat kembali kepada ini!",
+        "delete_failed": "Ada sesuatu yang tidak kena."
+      },
+      "create": {
+        "page_title": "Buat Pelarasan",
+        "form_title": "Buat pelarasan",
+        "breadcrumbs_current": "Buat Pelarasan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pelarasan",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Pelarasan berjaya ditambah 👍"
+      },
+      "edit": {
+        "page_title": "Edit Pelarasan",
+        "form_title": "Edit pelarasan",
+        "breadcrumbs_current": "Edit Pelarasan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pelarasan",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Pelarasan berjaya dikemas kini 👍"
+      },
+      "view": {
+        "page_title": "Butiran Pelarasan",
+        "breadcrumbs_current": "Butiran Pelarasan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Pelarasan",
+        "breadcrumbs_active": "Butiran"
+      }
+    }
+  },
+  "reports": {
+    "stock_in": "Stok Masuk",
+    "stock_out": "Kehabisan stok",
+    "total_quantity": "Kuantiti keseluruhan",
+    "incomes": "Pendapatan",
+    "liabilities": "Liabiliti",
+    "security_asset": "Jumlah Keselamatan/Aset",
+    "supplier_dues": "Hutang Pembekal",
+    "client_dues": "Yuran Pelanggan",
+    "bank_loan": "Pinjaman bank",
+    "bank_balance": "Baki bank",
+    "income_liabilities": "(Pendapatan - Liabiliti)",
+    "total_asset": "Jumlah Aset",
+    "view_report": "Lihat Laporan",
+    "monthly_summery": "Ringkasan Bulanan",
+    "particulars": "Butiran",
+    "opening_balance": "Baki Pembukaan",
+    "invoice_sales": "Jualan Invois",
+    "invoice_dues": "Bayaran Invois",
+    "accounts_collection": "Koleksi Akaun",
+    "general": "Umum",
+    "loan_interest": "Faedah Pinjaman",
+    "asset_depreciation": "Susut Nilai Aset",
+    "transfer": "Pemindahan",
+    "transfer_from": "Pindahan Baki Daripada",
+    "closing_balance": "Baki Penutup",
+    "report_type": "Jenis laporan",
+    "gross_profit_Loss": "Untung/Rugi Kasar",
+    "net_profit_Loss": "Untung/Rugi Bersih",
+    "sold_qty": "Kuantiti Terjual",
+    "profit": "Untung",
+    "loss": "rugi",
+    "total_sales_avg": "Jumlah Jualan (Purata)",
+    "total_purchased_avg": "Jumlah Pembelian (Purata)",
+    "income_statement": "Penyata pendapatan",
+    "total_sales": "Jumlah jualan",
+    "cost_of_goods_sold": "Kos barangan yang dijual",
+    "positive_adjusted": "Dilaraskan Positif",
+    "negative_adjusted": "Dilaraskan Negatif",
+    "total_adjusted": "Jumlah Pelarasan",
+    "gross_profit": "Untung kasar",
+    "gross_loss": "Kerugian Kasar",
+    "operating_expenses": "Perbelanjaan operasi",
+    "salaries": "Gaji",
+    "general_expenses": "Perbelanjaan am",
+    "total_expense": "Jumlah Perbelanjaan",
+    "net_profit": "Keuntungan bersih",
+    "net_loss": "Kerugian Bersih",
+    "date_range": "Julat Tarikh",
+    "stock_in_hand": "Stok dalam Tangan",
+    "balance_sheet": {
+      "page_title": "Penyata imbangan",
+      "breadcrumbs_current": "Penyata imbangan",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Laporan",
+      "breadcrumbs_active": "Penyata imbangan"
+    },
+    "summary": {
+      "page_title": "Ringkasan laporan",
+      "breadcrumbs_current": "Ringkasan laporan",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Laporan",
+      "breadcrumbs_active": "Ringkasan laporan"
+    },
+    "profit_loss": {
+      "empty_msg_title": "Untung/rugi kosong!",
+      "empty_msg_text": "Maaf, tiada untung/rugi ditemui untuk kategori dan julat tarikh yang anda pilih.",
+      "page_title": "Laporan Untung/Rugi",
+      "breadcrumbs_current": "Laporan Untung/Rugi",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Laporan",
+      "breadcrumbs_active": "Laporan Untung/Rugi"
+    },
+    "expense": {
+      "empty_msg_title": "Perbelanjaan kosong!",
+      "empty_msg_text": "Maaf, tiada perbelanjaan ditemui untuk kategori dan julat tarikh yang anda pilih.",
+      "page_title": "Laporan perbelanjaan",
+      "breadcrumbs_current": "Laporan perbelanjaan",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Laporan",
+      "breadcrumbs_active": "Laporan perbelanjaan"
+    },
+    "product": {
+      "empty_msg_title": "kosong!",
+      "empty_msg_text": "Maaf, tiada stok masuk atau stok habis ditemui untuk item dan julat tarikh pilihan anda.",
+      "page_title": "Laporan Perkara",
+      "breadcrumbs_current": "Laporan Perkara",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Laporan",
+      "breadcrumbs_active": "Laporan Perkara"
+    },
+    "inventory": {
+      "empty_msg_title": "Inventori kosong!",
+      "empty_msg_text": "Maaf, tiada inventori ditemui untuk kategori dan julat tarikh yang anda pilih.",
+      "page_title": "Laporan Inventori",
+      "breadcrumbs_current": "Laporan Inventori",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_second": "Laporan",
+      "breadcrumbs_active": "Laporan Inventori"
+    }
+  },
+  "setup": {
+    "common": {
+      "sort_code": "Kod pendek",
+      "sort_code_placeholder": "Masukkan kod pendek"
+    },
+    "index": {
+      "page_title": "Persediaan",
+      "breadcrumbs_current": "Persediaan",
+      "breadcrumbs_first": "Papan pemuka",
+      "breadcrumbs_active": "Persediaan",
+      "menu": {
+        "item_one": {
+          "title": "Umum",
+          "description": "Tetapan umum seperti, tajuk tapak, penerangan tapak, alamat dan sebagainya.",
+          "link_text": "Tukar Tetapan"
+        },
+        "item_two": {
+          "title": "Mata wang",
+          "description": "Uruskan pelbagai jenis mata wang yang akan anda gunakan dalam sistem.",
+          "link_text": "Mata wang"
+        },
+        "item_three": {
+          "title": "Unit",
+          "description": "Urus jenis unit untuk ukuran yang akan anda gunakan dalam sistem.",
+          "link_text": "Unit"
+        },
+        "item_four": {
+          "title": "Peranan & Keizinan",
+          "description": "Urus Peranan & Kebenaran untuk pengguna yang akan menggunakan sistem.",
+          "link_text": "Peranan & Kebenaran"
+        },
+        "item_five": {
+          "title": "Kadar VAT",
+          "description": "Urus kadar VAT untuk pengurusan VAT yang akan anda gunakan dalam sistem.",
+          "link_text": "Kadar VAT"
+        },
+        "item_six": {
+          "title": "Jenama",
+          "description": "Urus jenama yang akan anda gunakan dalam sistem.",
+          "link_text": "Jenama"
+        },
+        "item_seven": {
+          "title": "cara bayaran",
+          "description": "Urus kaedah pembayaran yang akan anda gunakan dalam sistem.",
+          "link_text": "cara bayaran"
+        },
+        "item_eight": {
+          "title": "Kebenaran Pengguna",
+          "description": "Uruskan kebenaran yang akan anda berikan dalam peranan.",
+          "link_text": "Kebenaran Pengguna"
+        }
+      }
+    },
+    "general_settings": {
+      "index": {
+        "page_title": "Tetapan umum",
+        "breadcrumbs_current": "Tetapan umum",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_active": "Kemas kini tetapan umum",
+        "form_title": "Kemas kini tetapan umum",
+        "success_message": "Tetapan berjaya dikemas kini 👍",
+        "company_info": {
+          "info_title": "Tambah Maklumat Syarikat Anda",
+          "company_tagline": "Tagline Syarikat",
+          "company_tagline_placeholder": "Tagline Syarikat",
+          "email_address": "Alamat emel",
+          "email_address_placeholder": "Masukkan alamat e-mel",
+          "phone_number": "Nombor telefon",
+          "phone_number_placeholder": "Nombor telefon"
+        },
+        "code_prefixes": {
+          "prefix_title": "Tambahkan awalan kod",
+          "client_prefix": "Awalan Pelanggan",
+          "client_prefix_placeholder": "Masukkan awalan klien",
+          "supplier_prefix": "Awalan Pembekal",
+          "supplier_prefix_placeholder": "Masukkan awalan pembekal",
+          "employee_prefix": "Awalan Pekerja",
+          "employee_prefix_placeholder": "Masukkan awalan pekerja",
+          "product_category_prefix": "Awalan Kategori Produk",
+          "product_category_prefix_placeholder": "Masukkan awalan kategori produk",
+          "product_sub_category_prefix": "Awalan Sub Kategori Produk",
+          "product_sub_category_prefix_placeholder": "Masukkan awalan sub Kategori",
+          "product_prefix": "Awalan Produk",
+          "product_prefix_placeholder": "Masukkan awalan produk",
+          "expense_category_prefix": "Awalan Kategori Perbelanjaan",
+          "expense_category_prefix_placeholder": "Masukkan awalan kategori perbelanjaan",
+          "expense_sub_category_prefix": "Awalan Sub Kategori Perbelanjaan",
+          "expense_sub_category_prefix_placeholder": "Masukkan awalan sub kategori perbelanjaan",
+          "purchase_prefix": "Awalan Belian",
+          "purchase_prefix_placeholder": "Masukkan awalan pembelian",
+          "purchase_return_prefix": "Awalan Pulangan Beli",
+          "purchase_return_prefix_placeholder": "Masukkan awalan pulangan pembelian",
+          "quotation_prefix": "Awalan Sebutharga",
+          "quotation_prefix_placeholder": "Masukkan awalan petikan",
+          "invoice_prefix": "Awalan Invois",
+          "invoice_prefix_placeholder": "Masukkan awalan invois",
+          "invoice_return_prefix": "Awalan Pulangan Invois",
+          "invoice_return_prefix_placeholder": "Masukkan awalan pulangan invois",
+          "invoice_adjustment_prefix": "Awalan Pelarasan Inventori",
+          "invoice_adjustment_prefix_placeholder": "Masukkan awalan pelarasan inventori"
+        },
+        "default_elements": {
+          "default_elements_title": "Tambahkan elemen lalai anda",
+          "default_currency": "Mata Wang Lalai",
+          "select_a_currency": "Pilih mata wang",
+          "default_language": "Bahasa Lalai",
+          "english_en": "español (ms)",
+          "hindi_hi": "tidak (hai)",
+          "bangla_bn": "Bangla (bn)",
+          "copyright_text": "Teks Hak Cipta",
+          "copyright_text_placeholder": "Teks Hak Cipta",
+          "default_client": "Pelanggan Lalai",
+          "default_account": "Akaun Lalai",
+          "select_a_account": "Pilih akaun",
+          "select_a_client": "Pilih pelanggan",
+          "default_vat_rate": "Kadar VAT lalai",
+          "select_a_vat_rate": "Pilih Kadar VAT"
+        },
+        "logo": {
+          "white_logo": "Logo Putih",
+          "black_logo": "Logo Hitam",
+          "small_logo": "Logo Kecil",
+          "favicon": "Favicon"
+        }
+      }
+    },
+    "currencies": {
+      "common": {
+        "symbol": "Simbol",
+        "symbol_placeholder": "Masukkan simbol",
+        "currency_position": "Kedudukan Mata Wang",
+        "position_drop_down_item_one": "Jajar ke kiri",
+        "position_drop_down_item_two": "Jajar ke kanan"
+      },
+      "index": {
+        "page_title": "Mata wang",
+        "breadcrumbs_current": "Mata wang",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_active": "mata wang",
+        "table": {
+          "position": "kedudukan",
+          "preview": "Pratonton"
+        }
+      },
+      "create": {
+        "page_title": "Cipta Mata Wang",
+        "breadcrumbs_current": "Cipta Mata Wang",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_third": "Mata wang",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Mata wang berjaya ditambah 👍",
+        "form_title": "Buat mata wang"
+      },
+      "edit": {
+        "page_title": "Edit Mata Wang",
+        "breadcrumbs_current": "Edit mata wang",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_third": "Mata wang",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Mata wang berjaya dikemas kini 👍",
+        "form_title": "Edit mata wang"
+      }
+    },
+    "units": {
+      "index": {
+        "page_title": "Unit",
+        "breadcrumbs_current": "Unit",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_active": "Unit"
+      },
+      "create": {
+        "page_title": "Buat Unit",
+        "breadcrumbs_current": "Buat Unit",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_third": "Unit",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Unit berjaya ditambah 👍",
+        "form_title": "Buat unit"
+      },
+      "edit": {
+        "page_title": "Edit Unit",
+        "breadcrumbs_current": "Edit Unit",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_third": "Unit",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Unit berjaya dikemas kini 👍",
+        "form_title": "Edit unit"
+      }
+    },
+    "permissions": {
+      "common": {
+        "slug": "Slug",
+        "slug_placeholder": "Masukkan slug",
+        "guard_name": "Nama Pengawal",
+        "guard_name_placeholder": "Masukkan nama pengawal"
+      },
+      "index": {
+        "page_title": "kebenaran",
+        "breadcrumbs_current": "kebenaran",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_active": "kebenaran"
+      },
+      "create": {
+        "page_title": "Cipta Kebenaran",
+        "form_title": "Cipta kebenaran",
+        "breadcrumbs_current": "Cipta Kebenaran",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_third": "kebenaran",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Kebenaran ditambah dengan jayanya 👍"
+      },
+      "edit": {
+        "page_title": "Edit Kebenaran",
+        "form_title": "Edit kebenaran",
+        "breadcrumbs_current": "Edit Kebenaran",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_third": "kebenaran",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Kebenaran berjaya dikemas kini 👍"
+      }
+    },
+    "role_and_permission": {
+      "index": {
+        "page_title": "Peranan & Kebenaran",
+        "breadcrumbs_current": "Peranan & Kebenaran",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_active": "Peranan & Kebenaran",
+        "role_name": "Nama Peranan"
+      },
+      "create": {
+        "page_title": "Cipta Peranan",
+        "breadcrumbs_current": "Cipta Peranan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_third": "Peranan & Kebenaran",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Peranan berjaya ditambah 👍",
+        "form_title": "Cipta peranan",
+        "select_permission": "Pilih Kebenaran:"
+      },
+      "edit": {
+        "page_title": "Edit Peranan",
+        "breadcrumbs_current": "Edit Peranan",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_third": "Peranan & Kebenaran",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Peranan berjaya dikemas kini 👍",
+        "form_title": "Edit peranan",
+        "update_permission": "Kemas kini Kebenaran:"
+      }
+    },
+    "vat_rates": {
+      "common": {
+        "rate_in_percent": "Kadar (Dikira dalam %)",
+        "rate_palceholder": "Masukkan kadar"
+      },
+      "index": {
+        "page_title": "Kadar VAT",
+        "breadcrumbs_current": "Kadar VAT",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_active": "Kadar VAT",
+        "rate": "Kadar"
+      },
+      "create": {
+        "page_title": "Buat Kadar VAT",
+        "breadcrumbs_current": "Buat Kadar VAT",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_third": "Kadar VAT",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Kadar VAT berjaya ditambah 👍",
+        "form_title": "Buat kadar VAT"
+      },
+      "edit": {
+        "page_title": "Edit Kadar VAT",
+        "breadcrumbs_current": "Edit Kadar VAT",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_third": "Kadar Vat",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Kadar VAT berjaya dikemas kini 👍",
+        "form_title": "Edit kadar VAT"
+      }
+    },
+    "brands": {
+      "common": {
+        "brand_name": "Jenama",
+        "brand_name_placeholder": "Masukkan nama jenama"
+      },
+      "index": {
+        "page_title": "Jenama",
+        "breadcrumbs_current": "Jenama",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_active": "Jenama",
+        "brand_logo_view": "Paparan Logo Jenama"
+      },
+      "create": {
+        "page_title": "Cipta Jenama",
+        "breadcrumbs_current": "Cipta Jenama",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_third": "Jenama",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Jenama berjaya ditambah 👍",
+        "form_title": "Buat jenama"
+      },
+      "view": {
+        "page_title": "Butiran Jenama",
+        "breadcrumbs_current": "Butiran Jenama",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_third": "Jenama",
+        "breadcrumbs_active": "Butiran"
+      },
+      "edit": {
+        "page_title": "Edit Jenama",
+        "breadcrumbs_current": "Edit Jenama",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_third": "Jenama",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Jenama berjaya dikemas kini 👍",
+        "form_title": "Edit jenama"
+      }
+    },
+    "payment_methods": {
+      "index": {
+        "page_title": "cara bayaran",
+        "breadcrumbs_current": "cara bayaran",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_active": "cara bayaran"
+      },
+      "create": {
+        "page_title": "Buat Kaedah Pembayaran",
+        "breadcrumbs_current": "Buat Kaedah Pembayaran",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_third": "cara bayaran",
+        "breadcrumbs_active": "Buat",
+        "success_msg": "Kaedah Pembayaran berjaya ditambah 👍",
+        "form_title": "Buat kaedah pembayaran"
+      },
+      "edit": {
+        "page_title": "Edit Kaedah Pembayaran",
+        "breadcrumbs_current": "Edit kaedah pembayaran",
+        "breadcrumbs_first": "Papan pemuka",
+        "breadcrumbs_second": "Persediaan",
+        "breadcrumbs_third": "cara bayaran",
+        "breadcrumbs_active": "Sunting",
+        "success_msg": "Kaedah pembayaran berjaya dikemas kini 👍",
+        "form_title": "Edit kaedah pembayaran"
+      }
+    }
+  },
+  "user_profile": {
+    "form_title": "Kemas kini profil anda",
+    "page_title": "Kemas kini Profil",
+    "breadcrumbs_current": "Kemas kini Profil",
+    "breadcrumbs_first": "Papan pemuka",
+    "breadcrumbs_active": "Kemas kini",
+    "current_password": "Kata Laluan Semasa",
+    "current_password_placeholder": "Masukkan kata laluan semasa",
+    "new_password": "Kata laluan baharu",
+    "new_password_placeholder": "Masukkan kata laluan baru",
+    "confirm_password": "Sahkan Kata Laluan",
+    "confirm_password_placeholder": "Masukkan kata laluan sahkan",
+    "success_msg": "Profil berjaya dikemas kini 👍"
+  },
+  "stock_alert": {
+    "page_title": "Produk Makluman Stok",
+    "breadcrumbs_current": "Produk Makluman Stok",
+    "breadcrumbs_first": "Papan pemuka",
+    "breadcrumbs_active": "Produk Makluman"
+  },
+  "backup": {
+    "page_title": "Sandaran Pangkalan Data",
+    "breadcrumbs_current": "Sandaran Pangkalan Data",
+    "breadcrumbs_first": "Papan pemuka",
+    "breadcrumbs_active": "Sandaran",
+    "export": "Eksport",
+    "format": "Format",
+    "format_sql": "SQL (.sql)",
+    "success_msg": "Sandaran berjaya dimuat turun 👍"
+  },
+  "permission_denied": {
+    "page_title": "Kebenaran Ditolak",
+    "breadcrumbs_current": "Kebenaran Ditolak",
+    "breadcrumbs_first": "Papan pemuka",
+    "breadcrumbs_active": "Kebenaran Ditolak",
+    "error_msg": "Anda tidak mempunyai kebenaran untuk melihat halaman ini.",
+    "error_code": "kod ralat: 403 dilarang."
+  },
+  "error_not_found": {
+    "error_404": "404",
+    "error_404_title": "Laman tidak dijumpai",
+    "error_404_msg": "Maaf, URL yang diminta tidak ditemui pada pelayan ini. Itu sahaja yang kita tahu!",
+    "back_to_dashboard": "Kembali ke Papan Pemuka",
+    "back_to_login": "Kembali ke log masuk"
+  },
+  "sidebar_control": {
+    "customize_acculance": "Sesuaikan Ketepatan",
+    "dark_mode": "Mod Gelap",
+    "header_options": "Pilihan Pengepala",
+    "fixed": "tetap",
+    "no_border": "Tiada sempadan",
+    "sidebar_options": "Pilihan Bar Sisi",
+    "sidebar_dark": "Bar sisi Gelap",
+    "collapsed": "Sidebar Runtuh",
+    "sidebar_fixed": "Bar sisi Dibetulkan",
+    "sidebar_mini": "Sidebar Mini",
+    "nav_flat_style": "Gaya Rata Nav",
+    "nav_legacy_style": "Gaya Legasi Nav",
+    "nav_child_indent": "Inden Anak Nav",
+    "disable_hover": "Lumpuhkan Tuding/Fokus Auto Kembangkan"
+  },
+  "pos": {
+    "page_title": "POS",
+    "breadcrumbs_current": "Buat Jualan",
+    "breadcrumbs_first": "Papan pemuka",
+    "breadcrumbs_second": "Invois",
+    "breadcrumbs_active": "POS",
+    "available": "Tersedia",
+    "pos": "POS",
+    "complete_order": "Jimat",
+    "complete_order_and_add_payment": "Simpan & Pembayaran",
+    "add_payment": "Tambah Bayaran",
+    "invoice_receipt": "Resit invois",
+    "not_enough_items": "Barang tak cukup!",
+    "receipt_text": "Terima kasih kerana membeli-belah dengan kami. Sila datang lagi!"
+  },
+  "csv": {
+    "title": "Muat naik fail CSV anda",
+    "success": "Kejayaan",
+    "import_success": "Fail CSV berjaya diimport!",
+    "instructions": "Arahan",
+    "download_zip": "Muat turun folder zip.",
+    "populate_information": "Isi products.csv dengan maklumat produk anda.",
+    "corresponding_CSV": "Anda boleh mendapatkan id yang berkaitan dengan produk pada fail CSV yang sepadan",
+    "example": "Contoh: sub_cat_id dalam sub-categories.csv"
+  },
+  "Create Client": "Buat Klien",
+  "Cancel": "Batal",
+  "Create Product": "Cipta Produk",
+  "Create Supplier": "Buat Pembekal",
+  "Generate barcode with price": "Hasilkan kod bar dengan harga",
+  "Price": "harga",
+  "TAX": "CUKAI"
+}

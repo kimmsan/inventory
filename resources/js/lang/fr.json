@@ -1,0 +1,2282 @@
+{
+  "ok": "D'accord",
+  "cancel": "Annuler",
+  "error_alert_title": "Oops...",
+  "error_alert_text": "Quelque chose s'est mal passé ! Veuillez réessayer.",
+  "token_expired_alert_title": "La session a expiré!",
+  "token_expired_alert_text": "Veuillez vous reconnecter pour continuer.",
+  "login": "Connexion",
+  "register": "S'inscrire",
+  "page_not_found": "Page non trouvée",
+  "go_home": "Rentrer chez soi",
+  "logout": "Se déconnecter",
+  "email": "E-mail",
+  "remember_me": "Souviens-toi de moi",
+  "password": "Mot de passe",
+  "forgot_password": "Mot de passe oublié?",
+  "confirm_password": "Confirmez le mot de passe",
+  "Name": "Nom",
+  "toggle_navigation": "Basculer la navigation",
+  "home": "Domicile",
+  "you_are_logged_in": "Vous êtes authentifié!",
+  "reset_password": "réinitialiser le mot de passe",
+  "send_password_reset_link": "Envoyer un lien",
+  "settings": "Paramètres",
+  "profile": "Profil",
+  "your_info": "Vos informations",
+  "info_updated": "Vos informations ont été mises à jour !",
+  "update": "Mettre à jour",
+  "your_password": "Votre mot de passe",
+  "password_updated": "Votre mot de passe a été mis à jour!",
+  "new_password": "nouveau mot de passe",
+  "login_with": "Connectez-vous avec",
+  "register_with": "Inscrivez-vous avec",
+  "verify_email": "Vérifier les courriels",
+  "send_verification_link": "Envoyer le lien de vérification",
+  "resend_verification_link": "Renvoyer le lien de vérification ?",
+  "failed_to_verify_email": "Échec de la vérification de l'e-mail.",
+  "verify_email_address": "Nous vous avons envoyé un e-mail avec un lien de vérification.",
+  "reset_email_text": "Veuillez saisir votre e-mail pour obtenir le lien de réinitialisation du mot de passe !",
+  "sorry": "Pardon",
+  "no_data_found": "Aucune donnée disponible",
+  "login_txt": "Veuillez vous connecter pour continuer votre session !",
+  "email_placeholder": "Entrez votre adresse email",
+  "password_placeholder": "Tapez votre mot de passe",
+  "developed_by": "Développé par",
+  "per_page": "Par page",
+  "available": "Disponible",
+  "download": "Télécharger",
+  "demo_file": "Fichier CSV de démonstration",
+  "common": {
+    "to": "Pour",
+    "from": "À partir de",
+    "s_no": "#",
+    "more_info": "Plus d'informations",
+    "name": "Nom",
+    "name_placeholder": "Entrez un nom",
+    "password": "Mot de passe",
+    "password_placeholder": "Tapez votre mot de passe",
+    "code": "Code",
+    "code_placeholder": "Entrez un code",
+    "product_name": "Nom du produit",
+    "product_name_placeholder": "sélectionnez un produit",
+    "sub_category_code": "Code de sous-catégorie",
+    "sub_category": "Sous-catégorie",
+    "sub_category_name": "Nom de la sous-catégorie",
+    "category": "Catégorie",
+    "category_name": "Nom de catégorie",
+    "category_name_placeholder": "choisissez une catégorie",
+    "account": "Compte",
+    "account_placeholder": "Sélectionnez un compte",
+    "available_balance": "Solde disponible",
+    "amount": "Quantité",
+    "amount_placeholder": "Entrez un montant",
+    "cheque_no": "Chèque Non",
+    "cheque_placeholder": "Saisir un numéro de chèque",
+    "voucher_no": "Bon Non",
+    "voucher_placeholder": "Saisir un numéro de bon",
+    "receipt_no": "Reçu Non",
+    "receipt_no_placeholder": "Saisissez un numéro de reçu",
+    "date": "Date",
+    "note": "Note",
+    "created_by": "Créé par",
+    "choose_file": "Choisir le fichier",
+    "image_alt": "Image jointe",
+    "note_placeholder": "Écrivez votre note ici!",
+    "status": "Statut",
+    "action": "Action",
+    "active": "Actif",
+    "in_active": "Inactif",
+    "expired": "Expiré",
+    "email": "E-mail",
+    "email_placeholder": "Entrez votre adresse email",
+    "phone": "Téléphone fixe",
+    "address": "Adresse",
+    "address_placeholder": "Entrer une adresse",
+    "modal_header": "Aperçu de l'image jointe",
+    "modal_body": "Corps par défaut",
+    "export_table": "Tableau d'exportation",
+    "print_table": "Tableau d'impression",
+    "delete_title": "Êtes-vous sûr?",
+    "delete_confirm_text": "Êtes-vous sûr?",
+    "deleted": "Supprimé !",
+    "delete_success": "Supprimé avec succès.",
+    "failed": "Échoué!",
+    "delete_failed": "Il y avait quelque chose qui n'allait pas.",
+    "error_msg": "Oups... quelque chose s'est mal passé 😔",
+    "image_error": "Veuillez sélectionner une vignette valide d'une taille inférieure à 2 Mo",
+    "close": "Fermer",
+    "search": "Rechercher...",
+    "create": "Créer",
+    "view": "Voir",
+    "edit": "Éditer",
+    "delete": "Supprimer",
+    "image": "Image",
+    "preview": "Aperçu",
+    "no_preview": "Pas de prévisualisation",
+    "save": "Sauver",
+    "save_changes": "Sauvegarder les modifications",
+    "back": "Dos",
+    "print": "Imprimer",
+    "reset": "Réinitialiser",
+    "supplier": "Le fournisseur",
+    "supplier_placeholder": "Sélectionnez un fournisseur",
+    "products": "Des produits",
+    "select_products": "Sélectionnez des produits",
+    "select_products_placeholder": "Recherche de produits",
+    "reference": "Référence",
+    "reference_placeholder": "Entrez la référence",
+    "quantity": "Quantité",
+    "purchase_price": "Prix d'achat",
+    "unit_price": "Prix unitaire",
+    "unit_cost": "Coût unitaire",
+    "unit_tax": "Taxe unitaire",
+    "tax": "Impôt",
+    "subtotal": "Total",
+    "return_subtotal": "Sous-total de retour",
+    "new_subtotal": "Nouveau sous-total",
+    "return_amount": "Montant du retour",
+    "return_cost": "Frais de retour des produits",
+    "total": "Le total",
+    "net_total": "Total net",
+    "due": "Dû",
+    "transport": "Le transport",
+    "add_payment": "Ajouter un paiement ?",
+    "add_payment_placeholder": "Sélectionnez une option",
+    "yes": "Oui",
+    "no": "Non",
+    "paid": "Payé",
+    "total_paid": "Total payé",
+    "paid_amount": "Montant payé",
+    "paid_amount_placeholder": "Entrez un montant",
+    "total_due": "Total dû",
+    "account_receivable": "Compte recevable",
+    "account_payable": "Compte à payer",
+    "total_price": "Prix total",
+    "return_price": "Prix de retour",
+    "price": "Prix",
+    "total_return": "Retour total",
+    "discount": "Rabais",
+    "discount_placeholder": "Entrez la réduction",
+    "supplier_details": "Détails du fournisseur",
+    "client_details": "Détails du client",
+    "supplier_id": "ID du fournisseur",
+    "client_id": "identité du client",
+    "client_name": "Nom du client",
+    "supplier_name": "Nom du fournisseur",
+    "company_name": "Nom de la compagnie",
+    "company_name_placeholder": "Saisissez un nom d'entreprise",
+    "contact_number": "Numéro de contact",
+    "contact_number_placeholder": "Entrez un numéro de contact",
+    "payment_history": "historique de paiement",
+    "payment_date": "Date de paiement",
+    "empty_payment": "Aucun paiement disponible pour le moment !",
+    "empty_payment_msg": "Vous n'avez pas ajouté de paiement pour cet achat. Après avoir ajouté des paiements, vous verrez la liste ici.",
+    "purchases": "Achats",
+    "purchases_placeholder": "Sélectionnez un achat",
+    "total_tax": "Taxe total",
+    "invoice_tax": "Taxe sur la facture",
+    "transport_cost": "Coût de transport",
+    "transport_cost_placeholder": "Saisir le coût du transport",
+    "total_discount": "Remise totale",
+    "discount_type": "Type de remise",
+    "fixed": "Fixé",
+    "percentage": "Pourcentage",
+    "client": "Client",
+    "client_placeholder": "Sélectionnez une cliente",
+    "payment_terms": "Modalités de paiement",
+    "payment_terms_placeholder": "Saisir les conditions de paiement",
+    "po_reference": "Références des bons de commande",
+    "po_reference_placeholder": "Entrez la référence du bon de commande",
+    "invoice_qty": "Quantité de facture",
+    "current_qty": "Quantité actuelle",
+    "return_qty": "Qté de retour",
+    "invoices": "Factures",
+    "invoices_placeholder": "Sélectionnez une facture",
+    "return_reason": "Raison du retour",
+    "return_reason_placeholder": "Entrez une raison",
+    "invoice_due": "Facture due",
+    "non_invoice_due": "Pas la facture deux",
+    "invoice_date": "Date de facturation",
+    "invoice_no": "Facture n°",
+    "invoice_return_no": "Numéro de retour de facture",
+    "return_no": "Retour Non",
+    "return_products": "Retourner des produits",
+    "insufficient_stock": "Stock insuffisant",
+    "invoice_products": "Facture Produits",
+    "created_at": "Créé à",
+    "reason": "Raison",
+    "type": "Taper",
+    "credit": "Crédit",
+    "debit": "Débit",
+    "payment_type": "Type de paiement",
+    "invoice_total": "Montant de la facture",
+    "invoice_details": "Détails de la facture",
+    "payment_details": "Détails de paiement",
+    "ref_no": "Réf. Non",
+    "reference_no": "Numéro de référence",
+    "payable": "Payable",
+    "interest": "L'intérêt",
+    "installment": "Versement",
+    "error": "Erreur!",
+    "per": "Par",
+    "day": "Jour",
+    "month": "Mois",
+    "year": "Année",
+    "daily": "du quotidien",
+    "monthly": "Mensuel",
+    "yearly": "Annuel",
+    "employee": "Employé",
+    "employee_placeholder": "Sélectionnez un employé",
+    "designation": "Désignation",
+    "designation_placeholder": "Saisir une désignation",
+    "emp_name": "Nom de l'Emp",
+    "emp_id": "ID d'emploi",
+    "employee_details": "Détails de l'employé",
+    "department": "département",
+    "department_placeholder": "département",
+    "balance": "Solde",
+    "salary": "Un salaire",
+    "salary_placeholder": "Saisir un salaire",
+    "profile_picture": "Image de profil",
+    "role": "Rôle",
+    "role_placeholder": "Sélectionnez un rôle",
+    "unit": "Unité",
+    "unit_placeholder": "Sélectionnez une unité",
+    "brand": "Marque",
+    "brand_placeholder": "Sélectionnez une marque",
+    "item_code": "Code de l'article",
+    "item_code_placeholder": "Entrez le code de l'article",
+    "item_model": "Modèle d'article",
+    "item_model_placeholder": "Entrer un modèle",
+    "item_name": "Nom de l'article",
+    "item_name_placeholder": "Entrez un nom",
+    "rendering_fails": "Le rendu échoue.",
+    "product": "Produit",
+    "transactions": "Transactions",
+    "empty_table": "Désolé 😔 aucune donnée trouvée",
+    "stock_alert_msg": "Le stock est inférieur à la quantité d'alerte !",
+    "stock_notification": "Alerte(s) de quantité de produit",
+    "stock_notification_empty": "Aucune notification disponible",
+    "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+    "add_balance": "Ajouter un solde",
+    "remove_balance": "Supprimer le solde",
+    "qty": "Qté",
+    "item": "Article",
+    "sold_by": "Vendu par"
+  },
+  "topbar": {
+    "new_invoice": "Nouvelle facture",
+    "new_expense": "Nouvelle dépense",
+    "new_purchase": "Nouvel achat",
+    "new_quotation": "Nouveau Devis",
+    "profile": "Profil",
+    "setup": "Installer",
+    "logout": "Se déconnecter"
+  },
+  "sidebar": {
+    "dashboard": "Tableau de bord",
+    "activities": "ACTIVITÉS",
+    "expenses": "Dépenses",
+    "categories": "Catégories",
+    "sub_categories": "Sous-catégories",
+    "expenses_list": "Liste des dépenses",
+    "purchases": "Achats",
+    "purchases_list": "Liste des achats",
+    "returns_list": "Liste des retours",
+    "sales": "Ventes",
+    "quotations_list": "Liste des citations",
+    "invoices_list": "Liste des factures",
+    "accounting": "COMPTABILITÉ",
+    "cashbook": "Livre de caisse",
+    "accounts": "Comptes",
+    "balance_adjustments": "Ajustements de solde",
+    "balance_transfers": "Transferts de solde",
+    "transaction_history": "Historique des transactions",
+    "payments": "Paiements",
+    "suppliers": "Fournisseurs",
+    "non_purchase": "Sans achat",
+    "purchase": "Acheter",
+    "clients": "Clients",
+    "non_invoice": "Non facturé",
+    "invoice": "Facture d'achat",
+    "loan_management": "Gestion des prêts",
+    "authorities": "Les autorités",
+    "loans": "Prêts",
+    "asset_management": "La gestion d'actifs",
+    "types": "Les types",
+    "assets": "Actifs",
+    "payroll": "Paie",
+    "people": "PERSONNES",
+    "employees_list": "Liste des employés",
+    "employees": "Employés",
+    "departments": "Départements",
+    "increments": "Incréments",
+    "product": "PRODUIT",
+    "products": "Des produits",
+    "products_list": "Liste de produits",
+    "barcode": "code à barre",
+    "inventory_uppercase": "INVENTAIRE",
+    "inventory": "Inventaire",
+    "view_inventory": "Afficher l'inventaire",
+    "inventory_adjustment": "Ajustement de l'inventaire",
+    "reports": "RAPPORTS",
+    "balance_sheet": "Bilan",
+    "summary_report": "Rapport sommaire",
+    "profit_loss_report": "Rapport de profits/pertes",
+    "expense_report": "Rapport de dépenses",
+    "product_report": "Rapport d'article",
+    "inventory_report": "Rapport d'inventaire",
+    "account": "COMPTE",
+    "account_sm": "Compte",
+    "setup": "Installer",
+    "database_backup": "Sauvegarde de la base de données",
+    "profile": "Profil",
+    "logout": "Se déconnecter"
+  },
+  "dashboard": {
+    "stock_alert": "Alerte Stock",
+    "recent_activities": "Activités récentes",
+    "page_title": "Tableau de bord",
+    "breadcrumbs_current": "Tableau de bord",
+    "breadcrumbs_active": "Tableau de bord",
+    "bar_chart_title": "Ventes vs achats",
+    "bar_chart_tooltip": "Ventes & achats mensuels après déduction des frais de retour produits.",
+    "pie_chart_title": "Produits les plus vendus",
+    "line_chart_title": "Paiement envoyé vs paiement reçu",
+    "line_chart_tooltip": "Paiement envoyé = Paiement du fournisseur + Paiement du prêt<br/> Paiement reçu = paiement client + prêt reçu",
+    "top_clients_title": "Les 5 meilleurs clients",
+    "summary": "Résumé",
+    "summary_option_1": "Aujourd'hui",
+    "summary_option_2": "Les 7 derniers jours",
+    "summary_option_3": "Ce mois-ci",
+    "summary_option_4": "Cette année",
+    "summery_items": {
+      "purchase": "Acheter",
+      "purchase_return": "Retour d'achat",
+      "sales": "Ventes",
+      "sales_return": "Retour de vente",
+      "payment_recevied": "Paiement client",
+      "payment_sent": "Paiement fournisseur",
+      "expense": "Frais",
+      "balance_transfers": "Transferts de solde"
+    }
+  },
+  "expenses": {
+    "categories": {
+      "index": {
+        "page_title": "Catégories de dépenses",
+        "breadcrumbs_current": "Catégories de dépenses",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Dépenses",
+        "breadcrumbs_active": "Catégories",
+        "delete_warning": "Toutes les sous-catégories de cette catégorie seront supprimées !"
+      },
+      "create": {
+        "page_title": "Créer une catégorie de dépenses",
+        "form_title": "Créer une catégorie de dépenses",
+        "breadcrumbs_current": "Créer une catégorie de dépenses",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Catégories",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Catégorie ajoutée avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier la catégorie de dépenses",
+        "form_title": "Modifier la catégorie",
+        "breadcrumbs_current": "Modifier la catégorie de dépenses",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Catégories",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Catégorie mise à jour avec succès 👍"
+      }
+    },
+    "sub_categories": {
+      "index": {
+        "page_title": "Sous-catégories de dépenses",
+        "breadcrumbs_current": "Sous-catégories de dépenses",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Dépenses",
+        "breadcrumbs_active": "Sous-catégories",
+        "delete_warning": "Toutes les dépenses de cette catégorie seront supprimées !"
+      },
+      "create": {
+        "page_title": "Créer une sous-catégorie de dépenses",
+        "form_title": "Créer une sous-catégorie de dépenses",
+        "breadcrumbs_current": "Créer une sous-catégorie de dépenses",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Sous-catégories",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Sous-catégorie ajoutée avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier la sous-catégorie de dépenses",
+        "form_title": "Modifier la sous-catégorie de dépenses",
+        "breadcrumbs_current": "Modifier la sous-catégorie de dépenses",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Sous-catégories",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Sous-catégorie mise à jour avec succès 👍"
+      }
+    },
+    "list": {
+      "common": {
+        "expense_reason": "Raison de la dépense",
+        "expense_reason_placeholder": "Entrez une raison"
+      },
+      "index": {
+        "page_title": "Dépenses",
+        "breadcrumbs_current": "Dépenses",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Dépenses",
+        "breadcrumbs_active": "",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !"
+      },
+      "create": {
+        "page_title": "Créer une dépense",
+        "form_title": "Créer une dépense",
+        "breadcrumbs_current": "Créer une dépense",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Dépenses",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Dépense ajoutée avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier la dépense",
+        "form_title": "Modifier la dépense",
+        "breadcrumbs_current": "Modifier la dépense",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Dépenses",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Dépense mise à jour avec succès 👍"
+      },
+      "view": {
+        "page_title": "Détails des dépenses",
+        "breadcrumbs_current": "Détails des dépenses",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Dépenses",
+        "breadcrumbs_active": "Des détails",
+        "expense_details": "Détails des dépenses"
+      }
+    }
+  },
+  "purchases": {
+    "list": {
+      "common": {
+        "po_reference": "Références des bons de commande",
+        "po_reference_placeholder": "Entrez la référence du bon de commande",
+        "payment_terms": "Modalités de paiement",
+        "payment_terms_placeholder": "Saisir les conditions de paiement",
+        "purchase_tax": "Taxe d'achat",
+        "purchase_total": "Achat total",
+        "purchase_subtotal": "Sous-total d'achat",
+        "purchase_tax_placeholder": "Sélectionnez un type de taxe",
+        "total_tax": "Taxe total",
+        "discount": "Rabais",
+        "discount_placeholder": "Entrez la remise",
+        "transport_cost": "Coût de transport",
+        "transport_cost_placeholder": "Saisir le coût du transport",
+        "purchase_date": "date d'achat",
+        "po_date": "Date du bon de commande",
+        "purchased_qty": "Quantité achetée",
+        "returned_qty": "Quantité retournée",
+        "current_qty": "Quantité actuelle",
+        "purchase_no": "Achat Non",
+        "return_no": "Retour Non",
+        "purchase_no_placeholder": "Entrez le numéro d'achat",
+        "purchase_products": "Acheter des produits",
+        "purchase_due": "Achat dû"
+      },
+      "index": {
+        "page_title": "Achats",
+        "breadcrumbs_current": "Achats",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Achats",
+        "breadcrumbs_active": "Achats",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !"
+      },
+      "create": {
+        "page_title": "Créer un achat",
+        "form_title": "Créer un achat",
+        "breadcrumbs_current": "Créer un achat",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Achats",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Achat ajouté avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier l'achat",
+        "form_title": "Modifier l'achat",
+        "breadcrumbs_current": "Modifier l'achat",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Achats",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Achat mis à jour avec succès 👍"
+      },
+      "view": {
+        "page_title": "Détails d'achat",
+        "breadcrumbs_current": "Détails d'achat",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Achats",
+        "breadcrumbs_active": "Des détails"
+      }
+    },
+    "returns": {
+      "common": {
+        "return_reason": "Raison du retour",
+        "return_reason_placeholder": "Entrez une raison",
+        "return_date": "Date de retour",
+        "purchase_return_no": "Retour d'achat Non",
+        "return_products": "Retourner des produits"
+      },
+      "index": {
+        "page_title": "Retours d'achat",
+        "breadcrumbs_current": "Retours d'achat",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Achats",
+        "breadcrumbs_active": "Retours d'achat",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !"
+      },
+      "create": {
+        "page_title": "Créer un retour d'achat",
+        "form_title": "Créer un retour d'achat",
+        "breadcrumbs_current": "Créer un retour d'achat",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Retours d'achat",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Retour d'achat ajouté avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier le retour d'achat",
+        "form_title": "Modifier le retour d'achat",
+        "breadcrumbs_current": "Modifier le retour d'achat",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Retours d'achat",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Retour d'achat mis à jour avec succès 👍"
+      },
+      "view": {
+        "page_title": "Détails du retour d'achat",
+        "breadcrumbs_current": "Détails du retour d'achat",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Retours d'achat",
+        "breadcrumbs_active": "Des détails"
+      }
+    }
+  },
+  "sales": {
+    "common": {
+      "quotation_no": "Devis Non",
+      "quotation_date": "Date de cotation",
+      "delivery_place": "Adresse de livraison",
+      "delivery_place_placeholder": "Saisir un lieu de livraison",
+      "quotation_tax": "Taxe de cotation",
+      "quotation_tax_placeholder": "Sélectionnez un type de taxe",
+      "return_date": "Date de retour",
+      "new_due": "Nouveau dû",
+      "client_advance": "Avance client",
+      "invoice_total": "Montant de la facture",
+      "before_return": "Avant retour",
+      "invoice_return": "Retour de facture",
+      "invoice_tax": "Taxe sur la facture",
+      "invoice_tax_placeholder": "Sélectionnez un type de taxe"
+    },
+    "quotations": {
+      "index": {
+        "page_title": "Citations",
+        "create_invoice": "Créer une facture",
+        "breadcrumbs_current": "Citations",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Citations",
+        "breadcrumbs_active": "",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+        "delete_failed": "Désolé, vous ne pouvez pas supprimer cette citation !"
+      },
+      "create": {
+        "page_title": "Créer un devis",
+        "form_title": "Créer un devis",
+        "breadcrumbs_current": "Créer un devis",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Citations",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Devis ajouté avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier le devis",
+        "form_title": "Modifier le devis",
+        "breadcrumbs_current": "Modifier le devis",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Citations",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Devis mis à jour avec succès 👍"
+      },
+      "view": {
+        "page_title": "Détails du devis",
+        "breadcrumbs_current": "Détails du devis",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Citations",
+        "breadcrumbs_active": "Des détails",
+        "expense_details": "Détails des dépenses"
+      },
+      "invoice": {
+        "page_title": "Devis à facturer",
+        "form_title": "Créer un devis à facturer",
+        "breadcrumbs_current": "Devis à facturer",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Citations",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Facture créée avec succès 👍"
+      }
+    },
+    "invoices": {
+      "index": {
+        "page_title": "Factures",
+        "breadcrumbs_current": "Factures",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Ventes",
+        "breadcrumbs_active": "Factures",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+        "delete_failed": "Désolé, vous ne pouvez pas supprimer cette facture !"
+      },
+      "create": {
+        "page_title": "Créer une facture",
+        "form_title": "Créer une facture",
+        "breadcrumbs_current": "Créer une facture",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Factures",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Facture ajoutée avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier la facture",
+        "form_title": "Modifier la facture",
+        "breadcrumbs_current": "Modifier la facture",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Factures",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Facture mise à jour avec succès 👍"
+      },
+      "view": {
+        "page_title": "Détails de la facture",
+        "breadcrumbs_current": "Détails de la facture",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Factures",
+        "breadcrumbs_active": "Des détails",
+        "invoice_details": "Détails de la facture"
+      }
+    },
+    "returns": {
+      "index": {
+        "page_title": "Retours de facture",
+        "breadcrumbs_current": "Retours de facture",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Factures",
+        "breadcrumbs_active": "Retours de facture",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+        "delete_failed": "Il y avait quelque chose qui n'allait pas."
+      },
+      "create": {
+        "page_title": "Créer un retour de facture",
+        "form_title": "Créer un retour de facture",
+        "breadcrumbs_current": "Créer un retour de facture",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Retours de factures",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Retour de facture ajouté avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier le retour de facture",
+        "form_title": "Modifier le retour de facture",
+        "breadcrumbs_current": "Modifier le retour de facture",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Retours de facture",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Retour de facture mis à jour avec succès 👍"
+      },
+      "view": {
+        "page_title": "Détails de retour de facture",
+        "breadcrumbs_current": "Détails de retour de facture",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Retours de facture",
+        "breadcrumbs_active": "Des détails",
+        "invoice_details": "Détails de la facture"
+      }
+    }
+  },
+  "cashbook": {
+    "common": {
+      "account_number": "Numéro de compte",
+      "account_number_placeholder": "Entrez un numéro de compte",
+      "branch_name": "Nom de la filiale",
+      "branch_name_placeholder": "Entrez un nom de succursale",
+      "bank_name": "Nom de banque",
+      "bank_name_placeholder": "Entrez un nom de banque",
+      "transactions": "Transactions",
+      "account_details": "Détails du compte",
+      "total_transactions": "Transactions totales",
+      "debit_amount": "Montant du débit",
+      "credit_amount": "Montant du crédit",
+      "from_account": "Du compte",
+      "to_account": "Estimer",
+      "transfer_reason": "Motif du transfert"
+    },
+    "accounts": {
+      "index": {
+        "page_title": "Comptes",
+        "breadcrumbs_current": "Comptes",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Livre de caisse",
+        "breadcrumbs_third": "Comptes",
+        "breadcrumbs_active": "Comptes",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+        "delete_failed": "Désolé, vous ne pouvez pas supprimer ce compte !"
+      },
+      "create": {
+        "page_title": "Créer un compte",
+        "form_title": "Créer un compte",
+        "breadcrumbs_current": "Créer un compte",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Livre de caisse",
+        "breadcrumbs_third": "Comptes",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Compte ajouté avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier le compte",
+        "form_title": "Modifier le compte",
+        "breadcrumbs_current": "Modifier le compte",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Livre de caisse",
+        "breadcrumbs_third": "Comptes",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Compte mis à jour avec succès 👍"
+      },
+      "view": {
+        "page_title": "Opérations sur le compte",
+        "breadcrumbs_current": "Opérations sur le compte",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Comptes",
+        "breadcrumbs_active": "Transactions",
+        "empty_transaction": "Aucune transaction n'est encore disponible !",
+        "empty_transaction_msg": "Vous n'avez effectué aucune transaction avec ce compte. Après avoir effectué la transaction, vous verrez la liste ici."
+      }
+    },
+    "balances": {
+      "index": {
+        "page_title": "Ajustements de solde",
+        "add_balance": "Créer",
+        "breadcrumbs_current": "Ajustements de solde",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Livre de caisse",
+        "breadcrumbs_active": "Ajustements",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+        "delete_failed": "Désolé, vous ne pouvez pas supprimer cette transaction"
+      },
+      "create": {
+        "page_title": "Créer un ajustement",
+        "form_title": "Créer un ajustement",
+        "breadcrumbs_current": "Créer un ajustement",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Livre de caisse",
+        "breadcrumbs_third": "Ajustements",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Ajustement ajouté avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier le solde",
+        "form_title": "Modifier le solde",
+        "breadcrumbs_current": "Modifier le solde",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Livre de caisse",
+        "breadcrumbs_third": "Soldes",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Solde mis à jour avec succès 👍"
+      }
+    },
+    "transfers": {
+      "index": {
+        "page_title": "Transferts de solde",
+        "add_transfer": "Ajouter un transfert",
+        "breadcrumbs_current": "Transferts de solde",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Livre de caisse",
+        "breadcrumbs_active": "Transferts de solde",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+        "delete_failed": "Désolé, vous ne pouvez pas supprimer ce transfert !"
+      },
+      "create": {
+        "page_title": "Créer un transfert",
+        "form_title": "Créer un transfert de solde",
+        "breadcrumbs_current": "Créer un transfert",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Livre de caisse",
+        "breadcrumbs_third": "Transferts de solde",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Transfert de solde ajouté avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier le transfert de solde",
+        "form_title": "Modifier le transfert de solde",
+        "breadcrumbs_current": "Modifier le transfert de solde",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Livre de caisse",
+        "breadcrumbs_third": "Transferts de solde",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Transfert mis à jour avec succès 👍"
+      },
+      "view": {
+        "page_title": "Détails des transferts de solde",
+        "breadcrumbs_current": "Détails des transferts",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Livre de caisse",
+        "breadcrumbs_third": "Transferts de solde",
+        "breadcrumbs_active": "Des détails"
+      }
+    },
+    "transactions": {
+      "index": {
+        "page_title": "Historique des transactions",
+        "breadcrumbs_current": "Historique des transactions",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Livre de caisse",
+        "breadcrumbs_active": "Histoire"
+      }
+    }
+  },
+  "payments": {
+    "common": {
+      "due_paid": "Dû payé",
+      "due_added": "Échéance ajoutée",
+      "current_due": "Échéance actuelle",
+      "non_invoice_paid": "Facture non payée",
+      "non_invoice_total": "Total non facturé",
+      "add_due": "Ajouter une échéance",
+      "add_payment": "Ajouter un paiement",
+      "total_payment": "Paiement total",
+      "total_advance": "Avance totale (retour de facture)",
+      "available_advance": "Avance disponible (retour d'achat)",
+      "select_invoice": "Sélectionnez Facture",
+      "select_purchase": "Sélectionnez Acheter",
+      "select_purchase_placeholder": "Rechercher le numéro d'achat",
+      "select_invoice_placeholder": "Rechercher un numéro de facture",
+      "invoice_subtotal": "Sous-total de la facture",
+      "non_purchase_total": "Total hors achat",
+      "non_purchase_due": "Non achat dû",
+      "non_purchase_paid": "Achat non payé",
+      "purchase_details": "Détails d'achat"
+    },
+    "clients": {
+      "invoice": {
+        "index": {
+          "page_title": "Paiements de facture",
+          "breadcrumbs_current": "Paiements de facture",
+          "breadcrumbs_first": "Tableau de bord",
+          "breadcrumbs_second": "Paiements",
+          "breadcrumbs_active": "Paiements de facture",
+          "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+          "delete_failed": "Désolé, vous ne pouvez pas supprimer ce paiement !"
+        },
+        "create": {
+          "page_title": "Créer un paiement de facture client",
+          "form_title": "Créer un paiement de facture",
+          "breadcrumbs_current": "Créer un paiement",
+          "breadcrumbs_first": "Tableau de bord",
+          "breadcrumbs_second": "Paiements",
+          "breadcrumbs_third": "Paiements de facture",
+          "breadcrumbs_active": "Créer",
+          "success_msg": "Paiement de facture ajouté avec succès 👍"
+        },
+        "edit": {
+          "page_title": "Modifier le paiement de la facture client",
+          "form_title": "Modifier le paiement de la facture",
+          "breadcrumbs_current": "Modifier le paiement",
+          "breadcrumbs_first": "Tableau de bord",
+          "breadcrumbs_second": "Paiements",
+          "breadcrumbs_third": "Paiements de facture",
+          "breadcrumbs_active": "Éditer",
+          "success_msg": "Paiement de la facture mis à jour avec succès 👍"
+        },
+        "view": {
+          "page_title": "Détails de paiement de la facture",
+          "breadcrumbs_current": "Détails de paiement de la facture",
+          "breadcrumbs_first": "Tableau de bord",
+          "breadcrumbs_second": "Paiements",
+          "breadcrumbs_third": "Paiements de facture",
+          "breadcrumbs_active": "Des détails"
+        }
+      },
+      "non_invoice": {
+        "index": {
+          "page_title": "Paiements non facturés aux clients",
+          "breadcrumbs_current": "Paiements hors facture",
+          "breadcrumbs_first": "Tableau de bord",
+          "breadcrumbs_second": "Paiements",
+          "breadcrumbs_active": "Paiements hors facture",
+          "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+          "delete_failed": "Désolé, vous ne pouvez pas supprimer ce paiement !"
+        },
+        "create": {
+          "page_title": "Créer un paiement hors facture",
+          "form_title": "Créer un paiement hors facture",
+          "breadcrumbs_current": "Créer un paiement",
+          "breadcrumbs_first": "Tableau de bord",
+          "breadcrumbs_second": "Paiements",
+          "breadcrumbs_third": "Paiements hors facture",
+          "breadcrumbs_active": "Créer",
+          "success_msg": "Paiement ajouté avec succès 👍"
+        },
+        "edit": {
+          "page_title": "Modifier le retour de facture",
+          "form_title": "Modifier le paiement hors facture",
+          "breadcrumbs_current": "Modifier le paiement",
+          "breadcrumbs_first": "Tableau de bord",
+          "breadcrumbs_second": "Paiements",
+          "breadcrumbs_third": "Paiements hors facture",
+          "breadcrumbs_active": "Éditer",
+          "success_msg": "Paiement mis à jour avec succès 👍"
+        }
+      }
+    },
+    "suppliers": {
+      "purchase": {
+        "index": {
+          "page_title": "Paiements d'achat",
+          "breadcrumbs_current": "Paiements d'achat",
+          "breadcrumbs_first": "Tableau de bord",
+          "breadcrumbs_second": "Paiements",
+          "breadcrumbs_active": "Paiements d'achat",
+          "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+          "delete_failed": "Il y avait quelque chose qui n'allait pas."
+        },
+        "create": {
+          "page_title": "Créer un paiement d'achat fournisseur",
+          "form_title": "Créer un paiement d'achat",
+          "breadcrumbs_current": "Créer un paiement",
+          "breadcrumbs_first": "Tableau de bord",
+          "breadcrumbs_second": "Paiements",
+          "breadcrumbs_third": "Paiements d'achat",
+          "breadcrumbs_active": "Créer",
+          "success_msg": "Paiement fournisseur ajouté avec succès 👍"
+        },
+        "edit": {
+          "page_title": "Modifier le paiement d'achat du fournisseur",
+          "form_title": "Modifier le paiement de l'achat",
+          "breadcrumbs_current": "Modifier le paiement",
+          "breadcrumbs_first": "Tableau de bord",
+          "breadcrumbs_second": "Paiements",
+          "breadcrumbs_third": "Paiements d'achat",
+          "breadcrumbs_active": "Éditer",
+          "success_msg": "Paiement mis à jour avec succès 👍"
+        },
+        "view": {
+          "page_title": "Détails du paiement de l'achat du fournisseur",
+          "breadcrumbs_current": "Détails du paiement de l'achat",
+          "breadcrumbs_first": "Tableau de bord",
+          "breadcrumbs_second": "Paiements",
+          "breadcrumbs_third": "Paiements d'achat",
+          "breadcrumbs_active": "Des détails"
+        }
+      },
+      "non_purchase": {
+        "index": {
+          "page_title": "Paiements hors achat fournisseur",
+          "breadcrumbs_current": "Paiements hors achat",
+          "breadcrumbs_first": "Tableau de bord",
+          "breadcrumbs_second": "Paiements",
+          "breadcrumbs_active": "Paiements hors achat",
+          "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+          "delete_failed": "Désolé, vous ne pouvez pas supprimer ce paiement !"
+        },
+        "create": {
+          "page_title": "Créer un paiement sans achat",
+          "form_title": "Créer un paiement sans achat",
+          "breadcrumbs_current": "Créer un paiement",
+          "breadcrumbs_first": "Tableau de bord",
+          "breadcrumbs_second": "Paiements",
+          "breadcrumbs_third": "Paiements hors achat",
+          "breadcrumbs_active": "Créer",
+          "success_msg": "Paiement ajouté avec succès 👍"
+        },
+        "edit": {
+          "page_title": "Modifier le paiement sans achat",
+          "form_title": "Modifier le paiement sans achat",
+          "breadcrumbs_current": "Modifier le paiement",
+          "breadcrumbs_first": "Tableau de bord",
+          "breadcrumbs_second": "Paiements",
+          "breadcrumbs_third": "Paiements hors achat",
+          "breadcrumbs_active": "Éditer",
+          "success_msg": "Paiement mis à jour avec succès 👍"
+        }
+      }
+    }
+  },
+  "loans": {
+    "common": {
+      "authority": "Autorité",
+      "loan": "Prêter",
+      "loan_placeholder": "Sélectionnez un prêt",
+      "loan_authority": "Autorisation de prêt",
+      "authority_placeholder": "Sélectionnez une autorité",
+      "cc_limit": "Limite CC",
+      "cc_placeholder": "Entrez la limite de prêt cc",
+      "cash_credit_limit": "Crédit en espèces (CC) Limite de prêt",
+      "cash_credit_loan": "Prêt en espèces (CC)",
+      "interetest_paid": "Intérêts payés",
+      "total_payable": "Total à payer",
+      "total_loan": "Prêt total",
+      "cc_term": "CC + Terme",
+      "cc_taken": "Prêt CC contracté",
+      "available_cc": "Prêt CC disponible",
+      "all_loans": "Tous les prêts",
+      "empty_loan": "Aucun prêt n'est encore disponible !",
+      "empty_loan_msg": "Vous n'avez ajouté aucun prêt pour cette autorité. Après avoir ajouté des prêts, vous verrez la liste ici.",
+      "authority_details": "Détails de l'autorité",
+      "payable_amount": "Montant payable",
+      "duration": "Durée",
+      "duration_placeholder": "Entrez une durée",
+      "interest_rate_placeholder": "Saisir un taux d'intérêt en pourcentage",
+      "available_amount": "Montant disponible",
+      "term_loan": "Prêt à terme",
+      "loan_type": "Type de prêt",
+      "loan_reason": "Raison du prêt",
+      "loan_date": "Date du prêt",
+      "Loan_account": "Compte de prêt",
+      "Loan_payments": "Paiements de prêt",
+      "empty_payment_msg": "Vous n'avez ajouté aucun paiement pour ce prêt. Après avoir ajouté des paiements, vous verrez la liste ici.",
+      "loan_amount": "Montant du prêt",
+      "loan_ref": "Prêt Réf.",
+      "payment_ref": "Paiement Réf.",
+      "amount_paid": "Le montant payé"
+    },
+    "authorities": {
+      "index": {
+        "page_title": "Autorités de prêt",
+        "breadcrumbs_current": "Autorités de prêt",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Gestion des prêts",
+        "breadcrumbs_active": "Les autorités",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+        "delete_failed": "Désolé, vous ne pouvez pas supprimer cette autorité."
+      },
+      "create": {
+        "page_title": "Créer une autorisation de prêt",
+        "form_title": "Créer une autorité de prêt",
+        "breadcrumbs_current": "Créer une autorisation de prêt",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Autorités de prêt",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Autorisation de prêt ajoutée avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier l'autorisation de prêt",
+        "form_title": "Modifier l'autorisation de prêt",
+        "breadcrumbs_current": "Modifier l'autorité",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Autorités de prêt",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Autorisation de prêt mise à jour avec succès 👍"
+      },
+      "view": {
+        "page_title": "Afficher l'autorisation de prêt",
+        "breadcrumbs_current": "Détails de l'autorité",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Autorités de prêt",
+        "breadcrumbs_active": "Des détails"
+      }
+    },
+    "payments": {
+      "index": {
+        "page_title": "Paiements de prêt",
+        "breadcrumbs_current": "Paiements de prêt",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Gestion des prêts",
+        "breadcrumbs_active": "Paiements de prêt",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+        "delete_failed": "Il y avait quelque chose qui n'allait pas."
+      },
+      "create": {
+        "page_title": "Créer un paiement de prêt",
+        "form_title": "Créer un remboursement de prêt",
+        "breadcrumbs_current": "Créer un paiement de prêt",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Paiements de prêt",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Paiement du prêt ajouté avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier le paiement du prêt",
+        "form_title": "Modifier le paiement du prêt",
+        "breadcrumbs_current": "Modifier le paiement du prêt",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Paiements de prêt",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Paiement mis à jour avec succès 👍"
+      },
+      "view": {
+        "page_title": "Détails du paiement du prêt",
+        "breadcrumbs_current": "Détails du paiement du prêt",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Paiements de prêt",
+        "breadcrumbs_active": "Des détails"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "Prêts",
+        "breadcrumbs_current": "Prêts",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Gestion des prêts",
+        "breadcrumbs_active": "Prêts",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+        "delete_failed": "Désolé, vous ne pouvez pas supprimer ce prêt."
+      },
+      "create": {
+        "page_title": "Créer un prêt",
+        "form_title": "Créer un prêt",
+        "breadcrumbs_current": "Créer un prêt",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Prêts",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Prêt ajouté avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier le prêt",
+        "form_title": "Modifier le prêt",
+        "breadcrumbs_current": "Modifier le prêt",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Prêts",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Prêt mis à jour avec succès 👍"
+      },
+      "view": {
+        "page_title": "Détails du prêt",
+        "breadcrumbs_current": "Détails du prêt",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Prêts",
+        "breadcrumbs_active": "Des détails"
+      }
+    }
+  },
+  "assets": {
+    "common": {
+      "asset_name": "Nom de l'actif",
+      "asset_name_placeholder": "Entrez le nom de l'actif",
+      "asset_type": "Type d'actif",
+      "asset_type_placeholder": "Sélectionnez un type d'actif",
+      "asset_cost": "Coût de l'actif",
+      "asset_cost_placeholder": "Saisir le coût de l'actif",
+      "current_value": "Valeur actuelle",
+      "depreciation": "Dépréciation",
+      "depreciation_type": "Type d'amortissement",
+      "salvage_value": "Valeur de récupération",
+      "salvage_value_placeholder": "Valeur de récupération",
+      "useful_life": "Vie utile",
+      "remaining_life": "Durée de vie restante",
+      "useful_life_placeholder": "Saisir la durée de vie utile",
+      "added_date": "Date d'ajout",
+      "expired_date": "Date d'expiration"
+    },
+    "types": {
+      "index": {
+        "page_title": "Types d'actifs",
+        "breadcrumbs_current": "Types d'actifs",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "La gestion d'actifs",
+        "breadcrumbs_active": "Types d'actifs",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+        "delete_failed": "Il y avait quelque chose qui n'allait pas."
+      },
+      "create": {
+        "page_title": "Créer un type d'actif",
+        "form_title": "Créer un type d'actif",
+        "breadcrumbs_current": "Créer un type d'actif",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Types d'actifs",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Type d'actif ajouté avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier le type d'actif",
+        "form_title": "Modifier le type d'élément",
+        "breadcrumbs_current": "Modifier le type d'actif",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Types d'actifs",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Type d'actif mis à jour avec succès 👍"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "Actifs",
+        "breadcrumbs_current": "Actifs",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "La gestion d'actifs",
+        "breadcrumbs_active": "Actifs",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+        "delete_failed": "Il y avait quelque chose qui n'allait pas."
+      },
+      "create": {
+        "page_title": "Créer un actif",
+        "form_title": "Créer un actif",
+        "breadcrumbs_current": "Créer un actif",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Actifs",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Actif ajouté avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier l'actif",
+        "form_title": "Modifier l'actif",
+        "breadcrumbs_current": "Modifier l'actif",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Actifs",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Actif mis à jour avec succès 👍"
+      },
+      "view": {
+        "page_title": "Détails de l'actif",
+        "breadcrumbs_current": "Détails de l'actif",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Actifs",
+        "breadcrumbs_active": "Des détails"
+      }
+    }
+  },
+  "payroll": {
+    "common": {
+      "salary_date": "Date de salaire",
+      "total_salary": "Salaire total",
+      "advance": "Avance",
+      "advance_placeholder": "Entrez le montant de l'avance",
+      "others": "Autres",
+      "others_placeholder": "Entrez le montant des autres",
+      "travel_allowance": "Allocation de voyage (TA)",
+      "travel_allowance_placeholder": "Saisir une indemnité de déplacement",
+      "festival_bonus": "Bonus de fête",
+      "festival_bonus_placeholder": "Entrez un bonus de festival",
+      "commission": "Commission",
+      "commission_placeholder": "Saisir une commission",
+      "bonus": "Prime",
+      "bonus_placeholder": "Saisissez une prime",
+      "food_bill": "Facture alimentaire",
+      "food_bill_placeholder": "Saisir une facture alimentaire",
+      "mobile_bill": "Facture mobile",
+      "mobile_bill_placeholder": "Saisir une facture mobile",
+      "deduction_reason": "Raison de la déduction",
+      "deduction_reason_placeholder": "Saisir un motif de déduction",
+      "deduction_amount": "Montant de la déduction",
+      "deduction_amount_placeholder": "Saisir un montant de déduction",
+      "present_salary": "Salaire actuel",
+      "salary_month": "Salaire Mois",
+      "salary_month_placeholder": "Sélectionnez un mois de salaire"
+    },
+    "index": {
+      "page_title": "Paie des employés",
+      "breadcrumbs_current": "Paie des employés",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Paie",
+      "breadcrumbs_active": "Paie",
+      "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+      "delete_failed": "Il y avait quelque chose qui n'allait pas."
+    },
+    "create": {
+      "page_title": "Créer la paie",
+      "form_title": "Créer la paie des employés",
+      "breadcrumbs_current": "Créer la paie",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Paie",
+      "breadcrumbs_active": "Créer",
+      "success_msg": "Paie ajoutée avec succès 👍"
+    },
+    "edit": {
+      "page_title": "Modifier la paie",
+      "form_title": "Modifier la paie",
+      "breadcrumbs_current": "Modifier la paie",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Paie",
+      "breadcrumbs_active": "Éditer",
+      "success_msg": "Paie mise à jour avec succès 👍"
+    },
+    "view": {
+      "page_title": "Détails de la paie",
+      "breadcrumbs_current": "Détails de la paie",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Paie",
+      "breadcrumbs_active": "Des détails"
+    }
+  },
+  "clients": {
+    "common": {
+      "non_invoice_transactions": "Transactions non facturées"
+    },
+    "index": {
+      "page_title": "Clients",
+      "breadcrumbs_current": "Clients",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Clients",
+      "breadcrumbs_active": "Clients",
+      "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+      "delete_failed": "Désolé, vous ne pouvez pas supprimer ce client."
+    },
+    "create": {
+      "page_title": "Créer un client",
+      "form_title": "Créer un client",
+      "breadcrumbs_current": "Créer un client",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Clients",
+      "breadcrumbs_active": "Créer",
+      "success_msg": "Client ajouté avec succès 👍"
+    },
+    "edit": {
+      "page_title": "Modifier le client",
+      "form_title": "Modifier le client",
+      "breadcrumbs_current": "Modifier le client",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Clients",
+      "breadcrumbs_active": "Éditer",
+      "success_msg": "Client mis à jour avec succès 👍"
+    },
+    "view": {
+      "page_title": "Détails du client",
+      "breadcrumbs_current": "Détails du client",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Clients",
+      "breadcrumbs_active": "Des détails"
+    }
+  },
+  "suppliers": {
+    "common": {
+      "non_purchase_transactions": "Transactions sans achat"
+    },
+    "index": {
+      "page_title": "Fournisseurs",
+      "breadcrumbs_current": "Fournisseurs",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Fournisseurs",
+      "breadcrumbs_active": "Fournisseurs",
+      "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+      "delete_failed": "Désolé, vous ne pouvez pas supprimer ce fournisseur."
+    },
+    "create": {
+      "page_title": "Créer un fournisseur",
+      "form_title": "Créer un fournisseur",
+      "breadcrumbs_current": "Créer un fournisseur",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Fournisseurs",
+      "breadcrumbs_active": "Créer",
+      "success_msg": "Fournisseur ajouté avec succès 👍"
+    },
+    "edit": {
+      "page_title": "Modifier le fournisseur",
+      "form_title": "Modifier le fournisseur",
+      "breadcrumbs_current": "Modifier le fournisseur",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Fournisseurs",
+      "breadcrumbs_active": "Éditer",
+      "success_msg": "Fournisseur mis à jour avec succès 👍"
+    },
+    "view": {
+      "page_title": "Détails du fournisseur",
+      "breadcrumbs_current": "Détails du fournisseur",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Fournisseurs",
+      "breadcrumbs_active": "Des détails"
+    }
+  },
+  "employees": {
+    "common": {
+      "increment_date": "Date d'incrémentation",
+      "increment_amount": "Montant de l'incrément",
+      "increment_amount_placeholder": "Entrez le montant de l'incrément",
+      "increment_reason": "Raison de l'incrément",
+      "increment_reason_placeholder": "Entrez une raison",
+      "basic_salary": "Salaire de base",
+      "current_salary": "Salaire actuel",
+      "incremented_salary": "Augmentation de salaire",
+      "birth_date": "Date de naissance",
+      "join_date": "Date d'inscription",
+      "employee_name": "Nom de l'employé",
+      "employee_name_placeholder": "Entrez un nom d'employé",
+      "gender": "Le sexe",
+      "gender_placeholder": "Sélectionnez un sexe",
+      "male": "Homme",
+      "female": "Femelle",
+      "transgender": "transgenres",
+      "other": "Autre",
+      "blood_group": "Groupe sanguin",
+      "blood_group_placeholder": "Sélectionnez un groupe sanguin",
+      "religion": "La religion",
+      "religion_placeholder": "Sélectionnez une religion",
+      "islam": "Islam",
+      "hinduism": "hindouisme",
+      "buddhists": "Bouddhistes",
+      "christians": "les chrétiens",
+      "animists": "Animistes",
+      "appointment_date": "Date de rendez-vous",
+      "allow_login": "Autoriser la connexion des employés",
+      "increment_history": "Historique des incréments"
+    },
+    "departments": {
+      "index": {
+        "page_title": "Départements",
+        "breadcrumbs_current": "Départements",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Employés",
+        "breadcrumbs_active": "Départements",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+        "delete_failed": "Il y avait quelque chose qui n'allait pas."
+      },
+      "create": {
+        "page_title": "Créer un département",
+        "form_title": "Créer un département",
+        "breadcrumbs_current": "Créer un département",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Départements",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Département ajouté avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier le département",
+        "form_title": "Modifier le département",
+        "breadcrumbs_current": "Modifier le département",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Départements",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Département mis à jour avec succès 👍"
+      }
+    },
+    "increments": {
+      "index": {
+        "page_title": "Augmentations salariales des employés",
+        "breadcrumbs_current": "Augmentations de salaire",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Employés",
+        "breadcrumbs_active": "Incréments",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+        "delete_failed": "Il y avait quelque chose qui n'allait pas."
+      },
+      "create": {
+        "page_title": "Créer un incrément de salaire",
+        "form_title": "Créer une augmentation de salaire",
+        "breadcrumbs_current": "Créer un incrément de salaire",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Incréments",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Incrément ajouté avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier l'incrément de salaire",
+        "form_title": "Modifier l'augmentation de salaire",
+        "breadcrumbs_current": "Modifier l'incrément de salaire",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Incréments",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Incrément mis à jour avec succès 👍"
+      },
+      "view": {
+        "page_title": "Détails de l'incrément",
+        "breadcrumbs_current": "Détails de l'incrément",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Incréments",
+        "breadcrumbs_active": "Des détails"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "Employés",
+        "breadcrumbs_current": "Employés",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_active": "Employés",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+        "delete_failed": "Il y avait quelque chose qui n'allait pas."
+      },
+      "create": {
+        "page_title": "Créer un employé",
+        "form_title": "Créer un employé",
+        "breadcrumbs_current": "Créer un employé",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Employés",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Employé ajouté avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier l'employé",
+        "form_title": "Modifier l'employé",
+        "breadcrumbs_current": "Modifier l'employé",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Employés",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Employé mis à jour avec succès 👍"
+      },
+      "view": {
+        "page_title": "Détails de l'employé",
+        "breadcrumbs_current": "Détails de l'employé",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Employés",
+        "breadcrumbs_active": "Des détails"
+      }
+    }
+  },
+  "products": {
+    "categories": {
+      "index": {
+        "page_title": "catégories de produits",
+        "breadcrumbs_current": "catégories de produits",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Des produits",
+        "breadcrumbs_active": "Catégories",
+        "delete_warning": "Toutes les sous-catégories de cette catégorie seront supprimées !"
+      },
+      "create": {
+        "page_title": "Créer une catégorie de produit",
+        "form_title": "Créer une catégorie de produits",
+        "breadcrumbs_current": "Créer une catégorie",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Des produits",
+        "breadcrumbs_third": "Catégories",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Catégorie ajoutée avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier la catégorie de produit",
+        "form_title": "Modifier la catégorie de produit",
+        "breadcrumbs_current": "Modifier la catégorie de produit",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Des produits",
+        "breadcrumbs_third": "Catégories",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Catégorie mise à jour avec succès 👍"
+      }
+    },
+    "sub_categories": {
+      "index": {
+        "page_title": "Sous-catégories de produits",
+        "breadcrumbs_current": "Sous-catégories de produits",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Des produits",
+        "breadcrumbs_active": "Sous-catégories",
+        "delete_warning": "Tous les produits de cette catégorie seront supprimés !"
+      },
+      "create": {
+        "page_title": "Créer une sous-catégorie de produit",
+        "form_title": "Créer une sous-catégorie de produit",
+        "breadcrumbs_current": "Créer une sous-catégorie",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Des produits",
+        "breadcrumbs_third": "Sous-catégories",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Sous-catégorie ajoutée avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier la sous-catégorie de produit",
+        "form_title": "Modifier la sous-catégorie de produit",
+        "breadcrumbs_current": "Modifier la sous-catégorie de produit",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Des produits",
+        "breadcrumbs_third": "Sous-catégories",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Sous-catégorie mise à jour avec succès 👍"
+      }
+    },
+    "list": {
+      "common": {
+        "alert_quantity": "Quantité d'alerte",
+        "alert_quantity_placeholder": "Entrez la quantité d'alerte",
+        "selling_price": "Prix de vente",
+        "selling_price_placeholder": "Entrez le prix de vente",
+        "regular_price": "Prix habituel",
+        "regular_price_placeholder": "Entrez le prix régulier",
+        "tax_type": "Type de taxe",
+        "exclusive": "Exclusif",
+        "inclusive": "Compris",
+        "product_tax": "Taxe sur les produits",
+        "tax_placeholder": "Sélectionnez une taxe",
+        "barcode_symbology": "Symbologie des codes-barres",
+        "tax_amount": "Montant de la taxe",
+        "avg_purchase_price": "Moy. Prix d'achat",
+        "avg_selling_price": "Moy. Prix de vente",
+        "stock": "Stocker",
+        "inventory_value": "Valeur d'inventaire",
+        "generate_barcode": "Générer un code-barres"
+      },
+      "index": {
+        "page_title": "Des produits",
+        "breadcrumbs_current": "Des produits",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Des produits",
+        "breadcrumbs_active": "Des produits",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !"
+      },
+      "create": {
+        "page_title": "Créer un produit",
+        "form_title": "Créer un produit",
+        "breadcrumbs_current": "Créer un produit",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Des produits",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Produit ajouté avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier le produit",
+        "form_title": "Modifier le produit",
+        "breadcrumbs_current": "Modifier le produit",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Des produits",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Produit mis à jour avec succès 👍"
+      },
+      "view": {
+        "page_title": "détails du produit",
+        "breadcrumbs_current": "détails du produit",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Des produits",
+        "breadcrumbs_active": "Des détails",
+        "expense_details": "détails du produit"
+      },
+      "barcode": {
+        "page_title": "Imprimer le code-barres",
+        "generate_barcode": "Générer un code-barres",
+        "print_barcode": "Imprimer le code-barres",
+        "paper_size": "Taille de papier",
+        "print_qty": "Qté d'impression",
+        "breadcrumbs_current": "Imprimer le code-barres",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Des produits",
+        "breadcrumbs_active": "Éditer",
+        "page_option_0": "40 par feuille (a4) (1.799 * 1.003)",
+        "page_option_1": "30 par feuille (2.625 * 1)",
+        "page_option_2": "24 par feuille (a4) (2,48 * 1,334)",
+        "page_option_3": "20 par feuille (4 * 1)",
+        "page_option_4": "18 par feuille (a4) (2,5 * 1,835)",
+        "page_option_5": "14 par feuille (4 * 1.33)",
+        "page_option_6": "12 par feuille (a4) (2,5 * 2,834)",
+        "page_option_7": "10 par feuille (4 * 2)"
+      }
+    }
+  },
+  "inventory": {
+    "common": {
+      "inventory_history": "Historique d'inventaire",
+      "adjustment_no": "Ajustement Non",
+      "adjustment_date": "Date d'ajustement",
+      "adjustment_type": "Type d'ajustement",
+      "increment": "Incrément",
+      "decrement": "Décrémenter",
+      "adjustment_reason": "Raison de l'ajustement",
+      "adjusted_products": "Produits ajustés"
+    },
+    "index": {
+      "page_title": "Inventaire",
+      "breadcrumbs_current": "Inventaire",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Des produits",
+      "breadcrumbs_active": "Inventaire"
+    },
+    "history": {
+      "page_title": "Historique d'inventaire",
+      "breadcrumbs_current": "Historique d'inventaire",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Inventaire",
+      "breadcrumbs_active": "Histoire"
+    },
+    "adjustments": {
+      "index": {
+        "page_title": "Ajustements d'inventaire",
+        "breadcrumbs_current": "Ajustements d'inventaire",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Inventaire",
+        "breadcrumbs_active": "Ajustements",
+        "delete_warning": "Vous ne pourrez pas revenir là-dessus !",
+        "delete_failed": "Il y avait quelque chose qui n'allait pas."
+      },
+      "create": {
+        "page_title": "Créer un ajustement",
+        "form_title": "Créer un ajustement",
+        "breadcrumbs_current": "Créer un ajustement",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Ajustements",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Ajustement ajouté avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier l'ajustement",
+        "form_title": "Modifier l'ajustement",
+        "breadcrumbs_current": "Modifier l'ajustement",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Ajustements",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Ajustement mis à jour avec succès 👍"
+      },
+      "view": {
+        "page_title": "Détails de l'ajustement",
+        "breadcrumbs_current": "Détails de l'ajustement",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Ajustements",
+        "breadcrumbs_active": "Des détails"
+      }
+    }
+  },
+  "reports": {
+    "stock_in": "En stock",
+    "stock_out": "Rupture de stock",
+    "total_quantity": "Quantité totale",
+    "incomes": "Revenus",
+    "liabilities": "Passifs",
+    "security_asset": "Sécurité totale/Actif",
+    "supplier_dues": "Cotisations du fournisseur",
+    "client_dues": "Cotisations du client",
+    "bank_loan": "Prêt banquaire",
+    "bank_balance": "Solde bancaire",
+    "income_liabilities": "(Revenu - Passif)",
+    "total_asset": "Actif total",
+    "view_report": "Voir le rapport",
+    "monthly_summery": "Résumé mensuel",
+    "particulars": "Détails",
+    "opening_balance": "Solde d'ouverture",
+    "invoice_sales": "Ventes sur facture",
+    "invoice_dues": "Facture",
+    "accounts_collection": "Recouvrement de comptes",
+    "general": "Général",
+    "loan_interest": "Intérêts d'emprunt",
+    "asset_depreciation": "Amortissement des actifs",
+    "transfer": "Transfert",
+    "transfer_from": "Transfert de solde de",
+    "closing_balance": "Solde de clôture",
+    "report_type": "Type de rapport",
+    "gross_profit_Loss": "Bénéfice/perte brut",
+    "net_profit_Loss": "Bénéfice/perte net",
+    "sold_qty": "Quantité vendue",
+    "profit": "Profit",
+    "loss": "Perte",
+    "total_sales_avg": "Ventes totales (moyenne)",
+    "total_purchased_avg": "Achat total (moyenne)",
+    "income_statement": "releve de revenue",
+    "total_sales": "Ventes totales",
+    "cost_of_goods_sold": "Coût des marchandises vendues",
+    "positive_adjusted": "Positif Ajusté",
+    "negative_adjusted": "Négatif Ajusté",
+    "total_adjusted": "Total ajusté",
+    "gross_profit": "Bénéfice brut",
+    "gross_loss": "Perte brute",
+    "operating_expenses": "Dépenses de fonctionnement",
+    "salaries": "Les salaires",
+    "general_expenses": "Frais généraux",
+    "total_expense": "Dépense totale",
+    "net_profit": "Bénéfice net",
+    "net_loss": "Perte nette",
+    "date_range": "Plage de dates",
+    "stock_in_hand": "Stock en main",
+    "balance_sheet": {
+      "page_title": "Bilan",
+      "breadcrumbs_current": "Bilan",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Rapports",
+      "breadcrumbs_active": "Bilan"
+    },
+    "summary": {
+      "page_title": "Rapport sommaire",
+      "breadcrumbs_current": "Rapport sommaire",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Rapports",
+      "breadcrumbs_active": "Rapport sommaire"
+    },
+    "profit_loss": {
+      "empty_msg_title": "Gain/perte vide !",
+      "empty_msg_text": "Désolé, aucun profit/perte n'a été trouvé pour la catégorie et la plage de dates que vous avez sélectionnées.",
+      "page_title": "Rapport de profits/pertes",
+      "breadcrumbs_current": "Rapport sur les profits/pertes",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Rapports",
+      "breadcrumbs_active": "Rapport de profits/pertes"
+    },
+    "expense": {
+      "empty_msg_title": "Dépenses vides !",
+      "empty_msg_text": "Désolé, aucune dépense n'a été trouvée pour la catégorie et la plage de dates que vous avez sélectionnées.",
+      "page_title": "Rapport de dépenses",
+      "breadcrumbs_current": "Rapport de dépenses",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Rapports",
+      "breadcrumbs_active": "Rapport de dépenses"
+    },
+    "product": {
+      "empty_msg_title": "Vider!",
+      "empty_msg_text": "Désolé, aucun stock ou rupture de stock n'a été trouvé pour l'article et la plage de dates que vous avez sélectionnés.",
+      "page_title": "Rapport d'article",
+      "breadcrumbs_current": "Rapport d'article",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Rapports",
+      "breadcrumbs_active": "Rapport d'article"
+    },
+    "inventory": {
+      "empty_msg_title": "Inventaire vide !",
+      "empty_msg_text": "Désolé, aucun inventaire n'a été trouvé pour la catégorie et la plage de dates que vous avez sélectionnées.",
+      "page_title": "Rapport d'inventaire",
+      "breadcrumbs_current": "Rapport d'inventaire",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_second": "Rapports",
+      "breadcrumbs_active": "Rapport d'inventaire"
+    }
+  },
+  "setup": {
+    "common": {
+      "sort_code": "Petit code",
+      "sort_code_placeholder": "Entrez un code court"
+    },
+    "index": {
+      "page_title": "Installer",
+      "breadcrumbs_current": "Installer",
+      "breadcrumbs_first": "Tableau de bord",
+      "breadcrumbs_active": "Installer",
+      "menu": {
+        "item_one": {
+          "title": "Général",
+          "description": "Paramètres généraux tels que le titre du site, la description du site, l'adresse, etc.",
+          "link_text": "Modifier le paramètre"
+        },
+        "item_two": {
+          "title": "Devises",
+          "description": "Gérez différents types de devises que vous allez utiliser dans le système.",
+          "link_text": "Devises"
+        },
+        "item_three": {
+          "title": "Unités",
+          "description": "Gérez les types d'unités de mesure que vous allez utiliser dans le système.",
+          "link_text": "Unités"
+        },
+        "item_four": {
+          "title": "Rôle et autorisations",
+          "description": "Gérer les rôles et les autorisations pour les utilisateurs qui vont utiliser le système.",
+          "link_text": "Rôles et autorisations"
+        },
+        "item_five": {
+          "title": "Taux de TVA",
+          "description": "Gérer les taux de TVA pour la gestion de la TVA que vous allez utiliser dans le système.",
+          "link_text": "Taux de TVA"
+        },
+        "item_six": {
+          "title": "Marques",
+          "description": "Gérez les marques que vous allez utiliser dans le système.",
+          "link_text": "Marques"
+        },
+        "item_seven": {
+          "title": "méthodes de payement",
+          "description": "Gérez les méthodes de paiement que vous allez utiliser dans le système.",
+          "link_text": "méthodes de payement"
+        },
+        "item_eight": {
+          "title": "Autorisations utilisateur",
+          "description": "Gérez les autorisations que vous allez attribuer à un rôle.",
+          "link_text": "Autorisations utilisateur"
+        }
+      }
+    },
+    "general_settings": {
+      "index": {
+        "page_title": "réglages généraux",
+        "breadcrumbs_current": "réglages généraux",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_active": "Mettre à jour les paramètres généraux",
+        "form_title": "Mettre à jour les paramètres généraux",
+        "success_message": "Paramètres mis à jour avec succès 👍",
+        "company_info": {
+          "info_title": "Ajoutez les informations de votre entreprise",
+          "company_tagline": "Slogan de l'entreprise",
+          "company_tagline_placeholder": "Slogan de l'entreprise",
+          "email_address": "Adresse e-mail",
+          "email_address_placeholder": "entrez une adresse email",
+          "phone_number": "Numéro de téléphone",
+          "phone_number_placeholder": "Numéro de téléphone"
+        },
+        "code_prefixes": {
+          "prefix_title": "Ajouter les préfixes de code",
+          "client_prefix": "Préfixe client",
+          "client_prefix_placeholder": "Entrez un préfixe client",
+          "supplier_prefix": "Préfixe du fournisseur",
+          "supplier_prefix_placeholder": "Entrez un préfixe de fournisseur",
+          "employee_prefix": "Préfixe de l'employé",
+          "employee_prefix_placeholder": "Entrez un préfixe d'employé",
+          "product_category_prefix": "Préfixe de catégorie de produit",
+          "product_category_prefix_placeholder": "Entrez un préfixe de catégorie de produit",
+          "product_sub_category_prefix": "Préfixe de sous-catégorie de produit",
+          "product_sub_category_prefix_placeholder": "Entrez un préfixe de sous-catégorie",
+          "product_prefix": "Préfixe du produit",
+          "product_prefix_placeholder": "Entrez un préfixe de produit",
+          "expense_category_prefix": "Préfixe de catégorie de dépenses",
+          "expense_category_prefix_placeholder": "Entrez un préfixe de catégorie de dépenses",
+          "expense_sub_category_prefix": "Préfixe de sous-catégorie de dépenses",
+          "expense_sub_category_prefix_placeholder": "Entrez un préfixe de sous-catégorie de dépenses",
+          "purchase_prefix": "Préfixe d'achat",
+          "purchase_prefix_placeholder": "Entrez un préfixe d'achat",
+          "purchase_return_prefix": "Préfixe de retour d'achat",
+          "purchase_return_prefix_placeholder": "Entrez un préfixe de retour d'achat",
+          "quotation_prefix": "Préfixe de citation",
+          "quotation_prefix_placeholder": "Entrez un préfixe de devis",
+          "invoice_prefix": "Préfixe de facture",
+          "invoice_prefix_placeholder": "Saisir un préfixe de facture",
+          "invoice_return_prefix": "Préfixe de retour de facture",
+          "invoice_return_prefix_placeholder": "Saisir un préfixe de retour de facture",
+          "invoice_adjustment_prefix": "Préfixe d'ajustement d'inventaire",
+          "invoice_adjustment_prefix_placeholder": "Saisir un préfixe d'ajustement d'inventaire"
+        },
+        "default_elements": {
+          "default_elements_title": "Ajoutez vos éléments par défaut",
+          "default_currency": "devise par défaut",
+          "select_a_currency": "Sélectionnez une devise",
+          "default_language": "Langage par défaut",
+          "english_en": "espagnol (fr)",
+          "hindi_hi": "non (salut)",
+          "bangla_bn": "Bangla (en milliards)",
+          "copyright_text": "Texte du droit d'auteur",
+          "copyright_text_placeholder": "Texte du droit d'auteur",
+          "default_client": "Client par défaut",
+          "default_account": "Compte par défaut",
+          "select_a_account": "Sélectionnez un compte",
+          "select_a_client": "Sélectionnez une cliente",
+          "default_vat_rate": "Taux de TVA par défaut",
+          "select_a_vat_rate": "Sélectionnez un taux de TVA"
+        },
+        "logo": {
+          "white_logo": "Logo blanc",
+          "black_logo": "Logo noir",
+          "small_logo": "Petit logo",
+          "favicon": "Icône de favori"
+        }
+      }
+    },
+    "currencies": {
+      "common": {
+        "symbol": "Symbole",
+        "symbol_placeholder": "Entrez un symbole",
+        "currency_position": "Position de la devise",
+        "position_drop_down_item_one": "Alignement à gauche",
+        "position_drop_down_item_two": "Alignement à droite"
+      },
+      "index": {
+        "page_title": "Devises",
+        "breadcrumbs_current": "Devises",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_active": "Devises",
+        "table": {
+          "position": "Positionner",
+          "preview": "Aperçu"
+        }
+      },
+      "create": {
+        "page_title": "Créer une devise",
+        "breadcrumbs_current": "Créer une devise",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_third": "Devises",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Devise ajoutée avec succès 👍",
+        "form_title": "Créer une devise"
+      },
+      "edit": {
+        "page_title": "Modifier la devise",
+        "breadcrumbs_current": "Modifier la devise",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_third": "Devises",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Devise mise à jour avec succès 👍",
+        "form_title": "Modifier la devise"
+      }
+    },
+    "units": {
+      "index": {
+        "page_title": "Unités",
+        "breadcrumbs_current": "Unités",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_active": "Unités"
+      },
+      "create": {
+        "page_title": "Créer une unité",
+        "breadcrumbs_current": "Créer une unité",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_third": "Unités",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Unité ajoutée avec succès 👍",
+        "form_title": "Créer une unité"
+      },
+      "edit": {
+        "page_title": "Modifier l'unité",
+        "breadcrumbs_current": "Modifier l'unité",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_third": "Unités",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Unité mise à jour avec succès 👍",
+        "form_title": "Modifier l'unité"
+      }
+    },
+    "permissions": {
+      "common": {
+        "slug": "Limace",
+        "slug_placeholder": "Entrez une limace",
+        "guard_name": "Nom du garde",
+        "guard_name_placeholder": "Entrez un nom de garde"
+      },
+      "index": {
+        "page_title": "Autorisations",
+        "breadcrumbs_current": "Autorisations",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_active": "Autorisations"
+      },
+      "create": {
+        "page_title": "Créer une autorisation",
+        "form_title": "Créer une autorisation",
+        "breadcrumbs_current": "Créer une autorisation",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_third": "Autorisations",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Autorisation ajoutée avec succès 👍"
+      },
+      "edit": {
+        "page_title": "Modifier l'autorisation",
+        "form_title": "Modifier l'autorisation",
+        "breadcrumbs_current": "Modifier l'autorisation",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_third": "Autorisations",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Autorisation mise à jour avec succès 👍"
+      }
+    },
+    "role_and_permission": {
+      "index": {
+        "page_title": "Rôles et autorisations",
+        "breadcrumbs_current": "Rôles et autorisations",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_active": "Rôles et autorisations",
+        "role_name": "Nom de rôle"
+      },
+      "create": {
+        "page_title": "Créer un rôle",
+        "breadcrumbs_current": "Créer un rôle",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_third": "Rôles et autorisations",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Rôle ajouté avec succès 👍",
+        "form_title": "Créer un rôle",
+        "select_permission": "Sélectionnez les autorisations :"
+      },
+      "edit": {
+        "page_title": "Modifier le rôle",
+        "breadcrumbs_current": "Modifier le rôle",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_third": "Rôles et autorisations",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Rôle mis à jour avec succès 👍",
+        "form_title": "Modifier le rôle",
+        "update_permission": "Autorisations de mise à jour :"
+      }
+    },
+    "vat_rates": {
+      "common": {
+        "rate_in_percent": "Taux(Calculé en %)",
+        "rate_palceholder": "Saisir un tarif"
+      },
+      "index": {
+        "page_title": "Taux de TVA",
+        "breadcrumbs_current": "Taux de TVA",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_active": "Taux de TVA",
+        "rate": "Fréquence"
+      },
+      "create": {
+        "page_title": "Créer un taux de TVA",
+        "breadcrumbs_current": "Créer un taux de TVA",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_third": "Taux de TVA",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Taux de TVA ajouté avec succès 👍",
+        "form_title": "Créer un taux de TVA"
+      },
+      "edit": {
+        "page_title": "Modifier le taux de TVA",
+        "breadcrumbs_current": "Modifier le taux de TVA",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_third": "Taux de TVA",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Taux de TVA mis à jour avec succès 👍",
+        "form_title": "Modifier le taux de TVA"
+      }
+    },
+    "brands": {
+      "common": {
+        "brand_name": "Marque",
+        "brand_name_placeholder": "Entrez le nom de la marque"
+      },
+      "index": {
+        "page_title": "Marques",
+        "breadcrumbs_current": "Marques",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_active": "Marques",
+        "brand_logo_view": "Vue du logo de la marque"
+      },
+      "create": {
+        "page_title": "Créer une marque",
+        "breadcrumbs_current": "Créer une marque",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_third": "Marques",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Marque ajoutée avec succès 👍",
+        "form_title": "Créer une marque"
+      },
+      "view": {
+        "page_title": "Détails de la marque",
+        "breadcrumbs_current": "Détails de la marque",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_third": "Marques",
+        "breadcrumbs_active": "Des détails"
+      },
+      "edit": {
+        "page_title": "Modifier la marque",
+        "breadcrumbs_current": "Modifier la marque",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_third": "Marques",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Marque mise à jour avec succès 👍",
+        "form_title": "Modifier la marque"
+      }
+    },
+    "payment_methods": {
+      "index": {
+        "page_title": "méthodes de payement",
+        "breadcrumbs_current": "méthodes de payement",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_active": "méthodes de payement"
+      },
+      "create": {
+        "page_title": "Créer un mode de paiement",
+        "breadcrumbs_current": "Créer un mode de paiement",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_third": "méthodes de payement",
+        "breadcrumbs_active": "Créer",
+        "success_msg": "Mode de paiement ajouté avec succès 👍",
+        "form_title": "Créer un moyen de paiement"
+      },
+      "edit": {
+        "page_title": "Modifier le mode de paiement",
+        "breadcrumbs_current": "Modifier le mode de paiement",
+        "breadcrumbs_first": "Tableau de bord",
+        "breadcrumbs_second": "Installer",
+        "breadcrumbs_third": "méthodes de payement",
+        "breadcrumbs_active": "Éditer",
+        "success_msg": "Mode de paiement mis à jour avec succès 👍",
+        "form_title": "Modifier le mode de paiement"
+      }
+    }
+  },
+  "user_profile": {
+    "form_title": "Mettre à jour votre profil",
+    "page_title": "Mettre à jour le profil",
+    "breadcrumbs_current": "Mettre à jour le profil",
+    "breadcrumbs_first": "Tableau de bord",
+    "breadcrumbs_active": "Mettre à jour",
+    "current_password": "Mot de passe actuel",
+    "current_password_placeholder": "Entrer le mot de passe actuel",
+    "new_password": "nouveau mot de passe",
+    "new_password_placeholder": "Entrez un nouveau mot de passe",
+    "confirm_password": "Confirmez le mot de passe",
+    "confirm_password_placeholder": "Entrez le mot de passe de confirmation",
+    "success_msg": "Profil mis à jour avec succès 👍"
+  },
+  "stock_alert": {
+    "page_title": "Produits d'alerte de stock",
+    "breadcrumbs_current": "Produits d'alerte de stock",
+    "breadcrumbs_first": "Tableau de bord",
+    "breadcrumbs_active": "Produits d'alerte"
+  },
+  "backup": {
+    "page_title": "Sauvegarde de la base de données",
+    "breadcrumbs_current": "Sauvegarde de la base de données",
+    "breadcrumbs_first": "Tableau de bord",
+    "breadcrumbs_active": "Sauvegarde",
+    "export": "Exportation",
+    "format": "Format",
+    "format_sql": "SQL (.sql)",
+    "success_msg": "Sauvegarde téléchargée avec succès 👍"
+  },
+  "permission_denied": {
+    "page_title": "Permission refusée",
+    "breadcrumbs_current": "Permission refusée",
+    "breadcrumbs_first": "Tableau de bord",
+    "breadcrumbs_active": "Permission refusée",
+    "error_msg": "Vous n'êtes pas autorisé à afficher cette page.",
+    "error_code": "code d'erreur : 403 interdit."
+  },
+  "error_not_found": {
+    "error_404": "404",
+    "error_404_title": "Page non trouvée",
+    "error_404_msg": "Désolé, l'URL demandée n'a pas été trouvée sur ce serveur. C'est tout ce que nous savons!",
+    "back_to_dashboard": "Retour au tableau de bord",
+    "back_to_login": "Retour connexion"
+  },
+  "sidebar_control": {
+    "customize_acculance": "Personnaliser la précision",
+    "dark_mode": "Mode sombre",
+    "header_options": "Options d'en-tête",
+    "fixed": "Fixé",
+    "no_border": "Pas de frontière",
+    "sidebar_options": "Options de la barre latérale",
+    "sidebar_dark": "Barre latérale sombre",
+    "collapsed": "Barre latérale réduite",
+    "sidebar_fixed": "Barre latérale fixe",
+    "sidebar_mini": "Mini-barre latérale",
+    "nav_flat_style": "Style plat de navigation",
+    "nav_legacy_style": "Style de navigation hérité",
+    "nav_child_indent": "Retrait enfant de la navigation",
+    "disable_hover": "Désactiver l'expansion automatique du survol / de la mise au point"
+  },
+  "pos": {
+    "page_title": "PDV",
+    "breadcrumbs_current": "Créer une vente",
+    "breadcrumbs_first": "Tableau de bord",
+    "breadcrumbs_second": "Factures",
+    "breadcrumbs_active": "PDV",
+    "available": "Disponible",
+    "pos": "PDV",
+    "complete_order": "Sauver",
+    "complete_order_and_add_payment": "Économisez et payez",
+    "add_payment": "Ajouter un paiement",
+    "invoice_receipt": "Reçu de facture",
+    "not_enough_items": "Pas assez d'objets!",
+    "receipt_text": "Merci de magasiner avec nous. Reviens s'il te plait!"
+  },
+  "csv": {
+    "title": "Téléchargez votre fichier CSV",
+    "success": "Succès",
+    "import_success": "Fichier CSV importé avec succès !",
+    "instructions": "Instructions",
+    "download_zip": "Téléchargez le dossier zip.",
+    "populate_information": "Remplissez le products.csv avec vos informations sur le produit.",
+    "corresponding_CSV": "Vous pouvez obtenir les identifiants liés au produit dans leur fichier CSV correspondant",
+    "example": "Exemple : sub_cat_id dans sub-categories.csv"
+  },
+  "Create Client": "Créer un client",
+  "Cancel": "Annuler",
+  "Create Product": "Créer un produit",
+  "Create Supplier": "Créer un fournisseur",
+  "Generate barcode with price": "Générer un code-barres avec le prix",
+  "Price": "Prix",
+  "TAX": "IMPÔT"
+}

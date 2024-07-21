@@ -1,0 +1,186 @@
+<?php
+
+namespace Database\Seeders;
+
+use Illuminate\Database\Seeder;
+
+class DemoPurchaseProductsTableSeeder extends Seeder
+{
+    /**
+     * Auto generated seed file
+     *
+     * @return void
+     */
+    public function run()
+    {
+        \DB::table('purchase_products')->delete();
+
+        \DB::table('purchase_products')->insert([
+            0 => [
+                'id' => 6,
+                'quantity' => 10.0,
+                'purchase_price' => 1200.0,
+                'unit_cost' => 1200.0,
+                'tax_amount' => 0.0,
+                'created_at' => now(),
+                'updated_at' => now(),
+                'purchase_id' => 1,
+                'product_id' => 3,
+            ],
+            1 => [
+                'id' => 5,
+                'quantity' => 10.0,
+                'purchase_price' => 900.0,
+                'unit_cost' => 900.0,
+                'tax_amount' => 81.82,
+                'created_at' => now(),
+                'updated_at' => now(),
+                'purchase_id' => 1,
+                'product_id' => 2,
+            ],
+            2 => [
+                'id' => 4,
+                'quantity' => 10.0,
+                'purchase_price' => 800.0,
+                'unit_cost' => 880.0,
+                'tax_amount' => 80.0,
+                'created_at' => now(),
+                'updated_at' => now(),
+                'purchase_id' => 1,
+                'product_id' => 1,
+            ],
+            3 => [
+                'id' => 7,
+                'quantity' => 10.0,
+                'purchase_price' => 800.0,
+                'unit_cost' => 880.0,
+                'tax_amount' => 80.0,
+                'created_at' => now(),
+                'updated_at' => now(),
+                'purchase_id' => 2,
+                'product_id' => 1,
+            ],
+            4 => [
+                'id' => 8,
+                'quantity' => 10.0,
+                'purchase_price' => 900.0,
+                'unit_cost' => 900.0,
+                'tax_amount' => 81.82,
+                'created_at' => now(),
+                'updated_at' => now(),
+                'purchase_id' => 2,
+                'product_id' => 2,
+            ],
+            5 => [
+                'id' => 9,
+                'quantity' => 10.0,
+                'purchase_price' => 1200.0,
+                'unit_cost' => 1200.0,
+                'tax_amount' => 0.0,
+                'created_at' => now(),
+                'updated_at' => now(),
+                'purchase_id' => 2,
+                'product_id' => 3,
+            ],
+            6 => [
+                'id' => 15,
+                'quantity' => 10.0,
+                'purchase_price' => 1300.0,
+                'unit_cost' => 1300.0,
+                'tax_amount' => 0.0,
+                'created_at' => now(),
+                'updated_at' => now(),
+                'purchase_id' => 3,
+                'product_id' => 3,
+            ],
+            7 => [
+                'id' => 14,
+                'quantity' => 10.0,
+                'purchase_price' => 1000.0,
+                'unit_cost' => 1000.0,
+                'tax_amount' => 90.91,
+                'created_at' => now(),
+                'updated_at' => now(),
+                'purchase_id' => 3,
+                'product_id' => 2,
+            ],
+            8 => [
+                'id' => 13,
+                'quantity' => 10.0,
+                'purchase_price' => 750.0,
+                'unit_cost' => 825.0,
+                'tax_amount' => 75.0,
+                'created_at' => now(),
+                'updated_at' => now(),
+                'purchase_id' => 3,
+                'product_id' => 1,
+            ],
+            9 => [
+                'id' => 16,
+                'quantity' => 10.0,
+                'purchase_price' => 852.5,
+                'unit_cost' => 937.75,
+                'tax_amount' => 85.25,
+                'created_at' => now(),
+                'updated_at' => now(),
+                'purchase_id' => 4,
+                'product_id' => 1,
+            ],
+            10 => [
+                'id' => 17,
+                'quantity' => 10.0,
+                'purchase_price' => 950.0,
+                'unit_cost' => 950.0,
+                'tax_amount' => 86.36,
+                'created_at' => now(),
+                'updated_at' => now(),
+                'purchase_id' => 4,
+                'product_id' => 2,
+            ],
+            11 => [
+                'id' => 18,
+                'quantity' => 10.0,
+                'purchase_price' => 1250.0,
+                'unit_cost' => 1250.0,
+                'tax_amount' => 0.0,
+                'created_at' => now(),
+                'updated_at' => now(),
+                'purchase_id' => 4,
+                'product_id' => 3,
+            ],
+            12 => [
+                'id' => 19,
+                'quantity' => 20.0,
+                'purchase_price' => 800.0,
+                'unit_cost' => 880.0,
+                'tax_amount' => 80.0,
+                'created_at' => now(),
+                'updated_at' => now(),
+                'purchase_id' => 5,
+                'product_id' => 1,
+            ],
+            13 => [
+                'id' => 20,
+                'quantity' => 20.0,
+                'purchase_price' => 950.0,
+                'unit_cost' => 950.0,
+                'tax_amount' => 86.36,
+                'created_at' => now(),
+                'updated_at' => now(),
+                'purchase_id' => 5,
+                'product_id' => 2,
+            ],
+            14 => [
+                'id' => 21,
+                'quantity' => 20.0,
+                'purchase_price' => 1100.0,
+                'unit_cost' => 1100.0,
+                'tax_amount' => 0.0,
+                'created_at' => now(),
+                'updated_at' => now(),
+                'purchase_id' => 5,
+                'product_id' => 3,
+            ],
+        ]);
+    }
+}

@@ -1,0 +1,3 @@
+name,model,barcode_symbology,sub_cat_id,brand_id,unit_id,tax_id,tax_type,regular_price,discount,note,alert_qty,status
+Rafsan,rafsan,CODE128,1,1,1,2,Exclusive,1000,50,test node,100,1
+Leemon,leemon,CODE39,1,2,1,3,Inclusive,2000,,test node,100,0

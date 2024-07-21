@@ -1,0 +1,2282 @@
+{
+  "ok": "Ne rregull",
+  "cancel": "Anulo",
+  "error_alert_title": "Oops...",
+  "error_alert_text": "Dicka shkoi keq! ",
+  "token_expired_alert_title": "Sesioni ka skaduar!",
+  "token_expired_alert_text": "Ju lutemi, identifikohuni përsëri për të vazhduar.",
+  "login": "Identifikohu",
+  "register": "Regjistrohu",
+  "page_not_found": "Faqja nuk u gjet",
+  "go_home": "Shko në shtëpi",
+  "logout": "Shkyç",
+  "email": "Email",
+  "remember_me": "Më kujto Mua",
+  "password": "Fjalëkalimi",
+  "forgot_password": "Keni harruar fjalëkalimin tuaj?",
+  "confirm_password": "Konfirmo fjalëkalimin",
+  "Name": "Emri",
+  "toggle_navigation": "Ndrysho navigimin",
+  "home": "Shtëpi",
+  "you_are_logged_in": "Ju jeni identifikuar!",
+  "reset_password": "Rivendosni fjalëkalimin",
+  "send_password_reset_link": "Dërgo lidhje",
+  "settings": "Cilësimet",
+  "profile": "Profili",
+  "your_info": "Informacioni juaj",
+  "info_updated": "Informacioni juaj është përditësuar!",
+  "update": "Përditëso",
+  "your_password": "Fjalëkalimi juaj",
+  "password_updated": "Fjalëkalimi juaj është përditësuar!",
+  "new_password": "Fjalëkalim i ri",
+  "login_with": "Identifikohu me",
+  "register_with": "Regjistrohu me",
+  "verify_email": "Verifiko emailin",
+  "send_verification_link": "Dërgo lidhjen e verifikimit",
+  "resend_verification_link": "Ridërgo lidhjen e verifikimit?",
+  "failed_to_verify_email": "Verifikimi i emailit dështoi.",
+  "verify_email_address": "Ne ju dërguam një email me një lidhje verifikimi.",
+  "reset_email_text": "Ju lutemi shkruani emailin tuaj për të marrë lidhjen e rivendosjes së fjalëkalimit!",
+  "sorry": "Na vjen keq",
+  "no_data_found": "Nuk u gjetën të dhëna",
+  "login_txt": "Ju lutemi identifikohuni për të vazhduar seancën tuaj!",
+  "email_placeholder": "Shkruani adresën tuaj të emailit",
+  "password_placeholder": "Futni fjalëkalimin tuaj",
+  "developed_by": "Zhvilluar nga",
+  "per_page": "Per faqe",
+  "available": "Në dispozicion",
+  "download": "Shkarko",
+  "demo_file": "Skedari Demo CSV",
+  "common": {
+    "to": "te",
+    "from": "Nga",
+    "s_no": "",
+    "more_info": "Me shume informacion",
+    "name": "Emri",
+    "name_placeholder": "Fut një emër",
+    "password": "Fjalëkalimi",
+    "password_placeholder": "Futni fjalëkalimin tuaj",
+    "code": "Kodi",
+    "code_placeholder": "Futni një kod",
+    "product_name": "Emri i produktit",
+    "product_name_placeholder": "Zgjidhni një produkt",
+    "sub_category_code": "Kodi i nënkategorisë",
+    "sub_category": "Nënkategoria",
+    "sub_category_name": "Emri i nënkategorisë",
+    "category": "Kategoria",
+    "category_name": "Emri i kategorisë",
+    "category_name_placeholder": "Zgjidh nje kategori",
+    "account": "Llogaria",
+    "account_placeholder": "Zgjidhni një llogari",
+    "available_balance": "Bilanci i disponueshëm",
+    "amount": "Shuma",
+    "amount_placeholder": "Futni një shumë",
+    "cheque_no": "Kontrollo nr",
+    "cheque_placeholder": "Futni një numër kontrolli",
+    "voucher_no": "Kupon Nr",
+    "voucher_placeholder": "Fut një numër kupon",
+    "receipt_no": "Dëftesa nr",
+    "receipt_no_placeholder": "Shkruani një faturë nr",
+    "date": "Data",
+    "note": "shënim",
+    "created_by": "Krijuar nga",
+    "choose_file": "Zgjidhni skedarin",
+    "image_alt": "Imazhi i bashkangjitur",
+    "note_placeholder": "Shkruani shënimin tuaj këtu!",
+    "status": "Statusi",
+    "action": "Veprimi",
+    "active": "Aktiv",
+    "in_active": "Joaktiv",
+    "expired": "I skaduar",
+    "email": "Email",
+    "email_placeholder": "Shkruani adresën tuaj të emailit",
+    "phone": "Telefoni",
+    "address": "Adresë",
+    "address_placeholder": "Fut një adresë",
+    "modal_header": "Pamje paraprake e imazhit të bashkangjitur",
+    "modal_body": "Trupi i parazgjedhur",
+    "export_table": "Tabela e eksportit",
+    "print_table": "Tabela e printimit",
+    "delete_title": "A je i sigurt?",
+    "delete_confirm_text": "A je i sigurt?",
+    "deleted": "Fshirë!",
+    "delete_success": "U fshi me sukses.",
+    "failed": "Dështoi!",
+    "delete_failed": "Kishte diçka që nuk shkonte.",
+    "error_msg": "Opps...diçka shkoi keq 😔",
+    "image_error": "Ju lutemi zgjidhni një miniaturë të vlefshme me madhësi më të vogël se 2 MB",
+    "close": "Mbylle",
+    "search": "Kërko...",
+    "create": "Krijo",
+    "view": "Pamje",
+    "edit": "Redakto",
+    "delete": "Fshije",
+    "image": "Imazhi",
+    "preview": "Parapamje",
+    "no_preview": "Pa pamje paraprake",
+    "save": "Ruaj",
+    "save_changes": "Ruaj ndryshimet",
+    "back": "Mbrapa",
+    "print": "Printo",
+    "reset": "Rivendos",
+    "supplier": "Furnizuesi",
+    "supplier_placeholder": "Zgjidhni një furnizues",
+    "products": "Produktet",
+    "select_products": "Zgjidhni Produktet",
+    "select_products_placeholder": "Kërkoni produkte",
+    "reference": "Referenca",
+    "reference_placeholder": "Fut referencë",
+    "quantity": "sasi",
+    "purchase_price": "Çmimi i blerjes",
+    "unit_price": "Çmimi për njësi",
+    "unit_cost": "Kostoja për njësi",
+    "unit_tax": "Taksa për njësi",
+    "tax": "Taksa",
+    "subtotal": "Nëntotali",
+    "return_subtotal": "Kthimi i nëntotalit",
+    "new_subtotal": "Nëntotal i ri",
+    "return_amount": "Shuma e kthimit",
+    "return_cost": "Kostoja e Produkteve të Kthimit",
+    "total": "Total",
+    "net_total": "Totali neto",
+    "due": "Për shkak",
+    "transport": "Transporti",
+    "add_payment": "Të shtohet pagesa?",
+    "add_payment_placeholder": "Zgjidhni një opsion",
+    "yes": "po",
+    "no": "Nr",
+    "paid": "I paguar",
+    "total_paid": "Totali i paguar",
+    "paid_amount": "Shuma e paguar",
+    "paid_amount_placeholder": "Futni një shumë",
+    "total_due": "Totali i detyrimit",
+    "account_receivable": "Llogari të arkëtueshme",
+    "account_payable": "Llogari të pagueshme",
+    "total_price": "Cmimi total",
+    "return_price": "Çmimi i Kthimit",
+    "price": "Çmimi",
+    "total_return": "Kthimi total",
+    "discount": "Zbritje",
+    "discount_placeholder": "Fut zbritjen",
+    "supplier_details": "Detajet e Furnizuesit",
+    "client_details": "Detajet e Klientit",
+    "supplier_id": "ID e furnizuesit",
+    "client_id": "ID-ja e klientit",
+    "client_name": "Emri i klientit",
+    "supplier_name": "Emri i furnizuesit",
+    "company_name": "Emri i Kompanise",
+    "company_name_placeholder": "Futni një emër kompanie",
+    "contact_number": "Numri i kontaktit",
+    "contact_number_placeholder": "Futni një numër kontakti",
+    "payment_history": "Historia e Pagesave",
+    "payment_date": "Data e pagesës",
+    "empty_payment": "Nuk ka ende pagesa në dispozicion!",
+    "empty_payment_msg": "Ju nuk keni shtuar/nuk keni shtuar asnjë pagesë për këtë blerje. ",
+    "purchases": "Blerjet",
+    "purchases_placeholder": "Zgjidhni një blerje",
+    "total_tax": "Taksa totale",
+    "invoice_tax": "Taksa e faturës",
+    "transport_cost": "Kostoja e transportit",
+    "transport_cost_placeholder": "Shkruani koston e transportit",
+    "total_discount": "Zbritje totale",
+    "discount_type": "Lloji i zbritjes",
+    "fixed": "E rregulluar",
+    "percentage": "Përqindje",
+    "client": "Klienti",
+    "client_placeholder": "Zgjidhni një klient",
+    "payment_terms": "Kushtet e pagesës",
+    "payment_terms_placeholder": "Futni kushtet e pagesës",
+    "po_reference": "Referenca PO",
+    "po_reference_placeholder": "Fut referencën PO",
+    "invoice_qty": "Sasia e faturës",
+    "current_qty": "Sasia aktuale",
+    "return_qty": "Sasia e kthimit",
+    "invoices": "Faturat",
+    "invoices_placeholder": "Zgjidhni një faturë",
+    "return_reason": "Arsyeja e Kthimit",
+    "return_reason_placeholder": "Fut një arsye",
+    "invoice_due": "Fatura e detyrueshme",
+    "non_invoice_due": "Pa pagesë faturë",
+    "invoice_date": "Data e faturës",
+    "invoice_no": "Numri i fatures",
+    "invoice_return_no": "Nr Kthimi i Faturës",
+    "return_no": "Kthimi nr",
+    "return_products": "Kthimi i Produkteve",
+    "insufficient_stock": "Stoku i pamjaftueshëm",
+    "invoice_products": "Produktet e Faturës",
+    "created_at": "Krijuar në",
+    "reason": "Arsyeja",
+    "type": "Lloji",
+    "credit": "Kredia",
+    "debit": "Debiti",
+    "payment_type": "Lloji i pageses",
+    "invoice_total": "Totali i faturës",
+    "invoice_details": "Detajet e faturës",
+    "payment_details": "Detajet e pagesës",
+    "ref_no": "Ref. ",
+    "reference_no": "Referenca nr",
+    "payable": "E pagueshme",
+    "interest": "Interesi",
+    "installment": "Me këste",
+    "error": "Gabim!",
+    "per": "Per",
+    "day": "Dita",
+    "month": "Muaj",
+    "year": "viti",
+    "daily": "Ditore",
+    "monthly": "Mujore",
+    "yearly": "vjetore",
+    "employee": "Punonjës",
+    "employee_placeholder": "Zgjidhni një punonjës",
+    "designation": "Emërtimi",
+    "designation_placeholder": "Fut një emërtim",
+    "emp_name": "Emri Emp",
+    "emp_id": "Emp ID",
+    "employee_details": "Detajet e Punonjësit",
+    "department": "Departamenti",
+    "department_placeholder": "Departamenti",
+    "balance": "Bilanci",
+    "salary": "Paga",
+    "salary_placeholder": "Fut një rrogë",
+    "profile_picture": "Foto Profili",
+    "role": "Roli",
+    "role_placeholder": "Zgjidhni një rol",
+    "unit": "Njësia",
+    "unit_placeholder": "Zgjidhni një njësi",
+    "brand": "Markë",
+    "brand_placeholder": "Zgjidhni një markë",
+    "item_code": "Kodi i artikullit",
+    "item_code_placeholder": "Fut kodin e artikullit",
+    "item_model": "Modeli i artikullit",
+    "item_model_placeholder": "Fut një model",
+    "item_name": "Emri i artikullit",
+    "item_name_placeholder": "Fut një emër",
+    "rendering_fails": "Renderimi dështon.",
+    "product": "Produkt",
+    "transactions": "Transaksionet",
+    "empty_table": "Na vjen keq 😔 nuk u gjetën të dhëna",
+    "stock_alert_msg": "Stoku është më pak se sasia e alarmit!",
+    "stock_notification": "Sinjalizime për sasinë e produktit",
+    "stock_notification_empty": "Nuk disponohet asnjë njoftim",
+    "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+    "add_balance": "Shto bilanc",
+    "remove_balance": "Hiq bilancin",
+    "qty": "Sasia",
+    "item": "Artikulli",
+    "sold_by": "Shitur nga"
+  },
+  "topbar": {
+    "new_invoice": "Faturë e re",
+    "new_expense": "Shpenzim i ri",
+    "new_purchase": "Blerje e re",
+    "new_quotation": "Kuotim i ri",
+    "profile": "Profili",
+    "setup": "Konfigurimi",
+    "logout": "Shkyç"
+  },
+  "sidebar": {
+    "dashboard": "Paneli",
+    "activities": "AKTIVITETET",
+    "expenses": "Shpenzimet",
+    "categories": "Kategoritë",
+    "sub_categories": "Nënkategoritë",
+    "expenses_list": "Lista e shpenzimeve",
+    "purchases": "Blerjet",
+    "purchases_list": "Lista e Blerjeve",
+    "returns_list": "Lista e Kthimeve",
+    "sales": "Shitjet",
+    "quotations_list": "Lista e kuotimeve",
+    "invoices_list": "Lista e faturave",
+    "accounting": "KONTABILITETI",
+    "cashbook": "Libri i parave të gatshme",
+    "accounts": "Llogaritë",
+    "balance_adjustments": "Rregullimet e bilancit",
+    "balance_transfers": "Transfertat e bilancit",
+    "transaction_history": "Historia e Transaksioneve",
+    "payments": "Pagesat",
+    "suppliers": "Furnizuesit",
+    "non_purchase": "Jo blerje",
+    "purchase": "Blerje",
+    "clients": "Klientët",
+    "non_invoice": "Jo faturë",
+    "invoice": "Fatura",
+    "loan_management": "Menaxhimi i Kredive",
+    "authorities": "Autoritetet",
+    "loans": "Kreditë",
+    "asset_management": "Menaxhimi i Aseteve",
+    "types": "Llojet",
+    "assets": "Asetet",
+    "payroll": "Lista e pagave",
+    "people": "NJERËZIT",
+    "employees_list": "Lista e punonjësve",
+    "employees": "Punonjësit",
+    "departments": "Departamentet",
+    "increments": "Rritjet",
+    "product": "PRODUKT",
+    "products": "Produktet",
+    "products_list": "Lista e produkteve",
+    "barcode": "Barkodi",
+    "inventory_uppercase": "INVENTORI",
+    "inventory": "Inventari",
+    "view_inventory": "Shiko inventarin",
+    "inventory_adjustment": "Rregullimi i inventarit",
+    "reports": "RAPORTET",
+    "balance_sheet": "Bilanci i gjendjes",
+    "summary_report": "Raport përmbledhës",
+    "profit_loss_report": "Raporti i fitimit/humbjes",
+    "expense_report": "Raporti i shpenzimeve",
+    "product_report": "Raporti i artikullit",
+    "inventory_report": "Raporti i inventarit",
+    "account": "LLOGARI",
+    "account_sm": "Llogaria",
+    "setup": "Konfigurimi",
+    "database_backup": "Rezervimi i bazës së të dhënave",
+    "profile": "Profili",
+    "logout": "Shkyç"
+  },
+  "dashboard": {
+    "stock_alert": "Alarmi i aksioneve",
+    "recent_activities": "Aktivitetet e fundit",
+    "page_title": "Paneli",
+    "breadcrumbs_current": "Paneli",
+    "breadcrumbs_active": "Paneli",
+    "bar_chart_title": "Shitjet vs Blerjet",
+    "bar_chart_tooltip": "Shitjet mujore",
+    "pie_chart_title": "Produktet më të shitura",
+    "line_chart_title": "Pagesa e dërguar vs pagesa e pranuar",
+    "line_chart_tooltip": "Pagesa e dërguar = Pagesa nga furnizuesi Pagesa e huasë <br/> Pagesa e pranuar = Klienti për pagesën e huasë e marrë",
+    "top_clients_title": "Top 5 Klientët",
+    "summary": "Përmbledhje",
+    "summary_option_1": "Sot",
+    "summary_option_2": "7 Ditët e fundit",
+    "summary_option_3": "Këtë muaj",
+    "summary_option_4": "Kete vit",
+    "summery_items": {
+      "purchase": "Blerje",
+      "purchase_return": "Kthimi i Blerjes",
+      "sales": "Shitjet",
+      "sales_return": "Kthimi i shitjeve",
+      "payment_recevied": "Pagesa e klientit",
+      "payment_sent": "Pagesa e furnizuesit",
+      "expense": "Shpenzimet",
+      "balance_transfers": "Transfertat e bilancit"
+    }
+  },
+  "expenses": {
+    "categories": {
+      "index": {
+        "page_title": "Kategoritë e shpenzimeve",
+        "breadcrumbs_current": "Kategoritë e shpenzimeve",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Shpenzimet",
+        "breadcrumbs_active": "Kategoritë",
+        "delete_warning": "Të gjitha nënkategoritë për këtë kategori do të fshihen!"
+      },
+      "create": {
+        "page_title": "Krijo kategorinë e shpenzimeve",
+        "form_title": "Krijo një kategori shpenzimesh",
+        "breadcrumbs_current": "Krijo kategorinë e shpenzimeve",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Kategoritë",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Kategoria u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto kategorinë e shpenzimeve",
+        "form_title": "Redakto kategorinë",
+        "breadcrumbs_current": "Redakto kategorinë e shpenzimeve",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Kategoritë",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Kategoria u përditësua me sukses 👍"
+      }
+    },
+    "sub_categories": {
+      "index": {
+        "page_title": "Nënkategoritë e shpenzimeve",
+        "breadcrumbs_current": "Nënkategoritë e shpenzimeve",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Shpenzimet",
+        "breadcrumbs_active": "Nënkategoritë",
+        "delete_warning": "Të gjitha shpenzimet për këtë kategori do të fshihen!"
+      },
+      "create": {
+        "page_title": "Krijo nënkategorinë e shpenzimeve",
+        "form_title": "Krijo një nën kategori shpenzimesh",
+        "breadcrumbs_current": "Krijo nënkategorinë e shpenzimeve",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Nënkategoritë",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Nënkategoria u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto nënkategorinë e shpenzimeve",
+        "form_title": "Redakto nënkategorinë e shpenzimeve",
+        "breadcrumbs_current": "Redakto nënkategorinë e shpenzimeve",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Nënkategoritë",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Nënkategoria u përditësua me sukses 👍"
+      }
+    },
+    "list": {
+      "common": {
+        "expense_reason": "Arsyeja e shpenzimeve",
+        "expense_reason_placeholder": "Fut një arsye"
+      },
+      "index": {
+        "page_title": "Shpenzimet",
+        "breadcrumbs_current": "Shpenzimet",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Shpenzimet",
+        "breadcrumbs_active": "",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!"
+      },
+      "create": {
+        "page_title": "Krijo Shpenzime",
+        "form_title": "Krijo një shpenzim",
+        "breadcrumbs_current": "Krijo Shpenzime",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Shpenzimet",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Shpenzimet u shtuan me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto shpenzimet",
+        "form_title": "Redakto shpenzimet",
+        "breadcrumbs_current": "Redakto shpenzimet",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Shpenzimet",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Shpenzimet u përditësuan me sukses 👍"
+      },
+      "view": {
+        "page_title": "Detajet e Shpenzimeve",
+        "breadcrumbs_current": "Detajet e Shpenzimeve",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Shpenzimet",
+        "breadcrumbs_active": "Detajet",
+        "expense_details": "Detajet e Shpenzimeve"
+      }
+    }
+  },
+  "purchases": {
+    "list": {
+      "common": {
+        "po_reference": "Referenca PO",
+        "po_reference_placeholder": "Fut referencën PO",
+        "payment_terms": "Kushtet e pagesës",
+        "payment_terms_placeholder": "Futni kushtet e pagesës",
+        "purchase_tax": "Tatimi mbi Blerjen",
+        "purchase_total": "Blerja totale",
+        "purchase_subtotal": "Blini Nëntotal",
+        "purchase_tax_placeholder": "Zgjidhni një lloj takse",
+        "total_tax": "Taksa totale",
+        "discount": "Zbritje",
+        "discount_placeholder": "Fut zbritjen",
+        "transport_cost": "Kostoja e transportit",
+        "transport_cost_placeholder": "Shkruani koston e transportit",
+        "purchase_date": "Data e blerjes",
+        "po_date": "Data e PO",
+        "purchased_qty": "Sasia e blere",
+        "returned_qty": "U kthye Sasia",
+        "current_qty": "Sasia aktuale",
+        "purchase_no": "Blerja nr",
+        "return_no": "Kthimi nr",
+        "purchase_no_placeholder": "Futni nr e blerjes",
+        "purchase_products": "Bleni Produkte",
+        "purchase_due": "Blerja e vonuar"
+      },
+      "index": {
+        "page_title": "Blerjet",
+        "breadcrumbs_current": "Blerjet",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Blerjet",
+        "breadcrumbs_active": "Blerjet",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!"
+      },
+      "create": {
+        "page_title": "Krijo Blerje",
+        "form_title": "Krijo blerje",
+        "breadcrumbs_current": "Krijo Blerje",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Blerjet",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Blerja u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto blerjen",
+        "form_title": "Redakto blerjen",
+        "breadcrumbs_current": "Redakto blerjen",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Blerjet",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Blerja u përditësua me sukses 👍"
+      },
+      "view": {
+        "page_title": "Detajet e Blerjes",
+        "breadcrumbs_current": "Detajet e Blerjes",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Blerjet",
+        "breadcrumbs_active": "Detajet"
+      }
+    },
+    "returns": {
+      "common": {
+        "return_reason": "Arsyeja e Kthimit",
+        "return_reason_placeholder": "Fut një arsye",
+        "return_date": "Data e Kthimit",
+        "purchase_return_no": "Kthimi i Blerjes Nr",
+        "return_products": "Kthimi i Produkteve"
+      },
+      "index": {
+        "page_title": "Kthimet e Blerjes",
+        "breadcrumbs_current": "Kthimet e Blerjes",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Blerjet",
+        "breadcrumbs_active": "Kthimet e Blerjes",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!"
+      },
+      "create": {
+        "page_title": "Krijo kthimin e blerjes",
+        "form_title": "Krijo kthimin e blerjes",
+        "breadcrumbs_current": "Krijo kthimin e blerjes",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Kthimet e Blerjes",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Kthimi i blerjes u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto kthimin e blerjes",
+        "form_title": "Redakto kthimin e blerjes",
+        "breadcrumbs_current": "Redakto kthimin e blerjes",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Kthimet e Blerjes",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Kthimi i blerjes u përditësua me sukses 👍"
+      },
+      "view": {
+        "page_title": "Detajet e Kthimit të Blerjes",
+        "breadcrumbs_current": "Detajet e Kthimit të Blerjes",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Kthimet e Blerjes",
+        "breadcrumbs_active": "Detajet"
+      }
+    }
+  },
+  "sales": {
+    "common": {
+      "quotation_no": "Kuotimi Nr",
+      "quotation_date": "Data e kuotimit",
+      "delivery_place": "Vendi i dorëzimit",
+      "delivery_place_placeholder": "Futni një vend të dorëzimit",
+      "quotation_tax": "Tatimi i kuotimit",
+      "quotation_tax_placeholder": "Zgjidhni një lloj takse",
+      "return_date": "Data e Kthimit",
+      "new_due": "Afati i ri",
+      "client_advance": "Përparimi i klientit",
+      "invoice_total": "Totali i faturës",
+      "before_return": "Para Kthimit",
+      "invoice_return": "Kthimi i faturës",
+      "invoice_tax": "Taksa e faturës",
+      "invoice_tax_placeholder": "Zgjidhni një lloj takse"
+    },
+    "quotations": {
+      "index": {
+        "page_title": "Citatet",
+        "create_invoice": "Krijo faturë",
+        "breadcrumbs_current": "Citatet",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Citatet",
+        "breadcrumbs_active": "",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+        "delete_failed": "Na vjen keq që nuk mund ta fshini këtë citat!"
+      },
+      "create": {
+        "page_title": "Krijo Kuotim",
+        "form_title": "Krijo kuotim",
+        "breadcrumbs_current": "Krijo Kuotim",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Citatet",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Kuotimi u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto Kuotimin",
+        "form_title": "Redakto kuotimin",
+        "breadcrumbs_current": "Redakto Kuotimin",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Citatet",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Kuotimi u përditësua me sukses 👍"
+      },
+      "view": {
+        "page_title": "Detajet e kuotimit",
+        "breadcrumbs_current": "Detajet e kuotimit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Citatet",
+        "breadcrumbs_active": "Detajet",
+        "expense_details": "Detajet e Shpenzimeve"
+      },
+      "invoice": {
+        "page_title": "Kuotim për Faturë",
+        "form_title": "Krijo kuotën për faturë",
+        "breadcrumbs_current": "Kuotim për Faturë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Citatet",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Fatura u krijua me sukses 👍"
+      }
+    },
+    "invoices": {
+      "index": {
+        "page_title": "Faturat",
+        "breadcrumbs_current": "Faturat",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Shitjet",
+        "breadcrumbs_active": "Faturat",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+        "delete_failed": "Na vjen keq që nuk mund ta fshini këtë faturë!"
+      },
+      "create": {
+        "page_title": "Krijo faturë",
+        "form_title": "Krijo faturë",
+        "breadcrumbs_current": "Krijo faturë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Faturat",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Fatura u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto faturë",
+        "form_title": "Redakto faturën",
+        "breadcrumbs_current": "Redakto faturë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Faturat",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Fatura u përditësua me sukses 👍"
+      },
+      "view": {
+        "page_title": "Detajet e faturës",
+        "breadcrumbs_current": "Detajet e faturës",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Faturat",
+        "breadcrumbs_active": "Detajet",
+        "invoice_details": "Detajet e faturës"
+      }
+    },
+    "returns": {
+      "index": {
+        "page_title": "Kthimet e faturës",
+        "breadcrumbs_current": "Kthimet e faturës",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Faturat",
+        "breadcrumbs_active": "Kthimet e faturës",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+        "delete_failed": "Kishte diçka që nuk shkonte."
+      },
+      "create": {
+        "page_title": "Krijo kthimin e faturës",
+        "form_title": "Krijo kthimin e faturës",
+        "breadcrumbs_current": "Krijo kthimin e faturës",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Kthimet e faturës",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Kthimi i faturës u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto kthimin e faturës",
+        "form_title": "Redakto kthimin e faturës",
+        "breadcrumbs_current": "Redakto kthimin e faturës",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Kthimet e faturës",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Kthimi i faturës u përditësua me sukses 👍"
+      },
+      "view": {
+        "page_title": "Detajet e kthimit të faturës",
+        "breadcrumbs_current": "Detajet e kthimit të faturës",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Kthimet e faturës",
+        "breadcrumbs_active": "Detajet",
+        "invoice_details": "Detajet e faturës"
+      }
+    }
+  },
+  "cashbook": {
+    "common": {
+      "account_number": "Numri i llogarisë",
+      "account_number_placeholder": "Futni një numër llogarie",
+      "branch_name": "Emri i degës",
+      "branch_name_placeholder": "Futni një emër dege",
+      "bank_name": "Emri i bankes",
+      "bank_name_placeholder": "Fut një emër banke",
+      "transactions": "Transaksionet",
+      "account_details": "detajet e llogarise",
+      "total_transactions": "Totali i transaksioneve",
+      "debit_amount": "Shuma e Debitit",
+      "credit_amount": "Shuma e kredisë",
+      "from_account": "Nga llogaria",
+      "to_account": "Për llogari",
+      "transfer_reason": "Arsyeja e transferimit"
+    },
+    "accounts": {
+      "index": {
+        "page_title": "Llogaritë",
+        "breadcrumbs_current": "Llogaritë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Libër parash",
+        "breadcrumbs_third": "Llogaritë",
+        "breadcrumbs_active": "Llogaritë",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+        "delete_failed": "Na vjen keq që nuk mund ta hiqni këtë llogari!"
+      },
+      "create": {
+        "page_title": "Krijo llogari",
+        "form_title": "Krijo nje llogari",
+        "breadcrumbs_current": "Krijo llogari",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Libër parash",
+        "breadcrumbs_third": "Llogaritë",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Llogaria u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto llogarinë",
+        "form_title": "Redakto llogarinë",
+        "breadcrumbs_current": "Redakto llogarinë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Libër parash",
+        "breadcrumbs_third": "Llogaritë",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Llogaria u përditësua me sukses 👍"
+      },
+      "view": {
+        "page_title": "Transaksionet e Llogarisë",
+        "breadcrumbs_current": "Transaksionet e Llogarisë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Llogaritë",
+        "breadcrumbs_active": "Transaksionet",
+        "empty_transaction": "Asnjë transaksion nuk është ende i disponueshëm!",
+        "empty_transaction_msg": "Nuk ke kryer asnjë transaksion duke përdorur këtë llogari. "
+      }
+    },
+    "balances": {
+      "index": {
+        "page_title": "Rregullimet e bilancit",
+        "add_balance": "Krijo",
+        "breadcrumbs_current": "Rregullimet e bilancit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Libër parash",
+        "breadcrumbs_active": "Rregullimet",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+        "delete_failed": "Na vjen keq që nuk mund ta fshish këtë transaksion"
+      },
+      "create": {
+        "page_title": "Krijo Përshtatje",
+        "form_title": "Krijo rregullim",
+        "breadcrumbs_current": "Krijo Përshtatje",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Libër parash",
+        "breadcrumbs_third": "Rregullimet",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Rregullimi u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto bilancin",
+        "form_title": "Redakto bilancin",
+        "breadcrumbs_current": "Redakto bilancin",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Libër parash",
+        "breadcrumbs_third": "Bilancet",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Bilanci u përditësua me sukses 👍"
+      }
+    },
+    "transfers": {
+      "index": {
+        "page_title": "Transfertat e bilancit",
+        "add_transfer": "Shto Transferim",
+        "breadcrumbs_current": "Transfertat e bilancit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Libër parash",
+        "breadcrumbs_active": "Transfertat e bilancit",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+        "delete_failed": "Na vjen keq që nuk mund ta fshini këtë transferim!"
+      },
+      "create": {
+        "page_title": "Krijo Transferim",
+        "form_title": "Krijo një transferim bilanci",
+        "breadcrumbs_current": "Krijo Transferim",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Libër parash",
+        "breadcrumbs_third": "Transfertat e bilancit",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Transferimi i bilancit u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto transferimin e bilancit",
+        "form_title": "Redakto transferimin e bilancit",
+        "breadcrumbs_current": "Redakto transferimin e bilancit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Libër parash",
+        "breadcrumbs_third": "Transfertat e bilancit",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Transferimi u përditësua me sukses 👍"
+      },
+      "view": {
+        "page_title": "Detajet e transfertave të bilancit",
+        "breadcrumbs_current": "Detajet e transfertave",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Libër parash",
+        "breadcrumbs_third": "Transfertat e bilancit",
+        "breadcrumbs_active": "Detajet"
+      }
+    },
+    "transactions": {
+      "index": {
+        "page_title": "Historia e Transaksioneve",
+        "breadcrumbs_current": "Historia e Transaksioneve",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Libër parash",
+        "breadcrumbs_active": "Historia"
+      }
+    }
+  },
+  "payments": {
+    "common": {
+      "due_paid": "E paguara e duhur",
+      "due_added": "Shtuar me vonesë",
+      "current_due": "Afati aktual",
+      "non_invoice_paid": "Pa fatura e paguar",
+      "non_invoice_total": "Totali jo faturë",
+      "add_due": "Shto afatin",
+      "add_payment": "Shto pagesën",
+      "total_payment": "Pagesa totale",
+      "total_advance": "Paradhënie totale (Kthimi i faturës)",
+      "available_advance": "Ofrohet paraprakisht (Kthimi i blerjes)",
+      "select_invoice": "Zgjidhni Faturë",
+      "select_purchase": "Zgjidhni Blerje",
+      "select_purchase_placeholder": "Kërkoni numrin e blerjes",
+      "select_invoice_placeholder": "Kërkoni numrin e faturës",
+      "invoice_subtotal": "Nëntotali i faturës",
+      "non_purchase_total": "Totali jo i blerjes",
+      "non_purchase_due": "Mos afati i blerjes",
+      "non_purchase_paid": "Blerja e pa paguar",
+      "purchase_details": "Detajet e Blerjes"
+    },
+    "clients": {
+      "invoice": {
+        "index": {
+          "page_title": "Pagesat e faturës",
+          "breadcrumbs_current": "Pagesat e faturës",
+          "breadcrumbs_first": "Paneli",
+          "breadcrumbs_second": "Pagesat",
+          "breadcrumbs_active": "Pagesat e faturës",
+          "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+          "delete_failed": "Na vjen keq që nuk mund ta fshini këtë pagesë!"
+        },
+        "create": {
+          "page_title": "Krijo pagesën e faturës së klientit",
+          "form_title": "Krijo pagesën e faturës",
+          "breadcrumbs_current": "Krijo Pagesë",
+          "breadcrumbs_first": "Paneli",
+          "breadcrumbs_second": "Pagesat",
+          "breadcrumbs_third": "Pagesat e faturës",
+          "breadcrumbs_active": "Krijo",
+          "success_msg": "Pagesa e faturës u shtua me sukses 👍"
+        },
+        "edit": {
+          "page_title": "Redakto pagesën e faturës së klientit",
+          "form_title": "Redakto pagesën e faturës",
+          "breadcrumbs_current": "Redakto pagesën",
+          "breadcrumbs_first": "Paneli",
+          "breadcrumbs_second": "Pagesat",
+          "breadcrumbs_third": "Pagesat e faturës",
+          "breadcrumbs_active": "Redakto",
+          "success_msg": "Pagesa e faturës u përditësua me sukses 👍"
+        },
+        "view": {
+          "page_title": "Detajet e pagesës së faturës",
+          "breadcrumbs_current": "Detajet e pagesës së faturës",
+          "breadcrumbs_first": "Paneli",
+          "breadcrumbs_second": "Pagesat",
+          "breadcrumbs_third": "Pagesat e faturës",
+          "breadcrumbs_active": "Detajet"
+        }
+      },
+      "non_invoice": {
+        "index": {
+          "page_title": "Pagesat e klientit pa faturë",
+          "breadcrumbs_current": "Pagesat pa faturë",
+          "breadcrumbs_first": "Paneli",
+          "breadcrumbs_second": "Pagesat",
+          "breadcrumbs_active": "Pagesat pa faturë",
+          "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+          "delete_failed": "Na vjen keq që nuk mund ta fshini këtë pagesë!"
+        },
+        "create": {
+          "page_title": "Krijo pagesë pa faturë",
+          "form_title": "Krijo pagesë pa faturë",
+          "breadcrumbs_current": "Krijo Pagesë",
+          "breadcrumbs_first": "Paneli",
+          "breadcrumbs_second": "Pagesat",
+          "breadcrumbs_third": "Pagesat pa faturë",
+          "breadcrumbs_active": "Krijo",
+          "success_msg": "Pagesa u shtua me sukses 👍"
+        },
+        "edit": {
+          "page_title": "Redakto kthimin e faturës",
+          "form_title": "Redakto pagesën pa faturë",
+          "breadcrumbs_current": "Redakto pagesën",
+          "breadcrumbs_first": "Paneli",
+          "breadcrumbs_second": "Pagesat",
+          "breadcrumbs_third": "Pagesat pa faturë",
+          "breadcrumbs_active": "Redakto",
+          "success_msg": "Pagesa u përditësua me sukses 👍"
+        }
+      }
+    },
+    "suppliers": {
+      "purchase": {
+        "index": {
+          "page_title": "Pagesat e blerjeve",
+          "breadcrumbs_current": "Pagesat e blerjeve",
+          "breadcrumbs_first": "Paneli",
+          "breadcrumbs_second": "Pagesat",
+          "breadcrumbs_active": "Pagesat e blerjeve",
+          "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+          "delete_failed": "Kishte diçka që nuk shkonte."
+        },
+        "create": {
+          "page_title": "Krijo pagesën e blerjes nga furnizuesi",
+          "form_title": "Krijo pagesën e blerjes",
+          "breadcrumbs_current": "Krijo Pagesë",
+          "breadcrumbs_first": "Paneli",
+          "breadcrumbs_second": "Pagesat",
+          "breadcrumbs_third": "Pagesat e blerjeve",
+          "breadcrumbs_active": "Krijo",
+          "success_msg": "Pagesa e furnizuesit u shtua me sukses 👍"
+        },
+        "edit": {
+          "page_title": "Redakto pagesën e blerjes nga furnizuesi",
+          "form_title": "Ndrysho pagesën e blerjes",
+          "breadcrumbs_current": "Redakto pagesën",
+          "breadcrumbs_first": "Paneli",
+          "breadcrumbs_second": "Pagesat",
+          "breadcrumbs_third": "Pagesat e blerjeve",
+          "breadcrumbs_active": "Redakto",
+          "success_msg": "Pagesa u përditësua me sukses 👍"
+        },
+        "view": {
+          "page_title": "Detajet e pagesës së blerjes nga furnizuesi",
+          "breadcrumbs_current": "Detajet e pagesës së blerjes",
+          "breadcrumbs_first": "Paneli",
+          "breadcrumbs_second": "Pagesat",
+          "breadcrumbs_third": "Pagesat e blerjeve",
+          "breadcrumbs_active": "Detajet"
+        }
+      },
+      "non_purchase": {
+        "index": {
+          "page_title": "Pagesat pa blerje nga furnizuesi",
+          "breadcrumbs_current": "Pagesat pa blerje",
+          "breadcrumbs_first": "Paneli",
+          "breadcrumbs_second": "Pagesat",
+          "breadcrumbs_active": "Pagesat pa blerje",
+          "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+          "delete_failed": "Na vjen keq që nuk mund ta fshini këtë pagesë!"
+        },
+        "create": {
+          "page_title": "Krijoni pagesë pa blerje",
+          "form_title": "Krijo pagesë pa blerje",
+          "breadcrumbs_current": "Krijo Pagesë",
+          "breadcrumbs_first": "Paneli",
+          "breadcrumbs_second": "Pagesat",
+          "breadcrumbs_third": "Pagesat pa blerje",
+          "breadcrumbs_active": "Krijo",
+          "success_msg": "Pagesa u shtua me sukses 👍"
+        },
+        "edit": {
+          "page_title": "Redakto pagesën pa blerje",
+          "form_title": "Modifiko pagesën pa blerje",
+          "breadcrumbs_current": "Redakto pagesën",
+          "breadcrumbs_first": "Paneli",
+          "breadcrumbs_second": "Pagesat",
+          "breadcrumbs_third": "Pagesat pa blerje",
+          "breadcrumbs_active": "Redakto",
+          "success_msg": "Pagesa u përditësua me sukses 👍"
+        }
+      }
+    }
+  },
+  "loans": {
+    "common": {
+      "authority": "Autoriteti",
+      "loan": "Kredi",
+      "loan_placeholder": "Zgjidhni një kredi",
+      "loan_authority": "Autoriteti i Huasë",
+      "authority_placeholder": "Zgjidhni një autoritet",
+      "cc_limit": "Kufiri CC",
+      "cc_placeholder": "Fut kufirin e kredisë cc",
+      "cash_credit_limit": "Limiti i kredisë së kredisë në para (CC).",
+      "cash_credit_loan": "Kredi Cash (CC).",
+      "interetest_paid": "Interesi i paguar",
+      "total_payable": "Totali i pagueshëm",
+      "total_loan": "Kredia totale",
+      "cc_term": "Termi CC",
+      "cc_taken": "Marrë hua CC",
+      "available_cc": "Kredi CC e disponueshme",
+      "all_loans": "Të gjitha kreditë",
+      "empty_loan": "Nuk ka ende kredi!",
+      "empty_loan_msg": "Nuk ke shtuar asnjë hua për këtë autoritet. ",
+      "authority_details": "Detajet e Autoritetit",
+      "payable_amount": "Shuma e pagueshme",
+      "duration": "Kohëzgjatja",
+      "duration_placeholder": "Fut një kohëzgjatje",
+      "interest_rate_placeholder": "Vendosni një normë interesi në përqindje",
+      "available_amount": "Shuma e disponueshme",
+      "term_loan": "Kredi me afat",
+      "loan_type": "Lloji i kredisë",
+      "loan_reason": "Arsyeja e Huasë",
+      "loan_date": "Data e huasë",
+      "Loan_account": "Llogaria e Huasë",
+      "Loan_payments": "Pagesat e huasë",
+      "empty_payment_msg": "Nuk ke shtuar asnjë pagesë për këtë kredi. ",
+      "loan_amount": "Shuma e kredisë",
+      "loan_ref": "Kredia Ref.",
+      "payment_ref": "Pagesa Ref.",
+      "amount_paid": "Shuma e paguar"
+    },
+    "authorities": {
+      "index": {
+        "page_title": "Autoritetet e Huasë",
+        "breadcrumbs_current": "Autoritetet e Huasë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Menaxhimi i Kredive",
+        "breadcrumbs_active": "Autoritetet",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+        "delete_failed": "Na vjen keq që nuk mund ta fshish këtë autoritet."
+      },
+      "create": {
+        "page_title": "Krijoni Autoritetin e Huasë",
+        "form_title": "Krijoni një autoritet kredie",
+        "breadcrumbs_current": "Krijoni Autoritetin e Huasë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Autoritetet e Huasë",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Autoriteti i kredisë u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redaktoni Autoritetin e Huasë",
+        "form_title": "Redakto autoritetin e kredisë",
+        "breadcrumbs_current": "Autoriteti i Redaktimit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Autoritetet e Huasë",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Autoriteti i kredisë u përditësua me sukses 👍"
+      },
+      "view": {
+        "page_title": "Shiko Autoritetin e Huasë",
+        "breadcrumbs_current": "Detajet e Autoritetit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Autoritetet e Huasë",
+        "breadcrumbs_active": "Detajet"
+      }
+    },
+    "payments": {
+      "index": {
+        "page_title": "Pagesat e huasë",
+        "breadcrumbs_current": "Pagesat e huasë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Menaxhimi i Kredive",
+        "breadcrumbs_active": "Pagesat e huasë",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+        "delete_failed": "Kishte diçka që nuk shkonte."
+      },
+      "create": {
+        "page_title": "Krijo pagesën e huasë",
+        "form_title": "Krijoni një pagesë kredie",
+        "breadcrumbs_current": "Krijo pagesën e huasë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Pagesat e huasë",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Pagesa e kredisë u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto pagesën e huasë",
+        "form_title": "Ndrysho pagesën e kredisë",
+        "breadcrumbs_current": "Redakto pagesën e huasë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Pagesat e huasë",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Pagesa u përditësua me sukses 👍"
+      },
+      "view": {
+        "page_title": "Detajet e pagesës së kredisë",
+        "breadcrumbs_current": "Detajet e pagesës së kredisë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Pagesat e huasë",
+        "breadcrumbs_active": "Detajet"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "Kreditë",
+        "breadcrumbs_current": "Kreditë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Menaxhimi i Kredive",
+        "breadcrumbs_active": "Kreditë",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+        "delete_failed": "Na vjen keq që nuk mund ta fshish këtë kredi."
+      },
+      "create": {
+        "page_title": "Krijo hua",
+        "form_title": "Krijo një kredi",
+        "breadcrumbs_current": "Krijo hua",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Kreditë",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Kredia u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto kredinë",
+        "form_title": "Redakto kredinë",
+        "breadcrumbs_current": "Redakto kredinë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Kreditë",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Kredia u përditësua me sukses 👍"
+      },
+      "view": {
+        "page_title": "Detajet e huasë",
+        "breadcrumbs_current": "Detajet e huasë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Kreditë",
+        "breadcrumbs_active": "Detajet"
+      }
+    }
+  },
+  "assets": {
+    "common": {
+      "asset_name": "Emri i aktivit",
+      "asset_name_placeholder": "Fut emrin e aktivit",
+      "asset_type": "Lloji i aktivit",
+      "asset_type_placeholder": "Zgjidhni një lloj aktivi",
+      "asset_cost": "Kostoja e asetit",
+      "asset_cost_placeholder": "Fut koston e aktivit",
+      "current_value": "Vlera e tanishme",
+      "depreciation": "amortizimi",
+      "depreciation_type": "Lloji i amortizimit",
+      "salvage_value": "Vlera e shpëtimit",
+      "salvage_value_placeholder": "Vlera e shpëtimit",
+      "useful_life": "Jeta e dobishme",
+      "remaining_life": "Jeta e mbetur",
+      "useful_life_placeholder": "Futni jetën e dobishme",
+      "added_date": "Data e Shtuar",
+      "expired_date": "Data e skadimit"
+    },
+    "types": {
+      "index": {
+        "page_title": "Llojet e aseteve",
+        "breadcrumbs_current": "Llojet e aseteve",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Menaxhimi i Aseteve",
+        "breadcrumbs_active": "Llojet e aseteve",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+        "delete_failed": "Kishte diçka që nuk shkonte."
+      },
+      "create": {
+        "page_title": "Krijo llojin e asetit",
+        "form_title": "Krijo një lloj aktivi",
+        "breadcrumbs_current": "Krijo llojin e asetit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Llojet e aseteve",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Lloji i aktivit u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto llojin e aktivit",
+        "form_title": "Ndrysho llojin e aktivit",
+        "breadcrumbs_current": "Redakto llojin e aktivit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Llojet e aseteve",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Lloji i aktivit u përditësua me sukses 👍"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "Asetet",
+        "breadcrumbs_current": "Asetet",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Menaxhimi i Aseteve",
+        "breadcrumbs_active": "Asetet",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+        "delete_failed": "Kishte diçka që nuk shkonte."
+      },
+      "create": {
+        "page_title": "Krijo Aset",
+        "form_title": "Krijo një pasuri",
+        "breadcrumbs_current": "Krijo Aset",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Asetet",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Puna u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto aktivin",
+        "form_title": "Redakto punën",
+        "breadcrumbs_current": "Redakto aktivin",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Asetet",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Puna u përditësua me sukses 👍"
+      },
+      "view": {
+        "page_title": "Detajet e Aseteve",
+        "breadcrumbs_current": "Detajet e Aseteve",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Asetet",
+        "breadcrumbs_active": "Detajet"
+      }
+    }
+  },
+  "payroll": {
+    "common": {
+      "salary_date": "Data e pagës",
+      "total_salary": "Paga totale",
+      "advance": "Përparoni",
+      "advance_placeholder": "Fut sasinë e advacne",
+      "others": "Të tjerët",
+      "others_placeholder": "Shkruani shumën e të tjerëve",
+      "travel_allowance": "Shtesa për udhëtime (TA)",
+      "travel_allowance_placeholder": "Fut një kompensim udhëtimi",
+      "festival_bonus": "Bonusi i Festivalit",
+      "festival_bonus_placeholder": "Fut një bonus festivali",
+      "commission": "Komisioni",
+      "commission_placeholder": "Fut një komision",
+      "bonus": "Bonus",
+      "bonus_placeholder": "Fut një bonus",
+      "food_bill": "Fatura e ushqimit",
+      "food_bill_placeholder": "Fut një faturë ushqimore",
+      "mobile_bill": "Fatura e celularit",
+      "mobile_bill_placeholder": "Fut një faturë celulare",
+      "deduction_reason": "Arsyeja e zbritjes",
+      "deduction_reason_placeholder": "Fut një arsye zbritjeje",
+      "deduction_amount": "Shuma e zbritjes",
+      "deduction_amount_placeholder": "Futni një shumë të zbritjes",
+      "present_salary": "Paga e tanishme",
+      "salary_month": "Muaji i pagave",
+      "salary_month_placeholder": "Zgjidhni një muaj pagash"
+    },
+    "index": {
+      "page_title": "Lista e pagave të punonjësve",
+      "breadcrumbs_current": "Lista e pagave të punonjësve",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Lista e pagave",
+      "breadcrumbs_active": "Lista e pagave",
+      "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+      "delete_failed": "Kishte diçka që nuk shkonte."
+    },
+    "create": {
+      "page_title": "Krijo listën e pagave",
+      "form_title": "Krijoni listën e pagave të punonjësve",
+      "breadcrumbs_current": "Krijo listën e pagave",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Lista e pagave",
+      "breadcrumbs_active": "Krijo",
+      "success_msg": "Lista e pagave u shtua me sukses 👍"
+    },
+    "edit": {
+      "page_title": "Redakto listën e pagave",
+      "form_title": "Redakto listën e pagave",
+      "breadcrumbs_current": "Redakto listën e pagave",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Lista e pagave",
+      "breadcrumbs_active": "Redakto",
+      "success_msg": "Lista e pagave u përditësua me sukses 👍"
+    },
+    "view": {
+      "page_title": "Detajet e listës së pagave",
+      "breadcrumbs_current": "Detajet e listës së pagave",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Lista e pagave",
+      "breadcrumbs_active": "Detajet"
+    }
+  },
+  "clients": {
+    "common": {
+      "non_invoice_transactions": "Transaksionet pa fatura"
+    },
+    "index": {
+      "page_title": "Klientët",
+      "breadcrumbs_current": "Klientët",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Klientët",
+      "breadcrumbs_active": "Klientët",
+      "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+      "delete_failed": "Na vjen keq që nuk mund ta fshini këtë klient."
+    },
+    "create": {
+      "page_title": "Krijo klient",
+      "form_title": "Krijo një klient",
+      "breadcrumbs_current": "Krijo klient",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Klientët",
+      "breadcrumbs_active": "Krijo",
+      "success_msg": "Klienti u shtua me sukses 👍"
+    },
+    "edit": {
+      "page_title": "Redakto klientin",
+      "form_title": "Redakto klientin",
+      "breadcrumbs_current": "Redakto klientin",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Klientët",
+      "breadcrumbs_active": "Redakto",
+      "success_msg": "Klienti u përditësua me sukses 👍"
+    },
+    "view": {
+      "page_title": "Detajet e Klientit",
+      "breadcrumbs_current": "Detajet e Klientit",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Klientët",
+      "breadcrumbs_active": "Detajet"
+    }
+  },
+  "suppliers": {
+    "common": {
+      "non_purchase_transactions": "Transaksionet jo-blerje"
+    },
+    "index": {
+      "page_title": "Furnizuesit",
+      "breadcrumbs_current": "Furnizuesit",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Furnizuesit",
+      "breadcrumbs_active": "Furnizuesit",
+      "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+      "delete_failed": "Na vjen keq që nuk mund ta fshini këtë furnizues."
+    },
+    "create": {
+      "page_title": "Krijo Furnizues",
+      "form_title": "Krijo një furnizues",
+      "breadcrumbs_current": "Krijo Furnizues",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Furnizuesit",
+      "breadcrumbs_active": "Krijo",
+      "success_msg": "Furnizuesi u shtua me sukses 👍"
+    },
+    "edit": {
+      "page_title": "Redakto Furnizuesin",
+      "form_title": "Redakto furnizuesin",
+      "breadcrumbs_current": "Redakto Furnizuesin",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Furnizuesit",
+      "breadcrumbs_active": "Redakto",
+      "success_msg": "Furnizuesi u përditësua me sukses 👍"
+    },
+    "view": {
+      "page_title": "Detajet e Furnizuesit",
+      "breadcrumbs_current": "Detajet e Furnizuesit",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Furnizuesit",
+      "breadcrumbs_active": "Detajet"
+    }
+  },
+  "employees": {
+    "common": {
+      "increment_date": "Data e rritjes",
+      "increment_amount": "Shuma e rritjes",
+      "increment_amount_placeholder": "Futni shumën e rritjes",
+      "increment_reason": "Arsyeja e rritjes",
+      "increment_reason_placeholder": "Fut një arsye",
+      "basic_salary": "Paga bazë",
+      "current_salary": "Paga aktuale",
+      "incremented_salary": "Rritja e pagës",
+      "birth_date": "Data e lindjes",
+      "join_date": "Data e anëtarësimit",
+      "employee_name": "Emri i punonjësit",
+      "employee_name_placeholder": "Futni një emër punonjësi",
+      "gender": "Gjinia",
+      "gender_placeholder": "Zgjidhni një gjini",
+      "male": "Mashkull",
+      "female": "Femër",
+      "transgender": "Transgjinor",
+      "other": "Të tjera",
+      "blood_group": "Grupi i gjakut",
+      "blood_group_placeholder": "Zgjidhni një grup gjaku",
+      "religion": "Feja",
+      "religion_placeholder": "Zgjidhni një fe",
+      "islam": "Islami",
+      "hinduism": "hinduizmi",
+      "buddhists": "budistët",
+      "christians": "të krishterët",
+      "animists": "Animistët",
+      "appointment_date": "Data e takimit",
+      "allow_login": "Lejo hyrjen e punonjësve",
+      "increment_history": "Historia e rritjes"
+    },
+    "departments": {
+      "index": {
+        "page_title": "Departamentet",
+        "breadcrumbs_current": "Departamentet",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Punonjësit",
+        "breadcrumbs_active": "Departamentet",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+        "delete_failed": "Kishte diçka që nuk shkonte."
+      },
+      "create": {
+        "page_title": "Krijo departament",
+        "form_title": "Krijo një departament",
+        "breadcrumbs_current": "Krijo departament",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Departamentet",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Departamenti u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Departamenti i redaktimit",
+        "form_title": "Departamenti i redaktimit",
+        "breadcrumbs_current": "Departamenti i redaktimit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Departamentet",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Departamenti u përditësua me sukses 👍"
+      }
+    },
+    "increments": {
+      "index": {
+        "page_title": "Rritjet e pagave të punonjësve",
+        "breadcrumbs_current": "Rritjet e pagave",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Punonjësit",
+        "breadcrumbs_active": "Rritjet",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+        "delete_failed": "Kishte diçka që nuk shkonte."
+      },
+      "create": {
+        "page_title": "Krijo rritje pagash",
+        "form_title": "Krijo rritje pagash",
+        "breadcrumbs_current": "Krijo rritje pagash",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Rritjet",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Rritja u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto rritjen e pagës",
+        "form_title": "Redakto rritjen e pagës",
+        "breadcrumbs_current": "Redakto rritjen e pagës",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Rritjet",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Rritja u përditësua me sukses 👍"
+      },
+      "view": {
+        "page_title": "Detajet e rritjes",
+        "breadcrumbs_current": "Detajet e rritjes",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Rritjet",
+        "breadcrumbs_active": "Detajet"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "Punonjësit",
+        "breadcrumbs_current": "Punonjësit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_active": "Punonjësit",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+        "delete_failed": "Kishte diçka që nuk shkonte."
+      },
+      "create": {
+        "page_title": "Krijo një punonjës",
+        "form_title": "Krijo një punonjës",
+        "breadcrumbs_current": "Krijo një punonjës",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Punonjësit",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Punonjësi u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Edit Punonjës",
+        "form_title": "Edit punonjës",
+        "breadcrumbs_current": "Edit Punonjës",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Punonjësit",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Punonjësi u përditësua me sukses 👍"
+      },
+      "view": {
+        "page_title": "Detajet e Punonjësit",
+        "breadcrumbs_current": "Detajet e Punonjësit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Punonjësit",
+        "breadcrumbs_active": "Detajet"
+      }
+    }
+  },
+  "products": {
+    "categories": {
+      "index": {
+        "page_title": "Kategoritë e produkteve",
+        "breadcrumbs_current": "Kategoritë e produkteve",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Produktet",
+        "breadcrumbs_active": "Kategoritë",
+        "delete_warning": "Të gjitha nënkategoritë për këtë kategori do të fshihen!"
+      },
+      "create": {
+        "page_title": "Krijoni kategorinë e produktit",
+        "form_title": "Krijo një kategori produkti",
+        "breadcrumbs_current": "Krijo kategori",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Produktet",
+        "breadcrumbs_third": "Kategoritë",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Kategoria u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto kategorinë e produktit",
+        "form_title": "Redakto kategorinë e produktit",
+        "breadcrumbs_current": "Redakto kategorinë e produktit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Produktet",
+        "breadcrumbs_third": "Kategoritë",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Kategoria u përditësua me sukses 👍"
+      }
+    },
+    "sub_categories": {
+      "index": {
+        "page_title": "Nënkategoritë e produkteve",
+        "breadcrumbs_current": "Nënkategoritë e produkteve",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Produktet",
+        "breadcrumbs_active": "Nënkategoritë",
+        "delete_warning": "Të gjitha produktet për këtë kategori do të fshihen!"
+      },
+      "create": {
+        "page_title": "Krijo nënkategorinë e produktit",
+        "form_title": "Krijoni një nën kategori produkti",
+        "breadcrumbs_current": "Krijo nënkategori",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Produktet",
+        "breadcrumbs_third": "Nënkategoritë",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Nënkategoria u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto nënkategorinë e produktit",
+        "form_title": "Redakto nënkategorinë e produktit",
+        "breadcrumbs_current": "Redakto nënkategorinë e produktit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Produktet",
+        "breadcrumbs_third": "Nënkategoritë",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Nënkategoria u përditësua me sukses 👍"
+      }
+    },
+    "list": {
+      "common": {
+        "alert_quantity": "Sasia e alarmit",
+        "alert_quantity_placeholder": "Fut sasinë e alarmit",
+        "selling_price": "Çmimi i shitjes",
+        "selling_price_placeholder": "Shkruani çmimin e shitjes",
+        "regular_price": "Çmimi i rregullt",
+        "regular_price_placeholder": "Fut çmimin e rregullt",
+        "tax_type": "Lloji i tatimit",
+        "exclusive": "Ekskluzive",
+        "inclusive": "Gjithëpërfshirëse",
+        "product_tax": "Taksa e produktit",
+        "tax_placeholder": "Zgjidhni një taksë",
+        "barcode_symbology": "Simbologjia e barkodit",
+        "tax_amount": "Shuma e tatimit",
+        "avg_purchase_price": "Mesatar ",
+        "avg_selling_price": "Mesatar ",
+        "stock": "Stoku",
+        "inventory_value": "Vlera e inventarit",
+        "generate_barcode": "Krijo barkod"
+      },
+      "index": {
+        "page_title": "Produktet",
+        "breadcrumbs_current": "Produktet",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Produktet",
+        "breadcrumbs_active": "Produktet",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!"
+      },
+      "create": {
+        "page_title": "Krijo Produkt",
+        "form_title": "Krijo një produkt",
+        "breadcrumbs_current": "Krijo Produkt",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Produktet",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Produkti u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redakto produktin",
+        "form_title": "Redakto produktin",
+        "breadcrumbs_current": "Redakto produktin",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Produktet",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Produkti u përditësua me sukses 👍"
+      },
+      "view": {
+        "page_title": "detajet e produktit",
+        "breadcrumbs_current": "detajet e produktit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Produktet",
+        "breadcrumbs_active": "Detajet",
+        "expense_details": "detajet e produktit"
+      },
+      "barcode": {
+        "page_title": "Printimi i barkodit",
+        "generate_barcode": "Krijo barkod",
+        "print_barcode": "Printimi i barkodit",
+        "paper_size": "Madhësia e letrës",
+        "print_qty": "Sasia e printimit",
+        "breadcrumbs_current": "Printimi i barkodit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Produktet",
+        "breadcrumbs_active": "Redakto",
+        "page_option_0": "40 për fletë (a4) (1,799 * 1,003)",
+        "page_option_1": "30 për fletë (2,625 * 1)",
+        "page_option_2": "24 për fletë (a4) (2,48 * 1,334)",
+        "page_option_3": "20 për fletë (4 * 1)",
+        "page_option_4": "18 për fletë (a4) (2,5 * 1,835)",
+        "page_option_5": "14 për fletë (4 * 1,33)",
+        "page_option_6": "12 për fletë (a4) (2,5 * 2,834)",
+        "page_option_7": "10 për fletë (4 * 2)"
+      }
+    }
+  },
+  "inventory": {
+    "common": {
+      "inventory_history": "Historia e inventarit",
+      "adjustment_no": "Rregullimi Nr",
+      "adjustment_date": "Data e rregullimit",
+      "adjustment_type": "Lloji i rregullimit",
+      "increment": "Rritje",
+      "decrement": "Zvogëlimi",
+      "adjustment_reason": "Arsyeja e rregullimit",
+      "adjusted_products": "Produkte të rregulluara"
+    },
+    "index": {
+      "page_title": "Inventari",
+      "breadcrumbs_current": "Inventari",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Produktet",
+      "breadcrumbs_active": "Inventari"
+    },
+    "history": {
+      "page_title": "Historia e inventarit",
+      "breadcrumbs_current": "Historia e inventarit",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Inventari",
+      "breadcrumbs_active": "Historia"
+    },
+    "adjustments": {
+      "index": {
+        "page_title": "Rregullimet e inventarit",
+        "breadcrumbs_current": "Rregullimet e inventarit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Inventari",
+        "breadcrumbs_active": "Rregullimet",
+        "delete_warning": "Nuk do të mund të ktheheni në këtë!",
+        "delete_failed": "Kishte diçka që nuk shkonte."
+      },
+      "create": {
+        "page_title": "Krijo Përshtatje",
+        "form_title": "Krijo rregullim",
+        "breadcrumbs_current": "Krijo Përshtatje",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Rregullimet",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Rregullimi u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Redaktimi i rregullimit",
+        "form_title": "Ndrysho rregullimin",
+        "breadcrumbs_current": "Redaktimi i rregullimit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Rregullimet",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Rregullimi u përditësua me sukses 👍"
+      },
+      "view": {
+        "page_title": "Detajet e rregullimit",
+        "breadcrumbs_current": "Detajet e rregullimit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Rregullimet",
+        "breadcrumbs_active": "Detajet"
+      }
+    }
+  },
+  "reports": {
+    "stock_in": "Në magazinë",
+    "stock_out": "Mbarimi i aksioneve",
+    "total_quantity": "Sasia totale",
+    "incomes": "Të ardhurat",
+    "liabilities": "Detyrimet",
+    "security_asset": "Siguria/Pasuria totale",
+    "supplier_dues": "Detyrimet e furnizuesit",
+    "client_dues": "Detyrimet e klientit",
+    "bank_loan": "Kredi bankare",
+    "bank_balance": "Bilanci bankar",
+    "income_liabilities": "(Të ardhura - Detyrime)",
+    "total_asset": "Asetet totale",
+    "view_report": "Shiko Raportin",
+    "monthly_summery": "Përmbledhje mujore",
+    "particulars": "Të veçantat",
+    "opening_balance": "Bilanci i hapjes",
+    "invoice_sales": "Shitjet e Faturës",
+    "invoice_dues": "Detyrimet e faturës",
+    "accounts_collection": "Mbledhja e llogarive",
+    "general": "Gjeneral",
+    "loan_interest": "Interesi i huasë",
+    "asset_depreciation": "Amortizimi i pasurisë",
+    "transfer": "Transferimi",
+    "transfer_from": "Transferimi i bilancit nga",
+    "closing_balance": "Bilanci i mbylljes",
+    "report_type": "Lloji i raportit",
+    "gross_profit_Loss": "Fitimi/Humbja bruto",
+    "net_profit_Loss": "Fitimi/Humbja neto",
+    "sold_qty": "Sasia e shitur",
+    "profit": "Fitimi",
+    "loss": "Humbje",
+    "total_sales_avg": "Shitjet totale (mesatare)",
+    "total_purchased_avg": "Blerja totale (mesatare)",
+    "income_statement": "Deklarata e të ardhurave",
+    "total_sales": "Shitjet totale",
+    "cost_of_goods_sold": "Kostoja e mallrave të shitura",
+    "positive_adjusted": "Pozitiv i rregulluar",
+    "negative_adjusted": "Negativ i rregulluar",
+    "total_adjusted": "Gjithsej i rregulluar",
+    "gross_profit": "Fitimi bruto",
+    "gross_loss": "Humbje bruto",
+    "operating_expenses": "Shpenzimet operative",
+    "salaries": "Pagat",
+    "general_expenses": "Shpenzime te pergjithshme",
+    "total_expense": "Shpenzimet totale",
+    "net_profit": "Fitimi neto",
+    "net_loss": "Humbje neto",
+    "date_range": "Gama e datave",
+    "stock_in_hand": "Stoku në dorë",
+    "balance_sheet": {
+      "page_title": "Bilanci i gjendjes",
+      "breadcrumbs_current": "Bilanci i gjendjes",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Raportet",
+      "breadcrumbs_active": "Bilanci i gjendjes"
+    },
+    "summary": {
+      "page_title": "Raport përmbledhës",
+      "breadcrumbs_current": "Raport përmbledhës",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Raportet",
+      "breadcrumbs_active": "Raport përmbledhës"
+    },
+    "profit_loss": {
+      "empty_msg_title": "Fitim/humbje bosh!",
+      "empty_msg_text": "Na vjen keq, nuk u gjet asnjë fitim/humbje për kategorinë dhe diapazonin e datave të zgjedhura.",
+      "page_title": "Raporti i fitimit/humbjes",
+      "breadcrumbs_current": "Raporti i fitimit/humbjes",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Raportet",
+      "breadcrumbs_active": "Raporti i fitimit/humbjes"
+    },
+    "expense": {
+      "empty_msg_title": "Shpenzime boshe!",
+      "empty_msg_text": "Na vjen keq, nuk u gjet asnjë shpenzim për kategorinë dhe diapazonin e datave të zgjedhura.",
+      "page_title": "Raporti i shpenzimeve",
+      "breadcrumbs_current": "Raporti i shpenzimeve",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Raportet",
+      "breadcrumbs_active": "Raporti i shpenzimeve"
+    },
+    "product": {
+      "empty_msg_title": "Bosh!",
+      "empty_msg_text": "Na vjen keq, nuk u gjet asnjë rezervë brenda ose jashtë për artikullin tuaj të zgjedhur dhe diapazonin e datave.",
+      "page_title": "Raporti i artikullit",
+      "breadcrumbs_current": "Raporti i artikullit",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Raportet",
+      "breadcrumbs_active": "Raporti i artikullit"
+    },
+    "inventory": {
+      "empty_msg_title": "Inventari bosh!",
+      "empty_msg_text": "Na vjen keq, nuk u gjet asnjë inventar për kategorinë dhe diapazonin e datave të zgjedhura.",
+      "page_title": "Raporti i inventarit",
+      "breadcrumbs_current": "Raporti i inventarit",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_second": "Raportet",
+      "breadcrumbs_active": "Raporti i inventarit"
+    }
+  },
+  "setup": {
+    "common": {
+      "sort_code": "Kod i shkurter",
+      "sort_code_placeholder": "Futni një kod të shkurtër"
+    },
+    "index": {
+      "page_title": "Konfigurimi",
+      "breadcrumbs_current": "Konfigurimi",
+      "breadcrumbs_first": "Paneli",
+      "breadcrumbs_active": "Konfigurimi",
+      "menu": {
+        "item_one": {
+          "title": "Gjeneral",
+          "description": "Cilësimet e përgjithshme si, titulli i faqes, përshkrimi i faqes, adresa etj.",
+          "link_text": "Ndrysho cilësimin"
+        },
+        "item_two": {
+          "title": "Monedhat",
+          "description": "Menaxhoni lloje të ndryshme të monedhave që do të përdorni në sistem.",
+          "link_text": "Monedhat"
+        },
+        "item_three": {
+          "title": "Njësitë",
+          "description": "Menaxho llojet e njësive për matje që do të përdorësh në sistem.",
+          "link_text": "Njësitë"
+        },
+        "item_four": {
+          "title": "Roli",
+          "description": "Menaxho rolet",
+          "link_text": "Rolet"
+        },
+        "item_five": {
+          "title": "Normat e TVSH-së",
+          "description": "Menaxho normat e TVSH-së për menaxhimin e TVSH-së që do të përdorësh në sistem.",
+          "link_text": "Normat e TVSH-së"
+        },
+        "item_six": {
+          "title": "Marka",
+          "description": "Menaxho markat që do të përdorësh në sistem.",
+          "link_text": "Marka"
+        },
+        "item_seven": {
+          "title": "menyra pagese",
+          "description": "Menaxho mënyrat e pagesës që do të përdorësh në sistem.",
+          "link_text": "menyra pagese"
+        },
+        "item_eight": {
+          "title": "Lejet e përdoruesit",
+          "description": "Menaxho lejen që do të caktosh në një rol.",
+          "link_text": "Lejet e përdoruesit"
+        }
+      }
+    },
+    "general_settings": {
+      "index": {
+        "page_title": "Cilësimet e përgjithshme",
+        "breadcrumbs_current": "Cilësimet e përgjithshme",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_active": "Përditësoni cilësimet e përgjithshme",
+        "form_title": "Përditësoni cilësimet e përgjithshme",
+        "success_message": "Cilësimet u përditësuan me sukses 👍",
+        "company_info": {
+          "info_title": "Shto informacionin e kompanisë suaj",
+          "company_tagline": "Tagline i kompanisë",
+          "company_tagline_placeholder": "Tagline i kompanisë",
+          "email_address": "Adresa e emailit",
+          "email_address_placeholder": "Futni një adresë emaili",
+          "phone_number": "Numri i telefonit",
+          "phone_number_placeholder": "Numri i telefonit"
+        },
+        "code_prefixes": {
+          "prefix_title": "Shtoni prefikset e kodit",
+          "client_prefix": "Prefiksi i klientit",
+          "client_prefix_placeholder": "Futni një prefiks klienti",
+          "supplier_prefix": "Prefiksi i furnizuesit",
+          "supplier_prefix_placeholder": "Futni një prefiks furnizuesi",
+          "employee_prefix": "Prefiksi i punonjësit",
+          "employee_prefix_placeholder": "Futni një prefiks punonjësi",
+          "product_category_prefix": "Prefiksi i kategorisë së produktit",
+          "product_category_prefix_placeholder": "Futni një prefiks të kategorisë së produktit",
+          "product_sub_category_prefix": "Prefiksi i nënkategorisë së produktit",
+          "product_sub_category_prefix_placeholder": "Futni një parashtesë të nënkategorisë",
+          "product_prefix": "Prefiksi i produktit",
+          "product_prefix_placeholder": "Futni një prefiks produkti",
+          "expense_category_prefix": "Prefiksi i kategorisë së shpenzimeve",
+          "expense_category_prefix_placeholder": "Futni një prefiks të kategorisë së shpenzimeve",
+          "expense_sub_category_prefix": "Prefiksi i Nën Kategorisë së Shpenzimeve",
+          "expense_sub_category_prefix_placeholder": "Futni një prefiks nën kategorinë e shpenzimeve",
+          "purchase_prefix": "Prefiksi i blerjes",
+          "purchase_prefix_placeholder": "Futni një prefiks blerjeje",
+          "purchase_return_prefix": "Prefiksi i kthimit të blerjes",
+          "purchase_return_prefix_placeholder": "Futni një prefiks të kthimit të blerjes",
+          "quotation_prefix": "Parashtesa e kuotimit",
+          "quotation_prefix_placeholder": "Futni një parashtesë kuotimi",
+          "invoice_prefix": "Prefiksi i faturës",
+          "invoice_prefix_placeholder": "Fut një prefiks faturë",
+          "invoice_return_prefix": "Prefiksi i kthimit të faturës",
+          "invoice_return_prefix_placeholder": "Futni një prefiks të kthimit të faturës",
+          "invoice_adjustment_prefix": "Prefiksi i rregullimit të inventarit",
+          "invoice_adjustment_prefix_placeholder": "Futni një prefiks të rregullimit të inventarit"
+        },
+        "default_elements": {
+          "default_elements_title": "Shtoni elementët tuaj të paracaktuar",
+          "default_currency": "Monedha e paracaktuar",
+          "select_a_currency": "Zgjidhni një monedhë",
+          "default_language": "Gjuha e paracaktuar",
+          "english_en": "anglisht (en)",
+          "hindi_hi": "Hindi (përshëndetje)",
+          "bangla_bn": "Bangla (bn)",
+          "copyright_text": "Teksti i autorit",
+          "copyright_text_placeholder": "Teksti i autorit",
+          "default_client": "Klienti i parazgjedhur",
+          "default_account": "Llogaria e paracaktuar",
+          "select_a_account": "Zgjidhni një llogari",
+          "select_a_client": "Zgjidhni një klient",
+          "default_vat_rate": "Norma e paracaktuar e TVSH-së",
+          "select_a_vat_rate": "Zgjidhni një normë të TVSH-së"
+        },
+        "logo": {
+          "white_logo": "Logo e bardhë",
+          "black_logo": "Logo e zezë",
+          "small_logo": "Logo e vogël",
+          "favicon": "Favicon"
+        }
+      }
+    },
+    "currencies": {
+      "common": {
+        "symbol": "Simboli",
+        "symbol_placeholder": "Futni një simbol",
+        "currency_position": "Pozicioni i monedhës",
+        "position_drop_down_item_one": "Rreshtimi majtas",
+        "position_drop_down_item_two": "Rreshtoni djathtas"
+      },
+      "index": {
+        "page_title": "Monedhat",
+        "breadcrumbs_current": "Monedhat",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_active": "Monedhat",
+        "table": {
+          "position": "Pozicioni",
+          "preview": "Parapamje"
+        }
+      },
+      "create": {
+        "page_title": "Krijo monedhë",
+        "breadcrumbs_current": "Krijo monedhë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_third": "Monedhat",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Monedha u shtua me sukses 👍",
+        "form_title": "Krijo një monedhë"
+      },
+      "edit": {
+        "page_title": "Redakto monedhën",
+        "breadcrumbs_current": "Ndrysho monedhën",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_third": "Monedhat",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Monedha u përditësua me sukses 👍",
+        "form_title": "Ndrysho monedhën"
+      }
+    },
+    "units": {
+      "index": {
+        "page_title": "Njësitë",
+        "breadcrumbs_current": "Njësitë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_active": "Njësitë"
+      },
+      "create": {
+        "page_title": "Krijo njësi",
+        "breadcrumbs_current": "Krijo njësi",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_third": "Njësitë",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Njësia u shtua me sukses 👍",
+        "form_title": "Krijo njësi"
+      },
+      "edit": {
+        "page_title": "Redakto njësinë",
+        "breadcrumbs_current": "Redakto njësinë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_third": "Njësitë",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Njësia u përditësua me sukses 👍",
+        "form_title": "Redakto njësinë"
+      }
+    },
+    "permissions": {
+      "common": {
+        "slug": "Slug",
+        "slug_placeholder": "Fut një gjuajtje",
+        "guard_name": "Emri i rojes",
+        "guard_name_placeholder": "Futni një emër roje"
+      },
+      "index": {
+        "page_title": "Lejet",
+        "breadcrumbs_current": "Lejet",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_active": "Lejet"
+      },
+      "create": {
+        "page_title": "Krijo leje",
+        "form_title": "Krijo leje",
+        "breadcrumbs_current": "Krijo leje",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_third": "Lejet",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Leja u shtua me sukses 👍"
+      },
+      "edit": {
+        "page_title": "Leja e modifikimit",
+        "form_title": "Leja e modifikimit",
+        "breadcrumbs_current": "Leja e modifikimit",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_third": "Lejet",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Leja u përditësua me sukses 👍"
+      }
+    },
+    "role_and_permission": {
+      "index": {
+        "page_title": "Rolet",
+        "breadcrumbs_current": "Rolet",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_active": "Rolet",
+        "role_name": "Emri i rolit"
+      },
+      "create": {
+        "page_title": "Krijo rol",
+        "breadcrumbs_current": "Krijo rol",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_third": "Rolet",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Roli u shtua me sukses 👍",
+        "form_title": "Krijo rol",
+        "select_permission": "Zgjidhni lejet:"
+      },
+      "edit": {
+        "page_title": "Redakto rolin",
+        "breadcrumbs_current": "Redakto rolin",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_third": "Rolet",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Roli u përditësua me sukses 👍",
+        "form_title": "Redakto rolin",
+        "update_permission": "Përditëso lejet:"
+      }
+    },
+    "vat_rates": {
+      "common": {
+        "rate_in_percent": "Norma (e llogaritur në %)",
+        "rate_palceholder": "Fut një tarifë"
+      },
+      "index": {
+        "page_title": "Normat e TVSH-së",
+        "breadcrumbs_current": "Normat e TVSH-së",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_active": "Normat e TVSH-së",
+        "rate": "Vlerësoni"
+      },
+      "create": {
+        "page_title": "Krijo normën e TVSH-së",
+        "breadcrumbs_current": "Krijo normën e TVSH-së",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_third": "Normat e TVSH-së",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Norma e TVSH-së u shtua me sukses 👍",
+        "form_title": "Krijo një normë të TVSH-së"
+      },
+      "edit": {
+        "page_title": "Redakto normën e TVSH-së",
+        "breadcrumbs_current": "Redakto normën e TVSH-së",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_third": "Normat e TVSH-së",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Norma e TVSH-së u përditësua me sukses 👍",
+        "form_title": "Redakto normën e TVSH-së"
+      }
+    },
+    "brands": {
+      "common": {
+        "brand_name": "Emri i markës",
+        "brand_name_placeholder": "Futni emrin e markës"
+      },
+      "index": {
+        "page_title": "Marka",
+        "breadcrumbs_current": "Marka",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_active": "Marka",
+        "brand_logo_view": "Pamja e logos së markës"
+      },
+      "create": {
+        "page_title": "Krijo Markë",
+        "breadcrumbs_current": "Krijo Markë",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_third": "Marka",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Marka u shtua me sukses 👍",
+        "form_title": "Krijo markë"
+      },
+      "view": {
+        "page_title": "Detajet e markës",
+        "breadcrumbs_current": "Detajet e markës",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_third": "Marka",
+        "breadcrumbs_active": "Detajet"
+      },
+      "edit": {
+        "page_title": "Redakto markën",
+        "breadcrumbs_current": "Redakto markën",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_third": "Marka",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Marka u përditësua me sukses 👍",
+        "form_title": "Redakto markën"
+      }
+    },
+    "payment_methods": {
+      "index": {
+        "page_title": "menyra pagese",
+        "breadcrumbs_current": "menyra pagese",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_active": "menyra pagese"
+      },
+      "create": {
+        "page_title": "Krijo mënyrën e pagesës",
+        "breadcrumbs_current": "Krijo mënyrën e pagesës",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_third": "menyra pagese",
+        "breadcrumbs_active": "Krijo",
+        "success_msg": "Mënyra e pagesës u shtua me sukses 👍",
+        "form_title": "Krijo një mënyrë pagese"
+      },
+      "edit": {
+        "page_title": "Ndrysho mënyrën e pagesës",
+        "breadcrumbs_current": "Ndrysho mënyrën e pagesës",
+        "breadcrumbs_first": "Paneli",
+        "breadcrumbs_second": "Konfigurimi",
+        "breadcrumbs_third": "menyra pagese",
+        "breadcrumbs_active": "Redakto",
+        "success_msg": "Mënyra e pagesës u përditësua me sukses 👍",
+        "form_title": "Ndrysho mënyrën e pagesës"
+      }
+    }
+  },
+  "user_profile": {
+    "form_title": "Përditësoni profilin tuaj",
+    "page_title": "Përditësoje profilin",
+    "breadcrumbs_current": "Përditësoje profilin",
+    "breadcrumbs_first": "Paneli",
+    "breadcrumbs_active": "Përditëso",
+    "current_password": "Fjalëkalimi aktual",
+    "current_password_placeholder": "Fut fjalëkalimin aktual",
+    "new_password": "Fjalëkalim i ri",
+    "new_password_placeholder": "Fut fjalëkalimin e ri",
+    "confirm_password": "Konfirmo fjalëkalimin",
+    "confirm_password_placeholder": "Fut fjalëkalimin e konfirmimit",
+    "success_msg": "Profili u përditësua me sukses 👍"
+  },
+  "stock_alert": {
+    "page_title": "Produktet e alarmit të aksioneve",
+    "breadcrumbs_current": "Produktet e alarmit të aksioneve",
+    "breadcrumbs_first": "Paneli",
+    "breadcrumbs_active": "Produkte Alert"
+  },
+  "backup": {
+    "page_title": "Rezervimi i bazës së të dhënave",
+    "breadcrumbs_current": "Rezervimi i bazës së të dhënave",
+    "breadcrumbs_first": "Paneli",
+    "breadcrumbs_active": "Rezervimi",
+    "export": "Eksporto",
+    "format": "Formati",
+    "format_sql": "SQL (.sql)",
+    "success_msg": "Rezervimi u shkarkua me sukses 👍"
+  },
+  "permission_denied": {
+    "page_title": "Leja u refuzua",
+    "breadcrumbs_current": "Leja u refuzua",
+    "breadcrumbs_first": "Paneli",
+    "breadcrumbs_active": "Leja u refuzua",
+    "error_msg": "Ju nuk keni leje për të parë këtë faqe.",
+    "error_code": "kodi i gabimit: 403 i ndaluar."
+  },
+  "error_not_found": {
+    "error_404": "404",
+    "error_404_title": "Faqja nuk u gjet",
+    "error_404_msg": "Na vjen keq, por URL-ja e kërkuar nuk u gjet në këtë server. ",
+    "back_to_dashboard": "Kthehu te Paneli",
+    "back_to_login": "Kthehu te identifikimi"
+  },
+  "sidebar_control": {
+    "customize_acculance": "Personalizo Acculance",
+    "dark_mode": "Modaliteti i errët",
+    "header_options": "Opsionet e kokës",
+    "fixed": "E rregulluar",
+    "no_border": "Nuk ka kufi",
+    "sidebar_options": "Opsionet e shiritit anësor",
+    "sidebar_dark": "Shiriti anësor i errët",
+    "collapsed": "Shiriti anësor u rrëzua",
+    "sidebar_fixed": "Shiriti anësor u rregullua",
+    "sidebar_mini": "Shiriti anësor Mini",
+    "nav_flat_style": "Nav Styl Flat",
+    "nav_legacy_style": "Stili i trashëgimisë Nav",
+    "nav_child_indent": "Nav Child Indent",
+    "disable_hover": "Çaktivizo Zgjerimin automatik të Hover/Fokusit"
+  },
+  "pos": {
+    "page_title": "POS",
+    "breadcrumbs_current": "Krijo shitje",
+    "breadcrumbs_first": "Paneli",
+    "breadcrumbs_second": "Faturat",
+    "breadcrumbs_active": "POS",
+    "available": "Në dispozicion",
+    "pos": "POS",
+    "complete_order": "Ruaj",
+    "complete_order_and_add_payment": "Ruaj",
+    "add_payment": "Shto pagesën",
+    "invoice_receipt": "Fatura e faturës",
+    "not_enough_items": "Nuk ka artikuj të mjaftueshëm!",
+    "receipt_text": "Faleminderit për blerjet me ne. "
+  },
+  "csv": {
+    "title": "Ngarkoni skedarin tuaj CSV",
+    "success": "Sukses",
+    "import_success": "Skedari CSV u importua me sukses!",
+    "instructions": "Udhëzimet",
+    "download_zip": "Shkarkoni dosjen zip.",
+    "populate_information": "Plotësoni products.csv me informacionin e produktit tuaj.",
+    "corresponding_CSV": "ID-të që lidhen me produktin mund t'i merrni në skedarin e tyre përkatës CSV",
+    "example": "Shembull: sub_cat_id në nën-kategori.csv"
+  },
+  "Create Client": "Krijo klient",
+  "Cancel": "Anulo",
+  "Create Product": "Krijo Produkt",
+  "Create Supplier": "Krijo Furnizues",
+  "Generate barcode with price": "Gjeneroni barkod me çmim",
+  "Price": "Çmimi",
+  "TAX": "TAKSA"
+}

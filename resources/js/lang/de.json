@@ -1,0 +1,2282 @@
+{
+  "ok": "Ok",
+  "cancel": "Absagen",
+  "error_alert_title": "Hoppla...",
+  "error_alert_text": "Etwas ist schief gelaufen! Bitte versuche es erneut.",
+  "token_expired_alert_title": "Sitzung abgelaufen!",
+  "token_expired_alert_text": "Bitte melden Sie sich erneut an, um fortzufahren.",
+  "login": "Einloggen",
+  "register": "Registrieren",
+  "page_not_found": "Seite nicht gefunden",
+  "go_home": "Nach Hause gehen",
+  "logout": "Ausloggen",
+  "email": "Email",
+  "remember_me": "Erinnere dich an mich",
+  "password": "Passwort",
+  "forgot_password": "Passwort vergessen?",
+  "confirm_password": "Kennwort bestätigen",
+  "Name": "Name",
+  "toggle_navigation": "Navigation umschalten",
+  "home": "Heim",
+  "you_are_logged_in": "Du bist eingeloggt!",
+  "reset_password": "Passwort zurücksetzen",
+  "send_password_reset_link": "Link senden",
+  "settings": "Einstellungen",
+  "profile": "Profil",
+  "your_info": "Ihre Informationen",
+  "info_updated": "Ihre Informationen wurden aktualisiert!",
+  "update": "Aktualisieren",
+  "your_password": "Ihr Passwort",
+  "password_updated": "Dein Passwort wurde aktualisiert!",
+  "new_password": "Neues Passwort",
+  "login_with": "Einloggen mit",
+  "register_with": "Registrieren mit",
+  "verify_email": "E-Mail bestätigen",
+  "send_verification_link": "Bestätigungslink senden",
+  "resend_verification_link": "Bestätigungslink erneut senden?",
+  "failed_to_verify_email": "E-Mail konnte nicht bestätigt werden.",
+  "verify_email_address": "Wir haben Ihnen eine E-Mail mit einem Bestätigungslink gesendet.",
+  "reset_email_text": "Bitte geben Sie Ihre E-Mail-Adresse ein, um den Link zum Zurücksetzen des Passworts zu erhalten!",
+  "sorry": "Es tut uns leid",
+  "no_data_found": "Keine Daten gefunden",
+  "login_txt": "Bitte melden Sie sich an, um Ihre Sitzung fortzusetzen!",
+  "email_placeholder": "Geben sie ihre E-Mailadresse ein",
+  "password_placeholder": "Geben Sie Ihr Passwort ein",
+  "developed_by": "Entwickelt von",
+  "per_page": "Pro Seite",
+  "available": "Erhältlich",
+  "download": "Herunterladen",
+  "demo_file": "Demo-CSV-Datei",
+  "common": {
+    "to": "Zu",
+    "from": "Von",
+    "s_no": "#",
+    "more_info": "Mehr Info",
+    "name": "Name",
+    "name_placeholder": "Geben Sie einen Namen ein",
+    "password": "Passwort",
+    "password_placeholder": "Geben Sie Ihr Passwort ein",
+    "code": "Code",
+    "code_placeholder": "Geben Sie einen Code ein",
+    "product_name": "Produktname",
+    "product_name_placeholder": "Wähle ein Produkt",
+    "sub_category_code": "Unterkategoriecode",
+    "sub_category": "Unterkategorie",
+    "sub_category_name": "Name der Unterkategorie",
+    "category": "Kategorie",
+    "category_name": "Kategoriename",
+    "category_name_placeholder": "Wählen Sie eine Kategorie aus",
+    "account": "Konto",
+    "account_placeholder": "Wählen Sie ein Konto aus",
+    "available_balance": "Verfügbares Guthaben",
+    "amount": "Höhe",
+    "amount_placeholder": "Geben Sie einen Betrag ein",
+    "cheque_no": "Scheck Nr",
+    "cheque_placeholder": "Geben Sie eine Schecknummer ein",
+    "voucher_no": "Gutschein Nr",
+    "voucher_placeholder": "Geben Sie eine Gutscheinnummer ein",
+    "receipt_no": "Quittung Nr",
+    "receipt_no_placeholder": "Geben Sie eine Quittungs-Nr",
+    "date": "Datum",
+    "note": "Notiz",
+    "created_by": "Erstellt von",
+    "choose_file": "Datei wählen",
+    "image_alt": "Angehängtes Bild",
+    "note_placeholder": "Schreiben Sie hier Ihre Notiz!",
+    "status": "Status",
+    "action": "Handlung",
+    "active": "Aktiv",
+    "in_active": "Inaktiv",
+    "expired": "Abgelaufen",
+    "email": "Email",
+    "email_placeholder": "Geben sie ihre E-Mailadresse ein",
+    "phone": "Telefon",
+    "address": "Die Anschrift",
+    "address_placeholder": "Gib eine Adresse ein",
+    "modal_header": "Angehängte Bildvorschau",
+    "modal_body": "Standardkörper",
+    "export_table": "Tabelle exportieren",
+    "print_table": "Tabelle drucken",
+    "delete_title": "Bist du sicher?",
+    "delete_confirm_text": "Bist du sicher?",
+    "deleted": "Gelöscht!",
+    "delete_success": "Erfolgreich gelöscht.",
+    "failed": "Gescheitert!",
+    "delete_failed": "Irgendetwas stimmte nicht.",
+    "error_msg": "Upps ... da ist etwas schief gelaufen 😔",
+    "image_error": "Bitte wählen Sie ein gültiges Thumbnail mit einer Größe von weniger als 2 MB aus",
+    "close": "Nah dran",
+    "search": "Suche...",
+    "create": "Erstellen",
+    "view": "Sicht",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "image": "Bild",
+    "preview": "Vorschau",
+    "no_preview": "Keine Vorschau",
+    "save": "Speichern",
+    "save_changes": "Änderungen speichern",
+    "back": "Der Rücken",
+    "print": "Drucken",
+    "reset": "Zurücksetzen",
+    "supplier": "Anbieter",
+    "supplier_placeholder": "Wählen Sie einen Lieferanten aus",
+    "products": "Produkte",
+    "select_products": "Wählen Sie Produkte aus",
+    "select_products_placeholder": "Produktsuche",
+    "reference": "Bezug",
+    "reference_placeholder": "Referenz eingeben",
+    "quantity": "Menge",
+    "purchase_price": "Kaufpreis",
+    "unit_price": "Einzelpreis",
+    "unit_cost": "Kosten pro Einheit",
+    "unit_tax": "Einheitssteuer",
+    "tax": "Steuer",
+    "subtotal": "Zwischensumme",
+    "return_subtotal": "Zwischensumme zurückgeben",
+    "new_subtotal": "Neue Zwischensumme",
+    "return_amount": "Rückgabebetrag",
+    "return_cost": "Kosten der Rücksendung von Produkten",
+    "total": "Gesamt",
+    "net_total": "Nettosumme",
+    "due": "Fällig",
+    "transport": "Transport",
+    "add_payment": "Zahlung hinzufügen?",
+    "add_payment_placeholder": "Wähle eine Option",
+    "yes": "Ja",
+    "no": "Nein",
+    "paid": "Bezahlt",
+    "total_paid": "Ganz bezahlt",
+    "paid_amount": "Bezahlte Menge",
+    "paid_amount_placeholder": "Geben Sie einen Betrag ein",
+    "total_due": "Gesamt fällig",
+    "account_receivable": "Debitorenbuchhaltung",
+    "account_payable": "Konto zahlbar",
+    "total_price": "Gesamtpreis",
+    "return_price": "Rücksendepreis",
+    "price": "Preis",
+    "total_return": "Gesamtrendite",
+    "discount": "Rabatt",
+    "discount_placeholder": "Rabatt eingeben",
+    "supplier_details": "Lieferantendetails",
+    "client_details": "Kundendetails",
+    "supplier_id": "Lieferanten ID",
+    "client_id": "Kunden ID",
+    "client_name": "Kundenname",
+    "supplier_name": "Name des Anbieters",
+    "company_name": "Name der Firma",
+    "company_name_placeholder": "Geben Sie einen Firmennamen ein",
+    "contact_number": "Kontakt Nummer",
+    "contact_number_placeholder": "Geben Sie eine Kontaktnummer ein",
+    "payment_history": "Zahlungshistorie",
+    "payment_date": "Zahlungsdatum",
+    "empty_payment": "Noch keine Zahlungen möglich!",
+    "empty_payment_msg": "Sie haben keine Zahlung für diesen Kauf hinzugefügt. Nachdem Sie Zahlungen hinzugefügt haben, sehen Sie die Liste hier.",
+    "purchases": "Einkäufe",
+    "purchases_placeholder": "Wählen Sie einen Kauf aus",
+    "total_tax": "Gesamtsteuer",
+    "invoice_tax": "Rechnungssteuer",
+    "transport_cost": "Transportkosten",
+    "transport_cost_placeholder": "Transportkosten eingeben",
+    "total_discount": "Totaler Rabatt",
+    "discount_type": "Rabatttyp",
+    "fixed": "Fest",
+    "percentage": "Prozentsatz",
+    "client": "Klient",
+    "client_placeholder": "Wählen Sie einen Kunden aus",
+    "payment_terms": "Zahlungsbedingungen",
+    "payment_terms_placeholder": "Zahlungsbedingungen eingeben",
+    "po_reference": "PO-Referenzen",
+    "po_reference_placeholder": "Geben Sie die Bestellreferenz ein",
+    "invoice_qty": "Rechnungsmenge",
+    "current_qty": "Aktuelle Menge",
+    "return_qty": "Rücksendemenge",
+    "invoices": "Rechnungen",
+    "invoices_placeholder": "Wählen Sie eine Rechnung aus",
+    "return_reason": "Rücksendegrund",
+    "return_reason_placeholder": "Geben Sie einen Grund ein",
+    "invoice_due": "Rechnung fällig",
+    "non_invoice_due": "Nicht Rechnung zwei",
+    "invoice_date": "Rechnungsdatum",
+    "invoice_no": "Rechnungs-Nr",
+    "invoice_return_no": "Rechnungsrückgabe Nr",
+    "return_no": "Rücksendung Nr",
+    "return_products": "Produkte zurücksenden",
+    "insufficient_stock": "Unzureichender Bestand",
+    "invoice_products": "Rechnungsprodukte",
+    "created_at": "Hergestellt in",
+    "reason": "Grund",
+    "type": "Art",
+    "credit": "Kredit",
+    "debit": "Lastschrift",
+    "payment_type": "Zahlungsart",
+    "invoice_total": "Rechnungsbetrag",
+    "invoice_details": "Rechnungs-Details",
+    "payment_details": "Zahlungsdetails",
+    "ref_no": "Ref. Nein",
+    "reference_no": "Referenznummer",
+    "payable": "Zahlbar",
+    "interest": "Interesse",
+    "installment": "Rate",
+    "error": "Fehler!",
+    "per": "Pro",
+    "day": "Tag",
+    "month": "Monat",
+    "year": "Jahr",
+    "daily": "Täglich",
+    "monthly": "Monatlich",
+    "yearly": "Jährlich",
+    "employee": "Mitarbeiter",
+    "employee_placeholder": "Wählen Sie einen Mitarbeiter aus",
+    "designation": "Bezeichnung",
+    "designation_placeholder": "Geben Sie eine Bezeichnung ein",
+    "emp_name": "Emp-Name",
+    "emp_id": "Emp-ID",
+    "employee_details": "Mitarbeiterdetails",
+    "department": "Abteilung",
+    "department_placeholder": "Abteilung",
+    "balance": "Balance",
+    "salary": "Gehalt",
+    "salary_placeholder": "Geben Sie ein Gehalt ein",
+    "profile_picture": "Profilbild",
+    "role": "Rolle",
+    "role_placeholder": "Wählen Sie eine Rolle aus",
+    "unit": "Einheit",
+    "unit_placeholder": "Wählen Sie eine Einheit aus",
+    "brand": "Marke",
+    "brand_placeholder": "Wählen Sie eine Marke aus",
+    "item_code": "Produktcode",
+    "item_code_placeholder": "Artikelcode eingeben",
+    "item_model": "Artikelmodell",
+    "item_model_placeholder": "Geben Sie ein Modell ein",
+    "item_name": "Artikelname",
+    "item_name_placeholder": "Geben Sie einen Namen ein",
+    "rendering_fails": "Rendern schlägt fehl.",
+    "product": "Produkt",
+    "transactions": "Transaktionen",
+    "empty_table": "Entschuldigung 😔 keine Daten gefunden",
+    "stock_alert_msg": "Der Bestand ist geringer als die Alarmmenge!",
+    "stock_notification": "Produktmengenwarnung(en)",
+    "stock_notification_empty": "Keine Benachrichtigung verfügbar",
+    "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+    "add_balance": "Guthaben hinzufügen",
+    "remove_balance": "Guthaben entfernen",
+    "qty": "Menge",
+    "item": "Artikel",
+    "sold_by": "Verkauft durch"
+  },
+  "topbar": {
+    "new_invoice": "Neue Rechnung",
+    "new_expense": "Neue Ausgaben",
+    "new_purchase": "Neuer Einkauf",
+    "new_quotation": "Neues Zitat",
+    "profile": "Profil",
+    "setup": "Aufstellen",
+    "logout": "Ausloggen"
+  },
+  "sidebar": {
+    "dashboard": "Armaturenbrett",
+    "activities": "AKTIVITÄTEN",
+    "expenses": "Kosten",
+    "categories": "Kategorien",
+    "sub_categories": "Unterkategorien",
+    "expenses_list": "Spesenliste",
+    "purchases": "Einkäufe",
+    "purchases_list": "Einkaufsliste",
+    "returns_list": "Retourenliste",
+    "sales": "Verkauf",
+    "quotations_list": "Zitatliste",
+    "invoices_list": "Rechnungsliste",
+    "accounting": "BUCHHALTUNG",
+    "cashbook": "Kassenbuch",
+    "accounts": "Konten",
+    "balance_adjustments": "Balance-Anpassungen",
+    "balance_transfers": "Saldoübertragungen",
+    "transaction_history": "Verlauf der Transaktionen",
+    "payments": "Zahlungen",
+    "suppliers": "Lieferanten",
+    "non_purchase": "Nicht kaufen",
+    "purchase": "Kaufen",
+    "clients": "Kunden",
+    "non_invoice": "Keine Rechnung",
+    "invoice": "Rechnung",
+    "loan_management": "Darlehensverwaltung",
+    "authorities": "Behörden",
+    "loans": "Darlehen",
+    "asset_management": "Vermögensverwaltung",
+    "types": "Typen",
+    "assets": "Vermögenswerte",
+    "payroll": "Lohn-und Gehaltsabrechnung",
+    "people": "MENSCHEN",
+    "employees_list": "Mitarbeiterliste",
+    "employees": "Angestellte",
+    "departments": "Abteilungen",
+    "increments": "Schritte",
+    "product": "PRODUKT",
+    "products": "Produkte",
+    "products_list": "Produktliste",
+    "barcode": "Strichcode",
+    "inventory_uppercase": "INVENTAR",
+    "inventory": "Inventar",
+    "view_inventory": "Inventar anzeigen",
+    "inventory_adjustment": "Inventar anpassung",
+    "reports": "BERICHTE",
+    "balance_sheet": "Bilanz",
+    "summary_report": "Zusammenfassender Bericht",
+    "profit_loss_report": "Gewinn-/Verlustbericht",
+    "expense_report": "Spesenabrechnung",
+    "product_report": "Artikelbericht",
+    "inventory_report": "Inventarbericht",
+    "account": "KONTO",
+    "account_sm": "Konto",
+    "setup": "Aufstellen",
+    "database_backup": "Datenbanksicherung",
+    "profile": "Profil",
+    "logout": "Ausloggen"
+  },
+  "dashboard": {
+    "stock_alert": "Lageralarm",
+    "recent_activities": "Kürzliche Aktivitäten",
+    "page_title": "Armaturenbrett",
+    "breadcrumbs_current": "Armaturenbrett",
+    "breadcrumbs_active": "Armaturenbrett",
+    "bar_chart_title": "Verkäufe vs. Käufe",
+    "bar_chart_tooltip": "Monatliche Verkäufe & Käufe nach Abzug der Kosten für Rücksendungen.",
+    "pie_chart_title": "Meistverkaufte Produkte",
+    "line_chart_title": "Zahlung gesendet vs. Zahlung erhalten",
+    "line_chart_tooltip": "Gesendete Zahlung = Lieferantenzahlung + Darlehenszahlung<br/> Erhaltene Zahlung = Kundenzahlung + erhaltenes Darlehen",
+    "top_clients_title": "Top 5 Kunden",
+    "summary": "Zusammenfassung",
+    "summary_option_1": "Heute",
+    "summary_option_2": "Letzten 7 Tage",
+    "summary_option_3": "Diesen Monat",
+    "summary_option_4": "Dieses Jahr",
+    "summery_items": {
+      "purchase": "Kaufen",
+      "purchase_return": "Rückgabe",
+      "sales": "Verkauf",
+      "sales_return": "Verkaufsrückgabe",
+      "payment_recevied": "Kundenzahlung",
+      "payment_sent": "Lieferantenzahlung",
+      "expense": "Aufwand",
+      "balance_transfers": "Saldoübertragungen"
+    }
+  },
+  "expenses": {
+    "categories": {
+      "index": {
+        "page_title": "Ausgabenkategorien",
+        "breadcrumbs_current": "Ausgabenkategorien",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kosten",
+        "breadcrumbs_active": "Kategorien",
+        "delete_warning": "Alle Unterkategorien dieser Kategorie werden gelöscht!"
+      },
+      "create": {
+        "page_title": "Ausgabenkategorie erstellen",
+        "form_title": "Erstellen Sie eine Ausgabenkategorie",
+        "breadcrumbs_current": "Ausgabenkategorie erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kategorien",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Kategorie erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Ausgabenkategorie bearbeiten",
+        "form_title": "Kategorie bearbeiten",
+        "breadcrumbs_current": "Ausgabenkategorie bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kategorien",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Kategorie erfolgreich aktualisiert 👍"
+      }
+    },
+    "sub_categories": {
+      "index": {
+        "page_title": "Ausgaben-Unterkategorien",
+        "breadcrumbs_current": "Ausgaben-Unterkategorien",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kosten",
+        "breadcrumbs_active": "Unterkategorien",
+        "delete_warning": "Alle Ausgaben dieser Kategorie werden gelöscht!"
+      },
+      "create": {
+        "page_title": "Ausgaben-Unterkategorie erstellen",
+        "form_title": "Erstellen Sie eine Ausgabenunterkategorie",
+        "breadcrumbs_current": "Ausgaben-Unterkategorie erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Unterkategorien",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Unterkategorie erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Ausgaben-Unterkategorie bearbeiten",
+        "form_title": "Ausgabenunterkategorie bearbeiten",
+        "breadcrumbs_current": "Ausgaben-Unterkategorie bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Unterkategorien",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Unterkategorie erfolgreich aktualisiert 👍"
+      }
+    },
+    "list": {
+      "common": {
+        "expense_reason": "Spesengrund",
+        "expense_reason_placeholder": "Geben Sie einen Grund ein"
+      },
+      "index": {
+        "page_title": "Kosten",
+        "breadcrumbs_current": "Kosten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kosten",
+        "breadcrumbs_active": "",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!"
+      },
+      "create": {
+        "page_title": "Aufwand erstellen",
+        "form_title": "Erstellen Sie eine Ausgabe",
+        "breadcrumbs_current": "Aufwand erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kosten",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Ausgabe erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Ausgaben bearbeiten",
+        "form_title": "Ausgaben bearbeiten",
+        "breadcrumbs_current": "Ausgaben bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kosten",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Ausgaben erfolgreich aktualisiert 👍"
+      },
+      "view": {
+        "page_title": "Ausgabendetails",
+        "breadcrumbs_current": "Ausgabendetails",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kosten",
+        "breadcrumbs_active": "Einzelheiten",
+        "expense_details": "Ausgabendetails"
+      }
+    }
+  },
+  "purchases": {
+    "list": {
+      "common": {
+        "po_reference": "PO-Referenzen",
+        "po_reference_placeholder": "Geben Sie die Bestellreferenz ein",
+        "payment_terms": "Zahlungsbedingungen",
+        "payment_terms_placeholder": "Zahlungsbedingungen eingeben",
+        "purchase_tax": "Erwerbssteuer",
+        "purchase_total": "Einkaufssumme",
+        "purchase_subtotal": "Kauf-Zwischensumme",
+        "purchase_tax_placeholder": "Wählen Sie eine Steuerart aus",
+        "total_tax": "Gesamtsteuer",
+        "discount": "Rabatt",
+        "discount_placeholder": "Rabatt eingeben",
+        "transport_cost": "Transportkosten",
+        "transport_cost_placeholder": "Transportkosten eingeben",
+        "purchase_date": "Kaufdatum",
+        "po_date": "Bestelldatum",
+        "purchased_qty": "Gekaufte Menge",
+        "returned_qty": "Zurückgegebene Menge",
+        "current_qty": "Aktuelle Menge",
+        "purchase_no": "Kauf Nr",
+        "return_no": "Rücksendung Nr",
+        "purchase_no_placeholder": "Einkaufs-Nr. eingeben",
+        "purchase_products": "Produkte kaufen",
+        "purchase_due": "Kauf fällig"
+      },
+      "index": {
+        "page_title": "Einkäufe",
+        "breadcrumbs_current": "Einkäufe",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Einkäufe",
+        "breadcrumbs_active": "Einkäufe",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!"
+      },
+      "create": {
+        "page_title": "Einkauf erstellen",
+        "form_title": "Einkauf erstellen",
+        "breadcrumbs_current": "Einkauf erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Einkäufe",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Kauf erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Kauf bearbeiten",
+        "form_title": "Kauf bearbeiten",
+        "breadcrumbs_current": "Kauf bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Einkäufe",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Kauf erfolgreich aktualisiert 👍"
+      },
+      "view": {
+        "page_title": "Einzelheiten zum Kauf",
+        "breadcrumbs_current": "Einzelheiten zum Kauf",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Einkäufe",
+        "breadcrumbs_active": "Einzelheiten"
+      }
+    },
+    "returns": {
+      "common": {
+        "return_reason": "Rücksendegrund",
+        "return_reason_placeholder": "Geben Sie einen Grund ein",
+        "return_date": "Rückflugdatum",
+        "purchase_return_no": "Kaufrückgabe Nr",
+        "return_products": "Produkte zurücksenden"
+      },
+      "index": {
+        "page_title": "Kaufrückgaben",
+        "breadcrumbs_current": "Kaufrückgaben",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Einkäufe",
+        "breadcrumbs_active": "Kaufrückgaben",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!"
+      },
+      "create": {
+        "page_title": "Kaufretoure erstellen",
+        "form_title": "Kaufrückgabe erstellen",
+        "breadcrumbs_current": "Kaufretoure erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kaufrückgaben",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Kaufrückgabe erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Kaufrückgabe bearbeiten",
+        "form_title": "Kaufrückgabe bearbeiten",
+        "breadcrumbs_current": "Kaufrückgabe bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kaufrückgaben",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Kaufrückgabe erfolgreich aktualisiert 👍"
+      },
+      "view": {
+        "page_title": "Details zur Kaufrückgabe",
+        "breadcrumbs_current": "Details zur Kaufrückgabe",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kaufrückgaben",
+        "breadcrumbs_active": "Einzelheiten"
+      }
+    }
+  },
+  "sales": {
+    "common": {
+      "quotation_no": "Zitat Nr",
+      "quotation_date": "Angebotsdatum",
+      "delivery_place": "Lieferort",
+      "delivery_place_placeholder": "Geben Sie einen Lieferort ein",
+      "quotation_tax": "Angebotssteuer",
+      "quotation_tax_placeholder": "Wählen Sie eine Steuerart aus",
+      "return_date": "Rückflugdatum",
+      "new_due": "Neue Fälligkeit",
+      "client_advance": "Kundenvorschuss",
+      "invoice_total": "Rechnungsbetrag",
+      "before_return": "Vor der Rückkehr",
+      "invoice_return": "Rechnungsrückgabe",
+      "invoice_tax": "Rechnungssteuer",
+      "invoice_tax_placeholder": "Wählen Sie eine Steuerart aus"
+    },
+    "quotations": {
+      "index": {
+        "page_title": "Zitate",
+        "create_invoice": "Rechnung erstellen",
+        "breadcrumbs_current": "Zitate",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Zitate",
+        "breadcrumbs_active": "",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+        "delete_failed": "Entschuldigung, Sie können dieses Zitat nicht löschen!"
+      },
+      "create": {
+        "page_title": "Angebot erstellen",
+        "form_title": "Angebot erstellen",
+        "breadcrumbs_current": "Angebot erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Zitate",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Angebot erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Zitat bearbeiten",
+        "form_title": "Zitat bearbeiten",
+        "breadcrumbs_current": "Zitat bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Zitate",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Angebot erfolgreich aktualisiert 👍"
+      },
+      "view": {
+        "page_title": "Angebotsdetails",
+        "breadcrumbs_current": "Angebotsdetails",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Zitate",
+        "breadcrumbs_active": "Einzelheiten",
+        "expense_details": "Ausgabendetails"
+      },
+      "invoice": {
+        "page_title": "Angebot zur Rechnung",
+        "form_title": "Angebot zur Rechnung erstellen",
+        "breadcrumbs_current": "Angebot zur Rechnung",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Zitate",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Rechnung erfolgreich erstellt 👍"
+      }
+    },
+    "invoices": {
+      "index": {
+        "page_title": "Rechnungen",
+        "breadcrumbs_current": "Rechnungen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Verkauf",
+        "breadcrumbs_active": "Rechnungen",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+        "delete_failed": "Tut mir leid, dass Sie diese Rechnung nicht löschen können!"
+      },
+      "create": {
+        "page_title": "Rechnung erstellen",
+        "form_title": "Rechnung erstellen",
+        "breadcrumbs_current": "Rechnung erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Rechnungen",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Rechnung erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Rechnung bearbeiten",
+        "form_title": "Rechnung bearbeiten",
+        "breadcrumbs_current": "Rechnung bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Rechnungen",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Rechnung erfolgreich aktualisiert 👍"
+      },
+      "view": {
+        "page_title": "Rechnungs-Details",
+        "breadcrumbs_current": "Rechnungs-Details",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Rechnungen",
+        "breadcrumbs_active": "Einzelheiten",
+        "invoice_details": "Rechnungs-Details"
+      }
+    },
+    "returns": {
+      "index": {
+        "page_title": "Rechnungsrückgabe",
+        "breadcrumbs_current": "Rechnungsrückgabe",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Rechnungen",
+        "breadcrumbs_active": "Rechnungsrückgabe",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+        "delete_failed": "Irgendetwas stimmte nicht."
+      },
+      "create": {
+        "page_title": "Rechnungsrückgabe erstellen",
+        "form_title": "Rechnungsrückgabe erstellen",
+        "breadcrumbs_current": "Rechnungsrückgabe erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Rechnungsrückgabe",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Rechnungsrückgabe erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Rechnungsrückgabe bearbeiten",
+        "form_title": "Rechnungsrückgabe bearbeiten",
+        "breadcrumbs_current": "Rechnungsrückgabe bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Rechnungsrückgabe",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Rechnungsrückgabe erfolgreich aktualisiert 👍"
+      },
+      "view": {
+        "page_title": "Einzelheiten zur Rechnungsrückgabe",
+        "breadcrumbs_current": "Einzelheiten zur Rechnungsrückgabe",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Rechnungsrückgabe",
+        "breadcrumbs_active": "Einzelheiten",
+        "invoice_details": "Rechnungs-Details"
+      }
+    }
+  },
+  "cashbook": {
+    "common": {
+      "account_number": "Kontonummer",
+      "account_number_placeholder": "Geben Sie eine Kontonummer ein",
+      "branch_name": "Zweigname",
+      "branch_name_placeholder": "Geben Sie einen Filialnamen ein",
+      "bank_name": "Bank Name",
+      "bank_name_placeholder": "Geben Sie einen Banknamen ein",
+      "transactions": "Transaktionen",
+      "account_details": "Kontodetails",
+      "total_transactions": "Transaktionen insgesamt",
+      "debit_amount": "Sollbetrag",
+      "credit_amount": "Kreditbetrag",
+      "from_account": "Vom Konto",
+      "to_account": "Zum Konto",
+      "transfer_reason": "Übertragungsgrund"
+    },
+    "accounts": {
+      "index": {
+        "page_title": "Konten",
+        "breadcrumbs_current": "Konten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kassenbuch",
+        "breadcrumbs_third": "Konten",
+        "breadcrumbs_active": "Konten",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+        "delete_failed": "Tut mir leid, dass Sie dieses Konto nicht entfernen können!"
+      },
+      "create": {
+        "page_title": "Benutzerkonto erstellen",
+        "form_title": "Ein Konto erstellen",
+        "breadcrumbs_current": "Benutzerkonto erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kassenbuch",
+        "breadcrumbs_third": "Konten",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Konto erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Konto bearbeiten",
+        "form_title": "Konto bearbeiten",
+        "breadcrumbs_current": "Konto bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kassenbuch",
+        "breadcrumbs_third": "Konten",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Konto erfolgreich aktualisiert 👍"
+      },
+      "view": {
+        "page_title": "Kontobewegungen",
+        "breadcrumbs_current": "Kontobewegungen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Konten",
+        "breadcrumbs_active": "Transaktionen",
+        "empty_transaction": "Es ist noch keine Transaktion verfügbar!",
+        "empty_transaction_msg": "Sie haben mit diesem Konto keine Transaktionen durchgeführt. Nachdem Sie die Transaktion durchgeführt haben, sehen Sie die Liste hier."
+      }
+    },
+    "balances": {
+      "index": {
+        "page_title": "Balance-Anpassungen",
+        "add_balance": "Erstellen",
+        "breadcrumbs_current": "Balance-Anpassungen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kassenbuch",
+        "breadcrumbs_active": "Anpassungen",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+        "delete_failed": "Tut mir leid, dass Sie diese Transaktion nicht löschen können"
+      },
+      "create": {
+        "page_title": "Anpassung erstellen",
+        "form_title": "Anpassung erstellen",
+        "breadcrumbs_current": "Anpassung erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kassenbuch",
+        "breadcrumbs_third": "Anpassungen",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Anpassung erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Guthaben bearbeiten",
+        "form_title": "Guthaben bearbeiten",
+        "breadcrumbs_current": "Guthaben bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kassenbuch",
+        "breadcrumbs_third": "Guthaben",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Guthaben erfolgreich aktualisiert 👍"
+      }
+    },
+    "transfers": {
+      "index": {
+        "page_title": "Saldoübertragungen",
+        "add_transfer": "Übertragung hinzufügen",
+        "breadcrumbs_current": "Saldoübertragungen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kassenbuch",
+        "breadcrumbs_active": "Saldoübertragungen",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+        "delete_failed": "Tut mir leid, dass Sie diese Übertragung nicht löschen können!"
+      },
+      "create": {
+        "page_title": "Überweisung erstellen",
+        "form_title": "Erstellen Sie eine Saldoüberweisung",
+        "breadcrumbs_current": "Überweisung erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kassenbuch",
+        "breadcrumbs_third": "Saldoübertragungen",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Guthabenübertragung erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Saldoübertragung bearbeiten",
+        "form_title": "Saldenumbuchung bearbeiten",
+        "breadcrumbs_current": "Saldoübertragung bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kassenbuch",
+        "breadcrumbs_third": "Saldoübertragungen",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Übertragung erfolgreich aktualisiert 👍"
+      },
+      "view": {
+        "page_title": "Details zu Kontostandsübertragungen",
+        "breadcrumbs_current": "Überweisungsdetails",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kassenbuch",
+        "breadcrumbs_third": "Saldoübertragungen",
+        "breadcrumbs_active": "Einzelheiten"
+      }
+    },
+    "transactions": {
+      "index": {
+        "page_title": "Verlauf der Transaktionen",
+        "breadcrumbs_current": "Verlauf der Transaktionen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kassenbuch",
+        "breadcrumbs_active": "Geschichte"
+      }
+    }
+  },
+  "payments": {
+    "common": {
+      "due_paid": "Fällig bezahlt",
+      "due_added": "Fällig hinzugefügt",
+      "current_due": "Aktuelle Fälligkeit",
+      "non_invoice_paid": "Rechnung nicht bezahlt",
+      "non_invoice_total": "Gesamtbetrag ohne Rechnung",
+      "add_due": "Fällig hinzufügen",
+      "add_payment": "Zahlung hinzufügen",
+      "total_payment": "Gesamtzahlung",
+      "total_advance": "Gesamtvorschuss (Rechnungsrückgabe)",
+      "available_advance": "Verfügbarer Vorschuss (Kaufrückgabe)",
+      "select_invoice": "Wählen Sie Rechnung aus",
+      "select_purchase": "Wählen Sie Kaufen aus",
+      "select_purchase_placeholder": "Kaufnummer suchen",
+      "select_invoice_placeholder": "Rechnungsnummer suchen",
+      "invoice_subtotal": "Zwischensumme der Rechnung",
+      "non_purchase_total": "Summe ohne Kauf",
+      "non_purchase_due": "Nicht Kauf fällig",
+      "non_purchase_paid": "Nicht bezahlter Kauf",
+      "purchase_details": "Einzelheiten zum Kauf"
+    },
+    "clients": {
+      "invoice": {
+        "index": {
+          "page_title": "Rechnungszahlungen",
+          "breadcrumbs_current": "Rechnungszahlungen",
+          "breadcrumbs_first": "Armaturenbrett",
+          "breadcrumbs_second": "Zahlungen",
+          "breadcrumbs_active": "Rechnungszahlungen",
+          "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+          "delete_failed": "Tut mir leid, dass Sie diese Zahlung nicht löschen können!"
+        },
+        "create": {
+          "page_title": "Kundenrechnungszahlung erstellen",
+          "form_title": "Rechnungszahlung erstellen",
+          "breadcrumbs_current": "Zahlung erstellen",
+          "breadcrumbs_first": "Armaturenbrett",
+          "breadcrumbs_second": "Zahlungen",
+          "breadcrumbs_third": "Rechnungszahlungen",
+          "breadcrumbs_active": "Erstellen",
+          "success_msg": "Rechnungszahlung erfolgreich hinzugefügt 👍"
+        },
+        "edit": {
+          "page_title": "Kundenrechnungszahlung bearbeiten",
+          "form_title": "Rechnungszahlung bearbeiten",
+          "breadcrumbs_current": "Zahlung bearbeiten",
+          "breadcrumbs_first": "Armaturenbrett",
+          "breadcrumbs_second": "Zahlungen",
+          "breadcrumbs_third": "Rechnungszahlungen",
+          "breadcrumbs_active": "Bearbeiten",
+          "success_msg": "Rechnungszahlung erfolgreich aktualisiert 👍"
+        },
+        "view": {
+          "page_title": "Rechnungszahlungsdetails",
+          "breadcrumbs_current": "Rechnungszahlungsdetails",
+          "breadcrumbs_first": "Armaturenbrett",
+          "breadcrumbs_second": "Zahlungen",
+          "breadcrumbs_third": "Rechnungszahlungen",
+          "breadcrumbs_active": "Einzelheiten"
+        }
+      },
+      "non_invoice": {
+        "index": {
+          "page_title": "Kundenzahlungen ohne Rechnung",
+          "breadcrumbs_current": "Zahlungen ohne Rechnung",
+          "breadcrumbs_first": "Armaturenbrett",
+          "breadcrumbs_second": "Zahlungen",
+          "breadcrumbs_active": "Zahlungen ohne Rechnung",
+          "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+          "delete_failed": "Tut mir leid, dass Sie diese Zahlung nicht löschen können!"
+        },
+        "create": {
+          "page_title": "Zahlung ohne Rechnung erstellen",
+          "form_title": "Erstellen Sie eine Zahlung ohne Rechnung",
+          "breadcrumbs_current": "Zahlung erstellen",
+          "breadcrumbs_first": "Armaturenbrett",
+          "breadcrumbs_second": "Zahlungen",
+          "breadcrumbs_third": "Zahlungen ohne Rechnung",
+          "breadcrumbs_active": "Erstellen",
+          "success_msg": "Zahlung erfolgreich hinzugefügt 👍"
+        },
+        "edit": {
+          "page_title": "Rechnungsrückgabe bearbeiten",
+          "form_title": "Zahlung ohne Rechnung bearbeiten",
+          "breadcrumbs_current": "Zahlung bearbeiten",
+          "breadcrumbs_first": "Armaturenbrett",
+          "breadcrumbs_second": "Zahlungen",
+          "breadcrumbs_third": "Zahlungen ohne Rechnung",
+          "breadcrumbs_active": "Bearbeiten",
+          "success_msg": "Zahlung erfolgreich aktualisiert 👍"
+        }
+      }
+    },
+    "suppliers": {
+      "purchase": {
+        "index": {
+          "page_title": "Kaufzahlungen",
+          "breadcrumbs_current": "Kaufzahlungen",
+          "breadcrumbs_first": "Armaturenbrett",
+          "breadcrumbs_second": "Zahlungen",
+          "breadcrumbs_active": "Kaufzahlungen",
+          "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+          "delete_failed": "Irgendetwas stimmte nicht."
+        },
+        "create": {
+          "page_title": "Lieferanteneinkaufszahlung erstellen",
+          "form_title": "Kaufzahlung erstellen",
+          "breadcrumbs_current": "Zahlung erstellen",
+          "breadcrumbs_first": "Armaturenbrett",
+          "breadcrumbs_second": "Zahlungen",
+          "breadcrumbs_third": "Kaufzahlungen",
+          "breadcrumbs_active": "Erstellen",
+          "success_msg": "Lieferantenzahlung erfolgreich hinzugefügt 👍"
+        },
+        "edit": {
+          "page_title": "Lieferanteneinkaufszahlung bearbeiten",
+          "form_title": "Kaufzahlung bearbeiten",
+          "breadcrumbs_current": "Zahlung bearbeiten",
+          "breadcrumbs_first": "Armaturenbrett",
+          "breadcrumbs_second": "Zahlungen",
+          "breadcrumbs_third": "Kaufzahlungen",
+          "breadcrumbs_active": "Bearbeiten",
+          "success_msg": "Zahlung erfolgreich aktualisiert 👍"
+        },
+        "view": {
+          "page_title": "Zahlungsdetails für den Lieferantenkauf",
+          "breadcrumbs_current": "Zahlungsdetails für den Kauf",
+          "breadcrumbs_first": "Armaturenbrett",
+          "breadcrumbs_second": "Zahlungen",
+          "breadcrumbs_third": "Kaufzahlungen",
+          "breadcrumbs_active": "Einzelheiten"
+        }
+      },
+      "non_purchase": {
+        "index": {
+          "page_title": "Nicht-Kaufzahlungen des Lieferanten",
+          "breadcrumbs_current": "Zahlungen ohne Kauf",
+          "breadcrumbs_first": "Armaturenbrett",
+          "breadcrumbs_second": "Zahlungen",
+          "breadcrumbs_active": "Zahlungen ohne Kauf",
+          "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+          "delete_failed": "Tut mir leid, dass Sie diese Zahlung nicht löschen können!"
+        },
+        "create": {
+          "page_title": "Erstellen Sie eine Nicht-Kaufzahlung",
+          "form_title": "Erstellen Sie eine Zahlung ohne Kauf",
+          "breadcrumbs_current": "Zahlung erstellen",
+          "breadcrumbs_first": "Armaturenbrett",
+          "breadcrumbs_second": "Zahlungen",
+          "breadcrumbs_third": "Zahlungen ohne Kauf",
+          "breadcrumbs_active": "Erstellen",
+          "success_msg": "Zahlung erfolgreich hinzugefügt 👍"
+        },
+        "edit": {
+          "page_title": "Nichtkaufzahlung bearbeiten",
+          "form_title": "Zahlung ohne Kauf bearbeiten",
+          "breadcrumbs_current": "Zahlung bearbeiten",
+          "breadcrumbs_first": "Armaturenbrett",
+          "breadcrumbs_second": "Zahlungen",
+          "breadcrumbs_third": "Zahlungen ohne Kauf",
+          "breadcrumbs_active": "Bearbeiten",
+          "success_msg": "Zahlung erfolgreich aktualisiert 👍"
+        }
+      }
+    }
+  },
+  "loans": {
+    "common": {
+      "authority": "Behörde",
+      "loan": "Darlehen",
+      "loan_placeholder": "Wählen Sie ein Darlehen aus",
+      "loan_authority": "Kreditbehörde",
+      "authority_placeholder": "Wählen Sie eine Behörde aus",
+      "cc_limit": "CC-Grenze",
+      "cc_placeholder": "Geben Sie das cc-Kreditlimit ein",
+      "cash_credit_limit": "Barkredit (CC)-Darlehenslimit",
+      "cash_credit_loan": "Barkredit (CC) Darlehen",
+      "interetest_paid": "Zinsen bezahlt",
+      "total_payable": "Total bezahlbar",
+      "total_loan": "Gesamtdarlehen",
+      "cc_term": "CC + Laufzeit",
+      "cc_taken": "CC-Darlehen aufgenommen",
+      "available_cc": "Verfügbares CC-Darlehen",
+      "all_loans": "Alle Darlehen",
+      "empty_loan": "Noch keine Ausleihen möglich!",
+      "empty_loan_msg": "Sie haben kein Darlehen für diese Behörde hinzugefügt. Nachdem Sie Darlehen hinzugefügt haben, sehen Sie die Liste hier.",
+      "authority_details": "Behördendetails",
+      "payable_amount": "Zu zahlender Betrag",
+      "duration": "Dauer",
+      "duration_placeholder": "Geben Sie eine Dauer ein",
+      "interest_rate_placeholder": "Geben Sie einen Zinssatz in Prozent ein",
+      "available_amount": "Verfügbare Menge",
+      "term_loan": "Laufzeitdarlehen",
+      "loan_type": "Darlehenstyp",
+      "loan_reason": "Darlehensgrund",
+      "loan_date": "Ausleihdatum",
+      "Loan_account": "Darlehenskonto",
+      "Loan_payments": "Kredit-Zahlungen",
+      "empty_payment_msg": "Sie haben keine Zahlung für dieses Darlehen hinzugefügt. Nachdem Sie Zahlungen hinzugefügt haben, sehen Sie die Liste hier.",
+      "loan_amount": "Darlehensbetrag",
+      "loan_ref": "Darlehensref.",
+      "payment_ref": "Zahlungsreferenz",
+      "amount_paid": "Bezahlter Betrag"
+    },
+    "authorities": {
+      "index": {
+        "page_title": "Kreditbehörden",
+        "breadcrumbs_current": "Kreditbehörden",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Darlehensverwaltung",
+        "breadcrumbs_active": "Behörden",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+        "delete_failed": "Tut mir leid, dass Sie diese Autorität nicht löschen können."
+      },
+      "create": {
+        "page_title": "Kreditvollmacht erstellen",
+        "form_title": "Erstellen Sie eine Kreditvollmacht",
+        "breadcrumbs_current": "Kreditvollmacht erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kreditbehörden",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Kreditvollmacht erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Kreditvollmacht bearbeiten",
+        "form_title": "Kreditvollmacht bearbeiten",
+        "breadcrumbs_current": "Behörde bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kreditbehörden",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Kreditvollmacht erfolgreich aktualisiert 👍"
+      },
+      "view": {
+        "page_title": "Kreditvollmacht anzeigen",
+        "breadcrumbs_current": "Behördendetails",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kreditbehörden",
+        "breadcrumbs_active": "Einzelheiten"
+      }
+    },
+    "payments": {
+      "index": {
+        "page_title": "Kredit-Zahlungen",
+        "breadcrumbs_current": "Kredit-Zahlungen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Darlehensverwaltung",
+        "breadcrumbs_active": "Kredit-Zahlungen",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+        "delete_failed": "Irgendetwas stimmte nicht."
+      },
+      "create": {
+        "page_title": "Darlehenszahlung erstellen",
+        "form_title": "Erstellen Sie eine Darlehenszahlung",
+        "breadcrumbs_current": "Darlehenszahlung erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kredit-Zahlungen",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Kreditauszahlung erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Darlehenszahlung bearbeiten",
+        "form_title": "Darlehenszahlung bearbeiten",
+        "breadcrumbs_current": "Darlehenszahlung bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kredit-Zahlungen",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Zahlung erfolgreich aktualisiert 👍"
+      },
+      "view": {
+        "page_title": "Darlehenszahlungsdetails",
+        "breadcrumbs_current": "Darlehenszahlungsdetails",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Kredit-Zahlungen",
+        "breadcrumbs_active": "Einzelheiten"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "Darlehen",
+        "breadcrumbs_current": "Darlehen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Darlehensverwaltung",
+        "breadcrumbs_active": "Darlehen",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+        "delete_failed": "Tut mir leid, dass Sie diese Ausleihe nicht löschen können."
+      },
+      "create": {
+        "page_title": "Darlehen erstellen",
+        "form_title": "Erstellen Sie ein Darlehen",
+        "breadcrumbs_current": "Darlehen erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Darlehen",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Kredit erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Darlehen bearbeiten",
+        "form_title": "Darlehen bearbeiten",
+        "breadcrumbs_current": "Darlehen bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Darlehen",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Ausleihe erfolgreich aktualisiert 👍"
+      },
+      "view": {
+        "page_title": "Darlehensdetails",
+        "breadcrumbs_current": "Darlehensdetails",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Darlehen",
+        "breadcrumbs_active": "Einzelheiten"
+      }
+    }
+  },
+  "assets": {
+    "common": {
+      "asset_name": "Asset-Name",
+      "asset_name_placeholder": "Geben Sie den Asset-Namen ein",
+      "asset_type": "Asset-Typ",
+      "asset_type_placeholder": "Wählen Sie einen Asset-Typ aus",
+      "asset_cost": "Asset-Kosten",
+      "asset_cost_placeholder": "Geben Sie die Anlagenkosten ein",
+      "current_value": "Aktueller Wert",
+      "depreciation": "Abschreibungen",
+      "depreciation_type": "Abschreibungsart",
+      "salvage_value": "Bergungswert",
+      "salvage_value_placeholder": "Bergungswert",
+      "useful_life": "Nützliches Leben",
+      "remaining_life": "Verbleibendes Leben",
+      "useful_life_placeholder": "Geben Sie die Nutzungsdauer ein",
+      "added_date": "Datum hinzugefügt",
+      "expired_date": "Verfallsdatum"
+    },
+    "types": {
+      "index": {
+        "page_title": "Asset-Typen",
+        "breadcrumbs_current": "Asset-Typen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Vermögensverwaltung",
+        "breadcrumbs_active": "Asset-Typen",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+        "delete_failed": "Irgendetwas stimmte nicht."
+      },
+      "create": {
+        "page_title": "Asset-Typ erstellen",
+        "form_title": "Erstellen Sie einen Asset-Typ",
+        "breadcrumbs_current": "Asset-Typ erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Asset-Typen",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Asset-Typ erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Asset-Typ bearbeiten",
+        "form_title": "Asset-Typ bearbeiten",
+        "breadcrumbs_current": "Asset-Typ bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Asset-Typen",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Asset-Typ erfolgreich aktualisiert 👍"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "Vermögenswerte",
+        "breadcrumbs_current": "Vermögenswerte",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Vermögensverwaltung",
+        "breadcrumbs_active": "Vermögenswerte",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+        "delete_failed": "Irgendetwas stimmte nicht."
+      },
+      "create": {
+        "page_title": "Anlage erstellen",
+        "form_title": "Erstellen Sie einen Vermögenswert",
+        "breadcrumbs_current": "Anlage erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Vermögenswerte",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Asset erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Objekt bearbeiten",
+        "form_title": "Inhalt bearbeiten",
+        "breadcrumbs_current": "Objekt bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Vermögenswerte",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Asset erfolgreich aktualisiert 👍"
+      },
+      "view": {
+        "page_title": "Asset-Details",
+        "breadcrumbs_current": "Asset-Details",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Vermögenswerte",
+        "breadcrumbs_active": "Einzelheiten"
+      }
+    }
+  },
+  "payroll": {
+    "common": {
+      "salary_date": "Gehaltsdatum",
+      "total_salary": "Gesamtgehalt",
+      "advance": "Vorauszahlung",
+      "advance_placeholder": "Geben Sie den Vorschussbetrag ein",
+      "others": "Andere",
+      "others_placeholder": "Anderen Betrag eingeben",
+      "travel_allowance": "Fahrtkostenzuschuss (TA)",
+      "travel_allowance_placeholder": "Geben Sie eine Reisekostenpauschale ein",
+      "festival_bonus": "Festival-Bonus",
+      "festival_bonus_placeholder": "Geben Sie einen Festivalbonus ein",
+      "commission": "Kommission",
+      "commission_placeholder": "Geben Sie eine Provision ein",
+      "bonus": "Bonus",
+      "bonus_placeholder": "Geben Sie einen Bonus ein",
+      "food_bill": "Lebensmittelrechnung",
+      "food_bill_placeholder": "Geben Sie eine Lebensmittelrechnung ein",
+      "mobile_bill": "Mobilfunkrechnung",
+      "mobile_bill_placeholder": "Geben Sie eine Mobilfunkrechnung ein",
+      "deduction_reason": "Abzugsgrund",
+      "deduction_reason_placeholder": "Geben Sie einen Abzugsgrund ein",
+      "deduction_amount": "Abzugsbetrag",
+      "deduction_amount_placeholder": "Geben Sie einen Abzugsbetrag ein",
+      "present_salary": "Aktuelles Gehalt",
+      "salary_month": "Gehaltsmonat",
+      "salary_month_placeholder": "Wählen Sie einen Gehaltsmonat aus"
+    },
+    "index": {
+      "page_title": "Gehaltsabrechnung der Mitarbeiter",
+      "breadcrumbs_current": "Gehaltsabrechnung der Mitarbeiter",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Lohn-und Gehaltsabrechnung",
+      "breadcrumbs_active": "Lohn-und Gehaltsabrechnung",
+      "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+      "delete_failed": "Irgendetwas stimmte nicht."
+    },
+    "create": {
+      "page_title": "Lohnabrechnung erstellen",
+      "form_title": "Personalabrechnung erstellen",
+      "breadcrumbs_current": "Lohnabrechnung erstellen",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Lohn-und Gehaltsabrechnung",
+      "breadcrumbs_active": "Erstellen",
+      "success_msg": "Gehaltsabrechnung erfolgreich hinzugefügt 👍"
+    },
+    "edit": {
+      "page_title": "Gehaltsabrechnung bearbeiten",
+      "form_title": "Gehaltsabrechnung bearbeiten",
+      "breadcrumbs_current": "Gehaltsabrechnung bearbeiten",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Lohn-und Gehaltsabrechnung",
+      "breadcrumbs_active": "Bearbeiten",
+      "success_msg": "Gehaltsabrechnung erfolgreich aktualisiert 👍"
+    },
+    "view": {
+      "page_title": "Details zur Gehaltsabrechnung",
+      "breadcrumbs_current": "Details zur Gehaltsabrechnung",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Lohn-und Gehaltsabrechnung",
+      "breadcrumbs_active": "Einzelheiten"
+    }
+  },
+  "clients": {
+    "common": {
+      "non_invoice_transactions": "Transaktionen ohne Rechnung"
+    },
+    "index": {
+      "page_title": "Kunden",
+      "breadcrumbs_current": "Kunden",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Kunden",
+      "breadcrumbs_active": "Kunden",
+      "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+      "delete_failed": "Tut mir leid, dass Sie diesen Kunden nicht löschen können."
+    },
+    "create": {
+      "page_title": "Mandant erstellen",
+      "form_title": "Erstellen Sie einen Kunden",
+      "breadcrumbs_current": "Mandant erstellen",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Kunden",
+      "breadcrumbs_active": "Erstellen",
+      "success_msg": "Kunde erfolgreich hinzugefügt 👍"
+    },
+    "edit": {
+      "page_title": "Mandant bearbeiten",
+      "form_title": "Mandant bearbeiten",
+      "breadcrumbs_current": "Mandant bearbeiten",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Kunden",
+      "breadcrumbs_active": "Bearbeiten",
+      "success_msg": "Client erfolgreich aktualisiert 👍"
+    },
+    "view": {
+      "page_title": "Kundendetails",
+      "breadcrumbs_current": "Kundendetails",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Kunden",
+      "breadcrumbs_active": "Einzelheiten"
+    }
+  },
+  "suppliers": {
+    "common": {
+      "non_purchase_transactions": "Nicht-Kauf-Transaktionen"
+    },
+    "index": {
+      "page_title": "Lieferanten",
+      "breadcrumbs_current": "Lieferanten",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Lieferanten",
+      "breadcrumbs_active": "Lieferanten",
+      "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+      "delete_failed": "Tut mir leid, dass Sie diesen Lieferanten nicht löschen können."
+    },
+    "create": {
+      "page_title": "Lieferant anlegen",
+      "form_title": "Erstellen Sie einen Lieferanten",
+      "breadcrumbs_current": "Lieferant anlegen",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Lieferanten",
+      "breadcrumbs_active": "Erstellen",
+      "success_msg": "Lieferant erfolgreich hinzugefügt 👍"
+    },
+    "edit": {
+      "page_title": "Lieferant bearbeiten",
+      "form_title": "Lieferant bearbeiten",
+      "breadcrumbs_current": "Lieferant bearbeiten",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Lieferanten",
+      "breadcrumbs_active": "Bearbeiten",
+      "success_msg": "Lieferant erfolgreich aktualisiert 👍"
+    },
+    "view": {
+      "page_title": "Lieferantendetails",
+      "breadcrumbs_current": "Lieferantendetails",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Lieferanten",
+      "breadcrumbs_active": "Einzelheiten"
+    }
+  },
+  "employees": {
+    "common": {
+      "increment_date": "Datum erhöhen",
+      "increment_amount": "Erhöhungsbetrag",
+      "increment_amount_placeholder": "Geben Sie den Erhöhungsbetrag ein",
+      "increment_reason": "Erhöhungsgrund",
+      "increment_reason_placeholder": "Geben Sie einen Grund ein",
+      "basic_salary": "Grundgehalt",
+      "current_salary": "Aktuelles Gehalt",
+      "incremented_salary": "Gehalt erhöhen",
+      "birth_date": "Geburtstag",
+      "join_date": "Beitrittsdatum",
+      "employee_name": "Mitarbeitername",
+      "employee_name_placeholder": "Geben Sie einen Mitarbeiternamen ein",
+      "gender": "Geschlecht",
+      "gender_placeholder": "Wählen Sie ein Geschlecht aus",
+      "male": "Männlich",
+      "female": "Weiblich",
+      "transgender": "Transgender",
+      "other": "Andere",
+      "blood_group": "Blutgruppe",
+      "blood_group_placeholder": "Wählen Sie eine Blutgruppe aus",
+      "religion": "Religion",
+      "religion_placeholder": "Wählen Sie eine Religion aus",
+      "islam": "Islam",
+      "hinduism": "Hinduismus",
+      "buddhists": "Buddhisten",
+      "christians": "Christen",
+      "animists": "Animisten",
+      "appointment_date": "Termin",
+      "allow_login": "Mitarbeiter-Login zulassen",
+      "increment_history": "Inkrementverlauf"
+    },
+    "departments": {
+      "index": {
+        "page_title": "Abteilungen",
+        "breadcrumbs_current": "Abteilungen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Angestellte",
+        "breadcrumbs_active": "Abteilungen",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+        "delete_failed": "Irgendetwas stimmte nicht."
+      },
+      "create": {
+        "page_title": "Abteilung erstellen",
+        "form_title": "Erstellen Sie eine Abteilung",
+        "breadcrumbs_current": "Abteilung anlegen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Abteilungen",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Abteilung erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Abteilung bearbeiten",
+        "form_title": "Abteilung bearbeiten",
+        "breadcrumbs_current": "Abteilung bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Abteilungen",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Abteilung erfolgreich aktualisiert 👍"
+      }
+    },
+    "increments": {
+      "index": {
+        "page_title": "Gehaltserhöhungen der Mitarbeiter",
+        "breadcrumbs_current": "Gehaltserhöhungen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Angestellte",
+        "breadcrumbs_active": "Schritte",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+        "delete_failed": "Irgendetwas stimmte nicht."
+      },
+      "create": {
+        "page_title": "Gehaltserhöhung erstellen",
+        "form_title": "Gehaltserhöhung erstellen",
+        "breadcrumbs_current": "Gehaltserhöhung erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Schritte",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Inkrement erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Gehaltserhöhung bearbeiten",
+        "form_title": "Gehaltserhöhung bearbeiten",
+        "breadcrumbs_current": "Gehaltserhöhung bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Schritte",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Inkrement erfolgreich aktualisiert 👍"
+      },
+      "view": {
+        "page_title": "Details erhöhen",
+        "breadcrumbs_current": "Details erhöhen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Schritte",
+        "breadcrumbs_active": "Einzelheiten"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "Angestellte",
+        "breadcrumbs_current": "Angestellte",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_active": "Angestellte",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+        "delete_failed": "Irgendetwas stimmte nicht."
+      },
+      "create": {
+        "page_title": "Mitarbeiter anlegen",
+        "form_title": "Erstellen Sie einen Mitarbeiter",
+        "breadcrumbs_current": "Mitarbeiter anlegen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Angestellte",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Mitarbeiter erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Mitarbeiter bearbeiten",
+        "form_title": "Mitarbeiter bearbeiten",
+        "breadcrumbs_current": "Mitarbeiter bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Angestellte",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Mitarbeiter erfolgreich aktualisiert 👍"
+      },
+      "view": {
+        "page_title": "Mitarbeiterdetails",
+        "breadcrumbs_current": "Mitarbeiterdetails",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Angestellte",
+        "breadcrumbs_active": "Einzelheiten"
+      }
+    }
+  },
+  "products": {
+    "categories": {
+      "index": {
+        "page_title": "Produktkategorien",
+        "breadcrumbs_current": "Produktkategorien",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Produkte",
+        "breadcrumbs_active": "Kategorien",
+        "delete_warning": "Alle Unterkategorien dieser Kategorie werden gelöscht!"
+      },
+      "create": {
+        "page_title": "Produktkategorie erstellen",
+        "form_title": "Erstellen Sie eine Produktkategorie",
+        "breadcrumbs_current": "Kategorie erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Produkte",
+        "breadcrumbs_third": "Kategorien",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Kategorie erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Produktkategorie bearbeiten",
+        "form_title": "Produktkategorie bearbeiten",
+        "breadcrumbs_current": "Produktkategorie bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Produkte",
+        "breadcrumbs_third": "Kategorien",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Kategorie erfolgreich aktualisiert 👍"
+      }
+    },
+    "sub_categories": {
+      "index": {
+        "page_title": "Produktunterkategorien",
+        "breadcrumbs_current": "Produktunterkategorien",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Produkte",
+        "breadcrumbs_active": "Unterkategorien",
+        "delete_warning": "Alle Produkte dieser Kategorie werden gelöscht!"
+      },
+      "create": {
+        "page_title": "Produktunterkategorie erstellen",
+        "form_title": "Erstellen Sie eine Produktunterkategorie",
+        "breadcrumbs_current": "Unterkategorie erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Produkte",
+        "breadcrumbs_third": "Unterkategorien",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Unterkategorie erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Produktunterkategorie bearbeiten",
+        "form_title": "Produktunterkategorie bearbeiten",
+        "breadcrumbs_current": "Produktunterkategorie bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Produkte",
+        "breadcrumbs_third": "Unterkategorien",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Unterkategorie erfolgreich aktualisiert 👍"
+      }
+    },
+    "list": {
+      "common": {
+        "alert_quantity": "Alert-Menge",
+        "alert_quantity_placeholder": "Geben Sie die Alert-Menge ein",
+        "selling_price": "Verkaufspreis",
+        "selling_price_placeholder": "Verkaufspreis eingeben",
+        "regular_price": "Regulärer Preis",
+        "regular_price_placeholder": "Geben Sie den regulären Preis ein",
+        "tax_type": "Steuerart",
+        "exclusive": "Exklusiv",
+        "inclusive": "Inklusive",
+        "product_tax": "Produktsteuer",
+        "tax_placeholder": "Wählen Sie eine Steuer aus",
+        "barcode_symbology": "Barcode-Symbologie",
+        "tax_amount": "Steuerbetrag",
+        "avg_purchase_price": "Durchschn. Kaufpreis",
+        "avg_selling_price": "Durchschn. Verkaufspreis",
+        "stock": "Lager",
+        "inventory_value": "Bestandswert",
+        "generate_barcode": "Strichcode generieren"
+      },
+      "index": {
+        "page_title": "Produkte",
+        "breadcrumbs_current": "Produkte",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Produkte",
+        "breadcrumbs_active": "Produkte",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!"
+      },
+      "create": {
+        "page_title": "Produkt erstellen",
+        "form_title": "Erstellen Sie ein Produkt",
+        "breadcrumbs_current": "Produkt erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Produkte",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Produkt erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Produkt bearbeiten",
+        "form_title": "Produkt bearbeiten",
+        "breadcrumbs_current": "Produkt bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Produkte",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Produkt erfolgreich aktualisiert 👍"
+      },
+      "view": {
+        "page_title": "Produktdetails",
+        "breadcrumbs_current": "Produktdetails",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Produkte",
+        "breadcrumbs_active": "Einzelheiten",
+        "expense_details": "Produktdetails"
+      },
+      "barcode": {
+        "page_title": "Barcode drucken",
+        "generate_barcode": "Strichcode generieren",
+        "print_barcode": "Barcode drucken",
+        "paper_size": "Papier größe",
+        "print_qty": "Druckmenge",
+        "breadcrumbs_current": "Barcode drucken",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Produkte",
+        "breadcrumbs_active": "Bearbeiten",
+        "page_option_0": "40 pro Blatt (A4) (1.799 * 1.003)",
+        "page_option_1": "30 pro Blatt (2.625 * 1)",
+        "page_option_2": "24 pro Blatt (A4) (2,48 * 1,334)",
+        "page_option_3": "20 pro Blatt (4 * 1)",
+        "page_option_4": "18 pro Blatt (A4) (2,5 * 1,835)",
+        "page_option_5": "14 pro Blatt (4 * 1,33)",
+        "page_option_6": "12 pro Blatt (A4) (2,5 * 2,834)",
+        "page_option_7": "10 pro Blatt (4 * 2)"
+      }
+    }
+  },
+  "inventory": {
+    "common": {
+      "inventory_history": "Bestandshistorie",
+      "adjustment_no": "Anpassung Nr",
+      "adjustment_date": "Anpassungsdatum",
+      "adjustment_type": "Anpassungstyp",
+      "increment": "Zuwachs",
+      "decrement": "Dekrementieren",
+      "adjustment_reason": "Anpassungsgrund",
+      "adjusted_products": "Angepasste Produkte"
+    },
+    "index": {
+      "page_title": "Inventar",
+      "breadcrumbs_current": "Inventar",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Produkte",
+      "breadcrumbs_active": "Inventar"
+    },
+    "history": {
+      "page_title": "Bestandshistorie",
+      "breadcrumbs_current": "Bestandshistorie",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Inventar",
+      "breadcrumbs_active": "Geschichte"
+    },
+    "adjustments": {
+      "index": {
+        "page_title": "Bestandsanpassungen",
+        "breadcrumbs_current": "Bestandsanpassungen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Inventar",
+        "breadcrumbs_active": "Anpassungen",
+        "delete_warning": "Sie werden nicht in der Lage sein, darauf zurückzukommen!",
+        "delete_failed": "Irgendetwas stimmte nicht."
+      },
+      "create": {
+        "page_title": "Anpassung erstellen",
+        "form_title": "Anpassung erstellen",
+        "breadcrumbs_current": "Anpassung erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Anpassungen",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Anpassung erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Anpassung bearbeiten",
+        "form_title": "Anpassung bearbeiten",
+        "breadcrumbs_current": "Anpassung bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Anpassungen",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Anpassung erfolgreich aktualisiert 👍"
+      },
+      "view": {
+        "page_title": "Anpassungsdetails",
+        "breadcrumbs_current": "Anpassungsdetails",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Anpassungen",
+        "breadcrumbs_active": "Einzelheiten"
+      }
+    }
+  },
+  "reports": {
+    "stock_in": "Lager ein",
+    "stock_out": "Ausverkauft",
+    "total_quantity": "Gesamtstückzahl",
+    "incomes": "Einkommen",
+    "liabilities": "Verbindlichkeiten",
+    "security_asset": "Totale Sicherheit/Anlage",
+    "supplier_dues": "Lieferantengebühren",
+    "client_dues": "Kundengebühren",
+    "bank_loan": "Bankkredit",
+    "bank_balance": "Kontostand",
+    "income_liabilities": "(Einnahmen - Verbindlichkeiten)",
+    "total_asset": "Gesamtvermögen",
+    "view_report": "Zeige Bericht",
+    "monthly_summery": "Monatliche Zusammenfassung",
+    "particulars": "Einzelheiten",
+    "opening_balance": "Anfangsbestand",
+    "invoice_sales": "Rechnungsverkauf",
+    "invoice_dues": "Rechnungsgebühren",
+    "accounts_collection": "Kontensammlung",
+    "general": "Allgemein",
+    "loan_interest": "Darlehenszinsen",
+    "asset_depreciation": "Abschreibung von Vermögenswerten",
+    "transfer": "Überweisen",
+    "transfer_from": "Saldoübertragung von",
+    "closing_balance": "Schlussbilanz",
+    "report_type": "Berichtstyp",
+    "gross_profit_Loss": "Bruttogewinn/-verlust",
+    "net_profit_Loss": "Nettogewinn (-verlust",
+    "sold_qty": "Verkaufte Menge",
+    "profit": "Profitieren",
+    "loss": "Verlust",
+    "total_sales_avg": "Gesamtumsatz (Durchschnitt)",
+    "total_purchased_avg": "Gesamtkauf (Durchschnitt)",
+    "income_statement": "Einkommenserklärung",
+    "total_sales": "Gesamtumsatz",
+    "cost_of_goods_sold": "Kosten der verkauften Waren",
+    "positive_adjusted": "Positiv angepasst",
+    "negative_adjusted": "Negativ angepasst",
+    "total_adjusted": "Insgesamt angepasst",
+    "gross_profit": "Bruttogewinn",
+    "gross_loss": "Bruttoverlust",
+    "operating_expenses": "Betriebsaufwand",
+    "salaries": "Gehälter",
+    "general_expenses": "Allgemeine Kosten",
+    "total_expense": "Gesamtausgaben",
+    "net_profit": "Reingewinn",
+    "net_loss": "Jahresfehlbetrag",
+    "date_range": "Datumsbereich",
+    "stock_in_hand": "Vorrat in der Hand",
+    "balance_sheet": {
+      "page_title": "Bilanz",
+      "breadcrumbs_current": "Bilanz",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Berichte",
+      "breadcrumbs_active": "Bilanz"
+    },
+    "summary": {
+      "page_title": "Zusammenfassender Bericht",
+      "breadcrumbs_current": "Zusammenfassender Bericht",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Berichte",
+      "breadcrumbs_active": "Zusammenfassender Bericht"
+    },
+    "profit_loss": {
+      "empty_msg_title": "Leerer Gewinn/Verlust!",
+      "empty_msg_text": "Für die ausgewählte Kategorie und den Zeitraum wurden leider keine Gewinne/Verluste gefunden.",
+      "page_title": "Gewinn-/Verlustbericht",
+      "breadcrumbs_current": "Gewinn-/Verlustbericht",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Berichte",
+      "breadcrumbs_active": "Gewinn-/Verlustbericht"
+    },
+    "expense": {
+      "empty_msg_title": "Leere Ausgaben!",
+      "empty_msg_text": "Für die ausgewählte Kategorie und den ausgewählten Zeitraum wurden leider keine Ausgaben gefunden.",
+      "page_title": "Spesenabrechnung",
+      "breadcrumbs_current": "Spesenabrechnung",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Berichte",
+      "breadcrumbs_active": "Spesenabrechnung"
+    },
+    "product": {
+      "empty_msg_title": "Leer!",
+      "empty_msg_text": "Es tut uns leid, für Ihren ausgewählten Artikel und Zeitraum wurden keine Lagerbestände oder Lagerbestände gefunden.",
+      "page_title": "Artikelbericht",
+      "breadcrumbs_current": "Artikelbericht",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Berichte",
+      "breadcrumbs_active": "Artikelbericht"
+    },
+    "inventory": {
+      "empty_msg_title": "Leeres Inventar!",
+      "empty_msg_text": "Für die ausgewählte Kategorie und den ausgewählten Zeitraum wurde leider kein Inventar gefunden.",
+      "page_title": "Inventarbericht",
+      "breadcrumbs_current": "Inventarbericht",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_second": "Berichte",
+      "breadcrumbs_active": "Inventarbericht"
+    }
+  },
+  "setup": {
+    "common": {
+      "sort_code": "Kurzcode",
+      "sort_code_placeholder": "Geben Sie einen Kurzcode ein"
+    },
+    "index": {
+      "page_title": "Aufstellen",
+      "breadcrumbs_current": "Aufstellen",
+      "breadcrumbs_first": "Armaturenbrett",
+      "breadcrumbs_active": "Aufstellen",
+      "menu": {
+        "item_one": {
+          "title": "Allgemein",
+          "description": "Allgemeine Einstellungen wie Seitentitel, Seitenbeschreibung, Adresse usw.",
+          "link_text": "Die Umgebung wechseln"
+        },
+        "item_two": {
+          "title": "Währungen",
+          "description": "Verwalten Sie verschiedene Arten von Währungen, die Sie im System verwenden werden.",
+          "link_text": "Währungen"
+        },
+        "item_three": {
+          "title": "Einheiten",
+          "description": "Verwalten Sie Einheitentypen für Messungen, die Sie im System verwenden werden.",
+          "link_text": "Einheiten"
+        },
+        "item_four": {
+          "title": "Rolle & Berechtigungen",
+          "description": "Verwalten Sie Rollen und Berechtigungen für Benutzer, die das System verwenden werden.",
+          "link_text": "Rollen & Berechtigungen"
+        },
+        "item_five": {
+          "title": "Mehrwertsteuersätze",
+          "description": "Verwalten Sie Mehrwertsteuersätze für die Mehrwertsteuerverwaltung, die Sie im System verwenden werden.",
+          "link_text": "Mehrwertsteuersätze"
+        },
+        "item_six": {
+          "title": "Marken",
+          "description": "Verwalten Sie Marken, die Sie im System verwenden werden.",
+          "link_text": "Marken"
+        },
+        "item_seven": {
+          "title": "Zahlungsmethoden",
+          "description": "Verwalten Sie Zahlungsmethoden, die Sie im System verwenden werden.",
+          "link_text": "Zahlungsmethoden"
+        },
+        "item_eight": {
+          "title": "Benutzerberechtigungen",
+          "description": "Verwalten Sie die Berechtigung, die Sie einer Rolle zuweisen werden.",
+          "link_text": "Benutzerberechtigungen"
+        }
+      }
+    },
+    "general_settings": {
+      "index": {
+        "page_title": "Allgemeine Einstellungen",
+        "breadcrumbs_current": "Allgemeine Einstellungen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_active": "Allgemeine Einstellungen aktualisieren",
+        "form_title": "Allgemeine Einstellungen aktualisieren",
+        "success_message": "Einstellungen erfolgreich aktualisiert 👍",
+        "company_info": {
+          "info_title": "Fügen Sie Ihre Firmeninformationen hinzu",
+          "company_tagline": "Unternehmens-Slogan",
+          "company_tagline_placeholder": "Unternehmens-Slogan",
+          "email_address": "E-Mail-Addresse",
+          "email_address_placeholder": "Gib eine E-mail Adresse ein",
+          "phone_number": "Telefonnummer",
+          "phone_number_placeholder": "Telefonnummer"
+        },
+        "code_prefixes": {
+          "prefix_title": "Fügen Sie die Codepräfixe hinzu",
+          "client_prefix": "Client-Präfix",
+          "client_prefix_placeholder": "Geben Sie ein Client-Präfix ein",
+          "supplier_prefix": "Lieferantenpräfix",
+          "supplier_prefix_placeholder": "Geben Sie eine Lieferantenpräfix ein",
+          "employee_prefix": "Mitarbeiterpräfix",
+          "employee_prefix_placeholder": "Geben Sie eine Mitarbeitervorwahl ein",
+          "product_category_prefix": "Präfix der Produktkategorie",
+          "product_category_prefix_placeholder": "Geben Sie ein Präfix für die Produktkategorie ein",
+          "product_sub_category_prefix": "Präfix der Produktunterkategorie",
+          "product_sub_category_prefix_placeholder": "Geben Sie ein Unterkategoriepräfix ein",
+          "product_prefix": "Produktpräfix",
+          "product_prefix_placeholder": "Geben Sie ein Produktpräfix ein",
+          "expense_category_prefix": "Präfix der Ausgabenkategorie",
+          "expense_category_prefix_placeholder": "Geben Sie ein Ausgabenkategoriepräfix ein",
+          "expense_sub_category_prefix": "Präfix der Ausgaben-Unterkategorie",
+          "expense_sub_category_prefix_placeholder": "Geben Sie ein Präfix für die Ausgabenunterkategorie ein",
+          "purchase_prefix": "Präfix kaufen",
+          "purchase_prefix_placeholder": "Geben Sie ein Kaufpräfix ein",
+          "purchase_return_prefix": "Kaufrückgabepräfix",
+          "purchase_return_prefix_placeholder": "Geben Sie ein Präfix für die Kaufrückgabe ein",
+          "quotation_prefix": "Angebotspräfix",
+          "quotation_prefix_placeholder": "Geben Sie ein Zitatpräfix ein",
+          "invoice_prefix": "Rechnungspräfix",
+          "invoice_prefix_placeholder": "Geben Sie ein Rechnungspräfix ein",
+          "invoice_return_prefix": "Präfix der Rechnungsrücksendung",
+          "invoice_return_prefix_placeholder": "Geben Sie ein Präfix für die Rechnungsrücksendung ein",
+          "invoice_adjustment_prefix": "Bestandsanpassungspräfix",
+          "invoice_adjustment_prefix_placeholder": "Geben Sie ein Inventaranpassungspräfix ein"
+        },
+        "default_elements": {
+          "default_elements_title": "Fügen Sie Ihre Standardelemente hinzu",
+          "default_currency": "Standardwährung",
+          "select_a_currency": "Wählen Sie eine Währung aus",
+          "default_language": "Standardsprache",
+          "english_en": "spanisch (de)",
+          "hindi_hi": "nein (hallo)",
+          "bangla_bn": "Bangla (Mrd.)",
+          "copyright_text": "Copyright-Text",
+          "copyright_text_placeholder": "Copyright-Text",
+          "default_client": "Standard-Client",
+          "default_account": "Standardkonto",
+          "select_a_account": "Wählen Sie ein Konto aus",
+          "select_a_client": "Wählen Sie einen Kunden aus",
+          "default_vat_rate": "Standard-Mehrwertsteuersatz",
+          "select_a_vat_rate": "Wählen Sie einen Mehrwertsteuersatz aus"
+        },
+        "logo": {
+          "white_logo": "Weißes Logo",
+          "black_logo": "Schwarzes Logo",
+          "small_logo": "Kleines Logo",
+          "favicon": "Favicon"
+        }
+      }
+    },
+    "currencies": {
+      "common": {
+        "symbol": "Symbol",
+        "symbol_placeholder": "Geben Sie ein Symbol ein",
+        "currency_position": "Währungsposition",
+        "position_drop_down_item_one": "Links ausrichten",
+        "position_drop_down_item_two": "Rechts ausrichten"
+      },
+      "index": {
+        "page_title": "Währungen",
+        "breadcrumbs_current": "Währungen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_active": "Währungen",
+        "table": {
+          "position": "Position",
+          "preview": "Vorschau"
+        }
+      },
+      "create": {
+        "page_title": "Währung erstellen",
+        "breadcrumbs_current": "Währung erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_third": "Währungen",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Währung erfolgreich hinzugefügt 👍",
+        "form_title": "Erstellen Sie eine Währung"
+      },
+      "edit": {
+        "page_title": "Währung bearbeiten",
+        "breadcrumbs_current": "Währung bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_third": "Währungen",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Währung erfolgreich aktualisiert 👍",
+        "form_title": "Währung bearbeiten"
+      }
+    },
+    "units": {
+      "index": {
+        "page_title": "Einheiten",
+        "breadcrumbs_current": "Einheiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_active": "Einheiten"
+      },
+      "create": {
+        "page_title": "Einheit erstellen",
+        "breadcrumbs_current": "Einheit erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_third": "Einheiten",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Einheit erfolgreich hinzugefügt 👍",
+        "form_title": "Einheit erstellen"
+      },
+      "edit": {
+        "page_title": "Einheit bearbeiten",
+        "breadcrumbs_current": "Einheit bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_third": "Einheiten",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Einheit erfolgreich aktualisiert 👍",
+        "form_title": "Einheit bearbeiten"
+      }
+    },
+    "permissions": {
+      "common": {
+        "slug": "Schnecke",
+        "slug_placeholder": "Geben Sie eine Schnecke ein",
+        "guard_name": "Guard-Name",
+        "guard_name_placeholder": "Geben Sie einen Wachnamen ein"
+      },
+      "index": {
+        "page_title": "Berechtigungen",
+        "breadcrumbs_current": "Berechtigungen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_active": "Berechtigungen"
+      },
+      "create": {
+        "page_title": "Berechtigung erstellen",
+        "form_title": "Erlaubnis erstellen",
+        "breadcrumbs_current": "Berechtigung erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_third": "Berechtigungen",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Berechtigung erfolgreich hinzugefügt 👍"
+      },
+      "edit": {
+        "page_title": "Berechtigung bearbeiten",
+        "form_title": "Berechtigung bearbeiten",
+        "breadcrumbs_current": "Berechtigung bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_third": "Berechtigungen",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Berechtigung erfolgreich aktualisiert 👍"
+      }
+    },
+    "role_and_permission": {
+      "index": {
+        "page_title": "Rollen & Berechtigungen",
+        "breadcrumbs_current": "Rollen & Berechtigungen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_active": "Rollen & Berechtigungen",
+        "role_name": "Rollenname"
+      },
+      "create": {
+        "page_title": "Rolle erstellen",
+        "breadcrumbs_current": "Rolle erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_third": "Rollen & Berechtigungen",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Rolle erfolgreich hinzugefügt 👍",
+        "form_title": "Rolle erstellen",
+        "select_permission": "Berechtigungen auswählen:"
+      },
+      "edit": {
+        "page_title": "Rolle bearbeiten",
+        "breadcrumbs_current": "Rolle bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_third": "Rollen & Berechtigungen",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Rolle erfolgreich aktualisiert 👍",
+        "form_title": "Rolle bearbeiten",
+        "update_permission": "Berechtigungen aktualisieren:"
+      }
+    },
+    "vat_rates": {
+      "common": {
+        "rate_in_percent": "Rate (berechnet in %)",
+        "rate_palceholder": "Geben Sie einen Kurs ein"
+      },
+      "index": {
+        "page_title": "Mehrwertsteuersätze",
+        "breadcrumbs_current": "Mehrwertsteuersätze",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_active": "Mehrwertsteuersätze",
+        "rate": "Rate"
+      },
+      "create": {
+        "page_title": "Mehrwertsteuersatz erstellen",
+        "breadcrumbs_current": "Mehrwertsteuersatz erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_third": "Mehrwertsteuersätze",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Mehrwertsteuersatz erfolgreich hinzugefügt 👍",
+        "form_title": "Erstellen Sie einen Mehrwertsteuersatz"
+      },
+      "edit": {
+        "page_title": "Mehrwertsteuersatz bearbeiten",
+        "breadcrumbs_current": "Mehrwertsteuersatz bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_third": "Mehrwertsteuersätze",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Mehrwertsteuersatz erfolgreich aktualisiert 👍",
+        "form_title": "Mehrwertsteuersatz bearbeiten"
+      }
+    },
+    "brands": {
+      "common": {
+        "brand_name": "Markenname",
+        "brand_name_placeholder": "Markennamen eingeben"
+      },
+      "index": {
+        "page_title": "Marken",
+        "breadcrumbs_current": "Marken",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_active": "Marken",
+        "brand_logo_view": "Ansicht des Markenlogos"
+      },
+      "create": {
+        "page_title": "Marke erstellen",
+        "breadcrumbs_current": "Marke erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_third": "Marken",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Marke erfolgreich hinzugefügt 👍",
+        "form_title": "Marke schaffen"
+      },
+      "view": {
+        "page_title": "Markendetails",
+        "breadcrumbs_current": "Markendetails",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_third": "Marken",
+        "breadcrumbs_active": "Einzelheiten"
+      },
+      "edit": {
+        "page_title": "Marke bearbeiten",
+        "breadcrumbs_current": "Marke bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_third": "Marken",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Marke erfolgreich aktualisiert 👍",
+        "form_title": "Marke bearbeiten"
+      }
+    },
+    "payment_methods": {
+      "index": {
+        "page_title": "Zahlungsmethoden",
+        "breadcrumbs_current": "Zahlungsmethoden",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_active": "Zahlungsmethoden"
+      },
+      "create": {
+        "page_title": "Zahlungsmethode erstellen",
+        "breadcrumbs_current": "Zahlungsmethode erstellen",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_third": "Zahlungsmethoden",
+        "breadcrumbs_active": "Erstellen",
+        "success_msg": "Zahlungsmethode erfolgreich hinzugefügt 👍",
+        "form_title": "Erstellen Sie eine Zahlungsmethode"
+      },
+      "edit": {
+        "page_title": "Zahlungsmethode bearbeiten",
+        "breadcrumbs_current": "Zahlungsmethode bearbeiten",
+        "breadcrumbs_first": "Armaturenbrett",
+        "breadcrumbs_second": "Aufstellen",
+        "breadcrumbs_third": "Zahlungsmethoden",
+        "breadcrumbs_active": "Bearbeiten",
+        "success_msg": "Zahlungsmethode erfolgreich aktualisiert 👍",
+        "form_title": "Zahlungsmethode bearbeiten"
+      }
+    }
+  },
+  "user_profile": {
+    "form_title": "Aktualisiere dein Profil",
+    "page_title": "Profil aktualisieren",
+    "breadcrumbs_current": "Profil aktualisieren",
+    "breadcrumbs_first": "Armaturenbrett",
+    "breadcrumbs_active": "Aktualisieren",
+    "current_password": "derzeitiges Passwort",
+    "current_password_placeholder": "Gib dein aktuelles Passwort ein",
+    "new_password": "Neues Passwort",
+    "new_password_placeholder": "Neues Passwort eingeben",
+    "confirm_password": "Kennwort bestätigen",
+    "confirm_password_placeholder": "Passwort bestätigen eingeben",
+    "success_msg": "Profil erfolgreich aktualisiert 👍"
+  },
+  "stock_alert": {
+    "page_title": "Stock Alert-Produkte",
+    "breadcrumbs_current": "Stock Alert Produkte",
+    "breadcrumbs_first": "Armaturenbrett",
+    "breadcrumbs_active": "Alert-Produkte"
+  },
+  "backup": {
+    "page_title": "Datenbanksicherung",
+    "breadcrumbs_current": "Datenbanksicherung",
+    "breadcrumbs_first": "Armaturenbrett",
+    "breadcrumbs_active": "Sicherung",
+    "export": "Export",
+    "format": "Format",
+    "format_sql": "SQL (.sql)",
+    "success_msg": "Sicherung erfolgreich heruntergeladen 👍"
+  },
+  "permission_denied": {
+    "page_title": "Erlaubnis verweigert",
+    "breadcrumbs_current": "Erlaubnis verweigert",
+    "breadcrumbs_first": "Armaturenbrett",
+    "breadcrumbs_active": "Erlaubnis verweigert",
+    "error_msg": "Sie sind nicht berechtigt, diese Seite anzuzeigen.",
+    "error_code": "Fehlercode: 403 verboten."
+  },
+  "error_not_found": {
+    "error_404": "404",
+    "error_404_title": "Seite nicht gefunden",
+    "error_404_msg": "Entschuldigung, die angeforderte URL wurde auf diesem Server nicht gefunden. Das ist alles was wir wissen!",
+    "back_to_dashboard": "Zurück zum Dashboard",
+    "back_to_login": "Zurück zur Anmeldung"
+  },
+  "sidebar_control": {
+    "customize_acculance": "Passen Sie die Genauigkeit an",
+    "dark_mode": "Dunkler Modus",
+    "header_options": "Header-Optionen",
+    "fixed": "Fest",
+    "no_border": "Keine Grenze",
+    "sidebar_options": "Sidebar-Optionen",
+    "sidebar_dark": "Seitenleiste dunkel",
+    "collapsed": "Seitenleiste eingeklappt",
+    "sidebar_fixed": "Seitenleiste behoben",
+    "sidebar_mini": "Seitenleiste Mini",
+    "nav_flat_style": "Nav Flat-Stil",
+    "nav_legacy_style": "Navi Legacy-Stil",
+    "nav_child_indent": "Nav untergeordneter Einzug",
+    "disable_hover": "Deaktivieren Sie Hover/Focus Auto-Expand"
+  },
+  "pos": {
+    "page_title": "Pos",
+    "breadcrumbs_current": "Verkauf erstellen",
+    "breadcrumbs_first": "Armaturenbrett",
+    "breadcrumbs_second": "Rechnungen",
+    "breadcrumbs_active": "Pos",
+    "available": "Erhältlich",
+    "pos": "Pos",
+    "complete_order": "Speichern",
+    "complete_order_and_add_payment": "Sparen & Bezahlen",
+    "add_payment": "Zahlung hinzufügen",
+    "invoice_receipt": "Rechnungseingang",
+    "not_enough_items": "Nicht genügend Gegenstände!",
+    "receipt_text": "Danke für ihren Einkauf. Bitte komm wieder!"
+  },
+  "csv": {
+    "title": "Laden Sie Ihre CSV-Datei hoch",
+    "success": "Erfolg",
+    "import_success": "CSV-Datei erfolgreich importiert!",
+    "instructions": "Anweisungen",
+    "download_zip": "Laden Sie den Zip-Ordner herunter.",
+    "populate_information": "Füllen Sie die products.csv mit Ihren Produktinformationen.",
+    "corresponding_CSV": "Sie können die produktbezogenen IDs in die entsprechende CSV-Datei übernehmen",
+    "example": "Beispiel: sub_cat_id in sub-categories.csv"
+  },
+  "Create Client": "Mandant erstellen",
+  "Cancel": "Absagen",
+  "Create Product": "Produkt erstellen",
+  "Create Supplier": "Lieferant anlegen",
+  "Generate barcode with price": "Barcode mit Preis generieren",
+  "Price": "Preis",
+  "TAX": "MWST"
+}

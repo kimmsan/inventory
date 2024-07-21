@@ -1,0 +1,2282 @@
+{
+  "ok": "확인",
+  "cancel": "취소",
+  "error_alert_title": "이런...",
+  "error_alert_text": "문제가 발생했습니다. 다시 시도해 주세요.",
+  "token_expired_alert_title": "세션이 만료되었습니다!",
+  "token_expired_alert_text": "계속하려면 다시 로그인하십시오.",
+  "login": "로그인",
+  "register": "등록하다",
+  "page_not_found": "페이지를 찾을 수 없음",
+  "go_home": "집에가",
+  "logout": "로그 아웃",
+  "email": "이메일",
+  "remember_me": "날 기억해",
+  "password": "비밀번호",
+  "forgot_password": "비밀번호를 잊어 버렸습니까?",
+  "confirm_password": "비밀번호 확인",
+  "Name": "이름",
+  "toggle_navigation": "탐색 전환",
+  "home": "집",
+  "you_are_logged_in": "로그인되었습니다!",
+  "reset_password": "암호를 재설정",
+  "send_password_reset_link": "링크 보내기",
+  "settings": "설정",
+  "profile": "프로필",
+  "your_info": "귀하의 정보",
+  "info_updated": "귀하의 정보가 업데이트되었습니다!",
+  "update": "업데이트",
+  "your_password": "너의 비밀번호",
+  "password_updated": "비밀번호가 업데이트되었습니다!",
+  "new_password": "새 비밀번호",
+  "login_with": "로그인",
+  "register_with": "등록",
+  "verify_email": "이메일 확인",
+  "send_verification_link": "확인 링크 보내기",
+  "resend_verification_link": "확인 링크를 다시 보내시겠습니까?",
+  "failed_to_verify_email": "이메일을 확인하지 못했습니다.",
+  "verify_email_address": "확인 링크가 포함된 이메일을 보냈습니다.",
+  "reset_email_text": "비밀번호 재설정 링크를 받으려면 이메일을 입력하세요!",
+  "sorry": "죄송해요",
+  "no_data_found": "데이터가 없습니다",
+  "login_txt": "세션을 계속하려면 로그인하십시오!",
+  "email_placeholder": "이메일 주소를 입력하세요",
+  "password_placeholder": "비밀번호를 입력하세요",
+  "developed_by": "개발자",
+  "per_page": "페이지 당",
+  "available": "사용 가능",
+  "download": "다운로드",
+  "demo_file": "데모 CSV 파일",
+  "common": {
+    "to": "에게",
+    "from": "에서",
+    "s_no": "#",
+    "more_info": "더 많은 정보",
+    "name": "이름",
+    "name_placeholder": "이름을 입력하세요",
+    "password": "비밀번호",
+    "password_placeholder": "비밀번호를 입력하세요",
+    "code": "암호",
+    "code_placeholder": "코드를 입력하세요",
+    "product_name": "상품명",
+    "product_name_placeholder": "제품을 고르다",
+    "sub_category_code": "하위 카테고리 코드",
+    "sub_category": "하위 카테고리",
+    "sub_category_name": "하위 카테고리 이름",
+    "category": "범주",
+    "category_name": "범주 이름",
+    "category_name_placeholder": "카테고리 선택",
+    "account": "계정",
+    "account_placeholder": "계정 선택",
+    "available_balance": "사용 가능한 잔액",
+    "amount": "양",
+    "amount_placeholder": "금액을 입력하세요",
+    "cheque_no": "아니오를 확인하십시오",
+    "cheque_placeholder": "수표 번호를 입력하세요",
+    "voucher_no": "바우처 번호",
+    "voucher_placeholder": "상품권 번호를 입력하세요",
+    "receipt_no": "영수증 번호",
+    "receipt_no_placeholder": "영수증 번호를 입력하세요",
+    "date": "날짜",
+    "note": "메모",
+    "created_by": "작성자",
+    "choose_file": "파일을 선택",
+    "image_alt": "첨부된 이미지",
+    "note_placeholder": "여기에 메모를 작성하세요!",
+    "status": "상태",
+    "action": "행동",
+    "active": "활동적인",
+    "in_active": "비활성",
+    "expired": "만료됨",
+    "email": "이메일",
+    "email_placeholder": "이메일 주소를 입력하세요",
+    "phone": "핸드폰",
+    "address": "주소",
+    "address_placeholder": "주소를 입력하세요",
+    "modal_header": "첨부된 이미지 미리보기",
+    "modal_body": "기본 본문",
+    "export_table": "테이블 내보내기",
+    "print_table": "표 인쇄",
+    "delete_title": "확실합니까?",
+    "delete_confirm_text": "확실합니까?",
+    "deleted": "삭제!",
+    "delete_success": "성공적으로 삭제되었습니다.",
+    "failed": "실패한!",
+    "delete_failed": "뭔가 잘못되었습니다.",
+    "error_msg": "옵스...뭔가 잘못됐어 😔",
+    "image_error": "크기가 2MB 미만인 유효한 미리보기 이미지를 선택하세요.",
+    "close": "닫다",
+    "search": "찾다...",
+    "create": "창조하다",
+    "view": "보다",
+    "edit": "편집하다",
+    "delete": "삭제",
+    "image": "영상",
+    "preview": "시사",
+    "no_preview": "미리보기 없음",
+    "save": "구하다",
+    "save_changes": "변경 사항을 저장하다",
+    "back": "뒤쪽에",
+    "print": "인쇄",
+    "reset": "초기화",
+    "supplier": "공급자",
+    "supplier_placeholder": "공급업체 선택",
+    "products": "제품",
+    "select_products": "제품 선택",
+    "select_products_placeholder": "제품 검색",
+    "reference": "참조",
+    "reference_placeholder": "참조 입력",
+    "quantity": "수량",
+    "purchase_price": "구매 가격",
+    "unit_price": "단가",
+    "unit_cost": "단가",
+    "unit_tax": "단위세",
+    "tax": "세",
+    "subtotal": "소계",
+    "return_subtotal": "반환 소계",
+    "new_subtotal": "새 소계",
+    "return_amount": "반환 금액",
+    "return_cost": "반품 비용",
+    "total": "총",
+    "net_total": "순 합계",
+    "due": "로 인한",
+    "transport": "수송",
+    "add_payment": "결제를 추가하시겠습니까?",
+    "add_payment_placeholder": "옵션을 선택하세요",
+    "yes": "예",
+    "no": "아니요",
+    "paid": "유급의",
+    "total_paid": "전체 지불금",
+    "paid_amount": "지불 금액",
+    "paid_amount_placeholder": "금액을 입력하세요",
+    "total_due": "총 기한",
+    "account_receivable": "미수금",
+    "account_payable": "지불 계정",
+    "total_price": "총 가격",
+    "return_price": "반품 가격",
+    "price": "가격",
+    "total_return": "총 수익",
+    "discount": "할인",
+    "discount_placeholder": "할인 입력",
+    "supplier_details": "공급업체 세부정보",
+    "client_details": "클라이언트 세부 정보",
+    "supplier_id": "공급업체 ID",
+    "client_id": "클라이언트 ID",
+    "client_name": "고객 이름",
+    "supplier_name": "공급 업체 이름",
+    "company_name": "회사 이름",
+    "company_name_placeholder": "회사 이름을 입력하세요",
+    "contact_number": "연락처",
+    "contact_number_placeholder": "연락처를 입력하세요.",
+    "payment_history": "지불 내역",
+    "payment_date": "결제일",
+    "empty_payment": "아직 결제가 불가능합니다!",
+    "empty_payment_msg": "이 구매에 대한 결제를 추가하지 않았습니다/하지 않았습니다. 결제를 추가하면 여기에 목록이 표시됩니다.",
+    "purchases": "구매",
+    "purchases_placeholder": "구매 선택",
+    "total_tax": "총 세금",
+    "invoice_tax": "인보이스 세금",
+    "transport_cost": "운송료",
+    "transport_cost_placeholder": "운송비 입력",
+    "total_discount": "총 할인",
+    "discount_type": "할인 유형",
+    "fixed": "결정된",
+    "percentage": "백분율",
+    "client": "고객",
+    "client_placeholder": "클라이언트 선택",
+    "payment_terms": "지불 조건",
+    "payment_terms_placeholder": "지불 조건을 입력하십시오",
+    "po_reference": "PO 참조",
+    "po_reference_placeholder": "PO 참조 입력",
+    "invoice_qty": "송장 수량",
+    "current_qty": "현재 수량",
+    "return_qty": "반품 수량",
+    "invoices": "인보이스",
+    "invoices_placeholder": "인보이스 선택",
+    "return_reason": "반품 사유",
+    "return_reason_placeholder": "이유를 입력하세요",
+    "invoice_due": "인보이스 기한",
+    "non_invoice_due": "인보이스 2 아님",
+    "invoice_date": "송장 날짜",
+    "invoice_no": "송장 번호",
+    "invoice_return_no": "송장 반환 번호",
+    "return_no": "반품 번호",
+    "return_products": "제품 반품",
+    "insufficient_stock": "재고 부족",
+    "invoice_products": "인보이스 제품",
+    "created_at": "만든 시간",
+    "reason": "이유",
+    "type": "유형",
+    "credit": "신용 거래",
+    "debit": "차변",
+    "payment_type": "지불 유형",
+    "invoice_total": "송장 합계",
+    "invoice_details": "인보이스 세부정보",
+    "payment_details": "지불 세부 사항",
+    "ref_no": "참조 아니요",
+    "reference_no": "참조 번호",
+    "payable": "지불 가능",
+    "interest": "관심",
+    "installment": "분할불",
+    "error": "오류!",
+    "per": "당",
+    "day": "요일",
+    "month": "월",
+    "year": "년도",
+    "daily": "일일",
+    "monthly": "월간 간행물",
+    "yearly": "매년",
+    "employee": "직원",
+    "employee_placeholder": "직원 선택",
+    "designation": "지정",
+    "designation_placeholder": "지정을 입력하십시오",
+    "emp_name": "엠프 이름",
+    "emp_id": "직원 ID",
+    "employee_details": "직원 세부 정보",
+    "department": "부서",
+    "department_placeholder": "부서",
+    "balance": "균형",
+    "salary": "샐러리",
+    "salary_placeholder": "급여를 입력하세요",
+    "profile_picture": "프로필 사진",
+    "role": "역할",
+    "role_placeholder": "역할 선택",
+    "unit": "단위",
+    "unit_placeholder": "단위 선택",
+    "brand": "상표",
+    "brand_placeholder": "브랜드 선택",
+    "item_code": "아이템 코드",
+    "item_code_placeholder": "품목 코드 입력",
+    "item_model": "항목 모델",
+    "item_model_placeholder": "모델 입력",
+    "item_name": "상품명",
+    "item_name_placeholder": "이름을 입력하세요",
+    "rendering_fails": "렌더링이 실패합니다.",
+    "product": "제품",
+    "transactions": "업무",
+    "empty_table": "죄송합니다 😔 데이터를 찾을 수 없습니다",
+    "stock_alert_msg": "재고가 경고 수량보다 적습니다!",
+    "stock_notification": "제품 수량 알림",
+    "stock_notification_empty": "사용 가능한 알림 없음",
+    "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+    "add_balance": "잔액 추가",
+    "remove_balance": "잔액 제거",
+    "qty": "수량",
+    "item": "안건",
+    "sold_by": "판매원"
+  },
+  "topbar": {
+    "new_invoice": "새 송장",
+    "new_expense": "새로운 비용",
+    "new_purchase": "신규 구매",
+    "new_quotation": "새 견적",
+    "profile": "프로필",
+    "setup": "설정",
+    "logout": "로그 아웃"
+  },
+  "sidebar": {
+    "dashboard": "계기반",
+    "activities": "활동",
+    "expenses": "경비",
+    "categories": "카테고리",
+    "sub_categories": "하위 카테고리",
+    "expenses_list": "경비 목록",
+    "purchases": "구매",
+    "purchases_list": "구매 목록",
+    "returns_list": "반품 목록",
+    "sales": "매상",
+    "quotations_list": "견적 목록",
+    "invoices_list": "인보이스 목록",
+    "accounting": "회계",
+    "cashbook": "캐쉬북",
+    "accounts": "계정",
+    "balance_adjustments": "밸런스 조정",
+    "balance_transfers": "잔액 이체",
+    "transaction_history": "거래 내역",
+    "payments": "결제",
+    "suppliers": "공급자",
+    "non_purchase": "비구매",
+    "purchase": "구입",
+    "clients": "클라이언트",
+    "non_invoice": "비 송장",
+    "invoice": "송장",
+    "loan_management": "대출 관리",
+    "authorities": "당국",
+    "loans": "대출",
+    "asset_management": "자산 관리",
+    "types": "유형",
+    "assets": "자산",
+    "payroll": "급여",
+    "people": "사람들",
+    "employees_list": "직원 목록",
+    "employees": "직원",
+    "departments": "부서",
+    "increments": "증분",
+    "product": "제품",
+    "products": "제품",
+    "products_list": "제품 목록",
+    "barcode": "바코드",
+    "inventory_uppercase": "목록",
+    "inventory": "목록",
+    "view_inventory": "인벤토리 보기",
+    "inventory_adjustment": "재고 조정",
+    "reports": "보고서",
+    "balance_sheet": "대차 대조표",
+    "summary_report": "요약 보고서",
+    "profit_loss_report": "손익 보고서",
+    "expense_report": "경비 보고서",
+    "product_report": "항목 보고서",
+    "inventory_report": "재고 보고서",
+    "account": "계정",
+    "account_sm": "계정",
+    "setup": "설정",
+    "database_backup": "데이터베이스 백업",
+    "profile": "프로필",
+    "logout": "로그 아웃"
+  },
+  "dashboard": {
+    "stock_alert": "재고 알림",
+    "recent_activities": "최근 활동",
+    "page_title": "계기반",
+    "breadcrumbs_current": "계기반",
+    "breadcrumbs_active": "계기반",
+    "bar_chart_title": "판매 대 구매",
+    "bar_chart_tooltip": "반품 비용을 공제한 후 월간 판매 및 구매.",
+    "pie_chart_title": "최고 판매 제품",
+    "line_chart_title": "보낸 지불 vs 받은 지불",
+    "line_chart_tooltip": "지불 보냄 = 공급업체 지불 + 대출 지불<br/> 지불금 수령 = 고객 지불금 + 대출금 수령",
+    "top_clients_title": "상위 5개 클라이언트",
+    "summary": "요약",
+    "summary_option_1": "오늘",
+    "summary_option_2": "지난 7일",
+    "summary_option_3": "이번 달",
+    "summary_option_4": "올해",
+    "summery_items": {
+      "purchase": "구입",
+      "purchase_return": "구매 반품",
+      "sales": "매상",
+      "sales_return": "판매 반품",
+      "payment_recevied": "클라이언트 결제",
+      "payment_sent": "공급자 지불",
+      "expense": "비용",
+      "balance_transfers": "잔액 이체"
+    }
+  },
+  "expenses": {
+    "categories": {
+      "index": {
+        "page_title": "비용 범주",
+        "breadcrumbs_current": "비용 범주",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "경비",
+        "breadcrumbs_active": "카테고리",
+        "delete_warning": "이 카테고리의 모든 하위 카테고리가 삭제됩니다!"
+      },
+      "create": {
+        "page_title": "비용 범주 생성",
+        "form_title": "비용 범주 만들기",
+        "breadcrumbs_current": "비용 범주 생성",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "카테고리",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "카테고리가 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "비용 범주 편집",
+        "form_title": "카테고리 수정",
+        "breadcrumbs_current": "비용 범주 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "카테고리",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "카테고리가 성공적으로 업데이트되었습니다 👍"
+      }
+    },
+    "sub_categories": {
+      "index": {
+        "page_title": "비용 하위 범주",
+        "breadcrumbs_current": "비용 하위 범주",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "경비",
+        "breadcrumbs_active": "하위 카테고리",
+        "delete_warning": "이 범주에 대한 모든 비용이 삭제됩니다!"
+      },
+      "create": {
+        "page_title": "비용 하위 범주 생성",
+        "form_title": "비용 하위 범주 만들기",
+        "breadcrumbs_current": "비용 하위 범주 생성",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "하위 카테고리",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "하위 카테고리가 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "비용 하위 범주 편집",
+        "form_title": "비용 하위 범주 수정",
+        "breadcrumbs_current": "비용 하위 범주 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "하위 카테고리",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "하위 카테고리가 성공적으로 업데이트되었습니다 👍"
+      }
+    },
+    "list": {
+      "common": {
+        "expense_reason": "비용 사유",
+        "expense_reason_placeholder": "이유를 입력하세요"
+      },
+      "index": {
+        "page_title": "경비",
+        "breadcrumbs_current": "경비",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "경비",
+        "breadcrumbs_active": "",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!"
+      },
+      "create": {
+        "page_title": "비용 생성",
+        "form_title": "비용 만들기",
+        "breadcrumbs_current": "비용 생성",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "경비",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "비용이 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "비용 수정",
+        "form_title": "비용 수정",
+        "breadcrumbs_current": "비용 수정",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "경비",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "비용이 성공적으로 업데이트되었습니다 👍"
+      },
+      "view": {
+        "page_title": "비용 내역",
+        "breadcrumbs_current": "비용 내역",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "경비",
+        "breadcrumbs_active": "세부",
+        "expense_details": "비용 내역"
+      }
+    }
+  },
+  "purchases": {
+    "list": {
+      "common": {
+        "po_reference": "PO 참조",
+        "po_reference_placeholder": "PO 참조 입력",
+        "payment_terms": "지불 조건",
+        "payment_terms_placeholder": "지불 조건을 입력하십시오",
+        "purchase_tax": "구매세",
+        "purchase_total": "구매 합계",
+        "purchase_subtotal": "구매 소계",
+        "purchase_tax_placeholder": "세금 유형 선택",
+        "total_tax": "총 세금",
+        "discount": "할인",
+        "discount_placeholder": "할인 입력",
+        "transport_cost": "운송료",
+        "transport_cost_placeholder": "운송비 입력",
+        "purchase_date": "구입 날짜",
+        "po_date": "PO 날짜",
+        "purchased_qty": "구매수량",
+        "returned_qty": "반환된 수량",
+        "current_qty": "현재 수량",
+        "purchase_no": "구매 번호",
+        "return_no": "반품 번호",
+        "purchase_no_placeholder": "구매 번호 입력",
+        "purchase_products": "제품 구매",
+        "purchase_due": "구매 기한"
+      },
+      "index": {
+        "page_title": "구매",
+        "breadcrumbs_current": "구매",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "구매",
+        "breadcrumbs_active": "구매",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!"
+      },
+      "create": {
+        "page_title": "구매 생성",
+        "form_title": "구매 생성",
+        "breadcrumbs_current": "구매 생성",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "구매",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "구매가 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "구매 수정",
+        "form_title": "구매 수정",
+        "breadcrumbs_current": "구매 수정",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "구매",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "구매가 성공적으로 업데이트되었습니다 👍"
+      },
+      "view": {
+        "page_title": "구매내역",
+        "breadcrumbs_current": "구매내역",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "구매",
+        "breadcrumbs_active": "세부"
+      }
+    },
+    "returns": {
+      "common": {
+        "return_reason": "반품 사유",
+        "return_reason_placeholder": "이유를 입력하세요",
+        "return_date": "반환 기일",
+        "purchase_return_no": "구매 반품 번호",
+        "return_products": "제품 반품"
+      },
+      "index": {
+        "page_title": "구매 반품",
+        "breadcrumbs_current": "구매 반품",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "구매",
+        "breadcrumbs_active": "구매 반품",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!"
+      },
+      "create": {
+        "page_title": "구매 반품 만들기",
+        "form_title": "구매 반품 만들기",
+        "breadcrumbs_current": "구매 반품 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "구매 반품",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "구매 반품이 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "구매 반품 수정",
+        "form_title": "구매 반품 수정",
+        "breadcrumbs_current": "구매 반품 수정",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "구매 반품",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "구매 반품이 성공적으로 업데이트되었습니다 👍"
+      },
+      "view": {
+        "page_title": "구매 반품 세부 정보",
+        "breadcrumbs_current": "구매 반품 세부 정보",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "구매 반품",
+        "breadcrumbs_active": "세부"
+      }
+    }
+  },
+  "sales": {
+    "common": {
+      "quotation_no": "견적 번호",
+      "quotation_date": "견적 날짜",
+      "delivery_place": "배달 장소",
+      "delivery_place_placeholder": "배송 장소를 입력하세요",
+      "quotation_tax": "인용세",
+      "quotation_tax_placeholder": "세금 유형 선택",
+      "return_date": "반환 기일",
+      "new_due": "새로운 만기",
+      "client_advance": "클라이언트 어드밴스",
+      "invoice_total": "송장 합계",
+      "before_return": "반환하기 전에",
+      "invoice_return": "송장 반환",
+      "invoice_tax": "인보이스 세금",
+      "invoice_tax_placeholder": "세금 유형 선택"
+    },
+    "quotations": {
+      "index": {
+        "page_title": "인용",
+        "create_invoice": "인보이스 생성",
+        "breadcrumbs_current": "인용",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "인용",
+        "breadcrumbs_active": "",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+        "delete_failed": "죄송합니다. 이 인용문을 삭제할 수 없습니다!"
+      },
+      "create": {
+        "page_title": "견적서 작성",
+        "form_title": "견적 작성",
+        "breadcrumbs_current": "견적서 작성",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "인용",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "견적이 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "인용 편집",
+        "form_title": "견적 수정",
+        "breadcrumbs_current": "인용 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "인용",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "견적이 성공적으로 업데이트되었습니다 👍"
+      },
+      "view": {
+        "page_title": "인용 세부사항",
+        "breadcrumbs_current": "인용 세부사항",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "인용",
+        "breadcrumbs_active": "세부",
+        "expense_details": "비용 내역"
+      },
+      "invoice": {
+        "page_title": "송장에 인용",
+        "form_title": "송장에 견적 만들기",
+        "breadcrumbs_current": "송장에 인용",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "인용",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "인보이스가 성공적으로 생성되었습니다 👍"
+      }
+    },
+    "invoices": {
+      "index": {
+        "page_title": "인보이스",
+        "breadcrumbs_current": "인보이스",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "매상",
+        "breadcrumbs_active": "인보이스",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+        "delete_failed": "죄송합니다. 이 인보이스를 삭제할 수 없습니다."
+      },
+      "create": {
+        "page_title": "인보이스 생성",
+        "form_title": "인보이스 생성",
+        "breadcrumbs_current": "인보이스 생성",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "인보이스",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "인보이스가 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "인보이스 편집",
+        "form_title": "인보이스 수정",
+        "breadcrumbs_current": "인보이스 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "인보이스",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "인보이스가 성공적으로 업데이트되었습니다 👍"
+      },
+      "view": {
+        "page_title": "인보이스 세부정보",
+        "breadcrumbs_current": "인보이스 세부정보",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "인보이스",
+        "breadcrumbs_active": "세부",
+        "invoice_details": "인보이스 세부정보"
+      }
+    },
+    "returns": {
+      "index": {
+        "page_title": "인보이스 반품",
+        "breadcrumbs_current": "인보이스 반품",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "인보이스",
+        "breadcrumbs_active": "인보이스 반품",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+        "delete_failed": "뭔가 잘못되었습니다."
+      },
+      "create": {
+        "page_title": "인보이스 반품 만들기",
+        "form_title": "인보이스 반품 만들기",
+        "breadcrumbs_current": "인보이스 반품 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "인보이스 반품",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "송장 반환이 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "인보이스 반품 편집",
+        "form_title": "인보이스 반품 수정",
+        "breadcrumbs_current": "인보이스 반품 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "인보이스 반품",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "송장 반환이 성공적으로 업데이트되었습니다 👍"
+      },
+      "view": {
+        "page_title": "송장 반환 세부 정보",
+        "breadcrumbs_current": "송장 반환 세부 정보",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "인보이스 반품",
+        "breadcrumbs_active": "세부",
+        "invoice_details": "인보이스 세부정보"
+      }
+    }
+  },
+  "cashbook": {
+    "common": {
+      "account_number": "계좌 번호",
+      "account_number_placeholder": "계좌번호를 입력하세요",
+      "branch_name": "지점명",
+      "branch_name_placeholder": "지점 이름을 입력하세요",
+      "bank_name": "은행 이름",
+      "bank_name_placeholder": "은행 이름을 입력하세요.",
+      "transactions": "업무",
+      "account_details": "계정 세부정보",
+      "total_transactions": "총 거래",
+      "debit_amount": "직불 금액",
+      "credit_amount": "크레딧 금액",
+      "from_account": "계좌로부터",
+      "to_account": "계정에",
+      "transfer_reason": "이전 이유"
+    },
+    "accounts": {
+      "index": {
+        "page_title": "계정",
+        "breadcrumbs_current": "계정",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "캐쉬북",
+        "breadcrumbs_third": "계정",
+        "breadcrumbs_active": "계정",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+        "delete_failed": "죄송합니다. 이 계정을 삭제할 수 없습니다."
+      },
+      "create": {
+        "page_title": "계정 만들기",
+        "form_title": "계정 만들기",
+        "breadcrumbs_current": "계정 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "캐쉬북",
+        "breadcrumbs_third": "계정",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "계정이 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "계정 수정",
+        "form_title": "계정 수정",
+        "breadcrumbs_current": "계정 수정",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "캐쉬북",
+        "breadcrumbs_third": "계정",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "계정이 성공적으로 업데이트되었습니다 👍"
+      },
+      "view": {
+        "page_title": "계정 거래",
+        "breadcrumbs_current": "계정 거래",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "계정",
+        "breadcrumbs_active": "업무",
+        "empty_transaction": "아직 거래가 없습니다!",
+        "empty_transaction_msg": "이 계정을 사용하여 거래한 적이 없습니다. 거래를 완료하면 여기에 목록이 표시됩니다."
+      }
+    },
+    "balances": {
+      "index": {
+        "page_title": "밸런스 조정",
+        "add_balance": "창조하다",
+        "breadcrumbs_current": "밸런스 조정",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "캐쉬북",
+        "breadcrumbs_active": "조정",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+        "delete_failed": "죄송합니다. 이 거래를 삭제할 수 없습니다."
+      },
+      "create": {
+        "page_title": "조정 만들기",
+        "form_title": "조정 만들기",
+        "breadcrumbs_current": "조정 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "캐쉬북",
+        "breadcrumbs_third": "조정",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "조정이 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "잔액 수정",
+        "form_title": "잔액 수정",
+        "breadcrumbs_current": "잔액 수정",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "캐쉬북",
+        "breadcrumbs_third": "저울",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "잔액이 성공적으로 업데이트되었습니다 👍"
+      }
+    },
+    "transfers": {
+      "index": {
+        "page_title": "잔액 이체",
+        "add_transfer": "환승 추가",
+        "breadcrumbs_current": "잔액 이체",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "캐쉬북",
+        "breadcrumbs_active": "잔액 이체",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+        "delete_failed": "이 전송을 삭제할 수 없습니다!"
+      },
+      "create": {
+        "page_title": "전송 만들기",
+        "form_title": "잔액 이체 만들기",
+        "breadcrumbs_current": "전송 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "캐쉬북",
+        "breadcrumbs_third": "잔액 이체",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "잔액 이체가 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "잔액 이체 편집",
+        "form_title": "잔액 이체 수정",
+        "breadcrumbs_current": "잔액 이체 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "캐쉬북",
+        "breadcrumbs_third": "잔액 이체",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "전송이 성공적으로 업데이트되었습니다 👍"
+      },
+      "view": {
+        "page_title": "잔액 이체 세부정보",
+        "breadcrumbs_current": "전송 세부 정보",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "캐쉬북",
+        "breadcrumbs_third": "잔액 이체",
+        "breadcrumbs_active": "세부"
+      }
+    },
+    "transactions": {
+      "index": {
+        "page_title": "거래 내역",
+        "breadcrumbs_current": "거래 내역",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "캐쉬북",
+        "breadcrumbs_active": "역사"
+      }
+    }
+  },
+  "payments": {
+    "common": {
+      "due_paid": "기한 지불",
+      "due_added": "기한이 추가됨",
+      "current_due": "현재 기한",
+      "non_invoice_paid": "미송장 지불",
+      "non_invoice_total": "비 송장 합계",
+      "add_due": "기한 추가",
+      "add_payment": "결제 추가",
+      "total_payment": "총 지불",
+      "total_advance": "총 선급금(청구서 반환)",
+      "available_advance": "가능한 선불(반품)",
+      "select_invoice": "인보이스 선택",
+      "select_purchase": "구매 선택",
+      "select_purchase_placeholder": "구매번호 검색",
+      "select_invoice_placeholder": "인보이스 번호 검색",
+      "invoice_subtotal": "송장 소계",
+      "non_purchase_total": "미구매 합계",
+      "non_purchase_due": "비구매 기한",
+      "non_purchase_paid": "미구매 유료",
+      "purchase_details": "구매내역"
+    },
+    "clients": {
+      "invoice": {
+        "index": {
+          "page_title": "인보이스 결제",
+          "breadcrumbs_current": "인보이스 결제",
+          "breadcrumbs_first": "계기반",
+          "breadcrumbs_second": "결제",
+          "breadcrumbs_active": "인보이스 결제",
+          "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+          "delete_failed": "죄송합니다. 이 결제를 삭제할 수 없습니다!"
+        },
+        "create": {
+          "page_title": "클라이언트 인보이스 결제 생성",
+          "form_title": "인보이스 결제 생성",
+          "breadcrumbs_current": "결제 생성",
+          "breadcrumbs_first": "계기반",
+          "breadcrumbs_second": "결제",
+          "breadcrumbs_third": "인보이스 결제",
+          "breadcrumbs_active": "창조하다",
+          "success_msg": "인보이스 결제가 성공적으로 추가되었습니다 👍"
+        },
+        "edit": {
+          "page_title": "클라이언트 인보이스 결제 편집",
+          "form_title": "인보이스 결제 수정",
+          "breadcrumbs_current": "결제 수정",
+          "breadcrumbs_first": "계기반",
+          "breadcrumbs_second": "결제",
+          "breadcrumbs_third": "인보이스 결제",
+          "breadcrumbs_active": "편집하다",
+          "success_msg": "인보이스 결제가 성공적으로 업데이트되었습니다 👍"
+        },
+        "view": {
+          "page_title": "인보이스 결제 세부정보",
+          "breadcrumbs_current": "인보이스 결제 세부정보",
+          "breadcrumbs_first": "계기반",
+          "breadcrumbs_second": "결제",
+          "breadcrumbs_third": "인보이스 결제",
+          "breadcrumbs_active": "세부"
+        }
+      },
+      "non_invoice": {
+        "index": {
+          "page_title": "고객 비 송장 지불",
+          "breadcrumbs_current": "비 송장 지불",
+          "breadcrumbs_first": "계기반",
+          "breadcrumbs_second": "결제",
+          "breadcrumbs_active": "비 송장 지불",
+          "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+          "delete_failed": "죄송합니다. 이 결제를 삭제할 수 없습니다!"
+        },
+        "create": {
+          "page_title": "비 송장 결제 생성",
+          "form_title": "비송장 결제 생성",
+          "breadcrumbs_current": "결제 생성",
+          "breadcrumbs_first": "계기반",
+          "breadcrumbs_second": "결제",
+          "breadcrumbs_third": "비 송장 지불",
+          "breadcrumbs_active": "창조하다",
+          "success_msg": "결제가 성공적으로 추가되었습니다 👍"
+        },
+        "edit": {
+          "page_title": "인보이스 반품 편집",
+          "form_title": "비송장 결제 편집",
+          "breadcrumbs_current": "결제 수정",
+          "breadcrumbs_first": "계기반",
+          "breadcrumbs_second": "결제",
+          "breadcrumbs_third": "비 송장 지불",
+          "breadcrumbs_active": "편집하다",
+          "success_msg": "결제가 성공적으로 업데이트되었습니다 👍"
+        }
+      }
+    },
+    "suppliers": {
+      "purchase": {
+        "index": {
+          "page_title": "구매 결제",
+          "breadcrumbs_current": "구매 결제",
+          "breadcrumbs_first": "계기반",
+          "breadcrumbs_second": "결제",
+          "breadcrumbs_active": "구매 결제",
+          "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+          "delete_failed": "뭔가 잘못되었습니다."
+        },
+        "create": {
+          "page_title": "공급자 구매 결제 생성",
+          "form_title": "구매 결제 생성",
+          "breadcrumbs_current": "결제 생성",
+          "breadcrumbs_first": "계기반",
+          "breadcrumbs_second": "결제",
+          "breadcrumbs_third": "구매 결제",
+          "breadcrumbs_active": "창조하다",
+          "success_msg": "공급자 지불이 성공적으로 추가되었습니다 👍"
+        },
+        "edit": {
+          "page_title": "공급자 구매 지불 편집",
+          "form_title": "구매 결제 수정",
+          "breadcrumbs_current": "결제 수정",
+          "breadcrumbs_first": "계기반",
+          "breadcrumbs_second": "결제",
+          "breadcrumbs_third": "구매 결제",
+          "breadcrumbs_active": "편집하다",
+          "success_msg": "결제가 성공적으로 업데이트되었습니다 👍"
+        },
+        "view": {
+          "page_title": "공급업체 구매 결제 내역",
+          "breadcrumbs_current": "구매 결제 내역",
+          "breadcrumbs_first": "계기반",
+          "breadcrumbs_second": "결제",
+          "breadcrumbs_third": "구매 결제",
+          "breadcrumbs_active": "세부"
+        }
+      },
+      "non_purchase": {
+        "index": {
+          "page_title": "공급자 미구매 지불",
+          "breadcrumbs_current": "비구매 결제",
+          "breadcrumbs_first": "계기반",
+          "breadcrumbs_second": "결제",
+          "breadcrumbs_active": "비구매 결제",
+          "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+          "delete_failed": "죄송합니다. 이 결제를 삭제할 수 없습니다!"
+        },
+        "create": {
+          "page_title": "비구매 결제 생성",
+          "form_title": "비구매결제 생성",
+          "breadcrumbs_current": "결제 생성",
+          "breadcrumbs_first": "계기반",
+          "breadcrumbs_second": "결제",
+          "breadcrumbs_third": "비구매 결제",
+          "breadcrumbs_active": "창조하다",
+          "success_msg": "결제가 성공적으로 추가되었습니다 👍"
+        },
+        "edit": {
+          "page_title": "비구매결제 수정",
+          "form_title": "비구매 결제 수정",
+          "breadcrumbs_current": "결제 수정",
+          "breadcrumbs_first": "계기반",
+          "breadcrumbs_second": "결제",
+          "breadcrumbs_third": "비구매 결제",
+          "breadcrumbs_active": "편집하다",
+          "success_msg": "결제가 성공적으로 업데이트되었습니다 👍"
+        }
+      }
+    }
+  },
+  "loans": {
+    "common": {
+      "authority": "권한",
+      "loan": "대출",
+      "loan_placeholder": "대출 선택",
+      "loan_authority": "대출 기관",
+      "authority_placeholder": "기관 선택",
+      "cc_limit": "CC 한도",
+      "cc_placeholder": "cc 대출 한도 입력",
+      "cash_credit_limit": "현금 신용 (CC) 대출 한도",
+      "cash_credit_loan": "현금신용(CC)대출",
+      "interetest_paid": "이자 지급",
+      "total_payable": "지불 가능한 총계",
+      "total_loan": "총 대출",
+      "cc_term": "CC + 용어",
+      "cc_taken": "CC 대출 받기",
+      "available_cc": "CC론 가능",
+      "all_loans": "모든 대출",
+      "empty_loan": "아직 사용할 수 있는 대출이 없습니다!",
+      "empty_loan_msg": "이 권한에 대한 대출을 추가하지 않았습니다. 대출을 추가하면 여기에 목록이 표시됩니다.",
+      "authority_details": "권한 세부 정보",
+      "payable_amount": "지불 가능 금액",
+      "duration": "지속",
+      "duration_placeholder": "기간을 입력하세요",
+      "interest_rate_placeholder": "이자율을 백분율로 입력",
+      "available_amount": "사용 가능 금액",
+      "term_loan": "기간 대출",
+      "loan_type": "대출 유형",
+      "loan_reason": "대출 사유",
+      "loan_date": "대출일",
+      "Loan_account": "대출 계좌",
+      "Loan_payments": "대출금",
+      "empty_payment_msg": "이 대출에 대한 지불을 추가하지 않았습니다. 결제를 추가하면 여기에 목록이 표시됩니다.",
+      "loan_amount": "대출금",
+      "loan_ref": "대출 참조",
+      "payment_ref": "결제 참조",
+      "amount_paid": "금액 지급"
+    },
+    "authorities": {
+      "index": {
+        "page_title": "대출 기관",
+        "breadcrumbs_current": "대출 기관",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "대출 관리",
+        "breadcrumbs_active": "당국",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+        "delete_failed": "죄송합니다. 이 권한을 삭제할 수 없습니다."
+      },
+      "create": {
+        "page_title": "대출 권한 생성",
+        "form_title": "대출 권한 생성",
+        "breadcrumbs_current": "대출 권한 생성",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "대출 기관",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "대출 권한이 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "대출 기관 편집",
+        "form_title": "대출 권한 수정",
+        "breadcrumbs_current": "편집 권한",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "대출 기관",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "대출 권한이 성공적으로 업데이트되었습니다 👍"
+      },
+      "view": {
+        "page_title": "대출 기관 보기",
+        "breadcrumbs_current": "권한 세부 정보",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "대출 기관",
+        "breadcrumbs_active": "세부"
+      }
+    },
+    "payments": {
+      "index": {
+        "page_title": "대출금",
+        "breadcrumbs_current": "대출금",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "대출 관리",
+        "breadcrumbs_active": "대출금",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+        "delete_failed": "뭔가 잘못되었습니다."
+      },
+      "create": {
+        "page_title": "대출금 지급 생성",
+        "form_title": "대출금 생성",
+        "breadcrumbs_current": "대출금 지급 생성",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "대출금",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "대출 결제가 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "대출금 상환 수정",
+        "form_title": "대출 지불 수정",
+        "breadcrumbs_current": "대출금 상환 수정",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "대출금",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "결제가 성공적으로 업데이트되었습니다 👍"
+      },
+      "view": {
+        "page_title": "대출금 지급내역",
+        "breadcrumbs_current": "대출금 지급내역",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "대출금",
+        "breadcrumbs_active": "세부"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "대출",
+        "breadcrumbs_current": "대출",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "대출 관리",
+        "breadcrumbs_active": "대출",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+        "delete_failed": "죄송합니다. 이 대출을 삭제할 수 없습니다."
+      },
+      "create": {
+        "page_title": "대출 만들기",
+        "form_title": "대출 만들기",
+        "breadcrumbs_current": "대출 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "대출",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "대출이 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "대출 수정",
+        "form_title": "대출 수정",
+        "breadcrumbs_current": "대출 수정",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "대출",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "대출이 성공적으로 업데이트되었습니다 👍"
+      },
+      "view": {
+        "page_title": "대출내역",
+        "breadcrumbs_current": "대출내역",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "대출",
+        "breadcrumbs_active": "세부"
+      }
+    }
+  },
+  "assets": {
+    "common": {
+      "asset_name": "자산 이름",
+      "asset_name_placeholder": "저작물 이름 입력",
+      "asset_type": "자산 유형",
+      "asset_type_placeholder": "자산 유형 선택",
+      "asset_cost": "자산 비용",
+      "asset_cost_placeholder": "자산 비용 입력",
+      "current_value": "현재 가치",
+      "depreciation": "감가 상각",
+      "depreciation_type": "감가상각 유형",
+      "salvage_value": "잔존 가치",
+      "salvage_value_placeholder": "잔존 가치",
+      "useful_life": "내용연수",
+      "remaining_life": "남은 수명",
+      "useful_life_placeholder": "내용연수 입력",
+      "added_date": "추가된 날짜",
+      "expired_date": "만료일"
+    },
+    "types": {
+      "index": {
+        "page_title": "자산 유형",
+        "breadcrumbs_current": "자산 유형",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "자산 관리",
+        "breadcrumbs_active": "자산 유형",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+        "delete_failed": "뭔가 잘못되었습니다."
+      },
+      "create": {
+        "page_title": "자산 유형 생성",
+        "form_title": "자산 유형 생성",
+        "breadcrumbs_current": "자산 유형 생성",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "자산 유형",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "자산 유형이 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "자산 유형 편집",
+        "form_title": "자산 유형 수정",
+        "breadcrumbs_current": "자산 유형 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "자산 유형",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "자산 유형이 성공적으로 업데이트되었습니다 👍"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "자산",
+        "breadcrumbs_current": "자산",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "자산 관리",
+        "breadcrumbs_active": "자산",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+        "delete_failed": "뭔가 잘못되었습니다."
+      },
+      "create": {
+        "page_title": "자산 만들기",
+        "form_title": "자산 만들기",
+        "breadcrumbs_current": "자산 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "자산",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "자산이 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "자산 편집",
+        "form_title": "저작물 수정",
+        "breadcrumbs_current": "자산 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "자산",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "자산이 성공적으로 업데이트되었습니다 👍"
+      },
+      "view": {
+        "page_title": "자산 세부정보",
+        "breadcrumbs_current": "자산 세부정보",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "자산",
+        "breadcrumbs_active": "세부"
+      }
+    }
+  },
+  "payroll": {
+    "common": {
+      "salary_date": "급여 날짜",
+      "total_salary": "총급여",
+      "advance": "전진",
+      "advance_placeholder": "Advacne 금액 입력",
+      "others": "기타",
+      "others_placeholder": "기타 금액 입력",
+      "travel_allowance": "여행수당(TA)",
+      "travel_allowance_placeholder": "출장 수당을 입력하세요",
+      "festival_bonus": "페스티벌 보너스",
+      "festival_bonus_placeholder": "축제 보너스를 입력하세요",
+      "commission": "수수료",
+      "commission_placeholder": "커미션 입력",
+      "bonus": "보너스",
+      "bonus_placeholder": "보너스를 입력하세요",
+      "food_bill": "식품 계산서",
+      "food_bill_placeholder": "식비를 입력하세요",
+      "mobile_bill": "모바일 청구서",
+      "mobile_bill_placeholder": "모바일 청구서를 입력하세요",
+      "deduction_reason": "공제사유",
+      "deduction_reason_placeholder": "공제사유 입력",
+      "deduction_amount": "공제금액",
+      "deduction_amount_placeholder": "공제금액을 입력하세요",
+      "present_salary": "현재 급여",
+      "salary_month": "급여월",
+      "salary_month_placeholder": "월급을 선택하세요"
+    },
+    "index": {
+      "page_title": "직원 급여",
+      "breadcrumbs_current": "직원 급여",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "급여",
+      "breadcrumbs_active": "급여",
+      "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+      "delete_failed": "뭔가 잘못되었습니다."
+    },
+    "create": {
+      "page_title": "급여 생성",
+      "form_title": "직원 급여 생성",
+      "breadcrumbs_current": "급여 생성",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "급여",
+      "breadcrumbs_active": "창조하다",
+      "success_msg": "급여가 성공적으로 추가되었습니다 👍"
+    },
+    "edit": {
+      "page_title": "급여 수정",
+      "form_title": "급여 수정",
+      "breadcrumbs_current": "급여 수정",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "급여",
+      "breadcrumbs_active": "편집하다",
+      "success_msg": "급여가 성공적으로 업데이트되었습니다 👍"
+    },
+    "view": {
+      "page_title": "급여 세부 정보",
+      "breadcrumbs_current": "급여 세부 정보",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "급여",
+      "breadcrumbs_active": "세부"
+    }
+  },
+  "clients": {
+    "common": {
+      "non_invoice_transactions": "비 송장 트랜잭션"
+    },
+    "index": {
+      "page_title": "클라이언트",
+      "breadcrumbs_current": "클라이언트",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "클라이언트",
+      "breadcrumbs_active": "클라이언트",
+      "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+      "delete_failed": "죄송합니다. 이 클라이언트를 삭제할 수 없습니다."
+    },
+    "create": {
+      "page_title": "클라이언트 만들기",
+      "form_title": "클라이언트 만들기",
+      "breadcrumbs_current": "클라이언트 만들기",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "클라이언트",
+      "breadcrumbs_active": "창조하다",
+      "success_msg": "클라이언트가 성공적으로 추가되었습니다 👍"
+    },
+    "edit": {
+      "page_title": "클라이언트 편집",
+      "form_title": "고객 수정",
+      "breadcrumbs_current": "고객 수정",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "클라이언트",
+      "breadcrumbs_active": "편집하다",
+      "success_msg": "클라이언트가 성공적으로 업데이트되었습니다 👍"
+    },
+    "view": {
+      "page_title": "클라이언트 세부 정보",
+      "breadcrumbs_current": "클라이언트 세부 정보",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "클라이언트",
+      "breadcrumbs_active": "세부"
+    }
+  },
+  "suppliers": {
+    "common": {
+      "non_purchase_transactions": "비구매 거래"
+    },
+    "index": {
+      "page_title": "공급자",
+      "breadcrumbs_current": "공급자",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "공급자",
+      "breadcrumbs_active": "공급자",
+      "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+      "delete_failed": "죄송합니다. 이 공급업체를 삭제할 수 없습니다."
+    },
+    "create": {
+      "page_title": "공급자 생성",
+      "form_title": "공급업체 만들기",
+      "breadcrumbs_current": "공급자 생성",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "공급자",
+      "breadcrumbs_active": "창조하다",
+      "success_msg": "공급업체가 성공적으로 추가되었습니다 👍"
+    },
+    "edit": {
+      "page_title": "공급업체 수정",
+      "form_title": "공급업체 수정",
+      "breadcrumbs_current": "공급업체 수정",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "공급자",
+      "breadcrumbs_active": "편집하다",
+      "success_msg": "공급업체가 성공적으로 업데이트되었습니다 👍"
+    },
+    "view": {
+      "page_title": "공급업체 세부정보",
+      "breadcrumbs_current": "공급업체 세부정보",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "공급자",
+      "breadcrumbs_active": "세부"
+    }
+  },
+  "employees": {
+    "common": {
+      "increment_date": "증분 날짜",
+      "increment_amount": "증분 금액",
+      "increment_amount_placeholder": "증분 금액 입력",
+      "increment_reason": "증가 이유",
+      "increment_reason_placeholder": "이유를 입력하세요",
+      "basic_salary": "기본 급여",
+      "current_salary": "현재 급여",
+      "incremented_salary": "증분 급여",
+      "birth_date": "생일",
+      "join_date": "가입 날짜",
+      "employee_name": "직원 이름",
+      "employee_name_placeholder": "직원 이름을 입력하세요.",
+      "gender": "성별",
+      "gender_placeholder": "성별 선택",
+      "male": "남성",
+      "female": "여성",
+      "transgender": "트랜스 젠더",
+      "other": "다른",
+      "blood_group": "혈액형",
+      "blood_group_placeholder": "혈액형을 선택하세요",
+      "religion": "종교",
+      "religion_placeholder": "종교를 선택하세요",
+      "islam": "이슬람교",
+      "hinduism": "힌두교",
+      "buddhists": "불교도",
+      "christians": "기독교인",
+      "animists": "애니미스트",
+      "appointment_date": "임명 날짜",
+      "allow_login": "직원 로그인 허용",
+      "increment_history": "증분 기록"
+    },
+    "departments": {
+      "index": {
+        "page_title": "부서",
+        "breadcrumbs_current": "부서",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "직원",
+        "breadcrumbs_active": "부서",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+        "delete_failed": "뭔가 잘못되었습니다."
+      },
+      "create": {
+        "page_title": "부서 만들기",
+        "form_title": "부서 만들기",
+        "breadcrumbs_current": "부서 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "부서",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "부서가 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "부서 편집",
+        "form_title": "부서 편집",
+        "breadcrumbs_current": "부서 수정",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "부서",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "부서가 성공적으로 업데이트되었습니다 👍"
+      }
+    },
+    "increments": {
+      "index": {
+        "page_title": "직원 급여 인상",
+        "breadcrumbs_current": "급여 인상",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "직원",
+        "breadcrumbs_active": "증분",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+        "delete_failed": "뭔가 잘못되었습니다."
+      },
+      "create": {
+        "page_title": "급여 증분 생성",
+        "form_title": "급여 증분 만들기",
+        "breadcrumbs_current": "급여 증분 생성",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "증분",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "증분이 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "급여 증분 편집",
+        "form_title": "급여 증분 수정",
+        "breadcrumbs_current": "급여 증분 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "증분",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "증분이 성공적으로 업데이트되었습니다 👍"
+      },
+      "view": {
+        "page_title": "증분 세부 정보",
+        "breadcrumbs_current": "증분 세부 정보",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "증분",
+        "breadcrumbs_active": "세부"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "직원",
+        "breadcrumbs_current": "직원",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_active": "직원",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+        "delete_failed": "뭔가 잘못되었습니다."
+      },
+      "create": {
+        "page_title": "직원 만들기",
+        "form_title": "직원 만들기",
+        "breadcrumbs_current": "직원 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "직원",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "직원이 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "직원 편집",
+        "form_title": "직원 수정",
+        "breadcrumbs_current": "직원 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "직원",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "직원이 성공적으로 업데이트되었습니다 👍"
+      },
+      "view": {
+        "page_title": "직원 세부 정보",
+        "breadcrumbs_current": "직원 세부 정보",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "직원",
+        "breadcrumbs_active": "세부"
+      }
+    }
+  },
+  "products": {
+    "categories": {
+      "index": {
+        "page_title": "제품 카테고리",
+        "breadcrumbs_current": "제품 카테고리",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "제품",
+        "breadcrumbs_active": "카테고리",
+        "delete_warning": "이 카테고리의 모든 하위 카테고리가 삭제됩니다!"
+      },
+      "create": {
+        "page_title": "제품 카테고리 만들기",
+        "form_title": "제품 카테고리 만들기",
+        "breadcrumbs_current": "카테고리 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "제품",
+        "breadcrumbs_third": "카테고리",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "카테고리가 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "제품 카테고리 편집",
+        "form_title": "제품 카테고리 수정",
+        "breadcrumbs_current": "제품 카테고리 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "제품",
+        "breadcrumbs_third": "카테고리",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "카테고리가 성공적으로 업데이트되었습니다 👍"
+      }
+    },
+    "sub_categories": {
+      "index": {
+        "page_title": "제품 하위 범주",
+        "breadcrumbs_current": "제품 하위 카테고리",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "제품",
+        "breadcrumbs_active": "하위 카테고리",
+        "delete_warning": "이 카테고리의 모든 제품이 삭제됩니다!"
+      },
+      "create": {
+        "page_title": "제품 하위 카테고리 만들기",
+        "form_title": "제품 하위 카테고리 생성",
+        "breadcrumbs_current": "하위 카테고리 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "제품",
+        "breadcrumbs_third": "하위 카테고리",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "하위 카테고리가 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "제품 하위 카테고리 편집",
+        "form_title": "제품 하위 카테고리 수정",
+        "breadcrumbs_current": "제품 하위 카테고리 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "제품",
+        "breadcrumbs_third": "하위 카테고리",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "하위 카테고리가 성공적으로 업데이트되었습니다 👍"
+      }
+    },
+    "list": {
+      "common": {
+        "alert_quantity": "경고 수량",
+        "alert_quantity_placeholder": "경고 수량 입력",
+        "selling_price": "판매 가격",
+        "selling_price_placeholder": "할인가 입력",
+        "regular_price": "정가",
+        "regular_price_placeholder": "정가를 입력하세요",
+        "tax_type": "세금 유형",
+        "exclusive": "독점적인",
+        "inclusive": "포함한",
+        "product_tax": "상품세",
+        "tax_placeholder": "세금을 선택하세요",
+        "barcode_symbology": "바코드 기호",
+        "tax_amount": "세액",
+        "avg_purchase_price": "평균 구매 가격",
+        "avg_selling_price": "평균 판매 가격",
+        "stock": "재고",
+        "inventory_value": "재고 가치",
+        "generate_barcode": "바코드 생성"
+      },
+      "index": {
+        "page_title": "제품",
+        "breadcrumbs_current": "제품",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "제품",
+        "breadcrumbs_active": "제품",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!"
+      },
+      "create": {
+        "page_title": "제품 만들기",
+        "form_title": "제품 만들기",
+        "breadcrumbs_current": "제품 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "제품",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "제품이 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "제품 수정",
+        "form_title": "제품 수정",
+        "breadcrumbs_current": "제품 수정",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "제품",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "제품이 성공적으로 업데이트되었습니다 👍"
+      },
+      "view": {
+        "page_title": "제품 세부 정보",
+        "breadcrumbs_current": "제품 세부 정보",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "제품",
+        "breadcrumbs_active": "세부",
+        "expense_details": "제품 세부 정보"
+      },
+      "barcode": {
+        "page_title": "바코드 인쇄",
+        "generate_barcode": "바코드 생성",
+        "print_barcode": "바코드 인쇄",
+        "paper_size": "용지 크기",
+        "print_qty": "인쇄 수량",
+        "breadcrumbs_current": "바코드 인쇄",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "제품",
+        "breadcrumbs_active": "편집하다",
+        "page_option_0": "시트당 40개(a4)(1.799 * 1.003)",
+        "page_option_1": "시트당 30개(2.625 * 1)",
+        "page_option_2": "시트당 24개(a4)(2.48 * 1.334)",
+        "page_option_3": "시트당 20개(4 * 1)",
+        "page_option_4": "시트당 18개(a4)(2.5 * 1.835)",
+        "page_option_5": "시트당 14개(4 * 1.33)",
+        "page_option_6": "시트당 12개(a4)(2.5 * 2.834)",
+        "page_option_7": "시트당 10개(4 * 2)"
+      }
+    }
+  },
+  "inventory": {
+    "common": {
+      "inventory_history": "인벤토리 내역",
+      "adjustment_no": "조정 번호",
+      "adjustment_date": "조정일",
+      "adjustment_type": "조정 유형",
+      "increment": "증가",
+      "decrement": "감소",
+      "adjustment_reason": "조정사유",
+      "adjusted_products": "조정된 제품"
+    },
+    "index": {
+      "page_title": "목록",
+      "breadcrumbs_current": "목록",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "제품",
+      "breadcrumbs_active": "목록"
+    },
+    "history": {
+      "page_title": "인벤토리 내역",
+      "breadcrumbs_current": "재고 내역",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "목록",
+      "breadcrumbs_active": "역사"
+    },
+    "adjustments": {
+      "index": {
+        "page_title": "재고 조정",
+        "breadcrumbs_current": "재고 조정",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "목록",
+        "breadcrumbs_active": "조정",
+        "delete_warning": "당신은 이것으로 돌아갈 수 없습니다!",
+        "delete_failed": "뭔가 잘못되었습니다."
+      },
+      "create": {
+        "page_title": "조정 만들기",
+        "form_title": "조정 만들기",
+        "breadcrumbs_current": "조정 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "조정",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "조정이 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "조정 편집",
+        "form_title": "조정 수정",
+        "breadcrumbs_current": "조정 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "조정",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "조정이 성공적으로 업데이트되었습니다 👍"
+      },
+      "view": {
+        "page_title": "조정 내용",
+        "breadcrumbs_current": "조정 내용",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "조정",
+        "breadcrumbs_active": "세부"
+      }
+    }
+  },
+  "reports": {
+    "stock_in": "재고 있음",
+    "stock_out": "품절",
+    "total_quantity": "총량",
+    "incomes": "수입",
+    "liabilities": "부채",
+    "security_asset": "총 보안/자산",
+    "supplier_dues": "공급업체 회비",
+    "client_dues": "고객 회비",
+    "bank_loan": "은행 대출",
+    "bank_balance": "은행 잔고",
+    "income_liabilities": "(수익 - 부채)",
+    "total_asset": "총자산",
+    "view_report": "보고서보기",
+    "monthly_summery": "월간 요약",
+    "particulars": "상세",
+    "opening_balance": "기초 잔액",
+    "invoice_sales": "송장 판매",
+    "invoice_dues": "인보이스 회비",
+    "accounts_collection": "계정 수집",
+    "general": "일반적인",
+    "loan_interest": "대출이자",
+    "asset_depreciation": "자산 감가상각",
+    "transfer": "옮기다",
+    "transfer_from": "잔액 이체",
+    "closing_balance": "폐쇄 균형",
+    "report_type": "보고서 유형",
+    "gross_profit_Loss": "매출총이익/손실",
+    "net_profit_Loss": "당기순이익/손실",
+    "sold_qty": "판매수량",
+    "profit": "이익",
+    "loss": "상실",
+    "total_sales_avg": "총 매출(평균)",
+    "total_purchased_avg": "총 구매액(평균)",
+    "income_statement": "손익 계산서",
+    "total_sales": "총 매출",
+    "cost_of_goods_sold": "매출 원가",
+    "positive_adjusted": "양수 조정됨",
+    "negative_adjusted": "마이너스 조정",
+    "total_adjusted": "총 조정",
+    "gross_profit": "총 이익",
+    "gross_loss": "총 손실",
+    "operating_expenses": "운영 비용",
+    "salaries": "급여",
+    "general_expenses": "일반 경비",
+    "total_expense": "총 비용",
+    "net_profit": "순이익",
+    "net_loss": "순손실",
+    "date_range": "날짜 범위",
+    "stock_in_hand": "보유 재고",
+    "balance_sheet": {
+      "page_title": "대차 대조표",
+      "breadcrumbs_current": "대차 대조표",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "보고서",
+      "breadcrumbs_active": "대차 대조표"
+    },
+    "summary": {
+      "page_title": "요약 보고서",
+      "breadcrumbs_current": "요약 보고서",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "보고서",
+      "breadcrumbs_active": "요약 보고서"
+    },
+    "profit_loss": {
+      "empty_msg_title": "빈 손익!",
+      "empty_msg_text": "죄송합니다. 선택한 범주 및 날짜 범위에 대한 손익이 없습니다.",
+      "page_title": "손익 보고서",
+      "breadcrumbs_current": "손익 보고서",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "보고서",
+      "breadcrumbs_active": "손익 보고서"
+    },
+    "expense": {
+      "empty_msg_title": "빈 비용!",
+      "empty_msg_text": "죄송합니다. 선택한 범주 및 날짜 범위에 대한 비용을 찾을 수 없습니다.",
+      "page_title": "경비 보고서",
+      "breadcrumbs_current": "경비 보고서",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "보고서",
+      "breadcrumbs_active": "경비 보고서"
+    },
+    "product": {
+      "empty_msg_title": "비어 있는!",
+      "empty_msg_text": "죄송합니다. 선택한 항목 및 날짜 범위에 대해 재고 있음 또는 재고 없음을 찾을 수 없습니다.",
+      "page_title": "항목 보고서",
+      "breadcrumbs_current": "항목 보고서",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "보고서",
+      "breadcrumbs_active": "항목 보고서"
+    },
+    "inventory": {
+      "empty_msg_title": "인벤토리 비우기!",
+      "empty_msg_text": "죄송합니다. 선택한 카테고리 및 날짜 범위에 대한 인벤토리를 찾을 수 없습니다.",
+      "page_title": "재고 보고서",
+      "breadcrumbs_current": "재고 보고서",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_second": "보고서",
+      "breadcrumbs_active": "재고 보고서"
+    }
+  },
+  "setup": {
+    "common": {
+      "sort_code": "짧은 코드",
+      "sort_code_placeholder": "짧은 코드를 입력하세요"
+    },
+    "index": {
+      "page_title": "설정",
+      "breadcrumbs_current": "설정",
+      "breadcrumbs_first": "계기반",
+      "breadcrumbs_active": "설정",
+      "menu": {
+        "item_one": {
+          "title": "일반적인",
+          "description": "사이트 제목, 사이트 설명, 주소 등과 같은 일반 설정.",
+          "link_text": "설정을 바꾸다"
+        },
+        "item_two": {
+          "title": "통화",
+          "description": "시스템에서 사용할 다양한 유형의 통화를 관리합니다.",
+          "link_text": "통화"
+        },
+        "item_three": {
+          "title": "단위",
+          "description": "시스템에서 사용할 측정 단위 유형을 관리합니다.",
+          "link_text": "단위"
+        },
+        "item_four": {
+          "title": "역할 및 권한",
+          "description": "시스템을 사용할 사용자의 역할 및 권한을 관리합니다.",
+          "link_text": "역할 및 권한"
+        },
+        "item_five": {
+          "title": "VAT 요율",
+          "description": "시스템에서 사용할 VAT 관리를 위한 VAT 요율을 관리합니다.",
+          "link_text": "VAT 요율"
+        },
+        "item_six": {
+          "title": "브랜드",
+          "description": "시스템에서 사용할 브랜드를 관리합니다.",
+          "link_text": "브랜드"
+        },
+        "item_seven": {
+          "title": "지불 방법",
+          "description": "시스템에서 사용할 결제 수단을 관리합니다.",
+          "link_text": "지불 방법"
+        },
+        "item_eight": {
+          "title": "사용자 권한",
+          "description": "역할에 할당할 권한을 관리합니다.",
+          "link_text": "사용자 권한"
+        }
+      }
+    },
+    "general_settings": {
+      "index": {
+        "page_title": "일반 설정",
+        "breadcrumbs_current": "일반 설정",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_active": "일반 설정 업데이트",
+        "form_title": "일반 설정 업데이트",
+        "success_message": "설정이 성공적으로 업데이트되었습니다 👍",
+        "company_info": {
+          "info_title": "회사 정보 추가",
+          "company_tagline": "회사 슬로건",
+          "company_tagline_placeholder": "회사 슬로건",
+          "email_address": "이메일 주소",
+          "email_address_placeholder": "이메일 주소를 입력하세요",
+          "phone_number": "전화 번호",
+          "phone_number_placeholder": "전화 번호"
+        },
+        "code_prefixes": {
+          "prefix_title": "코드 접두사 추가",
+          "client_prefix": "클라이언트 접두사",
+          "client_prefix_placeholder": "클라이언트 프리픽스를 입력하세요.",
+          "supplier_prefix": "공급자 접두사",
+          "supplier_prefix_placeholder": "공급업체 접두사를 입력하세요.",
+          "employee_prefix": "직원 접두사",
+          "employee_prefix_placeholder": "직원 접두사를 입력하세요.",
+          "product_category_prefix": "제품 범주 접두사",
+          "product_category_prefix_placeholder": "제품 카테고리 프리픽스를 입력하세요.",
+          "product_sub_category_prefix": "제품 하위 범주 접두사",
+          "product_sub_category_prefix_placeholder": "하위 카테고리 접두어를 입력하세요.",
+          "product_prefix": "제품 접두사",
+          "product_prefix_placeholder": "제품 접두사를 입력하세요.",
+          "expense_category_prefix": "비용 범주 접두사",
+          "expense_category_prefix_placeholder": "비용 범주 프리픽스를 입력하세요.",
+          "expense_sub_category_prefix": "비용 하위 범주 접두어",
+          "expense_sub_category_prefix_placeholder": "경비 하위 카테고리 접두사를 입력하세요.",
+          "purchase_prefix": "구매 접두사",
+          "purchase_prefix_placeholder": "구매 접두사를 입력하세요.",
+          "purchase_return_prefix": "구매 반품 접두사",
+          "purchase_return_prefix_placeholder": "구매 반품 접두사를 입력하세요.",
+          "quotation_prefix": "인용 접두사",
+          "quotation_prefix_placeholder": "인용 접두사를 입력하세요.",
+          "invoice_prefix": "송장 접두어",
+          "invoice_prefix_placeholder": "인보이스 접두사를 입력하세요.",
+          "invoice_return_prefix": "송장 반환 접두사",
+          "invoice_return_prefix_placeholder": "인보이스 반환 접두어를 입력하세요.",
+          "invoice_adjustment_prefix": "재고 조정 접두어",
+          "invoice_adjustment_prefix_placeholder": "인벤토리 조정 프리픽스를 입력하세요."
+        },
+        "default_elements": {
+          "default_elements_title": "기본 요소 추가",
+          "default_currency": "기본 통화",
+          "select_a_currency": "통화 선택",
+          "default_language": "기본 언어",
+          "english_en": "스페인어(en)",
+          "hindi_hi": "아니 (안녕)",
+          "bangla_bn": "방글라 (십억)",
+          "copyright_text": "저작권 텍스트",
+          "copyright_text_placeholder": "저작권 텍스트",
+          "default_client": "기본 클라이언트",
+          "default_account": "기본 계정",
+          "select_a_account": "계정 선택",
+          "select_a_client": "클라이언트 선택",
+          "default_vat_rate": "기본 VAT 요율",
+          "select_a_vat_rate": "VAT 요율 선택"
+        },
+        "logo": {
+          "white_logo": "흰색 로고",
+          "black_logo": "블랙 로고",
+          "small_logo": "작은 로고",
+          "favicon": "파비콘"
+        }
+      }
+    },
+    "currencies": {
+      "common": {
+        "symbol": "상징",
+        "symbol_placeholder": "기호를 입력하세요",
+        "currency_position": "통화 위치",
+        "position_drop_down_item_one": "왼쪽 정렬",
+        "position_drop_down_item_two": "오른쪽 정렬"
+      },
+      "index": {
+        "page_title": "통화",
+        "breadcrumbs_current": "통화",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_active": "통화",
+        "table": {
+          "position": "위치",
+          "preview": "시사"
+        }
+      },
+      "create": {
+        "page_title": "통화 만들기",
+        "breadcrumbs_current": "통화 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_third": "통화",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "통화가 성공적으로 추가되었습니다 👍",
+        "form_title": "통화 만들기"
+      },
+      "edit": {
+        "page_title": "통화 수정",
+        "breadcrumbs_current": "통화 수정",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_third": "통화",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "통화가 성공적으로 업데이트되었습니다 👍",
+        "form_title": "통화 수정"
+      }
+    },
+    "units": {
+      "index": {
+        "page_title": "단위",
+        "breadcrumbs_current": "단위",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_active": "단위"
+      },
+      "create": {
+        "page_title": "유닛 만들기",
+        "breadcrumbs_current": "유닛 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_third": "단위",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "장치가 성공적으로 추가되었습니다 👍",
+        "form_title": "유닛 만들기"
+      },
+      "edit": {
+        "page_title": "단위 편집",
+        "breadcrumbs_current": "단위 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_third": "단위",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "장치가 성공적으로 업데이트되었습니다 👍",
+        "form_title": "단위 편집"
+      }
+    },
+    "permissions": {
+      "common": {
+        "slug": "강타",
+        "slug_placeholder": "슬러그 입력",
+        "guard_name": "경비원 이름",
+        "guard_name_placeholder": "경비원 이름을 입력하세요"
+      },
+      "index": {
+        "page_title": "권한",
+        "breadcrumbs_current": "권한",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_active": "권한"
+      },
+      "create": {
+        "page_title": "권한 생성",
+        "form_title": "권한 생성",
+        "breadcrumbs_current": "권한 생성",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_third": "권한",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "권한이 성공적으로 추가되었습니다 👍"
+      },
+      "edit": {
+        "page_title": "편집 권한",
+        "form_title": "수정 권한",
+        "breadcrumbs_current": "편집 권한",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_third": "권한",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "권한이 성공적으로 업데이트되었습니다 👍"
+      }
+    },
+    "role_and_permission": {
+      "index": {
+        "page_title": "역할 및 권한",
+        "breadcrumbs_current": "역할 및 권한",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_active": "역할 및 권한",
+        "role_name": "역할 이름"
+      },
+      "create": {
+        "page_title": "역할 만들기",
+        "breadcrumbs_current": "역할 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_third": "역할 및 권한",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "역할이 성공적으로 추가되었습니다 👍",
+        "form_title": "역할 만들기",
+        "select_permission": "권한 선택:"
+      },
+      "edit": {
+        "page_title": "역할 편집",
+        "breadcrumbs_current": "역할 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_third": "역할 및 권한",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "역할이 성공적으로 업데이트되었습니다 👍",
+        "form_title": "역할 수정",
+        "update_permission": "업데이트 권한:"
+      }
+    },
+    "vat_rates": {
+      "common": {
+        "rate_in_percent": "비율(%로 계산)",
+        "rate_palceholder": "요율을 입력하세요"
+      },
+      "index": {
+        "page_title": "VAT 요율",
+        "breadcrumbs_current": "VAT 요율",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_active": "VAT 요율",
+        "rate": "비율"
+      },
+      "create": {
+        "page_title": "부가가치세율 생성",
+        "breadcrumbs_current": "부가가치세율 생성",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_third": "VAT 요율",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "VAT 요율이 성공적으로 추가되었습니다 👍",
+        "form_title": "VAT 요율 생성"
+      },
+      "edit": {
+        "page_title": "VAT 요율 편집",
+        "breadcrumbs_current": "VAT 요율 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_third": "부가가치세",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "VAT 요율이 성공적으로 업데이트되었습니다 👍",
+        "form_title": "VAT 요율 수정"
+      }
+    },
+    "brands": {
+      "common": {
+        "brand_name": "상표명",
+        "brand_name_placeholder": "브랜드 이름 입력"
+      },
+      "index": {
+        "page_title": "브랜드",
+        "breadcrumbs_current": "브랜드",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_active": "브랜드",
+        "brand_logo_view": "브랜드 로고 보기"
+      },
+      "create": {
+        "page_title": "브랜드 만들기",
+        "breadcrumbs_current": "브랜드 만들기",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_third": "브랜드",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "브랜드가 성공적으로 추가되었습니다 👍",
+        "form_title": "브랜드 만들기"
+      },
+      "view": {
+        "page_title": "브랜드 세부정보",
+        "breadcrumbs_current": "브랜드 세부정보",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_third": "브랜드",
+        "breadcrumbs_active": "세부"
+      },
+      "edit": {
+        "page_title": "브랜드 편집",
+        "breadcrumbs_current": "브랜드 편집",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_third": "브랜드",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "브랜드가 성공적으로 업데이트되었습니다 👍",
+        "form_title": "브랜드 편집"
+      }
+    },
+    "payment_methods": {
+      "index": {
+        "page_title": "지불 방법",
+        "breadcrumbs_current": "지불 방법",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_active": "지불 방법"
+      },
+      "create": {
+        "page_title": "결제 수단 생성",
+        "breadcrumbs_current": "결제 수단 생성",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_third": "지불 방법",
+        "breadcrumbs_active": "창조하다",
+        "success_msg": "결제 수단이 성공적으로 추가되었습니다 👍",
+        "form_title": "결제 수단 만들기"
+      },
+      "edit": {
+        "page_title": "결제 수단 수정",
+        "breadcrumbs_current": "결제 수단 수정",
+        "breadcrumbs_first": "계기반",
+        "breadcrumbs_second": "설정",
+        "breadcrumbs_third": "지불 방법",
+        "breadcrumbs_active": "편집하다",
+        "success_msg": "결제 수단이 성공적으로 업데이트되었습니다 👍",
+        "form_title": "결제 수단 수정"
+      }
+    }
+  },
+  "user_profile": {
+    "form_title": "프로필 업데이트",
+    "page_title": "프로필 업데이트",
+    "breadcrumbs_current": "프로필 업데이트",
+    "breadcrumbs_first": "계기반",
+    "breadcrumbs_active": "업데이트",
+    "current_password": "현재 비밀번호",
+    "current_password_placeholder": "현재 비밀번호 입력",
+    "new_password": "새 비밀번호",
+    "new_password_placeholder": "새 비밀번호를 입력하십시오",
+    "confirm_password": "비밀번호 확인",
+    "confirm_password_placeholder": "비밀번호 확인 입력",
+    "success_msg": "프로필이 성공적으로 업데이트되었습니다 👍"
+  },
+  "stock_alert": {
+    "page_title": "재고 알리미 상품",
+    "breadcrumbs_current": "재고 알리미 상품",
+    "breadcrumbs_first": "계기반",
+    "breadcrumbs_active": "경고 제품"
+  },
+  "backup": {
+    "page_title": "데이터베이스 백업",
+    "breadcrumbs_current": "데이터베이스 백업",
+    "breadcrumbs_first": "계기반",
+    "breadcrumbs_active": "지원",
+    "export": "내보내다",
+    "format": "체재",
+    "format_sql": "SQL(.sql)",
+    "success_msg": "백업이 성공적으로 다운로드되었습니다 👍"
+  },
+  "permission_denied": {
+    "page_title": "권한 거부됨",
+    "breadcrumbs_current": "권한 거부됨",
+    "breadcrumbs_first": "계기반",
+    "breadcrumbs_active": "권한 거부됨",
+    "error_msg": "이 페이지를 볼 수 있는 권한이 없습니다.",
+    "error_code": "오류 코드:403 금지."
+  },
+  "error_not_found": {
+    "error_404": "404",
+    "error_404_title": "페이지를 찾을 수 없음",
+    "error_404_msg": "죄송합니다. 요청한 URL을 이 서버에서 찾을 수 없습니다. 그게 우리가 아는 전부 야!",
+    "back_to_dashboard": "대시보드로 돌아가기",
+    "back_to_login": "로그인으로 돌아가기"
+  },
+  "sidebar_control": {
+    "customize_acculance": "정확도 사용자 정의",
+    "dark_mode": "다크 모드",
+    "header_options": "헤더 옵션",
+    "fixed": "결정된",
+    "no_border": "국경 없음",
+    "sidebar_options": "사이드바 옵션",
+    "sidebar_dark": "사이드바 어두움",
+    "collapsed": "접힌 사이드바",
+    "sidebar_fixed": "사이드바 고정",
+    "sidebar_mini": "사이드바 미니",
+    "nav_flat_style": "탐색 플랫 스타일",
+    "nav_legacy_style": "탐색 레거시 스타일",
+    "nav_child_indent": "탐색 자식 들여쓰기",
+    "disable_hover": "호버/포커스 자동 확장 비활성화"
+  },
+  "pos": {
+    "page_title": "포스",
+    "breadcrumbs_current": "판매 생성",
+    "breadcrumbs_first": "계기반",
+    "breadcrumbs_second": "인보이스",
+    "breadcrumbs_active": "포스",
+    "available": "사용 가능",
+    "pos": "포스",
+    "complete_order": "구하다",
+    "complete_order_and_add_payment": "저장 및 결제",
+    "add_payment": "결제 추가",
+    "invoice_receipt": "인보이스 영수증",
+    "not_enough_items": "아이템이 부족해!",
+    "receipt_text": "쇼핑해 주셔서 감사합니다. 또 오세요!"
+  },
+  "csv": {
+    "title": "CSV 파일 업로드",
+    "success": "성공",
+    "import_success": "CSV 파일을 성공적으로 가져왔습니다!",
+    "instructions": "지침",
+    "download_zip": "zip 폴더를 다운로드합니다.",
+    "populate_information": "제품 정보로 products.csv를 채우십시오.",
+    "corresponding_CSV": "제품과 관련된 ID를 해당 CSV 파일로 가져올 수 있습니다.",
+    "example": "예: sub-categories.csv의 sub_cat_id"
+  },
+  "Create Client": "클라이언트 만들기",
+  "Cancel": "취소",
+  "Create Product": "제품 만들기",
+  "Create Supplier": "공급자 생성",
+  "Generate barcode with price": "가격이 포함된 바코드 생성",
+  "Price": "가격",
+  "TAX": "세"
+}

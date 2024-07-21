@@ -1,0 +1,2282 @@
+{
+  "ok": "យល់ព្រម",
+  "cancel": "បោះបង់",
+  "error_alert_title": "អូ៎...",
+  "error_alert_text": "មាន​អ្វីមួយ​មិន​ប្រក្រតី! សូម​ព្យាយាម​ម្តង​ទៀត។",
+  "token_expired_alert_title": "សម័យកាល​បាន​ផុតកំណត់!",
+  "token_expired_alert_text": "សូមចូលម្តងទៀតដើម្បីបន្ត។",
+  "login": "ចូល",
+  "register": "ចុះឈ្មោះ",
+  "page_not_found": "រកមិនឃើញទំព័រ",
+  "go_home": "ទៅផ្ទះ",
+  "logout": "ចាកចេញ",
+  "email": "អ៊ីមែល",
+  "remember_me": "ចងចាំខ្ញុំ",
+  "password": "ពាក្យសម្ងាត់",
+  "forgot_password": "ភ្លេចពាក្យសម្ងាត់របស់អ្នក?",
+  "confirm_password": "បញ្ជាក់ពាក្យសម្ងាត់",
+  "Name": "ឈ្មោះ",
+  "toggle_navigation": "បិទបើកការរុករក",
+  "home": "ផ្ទះ",
+  "you_are_logged_in": "អ្នកបានចូលហើយ!",
+  "reset_password": "កំណត់ពាក្យសម្ងាត់ឡើងវិញ",
+  "send_password_reset_link": "ផ្ញើតំណ",
+  "settings": "ការកំណត់",
+  "profile": "ប្រវត្តិរូប",
+  "your_info": "ព័ត៌មានរបស់អ្នក។",
+  "info_updated": "ព័ត៌មានរបស់អ្នកត្រូវបានធ្វើបច្ចុប្បន្នភាព!",
+  "update": "ធ្វើបច្ចុប្បន្នភាព",
+  "your_password": "លេខសំងាត់​របស់​អ្នក",
+  "password_updated": "ពាក្យសម្ងាត់របស់អ្នកត្រូវបានធ្វើបច្ចុប្បន្នភាព!",
+  "new_password": "ពាក្យសម្ងាត់​ថ្មី",
+  "login_with": "ចូល​ជា​មួយ​នឹង",
+  "register_with": "ចុះឈ្មោះជាមួយ",
+  "verify_email": "ផ្ទៀងផ្ទាត់អ៊ីមែល",
+  "send_verification_link": "ផ្ញើតំណផ្ទៀងផ្ទាត់",
+  "resend_verification_link": "ផ្ញើតំណផ្ទៀងផ្ទាត់ឡើងវិញ?",
+  "failed_to_verify_email": "បរាជ័យក្នុងការផ្ទៀងផ្ទាត់អ៊ីមែល។",
+  "verify_email_address": "យើងបានផ្ញើអ៊ីមែលទៅអ្នកជាមួយនឹងតំណផ្ទៀងផ្ទាត់។",
+  "reset_email_text": "សូមបញ្ចូលអ៊ីមែលរបស់អ្នកដើម្បីទទួលបានតំណកំណត់ពាក្យសម្ងាត់ឡើងវិញ!",
+  "sorry": "សុំទោស",
+  "no_data_found": "រកមិនឃើញទិន្នន័យទេ។",
+  "login_txt": "សូមចូលដើម្បីបន្តវគ្គរបស់អ្នក!",
+  "email_placeholder": "សូម​ប​ញ្ជូ​ល​អាសយដ្ឋាន​អ៊ី​ម៊ែ​ល​របស់​អ្នក",
+  "password_placeholder": "បញ្ចូលពាក្យសម្ងាត់របស់អ្នក។",
+  "developed_by": "បាន​បង្កើត​ឡើង​ដោយ",
+  "per_page": "ក្នុងមួយទំព័រ",
+  "available": "មាន",
+  "download": "ទាញយក",
+  "demo_file": "ឯកសារ CSV សាកល្បង",
+  "common": {
+    "to": "ទៅ",
+    "from": "ពី",
+    "s_no": "#",
+    "more_info": "ព័​ត៍​មាន​បន្ថែម",
+    "name": "ឈ្មោះ",
+    "name_placeholder": "បញ្ចូលឈ្មោះ",
+    "password": "ពាក្យសម្ងាត់",
+    "password_placeholder": "បញ្ចូលពាក្យសម្ងាត់របស់អ្នក។",
+    "code": "កូដ",
+    "code_placeholder": "បញ្ចូលលេខកូដ",
+    "product_name": "ឈ្មោះ​ផលិតផល",
+    "product_name_placeholder": "ជ្រើសរើសផលិតផលមួយ។",
+    "sub_category_code": "លេខកូដប្រភេទរង",
+    "sub_category": "ប្រភេទរង",
+    "sub_category_name": "ឈ្មោះប្រភេទរង",
+    "category": "ប្រភេទ",
+    "category_name": "ឈ្មោះប្រភេទ",
+    "category_name_placeholder": "ជ្រើសរើសប្រភេទមួយ។",
+    "account": "គណនី",
+    "account_placeholder": "ជ្រើសរើសគណនីមួយ។",
+    "available_balance": "សមតុល្យដែលមាន",
+    "amount": "ចំនួនទឹកប្រាក់",
+    "amount_placeholder": "បញ្ចូលចំនួនទឹកប្រាក់",
+    "cheque_no": "ពិនិត្យលេខ",
+    "cheque_placeholder": "បញ្ចូលលេខពិនិត្យ",
+    "voucher_no": "លេខប័ណ្ណ",
+    "voucher_placeholder": "បញ្ចូលលេខប័ណ្ណ",
+    "receipt_no": "លេខបង្កាន់ដៃ",
+    "receipt_no_placeholder": "បញ្ចូលលេខបង្កាន់ដៃ",
+    "date": "កាលបរិច្ឆេទ",
+    "note": "ចំណាំ",
+    "created_by": "បង្កើត​ឡើង​ដោយ",
+    "choose_file": "ជ្រើសរើស​ឯកសារ",
+    "image_alt": "រូបភាពដែលភ្ជាប់មកជាមួយ",
+    "note_placeholder": "សរសេរកំណត់ចំណាំរបស់អ្នកនៅទីនេះ!",
+    "status": "ស្ថានភាព",
+    "action": "សកម្មភាព",
+    "active": "សកម្ម",
+    "in_active": "អសកម្ម",
+    "expired": "ផុតកំណត់",
+    "email": "អ៊ីមែល",
+    "email_placeholder": "សូម​ប​ញ្ជូ​ល​អាសយដ្ឋាន​អ៊ី​ម៊ែ​ល​របស់​អ្នក",
+    "phone": "ទូរស័ព្ទ",
+    "address": "អាស័យដ្ឋាន",
+    "address_placeholder": "បញ្ចូលអាសយដ្ឋាន",
+    "modal_header": "ការមើលរូបភាពដែលបានភ្ជាប់",
+    "modal_body": "រាងកាយលំនាំដើម",
+    "export_table": "តារាងនាំចេញ",
+    "print_table": "តារាងបោះពុម្ព",
+    "delete_title": "តើ​អ្នក​ប្រាកដ​ឬ​អត់?",
+    "delete_confirm_text": "តើ​អ្នក​ប្រាកដ​ឬ​អត់?",
+    "deleted": "លុបហើយ!",
+    "delete_success": "បានលុបដោយជោគជ័យ។",
+    "failed": "បរាជ័យ!",
+    "delete_failed": "មាន​អ្វី​មួយ​ខុស។",
+    "error_msg": "អុញ... មានអ្វីមួយខុសប្រក្រតី 😔",
+    "image_error": "សូមជ្រើសរើសរូបភាពតូចដែលមានសុពលភាពដែលមានទំហំតិចជាង 2 MB",
+    "close": "បិទ",
+    "search": "ស្វែងរក...",
+    "create": "បង្កើត",
+    "view": "មើល",
+    "edit": "កែសម្រួល",
+    "delete": "លុប",
+    "image": "រូបភាព",
+    "preview": "មើលជាមុន",
+    "no_preview": "គ្មានការមើលជាមុនទេ។",
+    "save": "រក្សាទុក",
+    "save_changes": "រក្សាទុកការផ្លាស់ប្តូរ",
+    "back": "ត្រឡប់មកវិញ",
+    "print": "បោះពុម្ព",
+    "reset": "កំណត់ឡើងវិញ",
+    "supplier": "អ្នកផ្គត់ផ្គង់",
+    "supplier_placeholder": "ជ្រើសរើសអ្នកផ្គត់ផ្គង់",
+    "products": "ផលិតផល",
+    "select_products": "ជ្រើសរើសផលិតផល",
+    "select_products_placeholder": "ស្វែងរកផលិតផល",
+    "reference": "ឯកសារយោង",
+    "reference_placeholder": "បញ្ចូលឯកសារយោង",
+    "quantity": "បរិមាណ",
+    "purchase_price": "តម្លៃ​ទិញ",
+    "unit_price": "តម្លៃ​ឯកតា",
+    "unit_cost": "តម្លៃឯកតា",
+    "unit_tax": "ពន្ធឯកតា",
+    "tax": "ពន្ធ",
+    "subtotal": "សរុបរង",
+    "return_subtotal": "ត្រឡប់​សរុប​រង",
+    "new_subtotal": "សរុបរងថ្មី។",
+    "return_amount": "ចំនួនទឹកប្រាក់ត្រឡប់មកវិញ",
+    "return_cost": "ថ្លៃដើមនៃផលិតផលត្រឡប់មកវិញ",
+    "total": "សរុប",
+    "net_total": "សរុបសុទ្ធ",
+    "due": "ដល់កំណត់",
+    "transport": "ការដឹកជញ្ជូន",
+    "add_payment": "បន្ថែមការទូទាត់?",
+    "add_payment_placeholder": "ជ្រើសរើសជម្រើសមួយ។",
+    "yes": "បាទ",
+    "no": "ទេ",
+    "paid": "បង់",
+    "total_paid": "សរុបដែលបានបង់",
+    "paid_amount": "ចំនួនទឹកប្រាក់ដែលបានបង់",
+    "paid_amount_placeholder": "បញ្ចូលចំនួនទឹកប្រាក់",
+    "total_due": "សរុប​មក",
+    "account_receivable": "គណនីទទួល",
+    "account_payable": "គណនីដែលត្រូវបង់",
+    "total_price": "តម្លៃ​សរុប",
+    "return_price": "តម្លៃត្រឡប់មកវិញ",
+    "price": "តម្លៃ",
+    "total_return": "សរុបមកវិញ",
+    "discount": "បញ្ចុះតម្លៃ",
+    "discount_placeholder": "បញ្ចូលការបញ្ចុះតម្លៃ",
+    "supplier_details": "ព័ត៌មានលម្អិតអំពីអ្នកផ្គត់ផ្គង់",
+    "client_details": "ព័ត៌មានលម្អិតអតិថិជន",
+    "supplier_id": "លេខសម្គាល់អ្នកផ្គត់ផ្គង់",
+    "client_id": "លេខសម្គាល់អតិថិជន",
+    "client_name": "ឈ្មោះអតិថិជន",
+    "supplier_name": "ឈ្មោះ​ក្រុមហ៊ុន​ផ្គត់ផ្គង់",
+    "company_name": "ឈ្មោះ​ក្រុម​ហ៊ុន",
+    "company_name_placeholder": "បញ្ចូលឈ្មោះក្រុមហ៊ុន",
+    "contact_number": "លេខ​ទំនាក់​ទំនង",
+    "contact_number_placeholder": "បញ្ចូលលេខទំនាក់ទំនង",
+    "payment_history": "ប្រវត្តិការទូទាត់",
+    "payment_date": "កាលបរិច្ឆេទទូទាត់",
+    "empty_payment": "មិនទាន់មានការទូទាត់នៅឡើយទេ!",
+    "empty_payment_msg": "អ្នកមិនទាន់បានបន្ថែមការបង់ប្រាក់សម្រាប់ការទិញនេះទេ។ បន្ទាប់ពីបន្ថែមការទូទាត់ អ្នកនឹងឃើញបញ្ជីនៅទីនេះ។",
+    "purchases": "ការទិញ",
+    "purchases_placeholder": "ជ្រើសរើសការទិញ",
+    "total_tax": "ពន្ធសរុប",
+    "invoice_tax": "វិក័យប័ត្រពន្ធ",
+    "transport_cost": "ថ្លៃដឹកជញ្ជូន",
+    "transport_cost_placeholder": "បញ្ចូលថ្លៃដឹកជញ្ជូន",
+    "total_discount": "ការបញ្ចុះតម្លៃសរុប",
+    "discount_type": "ប្រភេទបញ្ចុះតម្លៃ",
+    "fixed": "ជួសជុល",
+    "percentage": "ភាគរយ",
+    "client": "អតិថិជន",
+    "client_placeholder": "ជ្រើសរើសអតិថិជន",
+    "payment_terms": "ល័ក្ខខ័ណ្ឌ​ទូទាត់",
+    "payment_terms_placeholder": "បញ្ចូលលក្ខខណ្ឌបង់ប្រាក់",
+    "po_reference": "ឯកសារយោង PO",
+    "po_reference_placeholder": "បញ្ចូលឯកសារយោង PO",
+    "invoice_qty": "វិក្កយបត្រ Qty",
+    "current_qty": "Qty បច្ចុប្បន្ន",
+    "return_qty": "ត្រឡប់ Qty",
+    "invoices": "វិក្កយបត្រ",
+    "invoices_placeholder": "ជ្រើសរើសវិក្កយបត្រ",
+    "return_reason": "ហេតុផលត្រឡប់មកវិញ",
+    "return_reason_placeholder": "បញ្ចូលហេតុផល",
+    "invoice_due": "វិក័យប័ត្រដល់កំណត់",
+    "non_invoice_due": "មិនមែនវិក័យប័ត្រពីរទេ។",
+    "invoice_date": "កាលបរិច្ឆេទវិក្កយបត្រ",
+    "invoice_no": "លេខ​វិ​ក័​យ​ប័ត្រ",
+    "invoice_return_no": "លេខត្រឡប់វិក័យប័ត្រ",
+    "return_no": "លេខត្រឡប់",
+    "return_products": "ត្រឡប់ផលិតផល",
+    "insufficient_stock": "ស្តុកមិនគ្រប់គ្រាន់",
+    "invoice_products": "ផលិតផលវិក្កយបត្រ",
+    "created_at": "បានបង្កើតនៅ",
+    "reason": "ហេតុផល",
+    "type": "ប្រភេទ",
+    "credit": "ឥណទាន",
+    "debit": "ឥណពន្ធ",
+    "payment_type": "ប្រភេទការទូទាត់",
+    "invoice_total": "វិក្កយបត្រសរុប",
+    "invoice_details": "ព័ត៌មានលម្អិតអំពីវិក្កយបត្រ",
+    "payment_details": "ព័ត៌មានលម្អិតអំពីការទូទាត់",
+    "ref_no": "យោង ទេ",
+    "reference_no": "លេខយោង",
+    "payable": "បង់រំលោះ",
+    "interest": "ការប្រាក់",
+    "installment": "ការដំឡើង",
+    "error": "កំហុស!",
+    "per": "ក្នុងមួយ",
+    "day": "ថ្ងៃ",
+    "month": "ខែ",
+    "year": "ឆ្នាំ",
+    "daily": "ប្រចាំថ្ងៃ",
+    "monthly": "ប្រចាំខែ",
+    "yearly": "ប្រចាំឆ្នាំ",
+    "employee": "និយោជិត",
+    "employee_placeholder": "ជ្រើសរើសបុគ្គលិក",
+    "designation": "ការកំណត់",
+    "designation_placeholder": "បញ្ចូល​ការ​កំណត់",
+    "emp_name": "ឈ្មោះ Emp",
+    "emp_id": "លេខសម្គាល់ Emp",
+    "employee_details": "ព័ត៌មានលម្អិតអំពីបុគ្គលិក",
+    "department": "នាយកដ្ឋាន",
+    "department_placeholder": "នាយកដ្ឋាន",
+    "balance": "តុល្យភាព",
+    "salary": "ប្រាក់ខែ",
+    "salary_placeholder": "បញ្ចូលប្រាក់ខែ",
+    "profile_picture": "រូបភាពប្រវត្តិរូប",
+    "role": "តួនាទី",
+    "role_placeholder": "ជ្រើសរើសតួនាទីមួយ។",
+    "unit": "ឯកតា",
+    "unit_placeholder": "ជ្រើសរើសឯកតា",
+    "brand": "ម៉ាក",
+    "brand_placeholder": "ជ្រើសរើសម៉ាក",
+    "item_code": "លេខកូដធាតុ",
+    "item_code_placeholder": "បញ្ចូលលេខកូដធាតុ",
+    "item_model": "ម៉ូដែលធាតុ",
+    "item_model_placeholder": "បញ្ចូលគំរូ",
+    "item_name": "ឈ្មោះ​ធាតុ",
+    "item_name_placeholder": "បញ្ចូលឈ្មោះ",
+    "rendering_fails": "ការ​បង្ហាញ​បរាជ័យ។",
+    "product": "ផលិតផល",
+    "transactions": "ប្រតិបត្តិការ",
+    "empty_table": "សុំទោស 😔 រកមិនឃើញទិន្នន័យទេ។",
+    "stock_alert_msg": "ស្តុកមានតិចជាងការជូនដំណឹង qty!",
+    "stock_notification": "ការជូនដំណឹងអំពីបរិមាណផលិតផល",
+    "stock_notification_empty": "មិនមានការជូនដំណឹងទេ។",
+    "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+    "add_balance": "បន្ថែមតុល្យភាព",
+    "remove_balance": "លុបសមតុល្យ",
+    "qty": "ចំនួន",
+    "item": "ធាតុ",
+    "sold_by": "លក់​ដោយ"
+  },
+  "topbar": {
+    "new_invoice": "វិក្កយបត្រថ្មី។",
+    "new_expense": "ការចំណាយថ្មី។",
+    "new_purchase": "ការទិញថ្មី។",
+    "new_quotation": "សម្រង់ថ្មី។",
+    "profile": "ប្រវត្តិរូប",
+    "setup": "រៀបចំ",
+    "logout": "ចាកចេញ"
+  },
+  "sidebar": {
+    "dashboard": "ផ្ទាំងគ្រប់គ្រង",
+    "activities": "សកម្មភាព",
+    "expenses": "ការចំណាយ",
+    "categories": "ប្រភេទ",
+    "sub_categories": "ប្រភេទរង",
+    "expenses_list": "បញ្ជីចំណាយ",
+    "purchases": "ការទិញ",
+    "purchases_list": "បញ្ជីទិញ",
+    "returns_list": "បញ្ជីត្រឡប់",
+    "sales": "ការលក់",
+    "quotations_list": "បញ្ជីសម្រង់",
+    "invoices_list": "បញ្ជីវិក្កយបត្រ",
+    "accounting": "គណនេយ្យ",
+    "cashbook": "សៀវភៅសាច់ប្រាក់",
+    "accounts": "គណនី",
+    "balance_adjustments": "ការកែតម្រូវតុល្យភាព",
+    "balance_transfers": "ការផ្ទេរសមតុល្យ",
+    "transaction_history": "ប្រវត្តិប្រតិបត្តិការ",
+    "payments": "ការទូទាត់",
+    "suppliers": "អ្នកផ្គត់ផ្គង់",
+    "non_purchase": "ការមិនទិញ",
+    "purchase": "ទិញ",
+    "clients": "អតិថិជន",
+    "non_invoice": "វិក្កយបត្រ",
+    "invoice": "វិក្កយបត្រ",
+    "loan_management": "ការគ្រប់គ្រងប្រាក់កម្ចី",
+    "authorities": "អាជ្ញាធរ",
+    "loans": "ប្រាក់កម្ចី",
+    "asset_management": "ការគ្រប់គ្រង​ទ្រព្យសម្បត្តិ",
+    "types": "ប្រភេទ",
+    "assets": "ទ្រព្យសកម្ម",
+    "payroll": "ប្រាក់បៀវត្សរ៍",
+    "people": "មនុស្ស",
+    "employees_list": "បញ្ជីបុគ្គលិក",
+    "employees": "បុគ្គលិក",
+    "departments": "នាយកដ្ឋាន",
+    "increments": "ការកើនឡើង",
+    "product": "ផលិតផល",
+    "products": "ផលិតផល",
+    "products_list": "បញ្ជីផលិតផល",
+    "barcode": "បាកូដ",
+    "inventory_uppercase": "សារពើភ័ណ្ឌ",
+    "inventory": "សារពើភ័ណ្ឌ",
+    "view_inventory": "មើលសារពើភ័ណ្ឌ",
+    "inventory_adjustment": "ការកែតម្រូវសារពើភ័ណ្ឌ",
+    "reports": "របាយការណ៍",
+    "balance_sheet": "តារាងតុល្យការ",
+    "summary_report": "របាយការណ៍សង្ខេប",
+    "profit_loss_report": "របាយការណ៍ប្រាក់ចំណេញ/ការបាត់បង់",
+    "expense_report": "របាយការណ៍ចំណាយ",
+    "product_report": "របាយការណ៍ធាតុ",
+    "inventory_report": "របាយការណ៍សារពើភ័ណ្ឌ",
+    "account": "គណនី",
+    "account_sm": "គណនី",
+    "setup": "រៀបចំ",
+    "database_backup": "ការបម្រុងទុកមូលដ្ឋានទិន្នន័យ",
+    "profile": "ប្រវត្តិរូប",
+    "logout": "ចាកចេញ"
+  },
+  "dashboard": {
+    "stock_alert": "ការជូនដំណឹងអំពីភាគហ៊ុន",
+    "recent_activities": "សកម្មភាពថ្មីៗ",
+    "page_title": "ផ្ទាំងគ្រប់គ្រង",
+    "breadcrumbs_current": "ផ្ទាំងគ្រប់គ្រង",
+    "breadcrumbs_active": "ផ្ទាំងគ្រប់គ្រង",
+    "bar_chart_title": "ការលក់ធៀបនឹងការទិញ",
+    "bar_chart_tooltip": "ការលក់ និងការទិញប្រចាំខែបន្ទាប់ពីការកាត់ថ្លៃដើមនៃផលិតផលត្រឡប់មកវិញ។",
+    "pie_chart_title": "ផលិតផលលក់ដាច់ជាងគេ",
+    "line_chart_title": "ការទូទាត់ដែលបានផ្ញើធៀបនឹងការទូទាត់ដែលបានទទួល",
+    "line_chart_tooltip": "ការទូទាត់ដែលបានផ្ញើ = ការទូទាត់របស់អ្នកផ្គត់ផ្គង់ + ការទូទាត់ប្រាក់កម្ចី<br/> ការទូទាត់បានទទួល = ការទូទាត់របស់អតិថិជន + ប្រាក់កម្ចីទទួលបាន",
+    "top_clients_title": "អតិថិជនកំពូលទាំង 5",
+    "summary": "សង្ខេប",
+    "summary_option_1": "ថ្ងៃនេះ",
+    "summary_option_2": "7 ថ្ងៃចុងក្រោយ",
+    "summary_option_3": "ខែ​នេះ",
+    "summary_option_4": "ឆ្នាំ​នេះ",
+    "summery_items": {
+      "purchase": "ទិញ",
+      "purchase_return": "ការទិញត្រឡប់មកវិញ",
+      "sales": "ការលក់",
+      "sales_return": "ការលក់ត្រឡប់មកវិញ",
+      "payment_recevied": "ការទូទាត់របស់អតិថិជន",
+      "payment_sent": "ការទូទាត់របស់អ្នកផ្គត់ផ្គង់",
+      "expense": "ចំណាយ",
+      "balance_transfers": "ការផ្ទេរសមតុល្យ"
+    }
+  },
+  "expenses": {
+    "categories": {
+      "index": {
+        "page_title": "ប្រភេទចំណាយ",
+        "breadcrumbs_current": "ប្រភេទចំណាយ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការចំណាយ",
+        "breadcrumbs_active": "ប្រភេទ",
+        "delete_warning": "ប្រភេទរងទាំងអស់សម្រាប់ប្រភេទនេះនឹងត្រូវបានលុប!"
+      },
+      "create": {
+        "page_title": "បង្កើតប្រភេទចំណាយ",
+        "form_title": "បង្កើតប្រភេទចំណាយ",
+        "breadcrumbs_current": "បង្កើតប្រភេទចំណាយ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ប្រភេទ",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "បានបន្ថែមប្រភេទដោយជោគជ័យ👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួល​ប្រភេទ​ចំណាយ",
+        "form_title": "កែសម្រួលប្រភេទ",
+        "breadcrumbs_current": "កែសម្រួល​ប្រភេទ​ចំណាយ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ប្រភេទ",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "បានធ្វើបច្ចុប្បន្នភាពប្រភេទដោយជោគជ័យ 👍"
+      }
+    },
+    "sub_categories": {
+      "index": {
+        "page_title": "ប្រភេទរងចំណាយ",
+        "breadcrumbs_current": "ប្រភេទរងចំណាយ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការចំណាយ",
+        "breadcrumbs_active": "ប្រភេទរង",
+        "delete_warning": "រាល់ការចំណាយសម្រាប់ប្រភេទនេះនឹងត្រូវបានលុប!"
+      },
+      "create": {
+        "page_title": "បង្កើតប្រភេទរងចំណាយ",
+        "form_title": "បង្កើតប្រភេទរងចំណាយ",
+        "breadcrumbs_current": "បង្កើតប្រភេទរងចំណាយ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ប្រភេទរង",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "បានបន្ថែមប្រភេទរងដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលប្រភេទរងចំណាយ",
+        "form_title": "កែសម្រួលប្រភេទរងចំណាយ",
+        "breadcrumbs_current": "កែសម្រួលប្រភេទរងចំណាយ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ប្រភេទរង",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ប្រភេទរងត្រូវបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ 👍"
+      }
+    },
+    "list": {
+      "common": {
+        "expense_reason": "ហេតុផលចំណាយ",
+        "expense_reason_placeholder": "បញ្ចូលហេតុផល"
+      },
+      "index": {
+        "page_title": "ការចំណាយ",
+        "breadcrumbs_current": "ការចំណាយ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការចំណាយ",
+        "breadcrumbs_active": "",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!"
+      },
+      "create": {
+        "page_title": "បង្កើតការចំណាយ",
+        "form_title": "បង្កើតការចំណាយ",
+        "breadcrumbs_current": "បង្កើតការចំណាយ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការចំណាយ",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "ចំណាយបន្ថែមដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលការចំណាយ",
+        "form_title": "កែសម្រួលការចំណាយ",
+        "breadcrumbs_current": "កែសម្រួលការចំណាយ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការចំណាយ",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ធ្វើបច្ចុប្បន្នភាពការចំណាយដោយជោគជ័យ 👍"
+      },
+      "view": {
+        "page_title": "ព័ត៌មានលម្អិតអំពីការចំណាយ",
+        "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីការចំណាយ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការចំណាយ",
+        "breadcrumbs_active": "ព័ត៌មានលម្អិត",
+        "expense_details": "ព័ត៌មានលម្អិតអំពីការចំណាយ"
+      }
+    }
+  },
+  "purchases": {
+    "list": {
+      "common": {
+        "po_reference": "ឯកសារយោង PO",
+        "po_reference_placeholder": "បញ្ចូលឯកសារយោង PO",
+        "payment_terms": "ល័ក្ខខ័ណ្ឌ​ទូទាត់",
+        "payment_terms_placeholder": "បញ្ចូលលក្ខខណ្ឌបង់ប្រាក់",
+        "purchase_tax": "ពន្ធលើការទិញ",
+        "purchase_total": "ការទិញសរុប",
+        "purchase_subtotal": "ការទិញសរុបរង",
+        "purchase_tax_placeholder": "ជ្រើសរើសប្រភេទពន្ធ",
+        "total_tax": "ពន្ធសរុប",
+        "discount": "បញ្ចុះតម្លៃ",
+        "discount_placeholder": "បញ្ចូលការបញ្ចុះតម្លៃ",
+        "transport_cost": "ថ្លៃដឹកជញ្ជូន",
+        "transport_cost_placeholder": "បញ្ចូលថ្លៃដឹកជញ្ជូន",
+        "purchase_date": "កាលបរិច្ឆេទទិញ",
+        "po_date": "កាលបរិច្ឆេទ PO",
+        "purchased_qty": "បានទិញ Qty",
+        "returned_qty": "បាន​ត្រឡប់ Qty",
+        "current_qty": "Qty បច្ចុប្បន្ន",
+        "purchase_no": "លេខទិញ",
+        "return_no": "លេខត្រឡប់",
+        "purchase_no_placeholder": "បញ្ចូលលេខទិញ",
+        "purchase_products": "ទិញផលិតផល",
+        "purchase_due": "ទិញដល់កំណត់"
+      },
+      "index": {
+        "page_title": "ការទិញ",
+        "breadcrumbs_current": "ការទិញ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការទិញ",
+        "breadcrumbs_active": "ការទិញ",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!"
+      },
+      "create": {
+        "page_title": "បង្កើតការទិញ",
+        "form_title": "បង្កើតការទិញ",
+        "breadcrumbs_current": "បង្កើតការទិញ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការទិញ",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "បន្ថែមការទិញដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលការទិញ",
+        "form_title": "កែសម្រួលការទិញ",
+        "breadcrumbs_current": "កែសម្រួលការទិញ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការទិញ",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ធ្វើបច្ចុប្បន្នភាពការទិញដោយជោគជ័យ 👍"
+      },
+      "view": {
+        "page_title": "ព័ត៌មានលម្អិតអំពីការទិញ",
+        "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីការទិញ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការទិញ",
+        "breadcrumbs_active": "ព័ត៌មានលម្អិត"
+      }
+    },
+    "returns": {
+      "common": {
+        "return_reason": "ហេតុផលត្រឡប់មកវិញ",
+        "return_reason_placeholder": "បញ្ចូលហេតុផល",
+        "return_date": "កាលបរិច្ឆេទត្រឡប់មកវិញ",
+        "purchase_return_no": "លេខត្រឡប់ទិញ",
+        "return_products": "ត្រឡប់ផលិតផល"
+      },
+      "index": {
+        "page_title": "ការទិញត្រឡប់មកវិញ",
+        "breadcrumbs_current": "ការទិញត្រឡប់មកវិញ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការទិញ",
+        "breadcrumbs_active": "ការទិញត្រឡប់មកវិញ",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!"
+      },
+      "create": {
+        "page_title": "បង្កើតការទិញត្រឡប់មកវិញ",
+        "form_title": "បង្កើតការទិញត្រឡប់មកវិញ",
+        "breadcrumbs_current": "បង្កើតការទិញត្រឡប់មកវិញ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការទិញត្រឡប់មកវិញ",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "ការទិញត្រឡប់មកវិញបានបន្ថែមដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលការទិញត្រឡប់មកវិញ",
+        "form_title": "កែសម្រួលការទិញត្រឡប់មកវិញ",
+        "breadcrumbs_current": "កែសម្រួលការទិញត្រឡប់មកវិញ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការទិញត្រឡប់មកវិញ",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ធ្វើបច្ចុប្បន្នភាពការទិញត្រឡប់មកវិញដោយជោគជ័យ 👍"
+      },
+      "view": {
+        "page_title": "ព័ត៌មានលម្អិតអំពីការទិញត្រឡប់មកវិញ",
+        "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីការទិញត្រឡប់មកវិញ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការទិញត្រឡប់មកវិញ",
+        "breadcrumbs_active": "ព័ត៌មានលម្អិត"
+      }
+    }
+  },
+  "sales": {
+    "common": {
+      "quotation_no": "សម្រង់លេខ",
+      "quotation_date": "កាលបរិច្ឆេទសម្រង់",
+      "delivery_place": "កន្លែងដឹកជញ្ជូន",
+      "delivery_place_placeholder": "បញ្ចូលកន្លែងចែកចាយ",
+      "quotation_tax": "ពន្ធសម្រង់",
+      "quotation_tax_placeholder": "ជ្រើសរើសប្រភេទពន្ធ",
+      "return_date": "កាលបរិច្ឆេទត្រឡប់មកវិញ",
+      "new_due": "ផុតកំណត់ថ្មី។",
+      "client_advance": "អតិថិជនជាមុន",
+      "invoice_total": "វិក្កយបត្រសរុប",
+      "before_return": "មុនពេលត្រឡប់មកវិញ",
+      "invoice_return": "ត្រឡប់វិក័យប័ត្រ",
+      "invoice_tax": "វិក័យប័ត្រពន្ធ",
+      "invoice_tax_placeholder": "ជ្រើសរើសប្រភេទពន្ធ"
+    },
+    "quotations": {
+      "index": {
+        "page_title": "សម្រង់",
+        "create_invoice": "បង្កើតវិក្កយបត្រ",
+        "breadcrumbs_current": "សម្រង់",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សម្រង់",
+        "breadcrumbs_active": "",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+        "delete_failed": "សូមអភ័យទោស អ្នកមិនអាចលុបសម្រង់នេះបានទេ!"
+      },
+      "create": {
+        "page_title": "បង្កើតសម្រង់",
+        "form_title": "បង្កើតសម្រង់",
+        "breadcrumbs_current": "បង្កើតសម្រង់",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សម្រង់",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "សម្រង់បន្ថែមដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលសម្រង់",
+        "form_title": "កែសម្រួល​សម្រង់",
+        "breadcrumbs_current": "កែសម្រួលសម្រង់",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សម្រង់",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "បានធ្វើបច្ចុប្បន្នភាពសម្រង់ដោយជោគជ័យ 👍"
+      },
+      "view": {
+        "page_title": "ព័ត៌មានលម្អិតអំពីសម្រង់",
+        "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីសម្រង់",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សម្រង់",
+        "breadcrumbs_active": "ព័ត៌មានលម្អិត",
+        "expense_details": "ព័ត៌មានលម្អិតអំពីការចំណាយ"
+      },
+      "invoice": {
+        "page_title": "សម្រង់ទៅវិក័យប័ត្រ",
+        "form_title": "បង្កើតសម្រង់ទៅវិក្កយបត្រ",
+        "breadcrumbs_current": "សម្រង់ទៅវិក័យប័ត្រ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សម្រង់",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "👍បង្កើតវិក្កយបត្រដោយជោគជ័យ"
+      }
+    },
+    "invoices": {
+      "index": {
+        "page_title": "វិក្កយបត្រ",
+        "breadcrumbs_current": "វិក្កយបត្រ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការលក់",
+        "breadcrumbs_active": "វិក្កយបត្រ",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+        "delete_failed": "សូមអភ័យទោស អ្នកមិនអាចលុបវិក្កយបត្រនេះបានទេ!"
+      },
+      "create": {
+        "page_title": "បង្កើតវិក្កយបត្រ",
+        "form_title": "បង្កើតវិក្កយបត្រ",
+        "breadcrumbs_current": "បង្កើតវិក្កយបត្រ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "វិក្កយបត្រ",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "បានបញ្ចូលវិក្កយបត្រដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលវិក្កយបត្រ",
+        "form_title": "កែសម្រួលវិក្កយបត្រ",
+        "breadcrumbs_current": "កែសម្រួលវិក្កយបត្រ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "វិក្កយបត្រ",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ធ្វើបច្ចុប្បន្នភាពវិក្កយបត្រដោយជោគជ័យ 👍"
+      },
+      "view": {
+        "page_title": "ព័ត៌មានលម្អិតអំពីវិក្កយបត្រ",
+        "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីវិក្កយបត្រ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "វិក្កយបត្រ",
+        "breadcrumbs_active": "ព័ត៌មានលម្អិត",
+        "invoice_details": "ព័ត៌មានលម្អិតអំពីវិក្កយបត្រ"
+      }
+    },
+    "returns": {
+      "index": {
+        "page_title": "ត្រឡប់វិក័យប័ត្រ",
+        "breadcrumbs_current": "ត្រឡប់វិក័យប័ត្រ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "វិក្កយបត្រ",
+        "breadcrumbs_active": "ត្រឡប់វិក័យប័ត្រ",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+        "delete_failed": "មាន​អ្វី​មួយ​ខុស។"
+      },
+      "create": {
+        "page_title": "បង្កើតវិក្កយបត្រត្រឡប់",
+        "form_title": "បង្កើតវិក្កយបត្រត្រឡប់មកវិញ",
+        "breadcrumbs_current": "បង្កើតវិក្កយបត្រត្រឡប់",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ត្រឡប់វិក័យប័ត្រ",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "បញ្ចូលវិក្កយបត្រត្រឡប់មកវិញដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលវិក្កយបត្រត្រឡប់",
+        "form_title": "កែសម្រួលវិក្កយបត្រត្រឡប់មកវិញ",
+        "breadcrumbs_current": "កែសម្រួលវិក្កយបត្រត្រឡប់",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ត្រឡប់វិក័យប័ត្រ",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ធ្វើបច្ចុប្បន្នភាពវិក្កយបត្រត្រឡប់ដោយជោគជ័យ 👍"
+      },
+      "view": {
+        "page_title": "ព័ត៌មានលម្អិតអំពីវិក្កយបត្រ",
+        "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីវិក្កយបត្រ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ត្រឡប់វិក័យប័ត្រ",
+        "breadcrumbs_active": "ព័ត៌មានលម្អិត",
+        "invoice_details": "ព័ត៌មានលម្អិតអំពីវិក្កយបត្រ"
+      }
+    }
+  },
+  "cashbook": {
+    "common": {
+      "account_number": "លេខ​គណនី",
+      "account_number_placeholder": "បញ្ចូលលេខគណនី",
+      "branch_name": "ឈ្មោះសាខា",
+      "branch_name_placeholder": "បញ្ចូលឈ្មោះសាខា",
+      "bank_name": "ឈ្មោះ​របស់​ធនាគារ",
+      "bank_name_placeholder": "បញ្ចូលឈ្មោះធនាគារ",
+      "transactions": "ប្រតិបត្តិការ",
+      "account_details": "ព័ត៌មានលម្អិតអំពីគណនី",
+      "total_transactions": "ប្រតិបត្តិការសរុប",
+      "debit_amount": "ចំនួនទឹកប្រាក់ឥណពន្ធ",
+      "credit_amount": "ចំនួនទឹកប្រាក់ឥណទាន",
+      "from_account": "ពីគណនី",
+      "to_account": "ទៅគណនី",
+      "transfer_reason": "ហេតុផលផ្ទេរ"
+    },
+    "accounts": {
+      "index": {
+        "page_title": "គណនី",
+        "breadcrumbs_current": "គណនី",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សៀវភៅសាច់ប្រាក់",
+        "breadcrumbs_third": "គណនី",
+        "breadcrumbs_active": "គណនី",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+        "delete_failed": "សូមអភ័យទោស អ្នកមិនអាចលុបគណនីនេះចេញបានទេ!"
+      },
+      "create": {
+        "page_title": "បង្កើតគណនី",
+        "form_title": "បង្កើត​គណនី",
+        "breadcrumbs_current": "បង្កើតគណនី",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សៀវភៅសាច់ប្រាក់",
+        "breadcrumbs_third": "គណនី",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "គណនីត្រូវបានបញ្ចូលដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលគណនី",
+        "form_title": "កែសម្រួលគណនី",
+        "breadcrumbs_current": "កែសម្រួលគណនី",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សៀវភៅសាច់ប្រាក់",
+        "breadcrumbs_third": "គណនី",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ធ្វើបច្ចុប្បន្នភាពគណនីដោយជោគជ័យ 👍"
+      },
+      "view": {
+        "page_title": "ប្រតិបត្តិការគណនី",
+        "breadcrumbs_current": "ប្រតិបត្តិការគណនី",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "គណនី",
+        "breadcrumbs_active": "ប្រតិបត្តិការ",
+        "empty_transaction": "មិនទាន់មានប្រតិបត្តិការទេ!",
+        "empty_transaction_msg": "អ្នកមិនទាន់បានធ្វើប្រតិបត្តិការណាមួយដោយប្រើគណនីនេះទេ។ បន្ទាប់ពីធ្វើប្រតិបត្តិការ អ្នកនឹងឃើញបញ្ជីនៅទីនេះ។"
+      }
+    },
+    "balances": {
+      "index": {
+        "page_title": "ការកែតម្រូវតុល្យភាព",
+        "add_balance": "បង្កើត",
+        "breadcrumbs_current": "ការកែតម្រូវតុល្យភាព",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សៀវភៅសាច់ប្រាក់",
+        "breadcrumbs_active": "ការកែតម្រូវ",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+        "delete_failed": "សូមអភ័យទោស អ្នកមិនអាចលុបប្រតិបត្តិការនេះបានទេ។"
+      },
+      "create": {
+        "page_title": "បង្កើតការកែតម្រូវ",
+        "form_title": "បង្កើតការកែតម្រូវ",
+        "breadcrumbs_current": "បង្កើតការកែតម្រូវ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សៀវភៅសាច់ប្រាក់",
+        "breadcrumbs_third": "ការកែតម្រូវ",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "ការកែតម្រូវត្រូវបានបន្ថែមដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលសមតុល្យ",
+        "form_title": "កែសម្រួលសមតុល្យ",
+        "breadcrumbs_current": "កែសម្រួលសមតុល្យ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សៀវភៅសាច់ប្រាក់",
+        "breadcrumbs_third": "សមតុល្យ",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "បានធ្វើបច្ចុប្បន្នភាពសមតុល្យដោយជោគជ័យ 👍"
+      }
+    },
+    "transfers": {
+      "index": {
+        "page_title": "ការផ្ទេរសមតុល្យ",
+        "add_transfer": "បន្ថែមការផ្ទេរ",
+        "breadcrumbs_current": "ការផ្ទេរសមតុល្យ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សៀវភៅសាច់ប្រាក់",
+        "breadcrumbs_active": "ការផ្ទេរសមតុល្យ",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+        "delete_failed": "សូមអភ័យទោស អ្នកមិនអាចលុបការផ្ទេរនេះបានទេ!"
+      },
+      "create": {
+        "page_title": "បង្កើតការផ្ទេរ",
+        "form_title": "បង្កើតការផ្ទេរសមតុល្យ",
+        "breadcrumbs_current": "បង្កើតការផ្ទេរ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សៀវភៅសាច់ប្រាក់",
+        "breadcrumbs_third": "ការផ្ទេរសមតុល្យ",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "ការផ្ទេរសមតុល្យត្រូវបានបន្ថែមដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលការផ្ទេរសមតុល្យ",
+        "form_title": "កែសម្រួលការផ្ទេរសមតុល្យ",
+        "breadcrumbs_current": "កែសម្រួលការផ្ទេរសមតុល្យ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សៀវភៅសាច់ប្រាក់",
+        "breadcrumbs_third": "ការផ្ទេរសមតុល្យ",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ធ្វើបច្ចុប្បន្នភាពការផ្ទេរដោយជោគជ័យ 👍"
+      },
+      "view": {
+        "page_title": "ព័ត៌មានលម្អិតអំពីការផ្ទេរសមតុល្យ",
+        "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីការផ្ទេរ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សៀវភៅសាច់ប្រាក់",
+        "breadcrumbs_third": "ការផ្ទេរសមតុល្យ",
+        "breadcrumbs_active": "ព័ត៌មានលម្អិត"
+      }
+    },
+    "transactions": {
+      "index": {
+        "page_title": "ប្រវត្តិប្រតិបត្តិការ",
+        "breadcrumbs_current": "ប្រវត្តិប្រតិបត្តិការ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សៀវភៅសាច់ប្រាក់",
+        "breadcrumbs_active": "ប្រវត្តិសាស្ត្រ"
+      }
+    }
+  },
+  "payments": {
+    "common": {
+      "due_paid": "បង់តាមកាលកំណត់",
+      "due_added": "ត្រូវ​បាន​បន្ថែម",
+      "current_due": "ផុតកំណត់បច្ចុប្បន្ន",
+      "non_invoice_paid": "វិក្កយបត្រដែលមិនបានបង់",
+      "non_invoice_total": "សរុបមិនមែនវិក័យប័ត្រ",
+      "add_due": "បន្ថែមដល់កំណត់",
+      "add_payment": "បន្ថែមការទូទាត់",
+      "total_payment": "ការទូទាត់សរុប",
+      "total_advance": "សរុបជាមុន (ត្រឡប់វិក័យប័ត្រ)",
+      "available_advance": "ផ្តល់ជូនជាមុន (ការទិញត្រឡប់មកវិញ)",
+      "select_invoice": "ជ្រើសរើសវិក្កយបត្រ",
+      "select_purchase": "ជ្រើសរើសការទិញ",
+      "select_purchase_placeholder": "ស្វែងរកលេខទិញ",
+      "select_invoice_placeholder": "ស្វែងរកលេខវិក្កយបត្រ",
+      "invoice_subtotal": "វិក្កយបត្រសរុប",
+      "non_purchase_total": "សរុបមិនទិញ",
+      "non_purchase_due": "ទិញមិនទាន់ដល់កំណត់",
+      "non_purchase_paid": "ការទិញមិនបង់ប្រាក់",
+      "purchase_details": "ព័ត៌មានលម្អិតអំពីការទិញ"
+    },
+    "clients": {
+      "invoice": {
+        "index": {
+          "page_title": "ការទូទាត់វិក្កយបត្រ",
+          "breadcrumbs_current": "ការទូទាត់វិក្កយបត្រ",
+          "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+          "breadcrumbs_second": "ការទូទាត់",
+          "breadcrumbs_active": "ការទូទាត់វិក្កយបត្រ",
+          "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+          "delete_failed": "សូមអភ័យទោស អ្នកមិនអាចលុបការទូទាត់នេះបានទេ!"
+        },
+        "create": {
+          "page_title": "បង្កើតការទូទាត់វិក្កយបត្រអតិថិជន",
+          "form_title": "បង្កើតការទូទាត់វិក្កយបត្រ",
+          "breadcrumbs_current": "បង្កើតការទូទាត់",
+          "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+          "breadcrumbs_second": "ការទូទាត់",
+          "breadcrumbs_third": "ការទូទាត់វិក្កយបត្រ",
+          "breadcrumbs_active": "បង្កើត",
+          "success_msg": "បញ្ចូលការទូទាត់វិក្កយបត្រដោយជោគជ័យ 👍"
+        },
+        "edit": {
+          "page_title": "កែសម្រួលការទូទាត់វិក្កយបត្រអតិថិជន",
+          "form_title": "កែសម្រួលការទូទាត់វិក្កយបត្រ",
+          "breadcrumbs_current": "កែសម្រួលការទូទាត់",
+          "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+          "breadcrumbs_second": "ការទូទាត់",
+          "breadcrumbs_third": "ការទូទាត់វិក្កយបត្រ",
+          "breadcrumbs_active": "កែសម្រួល",
+          "success_msg": "ធ្វើបច្ចុប្បន្នភាពការទូទាត់វិក្កយបត្រដោយជោគជ័យ 👍"
+        },
+        "view": {
+          "page_title": "ព័ត៌មានលម្អិតអំពីការទូទាត់វិក្កយបត្រ",
+          "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីការទូទាត់វិក្កយបត្រ",
+          "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+          "breadcrumbs_second": "ការទូទាត់",
+          "breadcrumbs_third": "ការទូទាត់វិក្កយបត្រ",
+          "breadcrumbs_active": "ព័ត៌មានលម្អិត"
+        }
+      },
+      "non_invoice": {
+        "index": {
+          "page_title": "ការទូទាត់មិនមែនវិក្កយបត្ររបស់អតិថិជន",
+          "breadcrumbs_current": "ការទូទាត់មិនមែនវិក្កយបត្រ",
+          "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+          "breadcrumbs_second": "ការទូទាត់",
+          "breadcrumbs_active": "ការទូទាត់មិនមែនវិក្កយបត្រ",
+          "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+          "delete_failed": "សូមអភ័យទោស អ្នកមិនអាចលុបការទូទាត់នេះបានទេ!"
+        },
+        "create": {
+          "page_title": "បង្កើតការទូទាត់មិនមែនវិក្កយបត្រ",
+          "form_title": "បង្កើតការទូទាត់មិនមែនវិក្កយបត្រ",
+          "breadcrumbs_current": "បង្កើតការទូទាត់",
+          "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+          "breadcrumbs_second": "ការទូទាត់",
+          "breadcrumbs_third": "ការទូទាត់មិនមែនវិក្កយបត្រ",
+          "breadcrumbs_active": "បង្កើត",
+          "success_msg": "ការទូទាត់ត្រូវបានបន្ថែមដោយជោគជ័យ 👍"
+        },
+        "edit": {
+          "page_title": "កែសម្រួលវិក្កយបត្រត្រឡប់",
+          "form_title": "កែសម្រួលការទូទាត់មិនមែនវិក្កយបត្រ",
+          "breadcrumbs_current": "កែសម្រួលការទូទាត់",
+          "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+          "breadcrumbs_second": "ការទូទាត់",
+          "breadcrumbs_third": "ការទូទាត់មិនមែនវិក្កយបត្រ",
+          "breadcrumbs_active": "កែសម្រួល",
+          "success_msg": "ធ្វើបច្ចុប្បន្នភាពការទូទាត់ដោយជោគជ័យ 👍"
+        }
+      }
+    },
+    "suppliers": {
+      "purchase": {
+        "index": {
+          "page_title": "ការទិញការទូទាត់",
+          "breadcrumbs_current": "ការទិញការទូទាត់",
+          "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+          "breadcrumbs_second": "ការទូទាត់",
+          "breadcrumbs_active": "ការទិញការទូទាត់",
+          "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+          "delete_failed": "មាន​អ្វី​មួយ​ខុស។"
+        },
+        "create": {
+          "page_title": "បង្កើតការទូទាត់ការទិញអ្នកផ្គត់ផ្គង់",
+          "form_title": "បង្កើតការទូទាត់ការទិញ",
+          "breadcrumbs_current": "បង្កើតការទូទាត់",
+          "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+          "breadcrumbs_second": "ការទូទាត់",
+          "breadcrumbs_third": "ការទិញការទូទាត់",
+          "breadcrumbs_active": "បង្កើត",
+          "success_msg": "ការទូទាត់របស់អ្នកផ្គត់ផ្គង់ត្រូវបានបញ្ចូលដោយជោគជ័យ 👍"
+        },
+        "edit": {
+          "page_title": "កែសម្រួលការទូទាត់ការទិញរបស់អ្នកផ្គត់ផ្គង់",
+          "form_title": "កែសម្រួលការទូទាត់ការទិញ",
+          "breadcrumbs_current": "កែសម្រួលការទូទាត់",
+          "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+          "breadcrumbs_second": "ការទូទាត់",
+          "breadcrumbs_third": "ការទិញការទូទាត់",
+          "breadcrumbs_active": "កែសម្រួល",
+          "success_msg": "ធ្វើបច្ចុប្បន្នភាពការទូទាត់ដោយជោគជ័យ 👍"
+        },
+        "view": {
+          "page_title": "ព័ត៌មានលម្អិតអំពីការទូទាត់ការទិញរបស់អ្នកផ្គត់ផ្គង់",
+          "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីការទូទាត់ការទិញ",
+          "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+          "breadcrumbs_second": "ការទូទាត់",
+          "breadcrumbs_third": "ការទិញការទូទាត់",
+          "breadcrumbs_active": "ព័ត៌មានលម្អិត"
+        }
+      },
+      "non_purchase": {
+        "index": {
+          "page_title": "ការទូទាត់មិនមែនការទិញរបស់អ្នកផ្គត់ផ្គង់",
+          "breadcrumbs_current": "ការទូទាត់មិនមែនការទិញ",
+          "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+          "breadcrumbs_second": "ការទូទាត់",
+          "breadcrumbs_active": "ការទូទាត់មិនមែនការទិញ",
+          "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+          "delete_failed": "សូមអភ័យទោស អ្នកមិនអាចលុបការទូទាត់នេះបានទេ!"
+        },
+        "create": {
+          "page_title": "បង្កើតការទូទាត់មិនមែនការទិញ",
+          "form_title": "បង្កើតការទូទាត់មិនមែនការទិញ",
+          "breadcrumbs_current": "បង្កើតការទូទាត់",
+          "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+          "breadcrumbs_second": "ការទូទាត់",
+          "breadcrumbs_third": "ការទូទាត់មិនមែនការទិញ",
+          "breadcrumbs_active": "បង្កើត",
+          "success_msg": "ការទូទាត់ត្រូវបានបន្ថែមដោយជោគជ័យ 👍"
+        },
+        "edit": {
+          "page_title": "កែសម្រួលការទូទាត់មិនមែនការទិញ",
+          "form_title": "កែសម្រួលការទូទាត់មិនមែនការទិញ",
+          "breadcrumbs_current": "កែសម្រួលការទូទាត់",
+          "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+          "breadcrumbs_second": "ការទូទាត់",
+          "breadcrumbs_third": "ការទូទាត់មិនមែនការទិញ",
+          "breadcrumbs_active": "កែសម្រួល",
+          "success_msg": "ធ្វើបច្ចុប្បន្នភាពការទូទាត់ដោយជោគជ័យ 👍"
+        }
+      }
+    }
+  },
+  "loans": {
+    "common": {
+      "authority": "អាជ្ញាធរ",
+      "loan": "ប្រាក់កម្ចី",
+      "loan_placeholder": "ជ្រើសរើសប្រាក់កម្ចី",
+      "loan_authority": "អាជ្ញាធរប្រាក់កម្ចី",
+      "authority_placeholder": "ជ្រើសរើសអាជ្ញាធរ",
+      "cc_limit": "ដែនកំណត់ CC",
+      "cc_placeholder": "បញ្ចូលដែនកំណត់ប្រាក់កម្ចី cc",
+      "cash_credit_limit": "ដែនកំណត់ប្រាក់កម្ចីសាច់ប្រាក់ (CC)",
+      "cash_credit_loan": "ប្រាក់កម្ចីសាច់ប្រាក់ (CC)",
+      "interetest_paid": "ការប្រាក់ត្រូវបានបង់",
+      "total_payable": "សរុបដែលត្រូវបង់",
+      "total_loan": "ប្រាក់កម្ចីសរុប",
+      "cc_term": "CC + រយៈពេល",
+      "cc_taken": "ប្រាក់កម្ចី CC បានយក",
+      "available_cc": "ប្រាក់កម្ចី CC ដែលអាចប្រើបាន",
+      "all_loans": "ប្រាក់កម្ចីទាំងអស់។",
+      "empty_loan": "មិនទាន់មានកម្ចីនៅឡើយទេ!",
+      "empty_loan_msg": "អ្នកមិនទាន់បានបន្ថែមប្រាក់កម្ចីសម្រាប់អាជ្ញាធរនេះទេ។ បន្ទាប់ពីបន្ថែមប្រាក់កម្ចីអ្នកនឹងឃើញបញ្ជីនៅទីនេះ។",
+      "authority_details": "ព័ត៌មានលម្អិតអំពីអាជ្ញាធរ",
+      "payable_amount": "ចំនួនទឹកប្រាក់ដែលត្រូវបង់",
+      "duration": "រយៈពេល",
+      "duration_placeholder": "បញ្ចូលរយៈពេល",
+      "interest_rate_placeholder": "បញ្ចូលអត្រាការប្រាក់ជាភាគរយ",
+      "available_amount": "ចំនួនទឹកប្រាក់ដែលមាន",
+      "term_loan": "ប្រាក់កម្ចីរយៈពេល",
+      "loan_type": "ប្រភេទប្រាក់កម្ចី",
+      "loan_reason": "ហេតុផលប្រាក់កម្ចី",
+      "loan_date": "កាលបរិច្ឆេទកម្ចី",
+      "Loan_account": "គណនីប្រាក់កម្ចី",
+      "Loan_payments": "ការទូទាត់ប្រាក់កម្ចី",
+      "empty_payment_msg": "អ្នកមិនទាន់បានបន្ថែមការទូទាត់ណាមួយសម្រាប់ប្រាក់កម្ចីនេះទេ។ បន្ទាប់ពីបន្ថែមការទូទាត់ អ្នកនឹងឃើញបញ្ជីនៅទីនេះ។",
+      "loan_amount": "ចំនួនប្រាក់កម្ចី",
+      "loan_ref": "ប្រាក់កម្ចីយោង",
+      "payment_ref": "ការទូទាត់យោង",
+      "amount_paid": "ចំនួនទឹកប្រាក់ដែលត្រូវបង់"
+    },
+    "authorities": {
+      "index": {
+        "page_title": "អាជ្ញាធរប្រាក់កម្ចី",
+        "breadcrumbs_current": "អាជ្ញាធរប្រាក់កម្ចី",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការគ្រប់គ្រងប្រាក់កម្ចី",
+        "breadcrumbs_active": "អាជ្ញាធរ",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+        "delete_failed": "សូមអភ័យទោស អ្នកមិនអាចលុបអាជ្ញាធរនេះបានទេ។"
+      },
+      "create": {
+        "page_title": "បង្កើតអាជ្ញាធរប្រាក់កម្ចី",
+        "form_title": "បង្កើតអាជ្ញាធរប្រាក់កម្ចី",
+        "breadcrumbs_current": "បង្កើតអាជ្ញាធរប្រាក់កម្ចី",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "អាជ្ញាធរប្រាក់កម្ចី",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "អាជ្ញាធរប្រាក់កម្ចីបានបន្ថែមដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលអាជ្ញាធរប្រាក់កម្ចី",
+        "form_title": "កែសម្រួលអាជ្ញាធរប្រាក់កម្ចី",
+        "breadcrumbs_current": "កែសម្រួលអាជ្ញាធរ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "អាជ្ញាធរប្រាក់កម្ចី",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "អាជ្ញាធរប្រាក់កម្ចីបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ 👍"
+      },
+      "view": {
+        "page_title": "មើលអាជ្ញាធរប្រាក់កម្ចី",
+        "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីអាជ្ញាធរ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "អាជ្ញាធរប្រាក់កម្ចី",
+        "breadcrumbs_active": "ព័ត៌មានលម្អិត"
+      }
+    },
+    "payments": {
+      "index": {
+        "page_title": "ការទូទាត់ប្រាក់កម្ចី",
+        "breadcrumbs_current": "ការទូទាត់ប្រាក់កម្ចី",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការគ្រប់គ្រងប្រាក់កម្ចី",
+        "breadcrumbs_active": "ការទូទាត់ប្រាក់កម្ចី",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+        "delete_failed": "មាន​អ្វី​មួយ​ខុស។"
+      },
+      "create": {
+        "page_title": "បង្កើតការទូទាត់ប្រាក់កម្ចី",
+        "form_title": "បង្កើតការទូទាត់ប្រាក់កម្ចី",
+        "breadcrumbs_current": "បង្កើតការទូទាត់ប្រាក់កម្ចី",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការទូទាត់ប្រាក់កម្ចី",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "បន្ថែមការទូទាត់ប្រាក់កម្ចីដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលការទូទាត់ប្រាក់កម្ចី",
+        "form_title": "កែសម្រួលការទូទាត់ប្រាក់កម្ចី",
+        "breadcrumbs_current": "កែសម្រួលការទូទាត់ប្រាក់កម្ចី",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការទូទាត់ប្រាក់កម្ចី",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ធ្វើបច្ចុប្បន្នភាពការទូទាត់ដោយជោគជ័យ 👍"
+      },
+      "view": {
+        "page_title": "ព័ត៌មានលម្អិតអំពីការទូទាត់ប្រាក់កម្ចី",
+        "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីការទូទាត់ប្រាក់កម្ចី",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការទូទាត់ប្រាក់កម្ចី",
+        "breadcrumbs_active": "ព័ត៌មានលម្អិត"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "ប្រាក់កម្ចី",
+        "breadcrumbs_current": "ប្រាក់កម្ចី",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការគ្រប់គ្រងប្រាក់កម្ចី",
+        "breadcrumbs_active": "ប្រាក់កម្ចី",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+        "delete_failed": "សូមអភ័យទោស អ្នកមិនអាចលុបប្រាក់កម្ចីនេះបានទេ។"
+      },
+      "create": {
+        "page_title": "បង្កើតប្រាក់កម្ចី",
+        "form_title": "បង្កើតប្រាក់កម្ចី",
+        "breadcrumbs_current": "បង្កើតប្រាក់កម្ចី",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ប្រាក់កម្ចី",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "បន្ថែមប្រាក់កម្ចីដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលប្រាក់កម្ចី",
+        "form_title": "កែសម្រួលប្រាក់កម្ចី",
+        "breadcrumbs_current": "កែសម្រួលប្រាក់កម្ចី",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ប្រាក់កម្ចី",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ធ្វើបច្ចុប្បន្នភាពប្រាក់កម្ចីដោយជោគជ័យ 👍"
+      },
+      "view": {
+        "page_title": "ព័ត៌មានលម្អិតអំពីប្រាក់កម្ចី",
+        "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីប្រាក់កម្ចី",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ប្រាក់កម្ចី",
+        "breadcrumbs_active": "ព័ត៌មានលម្អិត"
+      }
+    }
+  },
+  "assets": {
+    "common": {
+      "asset_name": "ឈ្មោះទ្រព្យសម្បត្តិ",
+      "asset_name_placeholder": "បញ្ចូលឈ្មោះទ្រព្យសម្បត្តិ",
+      "asset_type": "ប្រភេទទ្រព្យសកម្ម",
+      "asset_type_placeholder": "ជ្រើសរើសប្រភេទទ្រព្យសកម្ម",
+      "asset_cost": "តម្លៃទ្រព្យសកម្ម",
+      "asset_cost_placeholder": "បញ្ចូលតម្លៃទ្រព្យសកម្ម",
+      "current_value": "តម្លៃ​នា​ពេល​បច្ចុប្បន្ន​នេះ",
+      "depreciation": "រំលោះ",
+      "depreciation_type": "ប្រភេទរំលោះ",
+      "salvage_value": "តម្លៃសង្គ្រោះ",
+      "salvage_value_placeholder": "តម្លៃសង្គ្រោះ",
+      "useful_life": "ជីវិតមានប្រយោជន៍",
+      "remaining_life": "ជីវិតដែលនៅសល់",
+      "useful_life_placeholder": "បញ្ចូលជីវិតដែលមានប្រយោជន៍",
+      "added_date": "កាលបរិច្ឆេទបន្ថែម",
+      "expired_date": "ថ្ងៃ​ផុតកំណត់"
+    },
+    "types": {
+      "index": {
+        "page_title": "ប្រភេទទ្រព្យសកម្ម",
+        "breadcrumbs_current": "ប្រភេទទ្រព្យសកម្ម",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការគ្រប់គ្រង​ទ្រព្យសម្បត្តិ",
+        "breadcrumbs_active": "ប្រភេទទ្រព្យសកម្ម",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+        "delete_failed": "មាន​អ្វី​មួយ​ខុស។"
+      },
+      "create": {
+        "page_title": "បង្កើតប្រភេទទ្រព្យសកម្ម",
+        "form_title": "បង្កើតប្រភេទទ្រព្យសម្បត្តិ",
+        "breadcrumbs_current": "បង្កើតប្រភេទទ្រព្យសកម្ម",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ប្រភេទទ្រព្យសកម្ម",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "ប្រភេទទ្រព្យសកម្មត្រូវបានបន្ថែមដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលប្រភេទទ្រព្យសកម្ម",
+        "form_title": "កែសម្រួលប្រភេទទ្រព្យសកម្ម",
+        "breadcrumbs_current": "កែសម្រួលប្រភេទទ្រព្យសកម្ម",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ប្រភេទទ្រព្យសកម្ម",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ប្រភេទទ្រព្យសកម្មបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ 👍"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "ទ្រព្យសកម្ម",
+        "breadcrumbs_current": "ទ្រព្យសកម្ម",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការគ្រប់គ្រង​ទ្រព្យសម្បត្តិ",
+        "breadcrumbs_active": "ទ្រព្យសកម្ម",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+        "delete_failed": "មាន​អ្វី​មួយ​ខុស។"
+      },
+      "create": {
+        "page_title": "បង្កើតទ្រព្យសកម្ម",
+        "form_title": "បង្កើតទ្រព្យសកម្ម",
+        "breadcrumbs_current": "បង្កើតទ្រព្យសកម្ម",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ទ្រព្យសកម្ម",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "ទ្រព្យសម្បត្តិបានបន្ថែមដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលទ្រព្យសកម្ម",
+        "form_title": "កែសម្រួលទ្រព្យសកម្ម",
+        "breadcrumbs_current": "កែសម្រួលទ្រព្យសកម្ម",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ទ្រព្យសកម្ម",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ទ្រព្យសកម្មបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ 👍"
+      },
+      "view": {
+        "page_title": "ព័ត៌មានលម្អិតអំពីទ្រព្យសកម្ម",
+        "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីទ្រព្យសកម្ម",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ទ្រព្យសកម្ម",
+        "breadcrumbs_active": "ព័ត៌មានលម្អិត"
+      }
+    }
+  },
+  "payroll": {
+    "common": {
+      "salary_date": "កាលបរិច្ឆេទប្រាក់ខែ",
+      "total_salary": "ប្រាក់ខែសរុប",
+      "advance": "ជាមុន",
+      "advance_placeholder": "បញ្ចូលចំនួន advacne",
+      "others": "ផ្សេងៗ",
+      "others_placeholder": "បញ្ចូលចំនួនផ្សេងទៀត។",
+      "travel_allowance": "ប្រាក់ឧបត្ថម្ភធ្វើដំណើរ (TA)",
+      "travel_allowance_placeholder": "បញ្ចូលប្រាក់ឧបត្ថម្ភធ្វើដំណើរ",
+      "festival_bonus": "ប្រាក់រង្វាន់ពិធីបុណ្យ",
+      "festival_bonus_placeholder": "បញ្ចូលប្រាក់រង្វាន់ពិធីបុណ្យ",
+      "commission": "គណៈកម្មការ",
+      "commission_placeholder": "បញ្ចូលកម្រៃជើងសារ",
+      "bonus": "ប្រាក់រង្វាន់",
+      "bonus_placeholder": "បញ្ចូលប្រាក់រង្វាន់",
+      "food_bill": "វិក័យប័ត្រអាហារ",
+      "food_bill_placeholder": "បញ្ចូលវិក្កយបត្រអាហារ",
+      "mobile_bill": "វិក័យប័ត្រទូរស័ព្ទ",
+      "mobile_bill_placeholder": "បញ្ចូលវិក្កយបត្រចល័ត",
+      "deduction_reason": "ហេតុផលដកប្រាក់",
+      "deduction_reason_placeholder": "បញ្ចូលហេតុផលកាត់",
+      "deduction_amount": "ចំនួនទឹកប្រាក់កាត់",
+      "deduction_amount_placeholder": "បញ្ចូលចំនួនទឹកប្រាក់កាត់",
+      "present_salary": "ប្រាក់ខែបច្ចុប្បន្ន",
+      "salary_month": "ខែប្រាក់ខែ",
+      "salary_month_placeholder": "ជ្រើសរើសប្រាក់ខែ"
+    },
+    "index": {
+      "page_title": "ប្រាក់ខែបុគ្គលិក",
+      "breadcrumbs_current": "ប្រាក់ខែបុគ្គលិក",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "ប្រាក់បៀវត្សរ៍",
+      "breadcrumbs_active": "ប្រាក់បៀវត្សរ៍",
+      "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+      "delete_failed": "មាន​អ្វី​មួយ​ខុស។"
+    },
+    "create": {
+      "page_title": "បង្កើតប្រាក់បៀវត្សរ៍",
+      "form_title": "បង្កើតប្រាក់ខែបុគ្គលិក",
+      "breadcrumbs_current": "បង្កើតប្រាក់បៀវត្សរ៍",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "ប្រាក់បៀវត្សរ៍",
+      "breadcrumbs_active": "បង្កើត",
+      "success_msg": "ប្រាក់បៀវត្សរ៍បន្ថែមដោយជោគជ័យ 👍"
+    },
+    "edit": {
+      "page_title": "កែសម្រួលបញ្ជីប្រាក់បៀវត្សរ៍",
+      "form_title": "កែសម្រួលបញ្ជីប្រាក់ខែ",
+      "breadcrumbs_current": "កែសម្រួលបញ្ជីប្រាក់បៀវត្សរ៍",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "ប្រាក់បៀវត្សរ៍",
+      "breadcrumbs_active": "កែសម្រួល",
+      "success_msg": "ធ្វើបច្ចុប្បន្នភាពប្រាក់ខែដោយជោគជ័យ 👍"
+    },
+    "view": {
+      "page_title": "ព័ត៌មានលម្អិតអំពីប្រាក់ខែ",
+      "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីប្រាក់ខែ",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "ប្រាក់បៀវត្សរ៍",
+      "breadcrumbs_active": "ព័ត៌មានលម្អិត"
+    }
+  },
+  "clients": {
+    "common": {
+      "non_invoice_transactions": "ប្រតិបត្តិការមិនមែនវិក័យប័ត្រ"
+    },
+    "index": {
+      "page_title": "អតិថិជន",
+      "breadcrumbs_current": "អតិថិជន",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "អតិថិជន",
+      "breadcrumbs_active": "អតិថិជន",
+      "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+      "delete_failed": "សូមអភ័យទោស អ្នកមិនអាចលុបអតិថិជននេះបានទេ។"
+    },
+    "create": {
+      "page_title": "បង្កើតអតិថិជន",
+      "form_title": "បង្កើតអតិថិជន",
+      "breadcrumbs_current": "បង្កើតអតិថិជន",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "អតិថិជន",
+      "breadcrumbs_active": "បង្កើត",
+      "success_msg": "បន្ថែមអតិថិជនដោយជោគជ័យ 👍"
+    },
+    "edit": {
+      "page_title": "កែសម្រួលអតិថិជន",
+      "form_title": "កែសម្រួលអតិថិជន",
+      "breadcrumbs_current": "កែសម្រួលអតិថិជន",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "អតិថិជន",
+      "breadcrumbs_active": "កែសម្រួល",
+      "success_msg": "អតិថិជនបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ 👍"
+    },
+    "view": {
+      "page_title": "ព័ត៌មានលម្អិតអតិថិជន",
+      "breadcrumbs_current": "ព័ត៌មានលម្អិតអតិថិជន",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "អតិថិជន",
+      "breadcrumbs_active": "ព័ត៌មានលម្អិត"
+    }
+  },
+  "suppliers": {
+    "common": {
+      "non_purchase_transactions": "ប្រតិបត្តិការមិនទិញ"
+    },
+    "index": {
+      "page_title": "អ្នកផ្គត់ផ្គង់",
+      "breadcrumbs_current": "អ្នកផ្គត់ផ្គង់",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "អ្នកផ្គត់ផ្គង់",
+      "breadcrumbs_active": "អ្នកផ្គត់ផ្គង់",
+      "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+      "delete_failed": "សូមអភ័យទោស អ្នកមិនអាចលុបអ្នកផ្គត់ផ្គង់នេះបានទេ។"
+    },
+    "create": {
+      "page_title": "បង្កើតអ្នកផ្គត់ផ្គង់",
+      "form_title": "បង្កើតអ្នកផ្គត់ផ្គង់",
+      "breadcrumbs_current": "បង្កើតអ្នកផ្គត់ផ្គង់",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "អ្នកផ្គត់ផ្គង់",
+      "breadcrumbs_active": "បង្កើត",
+      "success_msg": "អ្នកផ្គត់ផ្គង់បានបន្ថែមដោយជោគជ័យ 👍"
+    },
+    "edit": {
+      "page_title": "កែសម្រួលអ្នកផ្គត់ផ្គង់",
+      "form_title": "កែសម្រួលអ្នកផ្គត់ផ្គង់",
+      "breadcrumbs_current": "កែសម្រួលអ្នកផ្គត់ផ្គង់",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "អ្នកផ្គត់ផ្គង់",
+      "breadcrumbs_active": "កែសម្រួល",
+      "success_msg": "អ្នកផ្គត់ផ្គង់បានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ 👍"
+    },
+    "view": {
+      "page_title": "ព័ត៌មានលម្អិតអំពីអ្នកផ្គត់ផ្គង់",
+      "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីអ្នកផ្គត់ផ្គង់",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "អ្នកផ្គត់ផ្គង់",
+      "breadcrumbs_active": "ព័ត៌មានលម្អិត"
+    }
+  },
+  "employees": {
+    "common": {
+      "increment_date": "កាលបរិច្ឆេទបង្កើន",
+      "increment_amount": "បរិមាណបន្ថែម",
+      "increment_amount_placeholder": "បញ្ចូលចំនួនបន្ថែម",
+      "increment_reason": "ហេតុផលបង្កើន",
+      "increment_reason_placeholder": "បញ្ចូលហេតុផល",
+      "basic_salary": "ប្រាក់ខែ​គោល",
+      "current_salary": "ប្រាក់ខែ​បច្ចុប្បន្ន",
+      "incremented_salary": "បង្កើនប្រាក់ខែ",
+      "birth_date": "ថ្ងៃខែ​ឆ្នាំ​កំណើត",
+      "join_date": "កាលបរិច្ឆេទចូលរួម",
+      "employee_name": "ឈ្មោះ​បុគ្គលិក",
+      "employee_name_placeholder": "បញ្ចូលឈ្មោះបុគ្គលិក",
+      "gender": "ភេទ",
+      "gender_placeholder": "ជ្រើសរើសភេទ",
+      "male": "ប្រុស",
+      "female": "ស្រី",
+      "transgender": "អ្នកប្តូរភេទ",
+      "other": "ផ្សេងទៀត",
+      "blood_group": "ក្រុមឈាម",
+      "blood_group_placeholder": "ជ្រើសរើសក្រុមឈាម",
+      "religion": "សាសនា",
+      "religion_placeholder": "ជ្រើសរើសសាសនា",
+      "islam": "ឥស្លាម",
+      "hinduism": "ព្រហ្មញ្ញសាសនា",
+      "buddhists": "ពុទ្ធសាសនិកជន",
+      "christians": "គ្រិស្តបរិស័ទ",
+      "animists": "សត្វពាហនៈ",
+      "appointment_date": "កាលបរិច្ឆេទណាត់ជួប",
+      "allow_login": "អនុញ្ញាតឱ្យចូលនិយោជិត",
+      "increment_history": "ប្រវត្តិនៃការកើនឡើង"
+    },
+    "departments": {
+      "index": {
+        "page_title": "នាយកដ្ឋាន",
+        "breadcrumbs_current": "នាយកដ្ឋាន",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "បុគ្គលិក",
+        "breadcrumbs_active": "នាយកដ្ឋាន",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+        "delete_failed": "មាន​អ្វី​មួយ​ខុស។"
+      },
+      "create": {
+        "page_title": "បង្កើតនាយកដ្ឋាន",
+        "form_title": "បង្កើតនាយកដ្ឋានមួយ។",
+        "breadcrumbs_current": "បង្កើតនាយកដ្ឋាន",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "នាយកដ្ឋាន",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "នាយកដ្ឋានបន្ថែមដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលនាយកដ្ឋាន",
+        "form_title": "កែសម្រួលផ្នែក",
+        "breadcrumbs_current": "កែសម្រួលនាយកដ្ឋាន",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "នាយកដ្ឋាន",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "នាយកដ្ឋានបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ 👍"
+      }
+    },
+    "increments": {
+      "index": {
+        "page_title": "ការដំឡើងប្រាក់ខែបុគ្គលិក",
+        "breadcrumbs_current": "ការបង្កើនប្រាក់ខែ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "បុគ្គលិក",
+        "breadcrumbs_active": "ការកើនឡើង",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+        "delete_failed": "មាន​អ្វី​មួយ​ខុស។"
+      },
+      "create": {
+        "page_title": "បង្កើតការបង្កើនប្រាក់ខែ",
+        "form_title": "បង្កើតការដំឡើងប្រាក់ខែ",
+        "breadcrumbs_current": "បង្កើតការបង្កើនប្រាក់ខែ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការកើនឡើង",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "បន្ថែមដោយជោគជ័យ👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលការដំឡើងប្រាក់ខែ",
+        "form_title": "កែសម្រួលការដំឡើងប្រាក់ខែ",
+        "breadcrumbs_current": "កែសម្រួលការដំឡើងប្រាក់ខែ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការកើនឡើង",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ធ្វើបច្ចុប្បន្នភាពការបង្កើនដោយជោគជ័យ 👍"
+      },
+      "view": {
+        "page_title": "ព័ត៌មានលម្អិតបន្ថែម",
+        "breadcrumbs_current": "ព័ត៌មានលម្អិតបន្ថែម",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការកើនឡើង",
+        "breadcrumbs_active": "ព័ត៌មានលម្អិត"
+      }
+    },
+    "list": {
+      "index": {
+        "page_title": "បុគ្គលិក",
+        "breadcrumbs_current": "បុគ្គលិក",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_active": "បុគ្គលិក",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+        "delete_failed": "មាន​អ្វី​មួយ​ខុស។"
+      },
+      "create": {
+        "page_title": "បង្កើតបុគ្គលិក",
+        "form_title": "បង្កើតបុគ្គលិក",
+        "breadcrumbs_current": "បង្កើតបុគ្គលិក",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "បុគ្គលិក",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "បន្ថែមបុគ្គលិកដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលបុគ្គលិក",
+        "form_title": "កែសម្រួលបុគ្គលិក",
+        "breadcrumbs_current": "កែសម្រួលបុគ្គលិក",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "បុគ្គលិក",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "បុគ្គលិកបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ 👍"
+      },
+      "view": {
+        "page_title": "ព័ត៌មានលម្អិតអំពីបុគ្គលិក",
+        "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីបុគ្គលិក",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "បុគ្គលិក",
+        "breadcrumbs_active": "ព័ត៌មានលម្អិត"
+      }
+    }
+  },
+  "products": {
+    "categories": {
+      "index": {
+        "page_title": "ប្រភេទផលិតផល",
+        "breadcrumbs_current": "ប្រភេទផលិតផល",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ផលិតផល",
+        "breadcrumbs_active": "ប្រភេទ",
+        "delete_warning": "ប្រភេទរងទាំងអស់សម្រាប់ប្រភេទនេះនឹងត្រូវបានលុប!"
+      },
+      "create": {
+        "page_title": "បង្កើតប្រភេទផលិតផល",
+        "form_title": "បង្កើតប្រភេទផលិតផល",
+        "breadcrumbs_current": "បង្កើតប្រភេទ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ផលិតផល",
+        "breadcrumbs_third": "ប្រភេទ",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "បានបន្ថែមប្រភេទដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលប្រភេទផលិតផល",
+        "form_title": "កែសម្រួលប្រភេទផលិតផល",
+        "breadcrumbs_current": "កែសម្រួល​ប្រភេទ​ផលិតផល",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ផលិតផល",
+        "breadcrumbs_third": "ប្រភេទ",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "បានធ្វើបច្ចុប្បន្នភាពប្រភេទដោយជោគជ័យ 👍"
+      }
+    },
+    "sub_categories": {
+      "index": {
+        "page_title": "ប្រភេទរងផលិតផល",
+        "breadcrumbs_current": "ប្រភេទរងផលិតផល",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ផលិតផល",
+        "breadcrumbs_active": "ប្រភេទរង",
+        "delete_warning": "ផលិតផលទាំងអស់សម្រាប់ប្រភេទនេះនឹងត្រូវបានលុប!"
+      },
+      "create": {
+        "page_title": "បង្កើតប្រភេទរងផលិតផល",
+        "form_title": "បង្កើតប្រភេទរងផលិតផល",
+        "breadcrumbs_current": "បង្កើតប្រភេទរង",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ផលិតផល",
+        "breadcrumbs_third": "ប្រភេទរង",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "បានបន្ថែមប្រភេទរងដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលប្រភេទរងផលិតផល",
+        "form_title": "កែសម្រួលប្រភេទរងផលិតផល",
+        "breadcrumbs_current": "កែសម្រួលប្រភេទរងផលិតផល",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ផលិតផល",
+        "breadcrumbs_third": "ប្រភេទរង",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ប្រភេទរងត្រូវបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ 👍"
+      }
+    },
+    "list": {
+      "common": {
+        "alert_quantity": "បរិមាណជូនដំណឹង",
+        "alert_quantity_placeholder": "បញ្ចូលបរិមាណជូនដំណឹង",
+        "selling_price": "តម្លៃលក់",
+        "selling_price_placeholder": "បញ្ចូលតម្លៃលក់",
+        "regular_price": "តម្លៃ​ដែល​ទៀងទាត់",
+        "regular_price_placeholder": "បញ្ចូលតម្លៃធម្មតា។",
+        "tax_type": "ប្រភេទពន្ធ",
+        "exclusive": "ផ្តាច់មុខ",
+        "inclusive": "បញ្ចូល​គ្នា",
+        "product_tax": "ពន្ធផលិតផល",
+        "tax_placeholder": "ជ្រើសរើសពន្ធ",
+        "barcode_symbology": "និមិត្តសញ្ញាបាកូដ",
+        "tax_amount": "ចំនួនទឹកប្រាក់ពន្ធ",
+        "avg_purchase_price": "មធ្យម តម្លៃ​ទិញ",
+        "avg_selling_price": "មធ្យម តម្លៃលក់",
+        "stock": "ភាគហ៊ុន",
+        "inventory_value": "តម្លៃសារពើភ័ណ្ឌ",
+        "generate_barcode": "បង្កើតបាកូដ"
+      },
+      "index": {
+        "page_title": "ផលិតផល",
+        "breadcrumbs_current": "ផលិតផល",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ផលិតផល",
+        "breadcrumbs_active": "ផលិតផល",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!"
+      },
+      "create": {
+        "page_title": "បង្កើតផលិតផល",
+        "form_title": "បង្កើតផលិតផល",
+        "breadcrumbs_current": "បង្កើតផលិតផល",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ផលិតផល",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "បញ្ចូលផលិតផលដោយជោគជ័យ👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលផលិតផល",
+        "form_title": "កែសម្រួលផលិតផល",
+        "breadcrumbs_current": "កែសម្រួលផលិតផល",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ផលិតផល",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ធ្វើបច្ចុប្បន្នភាពផលិតផលដោយជោគជ័យ 👍"
+      },
+      "view": {
+        "page_title": "ព​ត៌​មាន​លម្អិត​នៃ​ផលិតផល",
+        "breadcrumbs_current": "ព​ត៌​មាន​លម្អិត​នៃ​ផលិតផល",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ផលិតផល",
+        "breadcrumbs_active": "ព័ត៌មានលម្អិត",
+        "expense_details": "ព​ត៌​មាន​លម្អិត​នៃ​ផលិតផល"
+      },
+      "barcode": {
+        "page_title": "បោះពុម្ពបាកូដ",
+        "generate_barcode": "បង្កើតបាកូដ",
+        "print_barcode": "បោះពុម្ពបាកូដ",
+        "paper_size": "ទំហំក្រដាស",
+        "print_qty": "បោះពុម្ព Qty",
+        "breadcrumbs_current": "បោះពុម្ពបាកូដ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ផលិតផល",
+        "breadcrumbs_active": "កែសម្រួល",
+        "page_option_0": "40 ក្នុងមួយសន្លឹក (a4) (1.799 * 1.003)",
+        "page_option_1": "30 ក្នុងមួយសន្លឹក (2.625 * 1)",
+        "page_option_2": "24 ក្នុងមួយសន្លឹក (a4) (2.48 * 1.334)",
+        "page_option_3": "20 សន្លឹក (4 * 1)",
+        "page_option_4": "18 ក្នុងមួយសន្លឹក (a4) (2.5 * 1.835)",
+        "page_option_5": "14 ក្នុងមួយសន្លឹក (4 * 1.33)",
+        "page_option_6": "12 ក្នុងមួយសន្លឹក (a4) (2.5 * 2.834)",
+        "page_option_7": "10 សន្លឹក (4 * 2)"
+      }
+    }
+  },
+  "inventory": {
+    "common": {
+      "inventory_history": "ប្រវត្តិសារពើភ័ណ្ឌ",
+      "adjustment_no": "ការកែតម្រូវលេខ",
+      "adjustment_date": "កាលបរិច្ឆេទកែតម្រូវ",
+      "adjustment_type": "ប្រភេទការលៃតម្រូវ",
+      "increment": "បង្កើន",
+      "decrement": "បន្ថយ",
+      "adjustment_reason": "ហេតុផលកែតម្រូវ",
+      "adjusted_products": "ផលិតផលកែតម្រូវ"
+    },
+    "index": {
+      "page_title": "សារពើភ័ណ្ឌ",
+      "breadcrumbs_current": "សារពើភ័ណ្ឌ",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "ផលិតផល",
+      "breadcrumbs_active": "សារពើភ័ណ្ឌ"
+    },
+    "history": {
+      "page_title": "ប្រវត្តិសារពើភ័ណ្ឌ",
+      "breadcrumbs_current": "ប្រវត្តិសារពើភ័ណ្ឌ",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "សារពើភ័ណ្ឌ",
+      "breadcrumbs_active": "ប្រវត្តិសាស្ត្រ"
+    },
+    "adjustments": {
+      "index": {
+        "page_title": "ការកែតម្រូវសារពើភ័ណ្ឌ",
+        "breadcrumbs_current": "ការកែតម្រូវសារពើភ័ណ្ឌ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "សារពើភ័ណ្ឌ",
+        "breadcrumbs_active": "ការកែតម្រូវ",
+        "delete_warning": "អ្នក​នឹង​មិន​អាច​ត្រឡប់​ទៅ​នេះ​!",
+        "delete_failed": "មាន​អ្វី​មួយ​ខុស។"
+      },
+      "create": {
+        "page_title": "បង្កើតការកែតម្រូវ",
+        "form_title": "បង្កើតការកែតម្រូវ",
+        "breadcrumbs_current": "បង្កើតការកែតម្រូវ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការកែតម្រូវ",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "ការកែតម្រូវត្រូវបានបន្ថែមដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលការលៃតម្រូវ",
+        "form_title": "កែសម្រួលការកែតម្រូវ",
+        "breadcrumbs_current": "កែសម្រួលការលៃតម្រូវ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការកែតម្រូវ",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "បានធ្វើបច្ចុប្បន្នភាពការកែតម្រូវដោយជោគជ័យ 👍"
+      },
+      "view": {
+        "page_title": "ព័ត៌មានលម្អិតនៃការកែតម្រូវ",
+        "breadcrumbs_current": "ព័ត៌មានលម្អិតនៃការកែតម្រូវ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "ការកែតម្រូវ",
+        "breadcrumbs_active": "ព័ត៌មានលម្អិត"
+      }
+    }
+  },
+  "reports": {
+    "stock_in": "ចូលស្តុក",
+    "stock_out": "អស់ស្តុក",
+    "total_quantity": "បរិមាណ​សរុប",
+    "incomes": "ចំណូល",
+    "liabilities": "បំណុល",
+    "security_asset": "សុវត្ថិភាព/ទ្រព្យសម្បត្តិសរុប",
+    "supplier_dues": "ការទូទាត់របស់អ្នកផ្គត់ផ្គង់",
+    "client_dues": "ការទូទាត់របស់អតិថិជន",
+    "bank_loan": "ប្រាក់កម្ចី​ធនាគារ",
+    "bank_balance": "សមតុល្យធនាគារ",
+    "income_liabilities": "(ចំណូល-បំណុល)",
+    "total_asset": "ទ្រព្យសកម្មសរុប",
+    "view_report": "មើលរបាយការណ៍",
+    "monthly_summery": "សង្ខេបប្រចាំខែ",
+    "particulars": "ពិសេស",
+    "opening_balance": "ការបើកសមតុល្យ",
+    "invoice_sales": "ការលក់វិក្កយបត្រ",
+    "invoice_dues": "វិក័យប័ត្របង់ថ្លៃ",
+    "accounts_collection": "ការប្រមូលគណនី",
+    "general": "ទូទៅ",
+    "loan_interest": "ការប្រាក់កម្ចី",
+    "asset_depreciation": "ការរំលោះទ្រព្យសកម្ម",
+    "transfer": "ផ្ទេរ",
+    "transfer_from": "ការផ្ទេរសមតុល្យពី",
+    "closing_balance": "បិទសមតុល្យ",
+    "report_type": "ប្រភេទ​នៃ​របាយការណ៍",
+    "gross_profit_Loss": "ប្រាក់ចំណេញដុល/ខាត",
+    "net_profit_Loss": "ប្រាក់ចំណេញសុទ្ធ/ខាត",
+    "sold_qty": "បានលក់ Qty",
+    "profit": "ប្រាក់ចំណេញ",
+    "loss": "ការបាត់បង់",
+    "total_sales_avg": "ការលក់សរុប (ជាមធ្យម)",
+    "total_purchased_avg": "ការទិញសរុប (ជាមធ្យម)",
+    "income_statement": "របាយការណ៍ប្រាក់ចំណូល",
+    "total_sales": "ការលក់សរុប",
+    "cost_of_goods_sold": "តម្លៃនៃទំនិញដែលបានលក់",
+    "positive_adjusted": "ការកែតម្រូវជាវិជ្ជមាន",
+    "negative_adjusted": "ការកែតម្រូវអវិជ្ជមាន",
+    "total_adjusted": "លៃតម្រូវសរុប",
+    "gross_profit": "ប្រាក់​ចំណេញ​ដុល",
+    "gross_loss": "ការបាត់បង់សរុប",
+    "operating_expenses": "ចំណាយប្រតិបត្តិការ",
+    "salaries": "ប្រាក់ខែ",
+    "general_expenses": "ការចំណាយទូទៅ",
+    "total_expense": "ការចំណាយសរុប",
+    "net_profit": "ប្រាក់​ចំណេញ​សុទ្ធ",
+    "net_loss": "ការបាត់បង់សុទ្ធ",
+    "date_range": "ជួរកាលបរិច្ឆេទ",
+    "stock_in_hand": "ភាគហ៊ុននៅក្នុងដៃ",
+    "balance_sheet": {
+      "page_title": "តារាងតុល្យការ",
+      "breadcrumbs_current": "តារាងតុល្យការ",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "របាយការណ៍",
+      "breadcrumbs_active": "តារាងតុល្យការ"
+    },
+    "summary": {
+      "page_title": "របាយការណ៍សង្ខេប",
+      "breadcrumbs_current": "របាយការណ៍សង្ខេប",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "របាយការណ៍",
+      "breadcrumbs_active": "របាយការណ៍សង្ខេប"
+    },
+    "profit_loss": {
+      "empty_msg_title": "ចំណេញ/ខាត!",
+      "empty_msg_text": "សូមអភ័យទោស រកមិនឃើញប្រាក់ចំណេញ/ការបាត់បង់សម្រាប់ប្រភេទ និងជួរកាលបរិច្ឆេទដែលអ្នកបានជ្រើសរើស។",
+      "page_title": "របាយការណ៍ប្រាក់ចំណេញ/ការបាត់បង់",
+      "breadcrumbs_current": "របាយការណ៍ប្រាក់ចំណេញ/ការបាត់បង់",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "របាយការណ៍",
+      "breadcrumbs_active": "របាយការណ៍ប្រាក់ចំណេញ/ការបាត់បង់"
+    },
+    "expense": {
+      "empty_msg_title": "ការចំណាយទទេ!",
+      "empty_msg_text": "សូមអភ័យទោស រកមិនឃើញការចំណាយសម្រាប់ប្រភេទ និងជួរកាលបរិច្ឆេទដែលអ្នកបានជ្រើសរើសទេ។",
+      "page_title": "របាយការណ៍ចំណាយ",
+      "breadcrumbs_current": "របាយការណ៍ចំណាយ",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "របាយការណ៍",
+      "breadcrumbs_active": "របាយការណ៍ចំណាយ"
+    },
+    "product": {
+      "empty_msg_title": "ទទេ!",
+      "empty_msg_text": "សូមអភ័យទោស រកមិនឃើញទំនិញក្នុងស្តុក ឬអស់ស្តុកសម្រាប់ទំនិញដែលបានជ្រើសរើស និងជួរកាលបរិច្ឆេទរបស់អ្នក។",
+      "page_title": "របាយការណ៍ធាតុ",
+      "breadcrumbs_current": "របាយការណ៍ធាតុ",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "របាយការណ៍",
+      "breadcrumbs_active": "របាយការណ៍ធាតុ"
+    },
+    "inventory": {
+      "empty_msg_title": "ស្តុក​ទទេ!",
+      "empty_msg_text": "សូមអភ័យទោស រកមិនឃើញសារពើភ័ណ្ឌសម្រាប់ប្រភេទ និងជួរកាលបរិច្ឆេទដែលអ្នកបានជ្រើសរើសទេ។",
+      "page_title": "របាយការណ៍សារពើភ័ណ្ឌ",
+      "breadcrumbs_current": "របាយការណ៍សារពើភ័ណ្ឌ",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_second": "របាយការណ៍",
+      "breadcrumbs_active": "របាយការណ៍សារពើភ័ណ្ឌ"
+    }
+  },
+  "setup": {
+    "common": {
+      "sort_code": "កូដខ្លី",
+      "sort_code_placeholder": "បញ្ចូលលេខកូដខ្លី"
+    },
+    "index": {
+      "page_title": "រៀបចំ",
+      "breadcrumbs_current": "រៀបចំ",
+      "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+      "breadcrumbs_active": "រៀបចំ",
+      "menu": {
+        "item_one": {
+          "title": "ទូទៅ",
+          "description": "ការកំណត់ទូទៅដូចជា ចំណងជើងគេហទំព័រ ការពិពណ៌នាគេហទំព័រ អាស័យដ្ឋានជាដើម។",
+          "link_text": "ផ្លាស់ប្តូរការកំណត់"
+        },
+        "item_two": {
+          "title": "រូបិយប័ណ្ណ",
+          "description": "គ្រប់គ្រងប្រភេទផ្សេងៗនៃរូបិយប័ណ្ណដែលអ្នកនឹងប្រើនៅក្នុងប្រព័ន្ធ។",
+          "link_text": "រូបិយប័ណ្ណ"
+        },
+        "item_three": {
+          "title": "ឯកតា",
+          "description": "គ្រប់គ្រងប្រភេទឯកតាសម្រាប់ការវាស់វែងដែលអ្នកនឹងត្រូវប្រើនៅក្នុងប្រព័ន្ធ។",
+          "link_text": "ឯកតា"
+        },
+        "item_four": {
+          "title": "តួនាទី និងការអនុញ្ញាត",
+          "description": "គ្រប់គ្រងតួនាទី និងការអនុញ្ញាតសម្រាប់អ្នកប្រើប្រាស់ដែលនឹងប្រើប្រាស់ប្រព័ន្ធ។",
+          "link_text": "តួនាទី និងការអនុញ្ញាត"
+        },
+        "item_five": {
+          "title": "អត្រាពន្ធលើតម្លៃបន្ថែម",
+          "description": "គ្រប់គ្រងអត្រាពន្ធលើតម្លៃបន្ថែមសម្រាប់ការគ្រប់គ្រង VAT ដែលអ្នកនឹងប្រើនៅក្នុងប្រព័ន្ធ។",
+          "link_text": "អត្រាពន្ធលើតម្លៃបន្ថែម"
+        },
+        "item_six": {
+          "title": "ម៉ាក",
+          "description": "គ្រប់គ្រងម៉ាកដែលអ្នកនឹងត្រូវប្រើនៅក្នុងប្រព័ន្ធ។",
+          "link_text": "ម៉ាក"
+        },
+        "item_seven": {
+          "title": "វិធីសាស្រ្តទូទាត់",
+          "description": "គ្រប់គ្រងវិធីបង់ប្រាក់ដែលអ្នកនឹងត្រូវប្រើនៅក្នុងប្រព័ន្ធ។",
+          "link_text": "វិធីសាស្រ្តទូទាត់"
+        },
+        "item_eight": {
+          "title": "ការអនុញ្ញាតរបស់អ្នកប្រើ",
+          "description": "គ្រប់គ្រងការអនុញ្ញាតដែលអ្នកនឹងត្រូវចាត់តាំងក្នុងតួនាទីមួយ។",
+          "link_text": "ការអនុញ្ញាតរបស់អ្នកប្រើ"
+        }
+      }
+    },
+    "general_settings": {
+      "index": {
+        "page_title": "ការកំណត់​ទូទៅ",
+        "breadcrumbs_current": "ការកំណត់​ទូទៅ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_active": "ធ្វើបច្ចុប្បន្នភាពការកំណត់ទូទៅ",
+        "form_title": "ធ្វើបច្ចុប្បន្នភាពការកំណត់ទូទៅ",
+        "success_message": "បានធ្វើបច្ចុប្បន្នភាពការកំណត់ដោយជោគជ័យ 👍",
+        "company_info": {
+          "info_title": "បន្ថែមព័ត៌មានក្រុមហ៊ុនរបស់អ្នក។",
+          "company_tagline": "ស្លាកក្រុមហ៊ុន",
+          "company_tagline_placeholder": "ស្លាកក្រុមហ៊ុន",
+          "email_address": "អាស័យ​ដ្ឋាន​អ៊ី​ម៉េ​ល",
+          "email_address_placeholder": "បញ្ចូលអាសយដ្ឋានអ៊ីមែល",
+          "phone_number": "លេខទូរសព្ទ",
+          "phone_number_placeholder": "លេខទូរសព្ទ"
+        },
+        "code_prefixes": {
+          "prefix_title": "បន្ថែមបុព្វបទកូដ",
+          "client_prefix": "បុព្វបទអតិថិជន",
+          "client_prefix_placeholder": "បញ្ចូលបុព្វបទអតិថិជន",
+          "supplier_prefix": "បុព្វបទអ្នកផ្គត់ផ្គង់",
+          "supplier_prefix_placeholder": "បញ្ចូលបុព្វបទអ្នកផ្គត់ផ្គង់",
+          "employee_prefix": "បុព្វបទនិយោជិត",
+          "employee_prefix_placeholder": "បញ្ចូលបុព្វបទបុគ្គលិក",
+          "product_category_prefix": "បុព្វបទប្រភេទផលិតផល",
+          "product_category_prefix_placeholder": "បញ្ចូលបុព្វបទប្រភេទផលិតផល",
+          "product_sub_category_prefix": "បុព្វបទប្រភេទរងផលិតផល",
+          "product_sub_category_prefix_placeholder": "បញ្ចូលបុព្វបទប្រភេទរង",
+          "product_prefix": "បុព្វបទផលិតផល",
+          "product_prefix_placeholder": "បញ្ចូលបុព្វបទផលិតផល",
+          "expense_category_prefix": "បុព្វបទប្រភេទចំណាយ",
+          "expense_category_prefix_placeholder": "បញ្ចូលបុព្វបទប្រភេទចំណាយ",
+          "expense_sub_category_prefix": "បុព្វបទប្រភេទរងចំណាយ",
+          "expense_sub_category_prefix_placeholder": "បញ្ចូលបុព្វបទប្រភេទរងចំណាយ",
+          "purchase_prefix": "បុព្វបទទិញ",
+          "purchase_prefix_placeholder": "បញ្ចូលបុព្វបទការទិញ",
+          "purchase_return_prefix": "ទិញបុព្វបទត្រឡប់",
+          "purchase_return_prefix_placeholder": "បញ្ចូលបុព្វបទត្រឡប់ការទិញ",
+          "quotation_prefix": "បុព្វបទសម្រង់",
+          "quotation_prefix_placeholder": "បញ្ចូលបុព្វបទសម្រង់",
+          "invoice_prefix": "បុព្វបទវិក្កយបត្រ",
+          "invoice_prefix_placeholder": "បញ្ចូលបុព្វបទវិក្កយបត្រ",
+          "invoice_return_prefix": "បុព្វបទត្រឡប់វិក័យប័ត្រ",
+          "invoice_return_prefix_placeholder": "បញ្ចូលបុព្វបទត្រឡប់វិក្កយបត្រ",
+          "invoice_adjustment_prefix": "បុព្វបទកែតម្រូវសារពើភ័ណ្ឌ",
+          "invoice_adjustment_prefix_placeholder": "បញ្ចូលបុព្វបទកែតម្រូវសារពើភ័ណ្ឌ"
+        },
+        "default_elements": {
+          "default_elements_title": "បន្ថែមធាតុលំនាំដើមរបស់អ្នក។",
+          "default_currency": "រូបិយប័ណ្ណលំនាំដើម",
+          "select_a_currency": "ជ្រើសរើសរូបិយប័ណ្ណ",
+          "default_language": "ភាសាលំនាំដើម",
+          "english_en": "español (en)",
+          "hindi_hi": "ទេ (សួស្តី)",
+          "bangla_bn": "Bangla (bn)",
+          "copyright_text": "អត្ថបទរក្សាសិទ្ធិ",
+          "copyright_text_placeholder": "អត្ថបទរក្សាសិទ្ធិ",
+          "default_client": "អតិថិជនលំនាំដើម",
+          "default_account": "គណនីលំនាំដើម",
+          "select_a_account": "ជ្រើសរើសគណនីមួយ។",
+          "select_a_client": "ជ្រើសរើសអតិថិជន",
+          "default_vat_rate": "អត្រាពន្ធអាករលំនាំដើម",
+          "select_a_vat_rate": "ជ្រើសរើសអត្រាពន្ធលើតម្លៃបន្ថែម"
+        },
+        "logo": {
+          "white_logo": "និមិត្តសញ្ញាពណ៌ស",
+          "black_logo": "និមិត្តសញ្ញាខ្មៅ",
+          "small_logo": "និមិត្តសញ្ញាតូច",
+          "favicon": "Favicon"
+        }
+      }
+    },
+    "currencies": {
+      "common": {
+        "symbol": "និមិត្តសញ្ញា",
+        "symbol_placeholder": "បញ្ចូលនិមិត្តសញ្ញា",
+        "currency_position": "ទីតាំងរូបិយប័ណ្ណ",
+        "position_drop_down_item_one": "តម្រឹមឆ្វេង",
+        "position_drop_down_item_two": "តម្រឹមស្តាំ"
+      },
+      "index": {
+        "page_title": "រូបិយប័ណ្ណ",
+        "breadcrumbs_current": "រូបិយប័ណ្ណ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_active": "រូបិយប័ណ្ណ",
+        "table": {
+          "position": "ទីតាំង",
+          "preview": "មើលជាមុន"
+        }
+      },
+      "create": {
+        "page_title": "បង្កើតរូបិយប័ណ្ណ",
+        "breadcrumbs_current": "បង្កើតរូបិយប័ណ្ណ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_third": "រូបិយប័ណ្ណ",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "រូបិយប័ណ្ណត្រូវបានបញ្ចូលដោយជោគជ័យ 👍",
+        "form_title": "បង្កើតរូបិយប័ណ្ណ"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលរូបិយប័ណ្ណ",
+        "breadcrumbs_current": "កែសម្រួលរូបិយប័ណ្ណ",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_third": "រូបិយប័ណ្ណ",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ធ្វើបច្ចុប្បន្នភាពរូបិយប័ណ្ណដោយជោគជ័យ 👍",
+        "form_title": "កែសម្រួលរូបិយប័ណ្ណ"
+      }
+    },
+    "units": {
+      "index": {
+        "page_title": "ឯកតា",
+        "breadcrumbs_current": "ឯកតា",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_active": "ឯកតា"
+      },
+      "create": {
+        "page_title": "បង្កើតឯកតា",
+        "breadcrumbs_current": "បង្កើតឯកតា",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_third": "ឯកតា",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "អង្គភាពបានបន្ថែមដោយជោគជ័យ👍",
+        "form_title": "បង្កើតឯកតា"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលឯកតា",
+        "breadcrumbs_current": "កែសម្រួលឯកតា",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_third": "ឯកតា",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "អង្គភាពបានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ 👍",
+        "form_title": "កែសម្រួលឯកតា"
+      }
+    },
+    "permissions": {
+      "common": {
+        "slug": "ស្លក",
+        "slug_placeholder": "បញ្ចូល slug មួយ។",
+        "guard_name": "ឈ្មោះឆ្មាំ",
+        "guard_name_placeholder": "បញ្ចូលឈ្មោះឆ្មាំ"
+      },
+      "index": {
+        "page_title": "ការអនុញ្ញាត",
+        "breadcrumbs_current": "ការអនុញ្ញាត",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_active": "ការអនុញ្ញាត"
+      },
+      "create": {
+        "page_title": "បង្កើតការអនុញ្ញាត",
+        "form_title": "បង្កើតការអនុញ្ញាត",
+        "breadcrumbs_current": "បង្កើតការអនុញ្ញាត",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_third": "ការអនុញ្ញាត",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "ការអនុញ្ញាតត្រូវបានបន្ថែមដោយជោគជ័យ 👍"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលការអនុញ្ញាត",
+        "form_title": "កែសម្រួលការអនុញ្ញាត",
+        "breadcrumbs_current": "កែសម្រួលការអនុញ្ញាត",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_third": "ការអនុញ្ញាត",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "បានធ្វើបច្ចុប្បន្នភាពការអនុញ្ញាតដោយជោគជ័យ 👍"
+      }
+    },
+    "role_and_permission": {
+      "index": {
+        "page_title": "តួនាទី និងការអនុញ្ញាត",
+        "breadcrumbs_current": "តួនាទី និងការអនុញ្ញាត",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_active": "តួនាទី និងការអនុញ្ញាត",
+        "role_name": "ឈ្មោះតួនាទី"
+      },
+      "create": {
+        "page_title": "បង្កើតតួនាទី",
+        "breadcrumbs_current": "បង្កើតតួនាទី",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_third": "តួនាទី និងការអនុញ្ញាត",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "តួនាទីត្រូវបានបន្ថែមដោយជោគជ័យ 👍",
+        "form_title": "បង្កើតតួនាទី",
+        "select_permission": "ជ្រើសរើសការអនុញ្ញាត៖"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលតួនាទី",
+        "breadcrumbs_current": "កែសម្រួលតួនាទី",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_third": "តួនាទី និងការអនុញ្ញាត",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ធ្វើបច្ចុប្បន្នភាពតួនាទីដោយជោគជ័យ 👍",
+        "form_title": "កែសម្រួលតួនាទី",
+        "update_permission": "ការអនុញ្ញាតធ្វើបច្ចុប្បន្នភាព៖"
+      }
+    },
+    "vat_rates": {
+      "common": {
+        "rate_in_percent": "អត្រា (គិតជា %)",
+        "rate_palceholder": "បញ្ចូលអត្រា"
+      },
+      "index": {
+        "page_title": "អត្រាពន្ធលើតម្លៃបន្ថែម",
+        "breadcrumbs_current": "អត្រាពន្ធលើតម្លៃបន្ថែម",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_active": "អត្រាពន្ធលើតម្លៃបន្ថែម",
+        "rate": "អត្រា"
+      },
+      "create": {
+        "page_title": "បង្កើតអត្រាពន្ធលើតម្លៃបន្ថែម",
+        "breadcrumbs_current": "បង្កើតអត្រាពន្ធលើតម្លៃបន្ថែម",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_third": "អត្រាពន្ធលើតម្លៃបន្ថែម",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "អត្រាពន្ធអាករត្រូវបានបញ្ចូលដោយជោគជ័យ 👍",
+        "form_title": "បង្កើតអត្រាពន្ធលើតម្លៃបន្ថែម"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលអត្រាពន្ធលើតម្លៃបន្ថែម",
+        "breadcrumbs_current": "កែសម្រួលអត្រាពន្ធលើតម្លៃបន្ថែម",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_third": "អត្រាពន្ធ",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "អត្រាពន្ធ VAT បានធ្វើបច្ចុប្បន្នភាពដោយជោគជ័យ 👍",
+        "form_title": "កែសម្រួលអត្រាពន្ធលើតម្លៃបន្ថែម"
+      }
+    },
+    "brands": {
+      "common": {
+        "brand_name": "ឈ្មោះ​យីហោ",
+        "brand_name_placeholder": "បញ្ចូលឈ្មោះម៉ាក"
+      },
+      "index": {
+        "page_title": "ម៉ាក",
+        "breadcrumbs_current": "ម៉ាក",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_active": "ម៉ាក",
+        "brand_logo_view": "ទិដ្ឋភាពស្លាកសញ្ញាម៉ាក"
+      },
+      "create": {
+        "page_title": "បង្កើតម៉ាក",
+        "breadcrumbs_current": "បង្កើតម៉ាក",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_third": "ម៉ាក",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "ម៉ាកបន្ថែមដោយជោគជ័យ👍",
+        "form_title": "បង្កើតម៉ាក"
+      },
+      "view": {
+        "page_title": "ព័ត៌មានលម្អិតអំពីម៉ាក",
+        "breadcrumbs_current": "ព័ត៌មានលម្អិតអំពីម៉ាក",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_third": "ម៉ាក",
+        "breadcrumbs_active": "ព័ត៌មានលម្អិត"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលម៉ាក",
+        "breadcrumbs_current": "កែសម្រួលម៉ាក",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_third": "ម៉ាក",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ធ្វើបច្ចុប្បន្នភាពម៉ាកដោយជោគជ័យ 👍",
+        "form_title": "កែសម្រួលម៉ាក"
+      }
+    },
+    "payment_methods": {
+      "index": {
+        "page_title": "វិធីសាស្រ្តទូទាត់",
+        "breadcrumbs_current": "វិធីសាស្រ្តទូទាត់",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_active": "វិធីសាស្រ្តទូទាត់"
+      },
+      "create": {
+        "page_title": "បង្កើតវិធីបង់ប្រាក់",
+        "breadcrumbs_current": "បង្កើតវិធីបង់ប្រាក់",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_third": "វិធីសាស្រ្តទូទាត់",
+        "breadcrumbs_active": "បង្កើត",
+        "success_msg": "វិធីសាស្ត្រទូទាត់ត្រូវបានបន្ថែមដោយជោគជ័យ 👍",
+        "form_title": "បង្កើតវិធីបង់ប្រាក់"
+      },
+      "edit": {
+        "page_title": "កែសម្រួលវិធីបង់ប្រាក់",
+        "breadcrumbs_current": "កែសម្រួលវិធីបង់ប្រាក់",
+        "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+        "breadcrumbs_second": "រៀបចំ",
+        "breadcrumbs_third": "វិធីសាស្រ្តទូទាត់",
+        "breadcrumbs_active": "កែសម្រួល",
+        "success_msg": "ធ្វើបច្ចុប្បន្នភាពវិធីបង់ប្រាក់ដោយជោគជ័យ 👍",
+        "form_title": "កែសម្រួលវិធីបង់ប្រាក់"
+      }
+    }
+  },
+  "user_profile": {
+    "form_title": "ធ្វើបច្ចុប្បន្នភាពប្រវត្តិរូបរបស់អ្នក។",
+    "page_title": "ធ្វើបច្ចុប្បន្នភាពប្រវត្តិរូប",
+    "breadcrumbs_current": "ធ្វើបច្ចុប្បន្នភាពប្រវត្តិរូប",
+    "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+    "breadcrumbs_active": "ធ្វើបច្ចុប្បន្នភាព",
+    "current_password": "លេខសំងាត់​បច្ចុប្បន្ន",
+    "current_password_placeholder": "បញ្ចូលពាក្យសម្ងាត់បច្ចុប្បន្ន",
+    "new_password": "ពាក្យសម្ងាត់​ថ្មី",
+    "new_password_placeholder": "បញ្ចូលពាក្យសម្ងាត់ថ្មី។",
+    "confirm_password": "បញ្ជាក់ពាក្យសម្ងាត់",
+    "confirm_password_placeholder": "បញ្ចូលការបញ្ជាក់ពាក្យសម្ងាត់",
+    "success_msg": "បានធ្វើបច្ចុប្បន្នភាពទម្រង់ដោយជោគជ័យ 👍"
+  },
+  "stock_alert": {
+    "page_title": "ផលិតផលជូនដំណឹងស្តុក",
+    "breadcrumbs_current": "ផលិតផលជូនដំណឹងស្តុក",
+    "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+    "breadcrumbs_active": "ផលិតផលជូនដំណឹង"
+  },
+  "backup": {
+    "page_title": "ការបម្រុងទុកមូលដ្ឋានទិន្នន័យ",
+    "breadcrumbs_current": "ការបម្រុងទុកមូលដ្ឋានទិន្នន័យ",
+    "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+    "breadcrumbs_active": "បម្រុងទុក",
+    "export": "នាំចេញ",
+    "format": "ទម្រង់",
+    "format_sql": "SQL (.sql)",
+    "success_msg": "ការបម្រុងទុកត្រូវបានទាញយកដោយជោគជ័យ 👍"
+  },
+  "permission_denied": {
+    "page_title": "ការអនុញ្ញាតត្រូវបានបដិសេធ",
+    "breadcrumbs_current": "ការអនុញ្ញាតត្រូវបានបដិសេធ",
+    "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+    "breadcrumbs_active": "ការអនុញ្ញាតត្រូវបានបដិសេធ",
+    "error_msg": "អ្នកមិនមានសិទ្ធិមើលទំព័រនេះទេ។",
+    "error_code": "លេខកូដកំហុស: 403 ត្រូវបានហាមឃាត់។"
+  },
+  "error_not_found": {
+    "error_404": "៤០៤",
+    "error_404_title": "រកមិនឃើញទំព័រ",
+    "error_404_msg": "សូមអភ័យទោស រកមិនឃើញ URL ដែលបានស្នើសុំនៅលើម៉ាស៊ីនមេនេះទេ។ នោះហើយជាអ្វីដែលយើងដឹង!",
+    "back_to_dashboard": "ត្រឡប់ទៅ Dashboard វិញ",
+    "back_to_login": "ត្រលប់ទៅការចូល"
+  },
+  "sidebar_control": {
+    "customize_acculance": "កំណត់ភាពត្រឹមត្រូវតាមបំណង",
+    "dark_mode": "របៀបងងឹត",
+    "header_options": "ជម្រើសបឋមកថា",
+    "fixed": "ជួសជុល",
+    "no_border": "គ្មានព្រំដែន",
+    "sidebar_options": "ជម្រើសរបារចំហៀង",
+    "sidebar_dark": "របារចំហៀងងងឹត",
+    "collapsed": "របារចំហៀងបានដួលរលំ",
+    "sidebar_fixed": "របារចំហៀងត្រូវបានជួសជុល",
+    "sidebar_mini": "របារចំហៀងខ្នាតតូច",
+    "nav_flat_style": "រចនាប័ទ្ម Nav Flat",
+    "nav_legacy_style": "រចនាប័ទ្ម Nav Legacy",
+    "nav_child_indent": "ចូលបន្ទាត់កុមារ Nav",
+    "disable_hover": "បិទការអូស/ផ្ដោត ពង្រីកដោយស្វ័យប្រវត្តិ"
+  },
+  "pos": {
+    "page_title": "ម៉ាស៊ីនឆូតកាត",
+    "breadcrumbs_current": "បង្កើតការលក់",
+    "breadcrumbs_first": "ផ្ទាំងគ្រប់គ្រង",
+    "breadcrumbs_second": "វិក្កយបត្រ",
+    "breadcrumbs_active": "ម៉ាស៊ីនឆូតកាត",
+    "available": "មាន",
+    "pos": "ម៉ាស៊ីនឆូតកាត",
+    "complete_order": "រក្សាទុក",
+    "complete_order_and_add_payment": "រក្សាទុក & ទូទាត់",
+    "add_payment": "បន្ថែមការទូទាត់",
+    "invoice_receipt": "វិក័យប័ត្រវិក័យប័ត្រ",
+    "not_enough_items": "ធាតុមិនគ្រប់គ្រាន់!",
+    "receipt_text": "សូមអរគុណសម្រាប់ការទិញទំនិញជាមួយយើងខ្ញុំ។ សូមមកម្តងទៀត!"
+  },
+  "csv": {
+    "title": "ផ្ទុកឡើងឯកសារ CSV របស់អ្នក។",
+    "success": "ជោគជ័យ",
+    "import_success": "ឯកសារ CSV ត្រូវបាននាំចូលដោយជោគជ័យ!",
+    "instructions": "សេចក្តីណែនាំ",
+    "download_zip": "ទាញយកឯកសារ zip ។",
+    "populate_information": "បញ្ចូល product.csv ជាមួយនឹងព័ត៌មានផលិតផលរបស់អ្នក។",
+    "corresponding_CSV": "អ្នកអាចទទួលបានលេខសម្គាល់ដែលទាក់ទងនឹងផលិតផលទៅកាន់ឯកសារ CSV ដែលត្រូវគ្នា។",
+    "example": "ឧទាហរណ៍៖ sub_cat_id ក្នុង sub-categories.csv"
+  },
+  "Create Client": "បង្កើតអតិថិជន",
+  "Cancel": "បោះបង់",
+  "Create Product": "បង្កើតផលិតផល",
+  "Create Supplier": "បង្កើតអ្នកផ្គត់ផ្គង់",
+  "Generate barcode with price": "បង្កើតលេខកូដជាមួយតម្លៃ",
+  "Price": "តម្លៃ",
+  "TAX": "ពន្ធ"
+}

@@ -1,0 +1,10 @@
+{
+  "include": ["./resources/**/*"],
+  "vueCompilerOptions": {
+    "experimentalDisableTemplateSupport": true,
+    "jsx": "preserve"
+  },
+  "compilerOptions":{
+    "jsx": "preserve"
+  }
+}

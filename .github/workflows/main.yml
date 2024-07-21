@@ -15,6 +15,12 @@ jobs:
         run: php -r "file_exists('.env') || copy('.env.example', '.env');"
       - name: Install Dependencies
         run: composer update --ignore-platform-reqs
+      - name: Run tests
+        run: |
+      - npm install
+        npm run test
+        env:
+        NODE_ENV: test
       - name: Generate key
         run: php artisan key:generate
       - name: Generate storage link
